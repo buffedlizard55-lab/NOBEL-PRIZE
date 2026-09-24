@@ -1,0 +1,1431 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911",
+  "statedCount": 67,
+  "parsedCount": 67,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "228",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=228&mode=",
+      "nominees": [
+        {
+          "name": "Rafael Altamira y Crevea",
+          "personId": "390",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=390"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fermin Canella",
+          "personId": "1577",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1577"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "681",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=681&mode=",
+      "nominees": [
+        {
+          "name": "Albert Apponyi (Count)",
+          "personId": "470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=470"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "19 Professors of Law",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "1072",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1072&mode=",
+      "nominees": [
+        {
+          "name": "Émile Arnaud",
+          "personId": "492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=492"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon de Montluc",
+          "personId": "2276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "1458",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1458&mode=",
+      "nominees": [
+        {
+          "name": "Tobias Michael Carel Asser",
+          "personId": "539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=539"
+        },
+        {
+          "name": "Léon Victor Auguste Bourgeois",
+          "personId": "1233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Lyon-Caen",
+          "personId": "5723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5723"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "1834",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1834&mode=",
+      "nominees": [
+        {
+          "name": "Richard Bartholdt",
+          "personId": "726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=726"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Rodenberg",
+          "personId": "7796",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7796"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "2298",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2298&mode=",
+      "nominees": [
+        {
+          "name": "Léon Victor Auguste Bourgeois",
+          "personId": "1233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "2274",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2274&mode=",
+      "nominees": [
+        {
+          "name": "Léon Victor Auguste Bourgeois",
+          "personId": "1233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1233"
+        },
+        {
+          "name": "Tobias Michael Carel Asser",
+          "personId": "539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=539"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Lyon-Caen",
+          "personId": "5723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5723"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "2214",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2214&mode=",
+      "nominees": [
+        {
+          "name": "Léon Victor Auguste Bourgeois",
+          "personId": "1233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1233"
+        },
+        {
+          "name": "Friedrich Wilhelm Förster",
+          "personId": "3285",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3285"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)",
+          "personId": "2086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2086"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "2549",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2549&mode=",
+      "nominees": [
+        {
+          "name": "Andrew Carnegie",
+          "personId": "1607",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1607"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Swisher",
+          "personId": "8939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8939"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "2883",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2883&mode=",
+      "nominees": [
+        {
+          "name": "Angela de Oliveira Cezar de Costa",
+          "personId": "2286",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2286"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlos Rodrigues Larreta",
+          "personId": "5238",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5238"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "3293",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3293&mode=",
+      "nominees": [
+        {
+          "name": "William Evans Darby",
+          "personId": "2134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2134"
+        },
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "165 members of the British parliament and professors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "3272",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3272&mode=",
+      "nominees": [
+        {
+          "name": "William Evans Darby",
+          "personId": "2134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2134"
+        },
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lord Reay",
+          "personId": "5625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5625"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "3215",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3215&mode=",
+      "nominees": [
+        {
+          "name": "William Evans Darby",
+          "personId": "2134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2134"
+        },
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "3540",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3540&mode=",
+      "nominees": [
+        {
+          "name": "Pasquale Fiore",
+          "personId": "3016",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3016"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Buzzati",
+          "personId": "1500",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1500"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "3903",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3903&mode=",
+      "nominees": [
+        {
+          "name": "Friedrich Wilhelm Förster",
+          "personId": "3285",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3285"
+        },
+        {
+          "name": "Léon Victor Auguste Bourgeois",
+          "personId": "1233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)",
+          "personId": "2086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2086"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4341",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4341&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        },
+        {
+          "name": "Deutsche Friedensgesellschaft",
+          "personId": "2406",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2406"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Carlson Bonde (Baron)",
+          "personId": "1142",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1142"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4340",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4340&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst von Plener",
+          "personId": "9841",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9841"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4339",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4339&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4338",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4338&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        },
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anna Zipernowsky",
+          "personId": "10416",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10416"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4337",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4337&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig von Bar",
+          "personId": "9716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4336",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4336&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Gottfried Lamprecht",
+          "personId": "5190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5190"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4335",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4335&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walther Adrian Schücking",
+          "personId": "8298",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8298"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4334",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4334&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        },
+        {
+          "name": "Deutsche Friedensgesellschaft",
+          "personId": "2406",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2406"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Per Nilsson-Bosson",
+          "personId": "6707",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6707"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4331",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4331&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4328",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4328&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4322",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4322&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon de Montluc",
+          "personId": "2276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4309",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4309&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacques Novikow",
+          "personId": "6773",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6773"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4280",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4280&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4222",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4222&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ferdinand Lentner",
+          "personId": "5381",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5381"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4620",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4620&mode=",
+      "nominees": [
+        {
+          "name": "Henri Marie La Fontaine",
+          "personId": "5125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5125"
+        },
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Émile Arnaud",
+          "personId": "492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=492"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4567",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4567&mode=",
+      "nominees": [
+        {
+          "name": "Henri Marie La Fontaine",
+          "personId": "5125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5125"
+        },
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon de Montluc",
+          "personId": "2276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "4898",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4898&mode=",
+      "nominees": [
+        {
+          "name": "Charles Wright Macara",
+          "personId": "5746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5746"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lewis Harcourt",
+          "personId": "3885",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3885"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "5213",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5213&mode=",
+      "nominees": [
+        {
+          "name": "William McDowell",
+          "personId": "6052",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6052"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Sulzer",
+          "personId": "8892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8892"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "5531",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5531&mode=",
+      "nominees": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        },
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anna Zipernowsky",
+          "personId": "10416",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10416"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "5936",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5936&mode=",
+      "nominees": [
+        {
+          "name": "Felix Stone Moscheles",
+          "personId": "6455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6455"
+        },
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "5920",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5920&mode=",
+      "nominees": [
+        {
+          "name": "Felix Stone Moscheles",
+          "personId": "6455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6455"
+        },
+        {
+          "name": "Priscilla Hannah Peckover",
+          "personId": "7073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fred Green",
+          "personId": "3625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3625"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "5869",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5869&mode=",
+      "nominees": [
+        {
+          "name": "Felix Stone Moscheles",
+          "personId": "6455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6455"
+        },
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eduard de Neufville (Baron)",
+          "personId": "2283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2283"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "6157",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6157&mode=",
+      "nominees": [
+        {
+          "name": "John Raleigh Mott",
+          "personId": "6466",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6466"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Absalon Taranger",
+          "personId": "9006",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9006"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "6555",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6555&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Nys",
+          "personId": "6802",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6802"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georges Cornil",
+          "personId": "1961",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1961"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "6501",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6501&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Nys",
+          "personId": "6802",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6802"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thomas Erskine Holland",
+          "personId": "4267",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4267"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "6822",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6822&mode=",
+      "nominees": [
+        {
+          "name": "Priscilla Hannah Peckover",
+          "personId": "7073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7073"
+        },
+        {
+          "name": "Felix Stone Moscheles",
+          "personId": "6455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6455"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fred Green",
+          "personId": "3625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3625"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7183",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7183&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        },
+        {
+          "name": "Henri Marie La Fontaine",
+          "personId": "5125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5125"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Émile Arnaud",
+          "personId": "492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=492"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7179",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7179&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        },
+        {
+          "name": "Felix Stone Moscheles",
+          "personId": "6455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6455"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7175",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7175&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        },
+        {
+          "name": "Felix Stone Moscheles",
+          "personId": "6455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6455"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eduard de Neufville (Baron)",
+          "personId": "2283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2283"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7169",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7169&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Heilberg",
+          "personId": "4004",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4004"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7157",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7157&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        },
+        {
+          "name": "Henri Marie La Fontaine",
+          "personId": "5125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5125"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon de Montluc",
+          "personId": "2276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7115",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7115&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        },
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7419",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7419&mode=",
+      "nominees": [
+        {
+          "name": "Baron José Maria da Silva Rio Branco (Paranhos Jr)",
+          "personId": "7745",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7745"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlos Peixoto de Mello",
+          "personId": "2268",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2268"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7380",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7380&mode=",
+      "nominees": [
+        {
+          "name": "Baron José Maria da Silva Rio Branco (Paranhos Jr)",
+          "personId": "7745",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7745"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gonzalo de Quesada",
+          "personId": "2289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2289"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7615",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7615&mode=",
+      "nominees": [
+        {
+          "name": "Albert Keith Smiley",
+          "personId": "8598",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8598"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edwin Doak Mead",
+          "personId": "6069",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6069"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "7855",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7855&mode=",
+      "nominees": [
+        {
+          "name": "Charles William Smith",
+          "personId": "8603",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8603"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Pap Croft",
+          "personId": "2029",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2029"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "8136",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8136&mode=",
+      "nominees": [
+        {
+          "name": "Count Michel Tyszkiewicz",
+          "personId": "9419",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9419"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "André Bohiuskoy (Count)",
+          "personId": "1115",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1115"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "8363",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8363&mode=",
+      "nominees": [
+        {
+          "name": "Friedrich Wilhelm Emperor William II",
+          "personId": "2787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2787"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Benjamin Ide Wheeler",
+          "personId": "10129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10129"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "8595",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8595&mode=",
+      "nominees": [
+        {
+          "name": "Count Sergey Yulyevich Witte",
+          "personId": "10269",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10269"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Brun",
+          "personId": "1394",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1394"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "8873",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8873&mode=",
+      "nominees": [
+        {
+          "name": "Philipp Zorn",
+          "personId": "10425",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10425"
+        },
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Lammasch",
+          "personId": "5187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5187"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9053",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9053&mode=",
+      "nominees": [
+        {
+          "name": "Associación Sud-Americana de Paz Universal",
+          "personId": "542",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=542"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Angela de Oliveira Cezar de Costa",
+          "personId": "2286",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2286"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9247",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9247&mode=",
+      "nominees": [
+        {
+          "name": "Deutsche Friedensgesellschaft",
+          "personId": "2406",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2406"
+        },
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Carlson Bonde (Baron)",
+          "personId": "1142",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1142"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9236",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9236&mode=",
+      "nominees": [
+        {
+          "name": "Deutsche Friedensgesellschaft",
+          "personId": "2406",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2406"
+        },
+        {
+          "name": "Alfred Hermann Fried",
+          "personId": "3227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Per Nilsson-Bosson",
+          "personId": "6707",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6707"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9207",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9207&mode=",
+      "nominees": [
+        {
+          "name": "Deutsche Friedensgesellschaft",
+          "personId": "2406",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2406"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9383",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9383&mode=",
+      "nominees": [
+        {
+          "name": "The International Arbitration and Peace Association",
+          "personId": "9139",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9139"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Felix Stone Moscheles",
+          "personId": "6455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6455"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9588",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9588&mode=",
+      "nominees": [
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Théodore Eugène César Ruyssen",
+          "personId": "7992",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7992"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9585",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9585&mode=",
+      "nominees": [
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        },
+        {
+          "name": "William Evans Darby",
+          "personId": "2134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2134"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "165 members of the British parliament and professors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9582",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9582&mode=",
+      "nominees": [
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        },
+        {
+          "name": "William Evans Darby",
+          "personId": "2134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2134"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lord Reay",
+          "personId": "5625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5625"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9577",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9577&mode=",
+      "nominees": [
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        },
+        {
+          "name": "Philipp Zorn",
+          "personId": "10425",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10425"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Lammasch",
+          "personId": "5187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5187"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9556",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9556&mode=",
+      "nominees": [
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        },
+        {
+          "name": "William Evans Darby",
+          "personId": "2134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2134"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9691",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9691&mode=",
+      "nominees": [
+        {
+          "name": "Société de législation comparée (Society of Comparative Legislation)",
+          "personId": "8642",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8642"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Errera",
+          "personId": "2832",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2832"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    },
+    {
+      "nominationId": "9849",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9849&mode=",
+      "nominees": [
+        {
+          "name": "The World's Christian Endeavour Union",
+          "personId": "9201",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9201"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel McCall",
+          "personId": "6035",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6035"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:24+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1911,
+  "economicsProbe": false
+}

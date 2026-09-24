@@ -1,0 +1,2587 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914",
+  "statedCount": 170,
+  "parsedCount": 131,
+  "countMatchesStated": false,
+  "nominations": [
+    {
+      "nominationId": "10295",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10295&mode=",
+      "nominees": [
+        {
+          "name": "August Bier",
+          "personId": "1001",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1001"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Freund",
+          "personId": "3218",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3218"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "10392",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10392&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Fuchs",
+          "personId": "3264",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3264"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "10495",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10495&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Waldeyer",
+          "personId": "9942",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9942"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "10578",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10578&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Constantin Levaditi",
+          "personId": "5418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5418"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "10665",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10665&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        },
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Cloetta",
+          "personId": "1850",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1850"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "10744",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10744&mode=",
+      "nominees": [
+        {
+          "name": "Edward Reichert",
+          "personId": "7627",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7627"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexander Abbott",
+          "personId": "278",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=278"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "10820",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10820&mode=",
+      "nominees": [
+        {
+          "name": "Edward Reichert",
+          "personId": "7627",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7627"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Allen Smith",
+          "personId": "8602",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8602"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "10988",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10988&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anton von Eiselsberg",
+          "personId": "9743",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9743"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11062",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11062&mode=",
+      "nominees": [
+        {
+          "name": "Simon Flexner",
+          "personId": "3065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3065"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Keen",
+          "personId": "4755",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4755"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11132",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11132&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward Schäfer",
+          "personId": "8304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8304"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11193",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11193&mode=",
+      "nominees": [
+        {
+          "name": "Simon Flexner",
+          "personId": "3065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3065"
+        },
+        {
+          "name": "Theobald Smith",
+          "personId": "8621",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8621"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Pearce",
+          "personId": "7067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7067"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11255",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11255&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Martin",
+          "personId": "5942",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5942"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11377",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11377&mode=",
+      "nominees": [
+        {
+          "name": "Hideyo Noguchi",
+          "personId": "6740",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6740"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hayazo Ito",
+          "personId": "4498",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4498"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11436",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11436&mode=",
+      "nominees": [
+        {
+          "name": "Svante Arrhenius",
+          "personId": "511",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=511"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E London",
+          "personId": "5595",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5595"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11496",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11496&mode=",
+      "nominees": [
+        {
+          "name": "Edward Reichert",
+          "personId": "7627",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7627"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Spiller",
+          "personId": "8696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8696"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11548",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11548&mode=",
+      "nominees": [
+        {
+          "name": "Ross Harrison",
+          "personId": "3910",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3910"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Franklin Mall",
+          "personId": "5844",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5844"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11601",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11601&mode=",
+      "nominees": [
+        {
+          "name": "Wassilij Rasumowsky",
+          "personId": "7577",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7577"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ivan Dogiel",
+          "personId": "2475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2475"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11655",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11655&mode=",
+      "nominees": [
+        {
+          "name": "Rousselot",
+          "personId": "7920",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7920"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Chaillou",
+          "personId": "1704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1704"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11708",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11708&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl von Noorden",
+          "personId": "9834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9834"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11759",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11759&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Nicolle",
+          "personId": "6689",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6689"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11815",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11815&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Simon Flexner",
+          "personId": "3065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3065"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "16320",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16320&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Magnus",
+          "personId": "5811",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5811"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "16318",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16318&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Lameris",
+          "personId": "5183",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5183"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "16317",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16317&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Heilbronner",
+          "personId": "4008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4008"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "16316",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16316&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "B Kouwer",
+          "personId": "11982",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11982"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "16315",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16315&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hendrik Zwaardemaker",
+          "personId": "10442",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10442"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "16314",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16314&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Spronck",
+          "personId": "8707",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8707"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "16313",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16313&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Pekelharing",
+          "personId": "7082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7082"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11903",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11903&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A van den Broek",
+          "personId": "9519",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9519"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11869",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11869&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Talma",
+          "personId": "8989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8989"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11925",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11925&mode=",
+      "nominees": [
+        {
+          "name": "Max Rubner",
+          "personId": "7951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7951"
+        },
+        {
+          "name": "Oswald Schmiedeberg",
+          "personId": "8213",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8213"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Meyer",
+          "personId": "6233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6233"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "11975",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11975&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Freund",
+          "personId": "3218",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3218"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Bayer",
+          "personId": "773",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=773"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12020",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12020&mode=",
+      "nominees": [
+        {
+          "name": "David Bruce",
+          "personId": "1385",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1385"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Sandwith",
+          "personId": "8090",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8090"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12068",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12068&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Erb",
+          "personId": "2808",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2808"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Ortner",
+          "personId": "6894",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6894"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12114",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12114&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Dogiel",
+          "personId": "2475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2475"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Darkchevitch",
+          "personId": "2137",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2137"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12163",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12163&mode=",
+      "nominees": [
+        {
+          "name": "William Gorgas",
+          "personId": "3555",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3555"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward Parker Davis",
+          "personId": "6997",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6997"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12211",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12211&mode=",
+      "nominees": [
+        {
+          "name": "William Hunter",
+          "personId": "4380",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4380"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Paterson",
+          "personId": "7024",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7024"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12258",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12258&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Naunyn",
+          "personId": "6616",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6616"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12312",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12312&mode=",
+      "nominees": [
+        {
+          "name": "Clemens von Pirquet (Baron)",
+          "personId": "9839",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9839"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H von Haberer",
+          "personId": "9774",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9774"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12357",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12357&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexander Maximow",
+          "personId": "6010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6010"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12400",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12400&mode=",
+      "nominees": [
+        {
+          "name": "Almroth Wright",
+          "personId": "10321",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10321"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N Tchistovitch",
+          "personId": "9385",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9385"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12448",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12448&mode=",
+      "nominees": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Truc",
+          "personId": "9364",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9364"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12491",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12491&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Marie",
+          "personId": "5913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5913"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12534",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12534&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Prévôt",
+          "personId": "7408",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7408"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12579",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12579&mode=",
+      "nominees": [
+        {
+          "name": "Paul Uhlenhuth",
+          "personId": "9432",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9432"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Chiari",
+          "personId": "1766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12622",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12622&mode=",
+      "nominees": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Vialleton",
+          "personId": "9635",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9635"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12664",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12664&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Filippo Battozzi",
+          "personId": "747",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=747"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12706",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12706&mode=",
+      "nominees": [
+        {
+          "name": "Wladimir Bechterew",
+          "personId": "789",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=789"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Grigorjew",
+          "personId": "3651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3651"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12770",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12770&mode=",
+      "nominees": [
+        {
+          "name": "Bernhard König",
+          "personId": "5119",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5119"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Panormow",
+          "personId": "6972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6972"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12769",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12769&mode=",
+      "nominees": [
+        {
+          "name": "Bernhard König",
+          "personId": "5119",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5119"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Sawtschenko",
+          "personId": "8121",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8121"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12781",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12781&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gino Galeotti",
+          "personId": "3307",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3307"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12825",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12825&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A von Hippel",
+          "personId": "9782",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9782"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12861",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12861&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "I Nuel",
+          "personId": "6787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6787"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12899",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12899&mode=",
+      "nominees": [
+        {
+          "name": "Aristides Agramonte y Simoni",
+          "personId": "334",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=334"
+        },
+        {
+          "name": "Carlos Finlay",
+          "personId": "3011",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3011"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alphonse Laveran",
+          "personId": "5279",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5279"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12937",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12937&mode=",
+      "nominees": [
+        {
+          "name": "Franz Nissl",
+          "personId": "6716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6716"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Ernst",
+          "personId": "2828",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2828"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "12972",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12972&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Henrijean",
+          "personId": "4058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4058"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13008",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13008&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Fraipont",
+          "personId": "3155",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3155"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13041",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13041&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon Frédéricq",
+          "personId": "3192",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3192"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13074",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13074&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Félix Mesnil",
+          "personId": "6208",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6208"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13107",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13107&mode=",
+      "nominees": [
+        {
+          "name": "Samuel Meltzer",
+          "personId": "6119",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6119"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13139",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13139&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fernand Schiffers",
+          "personId": "8169",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8169"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13176",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13176&mode=",
+      "nominees": [
+        {
+          "name": "Napoléon Cybulski",
+          "personId": "2072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Beck",
+          "personId": "791",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=791"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13210",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13210&mode=",
+      "nominees": [
+        {
+          "name": "Christiaan Eijkman",
+          "personId": "2723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2723"
+        },
+        {
+          "name": "Casimir Funk",
+          "personId": "3272",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3272"
+        },
+        {
+          "name": "U Suzuki",
+          "personId": "8912",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8912"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wolfgang Heubner",
+          "personId": "4142",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4142"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13241",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13241&mode=",
+      "nominees": [
+        {
+          "name": "Max Verworn",
+          "personId": "9622",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9622"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fr Merkel",
+          "personId": "6197",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6197"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13279",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13279&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gugliemo Romiti",
+          "personId": "7844",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7844"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13310",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13310&mode=",
+      "nominees": [
+        {
+          "name": "Hideyo Noguchi",
+          "personId": "6740",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6740"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Oppel",
+          "personId": "6870",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6870"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13343",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13343&mode=",
+      "nominees": [
+        {
+          "name": "Max Verworn",
+          "personId": "9622",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9622"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Jensen",
+          "personId": "4583",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4583"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13374",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13374&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Gilkinet",
+          "personId": "3446",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3446"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13402",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13402&mode=",
+      "nominees": [
+        {
+          "name": "Napoléon Cybulski",
+          "personId": "2072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "T Halban",
+          "personId": "3791",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3791"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13431",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13431&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13459",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13459&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gengou",
+          "personId": "3384",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3384"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13485",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13485&mode=",
+      "nominees": [
+        {
+          "name": "William Bayliss",
+          "personId": "777",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=777"
+        },
+        {
+          "name": "Ernest Starling",
+          "personId": "8739",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8739"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pol Bouin",
+          "personId": "1226",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1226"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13514",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13514&mode=",
+      "nominees": [
+        {
+          "name": "Luigi Luciani",
+          "personId": "5680",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5680"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antonio Ceci",
+          "personId": "1676",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1676"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13539",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13539&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexandre Besredka",
+          "personId": "965",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=965"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13565",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13565&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Weinberg",
+          "personId": "10055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10055"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13593",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13593&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Simond",
+          "personId": "8547",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8547"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13618",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13618&mode=",
+      "nominees": [
+        {
+          "name": "Edoardo Bassini",
+          "personId": "737",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=737"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vincenzo Diamare",
+          "personId": "2421",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2421"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13643",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13643&mode=",
+      "nominees": [
+        {
+          "name": "Battista Grassi",
+          "personId": "3615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Balduino Bocci",
+          "personId": "1099",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1099"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13666",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13666&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Achille Sclavo",
+          "personId": "8317",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8317"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13689",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13689&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Mouton",
+          "personId": "6486",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6486"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13715",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13715&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlo Raimondi",
+          "personId": "7530",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7530"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13742",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13742&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Lockemann",
+          "personId": "5558",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5558"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13761",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13761&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Phoebus Levene",
+          "personId": "5423",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5423"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13779",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13779&mode=",
+      "nominees": [
+        {
+          "name": "Samuel Meltzer",
+          "personId": "6119",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6119"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Salomon Cohen",
+          "personId": "1869",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1869"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13794",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13794&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stanislao Bianchi",
+          "personId": "990",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=990"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13827",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13827&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Putzeys",
+          "personId": "7490",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7490"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13825",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13825&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Swaen",
+          "personId": "8922",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8922"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13823",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13823&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Julin",
+          "personId": "4656",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4656"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13832",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13832&mode=",
+      "nominees": [
+        {
+          "name": "Napoléon Cybulski",
+          "personId": "2072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wladyslaw Szymonowicz",
+          "personId": "8964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8964"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13848",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13848&mode=",
+      "nominees": [
+        {
+          "name": "Napoléon Cybulski",
+          "personId": "2072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wladimir Sieradzky",
+          "personId": "8526",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8526"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13876",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13876&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arturo Guzzoni",
+          "personId": "3744",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3744"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13875",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13875&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Domenico Barduzzi",
+          "personId": "703",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=703"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13874",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13874&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Annibale Salomoni",
+          "personId": "8059",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8059"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13873",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13873&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ottone Barbacci",
+          "personId": "688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=688"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13880",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13880&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Pregl",
+          "personId": "7399",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7399"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13909",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13909&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bárány",
+          "personId": "686",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=686"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gunnar Holmgren",
+          "personId": "4278",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4278"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13908",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13908&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bárány",
+          "personId": "686",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=686"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Algot Key-Åberg",
+          "personId": "4814",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4814"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13907",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13907&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bárány",
+          "personId": "686",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=686"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Lennmalm",
+          "personId": "5379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5379"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13896",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13896&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Fehling",
+          "personId": "2939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2939"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13912",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13912&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fred Neufeld",
+          "personId": "6662",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6662"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13928",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13928&mode=",
+      "nominees": [
+        {
+          "name": "Arsène d´Arsonval",
+          "personId": "2645",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2645"
+        },
+        {
+          "name": "A Chauveau",
+          "personId": "1751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1751"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13940",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13940&mode=",
+      "nominees": [
+        {
+          "name": "Napoléon Cybulski",
+          "personId": "2072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antoine de Mars",
+          "personId": "2266",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2266"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13968",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13968&mode=",
+      "nominees": [
+        {
+          "name": "Edoardo Maragliano",
+          "personId": "5886",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5886"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlo Fedeli",
+          "personId": "2933",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2933"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13981",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13981&mode=",
+      "nominees": [
+        {
+          "name": "William Gorgas",
+          "personId": "3555",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3555"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Weysse",
+          "personId": "10126",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10126"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "13993",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13993&mode=",
+      "nominees": [
+        {
+          "name": "Ludimar Hermann",
+          "personId": "4083",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4083"
+        },
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "I. Rich. Ewald",
+          "personId": "2867",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2867"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14008",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14008&mode=",
+      "nominees": [
+        {
+          "name": "Leon Marchlewski",
+          "personId": "5896",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5896"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stanizlav Badzynski",
+          "personId": "617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=617"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14023",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14023&mode=",
+      "nominees": [
+        {
+          "name": "John Langley",
+          "personId": "5226",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5226"
+        },
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        },
+        {
+          "name": "Oskar Minkowski",
+          "personId": "6304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6304"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Julius Tandler",
+          "personId": "9002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9002"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14035",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14035&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hermann Eichhorst",
+          "personId": "2716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14048",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14048&mode=",
+      "nominees": [
+        {
+          "name": "Hideyo Noguchi",
+          "personId": "6740",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6740"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "U Matsuura",
+          "personId": "5996",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5996"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14060",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14060&mode=",
+      "nominees": [
+        {
+          "name": "Carl Flügge",
+          "personId": "3076",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3076"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Reichenbach",
+          "personId": "7626",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7626"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14071",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14071&mode=",
+      "nominees": [
+        {
+          "name": "Franz Hofmeister",
+          "personId": "4259",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4259"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Uhlenhuth",
+          "personId": "9432",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9432"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14082",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14082&mode=",
+      "nominees": [
+        {
+          "name": "Franz Hofmeister",
+          "personId": "4259",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4259"
+        },
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Hertel",
+          "personId": "4104",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4104"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14093",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14093&mode=",
+      "nominees": [
+        {
+          "name": "Albert Neisser",
+          "personId": "6640",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6640"
+        },
+        {
+          "name": "August von Wassermann",
+          "personId": "9887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9887"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Ehrlich",
+          "personId": "2713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2713"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14104",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14104&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Kraepelin",
+          "personId": "5016",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5016"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14114",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14114&mode=",
+      "nominees": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Troisfontaines",
+          "personId": "9359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9359"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14126",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14126&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Snellen",
+          "personId": "8632",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8632"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14136",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14136&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Babinski",
+          "personId": "591",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=591"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leo Popielski",
+          "personId": "7352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7352"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14147",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14147&mode=",
+      "nominees": [
+        {
+          "name": "Carlo Forlanini",
+          "personId": "3115",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3115"
+        },
+        {
+          "name": "Battista Grassi",
+          "personId": "3615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3615"
+        },
+        {
+          "name": "Edoardo Perroncito",
+          "personId": "7139",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7139"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Camillo Golgi",
+          "personId": "3527",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3527"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14155",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14155&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Rabl",
+          "personId": "7515",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7515"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14161",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14161&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Babinski",
+          "personId": "591",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=591"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jan Prus",
+          "personId": "7472",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7472"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14166",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14166&mode=",
+      "nominees": [
+        {
+          "name": "Napoléon Cybulski",
+          "personId": "2072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Gluzinsky",
+          "personId": "3489",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3489"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14171",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14171&mode=",
+      "nominees": [
+        {
+          "name": "Carlo Forlanini",
+          "personId": "3115",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3115"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfonso di Vestea",
+          "personId": "2419",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2419"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14176",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14176&mode=",
+      "nominees": [
+        {
+          "name": "Carlo Forlanini",
+          "personId": "3115",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3115"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Cesaris-Demel",
+          "personId": "1692",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1692"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14182",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14182&mode=",
+      "nominees": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Imbert",
+          "personId": "4446",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4446"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14187",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14187&mode=",
+      "nominees": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emile Laget",
+          "personId": "5156",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5156"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14193",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14193&mode=",
+      "nominees": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Oddo",
+          "personId": "6820",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6820"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14197",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14197&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ducamp",
+          "personId": "2563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2563"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14201",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14201&mode=",
+      "nominees": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Guérin-Valmale",
+          "personId": "3701",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3701"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14205",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14205&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Sahli",
+          "personId": "8043",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8043"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Silberschmidt",
+          "personId": "8534",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8534"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14209",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14209&mode=",
+      "nominees": [
+        {
+          "name": "Hideyo Noguchi",
+          "personId": "6740",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6740"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ikutaro Hirai",
+          "personId": "4198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4198"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    },
+    {
+      "nominationId": "14213",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14213&mode=",
+      "nominees": [
+        {
+          "name": "Richard Pfeiffer",
+          "personId": "7201",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7201"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Pettersson",
+          "personId": "7184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:58:19+00:00",
+  "httpStatus": 200,
+  "category": "medicine",
+  "year": 1914,
+  "economicsProbe": false
+}

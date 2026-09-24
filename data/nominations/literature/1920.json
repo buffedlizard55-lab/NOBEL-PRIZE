@@ -1,0 +1,551 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920",
+  "statedCount": 27,
+  "parsedCount": 27,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "163",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=163&mode=",
+      "nominees": [
+        {
+          "name": "Carl Spitteler",
+          "personId": "8702",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8702"
+        },
+        {
+          "name": "Adolf Frey",
+          "personId": "3222",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3222"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Oechsli",
+          "personId": "6824",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6824"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "616",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=616&mode=",
+      "nominees": [
+        {
+          "name": "Otokar (Václav) [Venceslas] Brezina (Jebavy) [Jebary]",
+          "personId": "1327",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1327"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arne Novák",
+          "personId": "6768",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6768"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "1005",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1005&mode=",
+      "nominees": [
+        {
+          "name": "Arne Garborg",
+          "personId": "3323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3323"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marius Haegstad",
+          "personId": "13464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13464"
+        },
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        },
+        {
+          "name": "Oluf Kolsrud",
+          "personId": "4974",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4974"
+        },
+        {
+          "name": "Norwegian Academy of Science and Letters",
+          "personId": "13468",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13468"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "1396",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1396&mode=",
+      "nominees": [
+        {
+          "name": "Wilbur Abbott",
+          "personId": "279",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=279"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dana Munro",
+          "personId": "6514",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6514"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "1766",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1766&mode=",
+      "nominees": [
+        {
+          "name": "Angel Guimerà y Jorge",
+          "personId": "3713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3713"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the Royal Academy of Fine Letters (Real Academia de Buenas Letras)",
+          "personId": "6151",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6151"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "2150",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2150&mode=",
+      "nominees": [
+        {
+          "name": "Alois Jirásek",
+          "personId": "4592",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4592"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Czech Academy of Science and Arts",
+          "personId": "2074",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2074"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "2487",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2487&mode=",
+      "nominees": [
+        {
+          "name": "Grazia Deledda (Madesani)",
+          "personId": "2348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Friherre Bildt",
+          "personId": "13472",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13472"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "2819",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2819&mode=",
+      "nominees": [
+        {
+          "name": "Hans Kinck",
+          "personId": "4849",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4849"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerhard von der Lippe Gran",
+          "personId": "3599",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3599"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18561",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18561&mode=",
+      "nominees": [
+        {
+          "name": "Georg Morris Cohen Brandes",
+          "personId": "1283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1283"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Selma Lagerlöf",
+          "personId": "5152",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5152"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18560",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18560&mode=",
+      "nominees": [
+        {
+          "name": "Georg Morris Cohen Brandes",
+          "personId": "1283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1283"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sven Hedin",
+          "personId": "3982",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3982"
+        },
+        {
+          "name": "Adolf Noreen",
+          "personId": "6757",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6757"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "3157",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3157&mode=",
+      "nominees": [
+        {
+          "name": "Georg Morris Cohen Brandes",
+          "personId": "1283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1283"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henrik Schück",
+          "personId": "8296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8296"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18569",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18569&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edmund Gosse",
+          "personId": "13482",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13482"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18568",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18568&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Österling",
+          "personId": "10460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10460"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18567",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18567&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Laurence Binyon",
+          "personId": "13479",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13479"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18566",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18566&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edith Morley",
+          "personId": "13478",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13478"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18565",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18565&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "English Association",
+          "personId": "13477",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13477"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18564",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18564&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Faculty of Arts and Letters",
+          "personId": "13476",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13476"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18563",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18563&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Bailey",
+          "personId": "13475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13475"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18562",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18562&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Quiller-Couch",
+          "personId": "13474",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13474"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "3481",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3481&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Dahlsten",
+          "personId": "13473",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13473"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "3841",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3841&mode=",
+      "nominees": [
+        {
+          "name": "Juhani Aho (Brofeldt)",
+          "personId": "342",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=342"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Yrjö Hiru",
+          "personId": "13480",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13480"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "4160",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4160&mode=",
+      "nominees": [
+        {
+          "name": "Ebenezer Howard",
+          "personId": "4328",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4328"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Christen Collin",
+          "personId": "1891",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1891"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "18570",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=18570&mode=",
+      "nominees": [
+        {
+          "name": "Knut Hamsun",
+          "personId": "3853",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3853"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Fett",
+          "personId": "2973",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2973"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "4504",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4504&mode=",
+      "nominees": [
+        {
+          "name": "Knut Hamsun",
+          "personId": "3853",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3853"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erik Axel Karlfeldt",
+          "personId": "4716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "4841",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4841&mode=",
+      "nominees": [
+        {
+          "name": "Wladyslaw Reymont (Reyment)",
+          "personId": "7684",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7684"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Per Hallström",
+          "personId": "3818",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3818"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "5159",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5159&mode=",
+      "nominees": [
+        {
+          "name": "Carl Spitteler",
+          "personId": "8702",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8702"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erik Axel Karlfeldt",
+          "personId": "4716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    },
+    {
+      "nominationId": "5477",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5477&mode=",
+      "nominees": [
+        {
+          "name": "John Galsworthy",
+          "personId": "3315",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3315"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henrik Schück",
+          "personId": "8296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8296"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:28+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1920,
+  "economicsProbe": false
+}

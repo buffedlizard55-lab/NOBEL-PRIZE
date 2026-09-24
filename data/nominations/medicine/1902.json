@@ -1,0 +1,1446 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902",
+  "statedCount": 90,
+  "parsedCount": 67,
+  "countMatchesStated": false,
+  "nominations": [
+    {
+      "nominationId": "3091",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3091&mode=",
+      "nominees": [
+        {
+          "name": "Desgrez",
+          "personId": "2391",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2391"
+        },
+        {
+          "name": "Balthazard",
+          "personId": "667",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=667"
+        },
+        {
+          "name": "C Phisalix",
+          "personId": "7214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7214"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "6041",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6041&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Pavlov",
+          "personId": "7055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Tigerstedt",
+          "personId": "9269",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9269"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "6708",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6708&mode=",
+      "nominees": [
+        {
+          "name": "Alphonse Laveran",
+          "personId": "5279",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5279"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Étienne-Jules Marey",
+          "personId": "5907",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5907"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "7012",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7012&mode=",
+      "nominees": [
+        {
+          "name": "Josef von Mering",
+          "personId": "9823",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9823"
+        },
+        {
+          "name": "Oskar Minkowski",
+          "personId": "6304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6304"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Julius Pohl",
+          "personId": "7308",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7308"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "7282",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7282&mode=",
+      "nominees": [
+        {
+          "name": "Robert Koch",
+          "personId": "4941",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4941"
+        },
+        {
+          "name": "Rudolph Virchow",
+          "personId": "9665",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9665"
+        },
+        {
+          "name": "Joseph Lister (Lord)",
+          "personId": "5539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5539"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R von Jaksch",
+          "personId": "9789",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9789"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "7684",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7684&mode=",
+      "nominees": [
+        {
+          "name": "Carl Rabl",
+          "personId": "7514",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7514"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Chiari",
+          "personId": "1766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "7526",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7526&mode=",
+      "nominees": [
+        {
+          "name": "Robert Koch",
+          "personId": "4941",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4941"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Krönlein",
+          "personId": "5080",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5080"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "7761",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7761&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward Schäfer",
+          "personId": "8304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8304"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "8050",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8050&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        },
+        {
+          "name": "E Overton",
+          "personId": "6926",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6926"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Justus Gaule",
+          "personId": "3356",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3356"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "8282",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8282&mode=",
+      "nominees": [
+        {
+          "name": "Paul Ehrlich",
+          "personId": "2713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2713"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Pinner",
+          "personId": "7260",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7260"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "8515",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8515&mode=",
+      "nominees": [
+        {
+          "name": "Élie Metchnikoff",
+          "personId": "6214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6214"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ed. Nocard",
+          "personId": "6727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "8797",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8797&mode=",
+      "nominees": [
+        {
+          "name": "Carl von Voit",
+          "personId": "9883",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9883"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F von Winckel",
+          "personId": "9890",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9890"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "8979",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8979&mode=",
+      "nominees": [
+        {
+          "name": "Eduard Buchner",
+          "personId": "1428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Buchner",
+          "personId": "1429",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1429"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "9137",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9137&mode=",
+      "nominees": [
+        {
+          "name": "Eduard Pflüger",
+          "personId": "7204",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7204"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Schenck",
+          "personId": "8154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8154"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "9315",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9315&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Hueppe",
+          "personId": "4348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ferdinand Heuppe",
+          "personId": "4143",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4143"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "9497",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9497&mode=",
+      "nominees": [
+        {
+          "name": "Robert Koch",
+          "personId": "4941",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4941"
+        },
+        {
+          "name": "Friedrich Löffler",
+          "personId": "5731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5731"
+        },
+        {
+          "name": "Joseph Lister (Lord)",
+          "personId": "5539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5539"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil von Behring",
+          "personId": "9720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9720"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "9788",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9788&mode=",
+      "nominees": [
+        {
+          "name": "Richard Pfeiffer",
+          "personId": "7201",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7201"
+        },
+        {
+          "name": "Fernand Widal",
+          "personId": "10147",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10147"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Bard",
+          "personId": "699",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=699"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10103",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10103&mode=",
+      "nominees": [
+        {
+          "name": "Battista Grassi",
+          "personId": "3615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3615"
+        },
+        {
+          "name": "Ronald Ross",
+          "personId": "7892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Huppert",
+          "personId": "4382",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4382"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10050",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10050&mode=",
+      "nominees": [
+        {
+          "name": "Josef von Mering",
+          "personId": "9823",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9823"
+        },
+        {
+          "name": "Oskar Minkowski",
+          "personId": "6304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6304"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Huppert",
+          "personId": "4382",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4382"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10166",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10166&mode=",
+      "nominees": [
+        {
+          "name": "Paul Ehrlich",
+          "personId": "2713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2713"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Naunyn",
+          "personId": "6616",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6616"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10283",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10283&mode=",
+      "nominees": [
+        {
+          "name": "Niels Finsen",
+          "personId": "3015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Severin Jolin",
+          "personId": "4611",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4611"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10381",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10381&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Engelmann",
+          "personId": "2797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2797"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Th Ziehen",
+          "personId": "10407",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10407"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10484",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10484&mode=",
+      "nominees": [
+        {
+          "name": "Alphonse Laveran",
+          "personId": "5279",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5279"
+        },
+        {
+          "name": "Ronald Ross",
+          "personId": "7892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Firket",
+          "personId": "3017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3017"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10566",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10566&mode=",
+      "nominees": [
+        {
+          "name": "Eduard Buchner",
+          "personId": "1428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1428"
+        },
+        {
+          "name": "Ivan Pavlov",
+          "personId": "7055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Voit",
+          "personId": "9697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10653",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10653&mode=",
+      "nominees": [
+        {
+          "name": "Max Rubner",
+          "personId": "7951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7951"
+        },
+        {
+          "name": "Eduard Pflüger",
+          "personId": "7204",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7204"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Meyer",
+          "personId": "6233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6233"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10808",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10808&mode=",
+      "nominees": [
+        {
+          "name": "Battista Grassi",
+          "personId": "3615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3615"
+        },
+        {
+          "name": "Ronald Ross",
+          "personId": "7892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ladislaus von Udránszky",
+          "personId": "9879",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9879"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "10976",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10976&mode=",
+      "nominees": [
+        {
+          "name": "Robert Koch",
+          "personId": "4941",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4941"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "O Haab",
+          "personId": "3755",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3755"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11050",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11050&mode=",
+      "nominees": [
+        {
+          "name": "Carl Hess",
+          "personId": "4125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4125"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Bach",
+          "personId": "602",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=602"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11120",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11120&mode=",
+      "nominees": [
+        {
+          "name": "Ronald Ross",
+          "personId": "7892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Seved Ribbing",
+          "personId": "7691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7691"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11181",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11181&mode=",
+      "nominees": [
+        {
+          "name": "Battista Grassi",
+          "personId": "3615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3615"
+        },
+        {
+          "name": "Ronald Ross",
+          "personId": "7892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Siegmund Purjesz",
+          "personId": "7486",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7486"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11244",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11244&mode=",
+      "nominees": [
+        {
+          "name": "Battista Grassi",
+          "personId": "3615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustav von Riegler",
+          "personId": "9846",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9846"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11304",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11304&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Swaen",
+          "personId": "8922",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8922"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11365",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11365&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Julin",
+          "personId": "4656",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4656"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15952",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15952&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Napoleon Cybulsci",
+          "personId": "11734",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11734"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15951",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15951&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ales. Stopzanski",
+          "personId": "11733",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11733"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15950",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15950&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Jordan",
+          "personId": "11732",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11732"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15949",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15949&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bronislas Kader",
+          "personId": "11731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11731"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15948",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15948&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leo Wachholz",
+          "personId": "9915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9915"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15947",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15947&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bolislaw Wicherkiewicz",
+          "personId": "11730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11730"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15946",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15946&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mathior Jakubowski",
+          "personId": "11729",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11729"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15944",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15944&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Casimir Kostanechi",
+          "personId": "11728",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11728"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "15943",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=15943&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Odo Bujwid",
+          "personId": "11727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11471",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11471&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph Lazarski",
+          "personId": "5294",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5294"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11424",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11424&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        },
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tadeusz Brawicz",
+          "personId": "1306",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1306"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11484",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11484&mode=",
+      "nominees": [
+        {
+          "name": "Eduard Pflüger",
+          "personId": "7204",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7204"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Mares",
+          "personId": "5904",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5904"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11536",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11536&mode=",
+      "nominees": [
+        {
+          "name": "Carl Gegenbauer",
+          "personId": "3371",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3371"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Fürbringer",
+          "personId": "3279",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3279"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11589",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11589&mode=",
+      "nominees": [
+        {
+          "name": "E Overton",
+          "personId": "6926",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6926"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Torsten Thunberg",
+          "personId": "9257",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9257"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11644",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11644&mode=",
+      "nominees": [
+        {
+          "name": "Santiago Ramon y Cajàl",
+          "personId": "7547",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7547"
+        },
+        {
+          "name": "Camillo Golgi",
+          "personId": "3527",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3527"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustaf Retzius",
+          "personId": "7668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7668"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11696",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11696&mode=",
+      "nominees": [
+        {
+          "name": "Ronald Ross",
+          "personId": "7892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Greenfield",
+          "personId": "3630",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3630"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11747",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11747&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Pavlov",
+          "personId": "7055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon Frédéricq",
+          "personId": "3192",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3192"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11804",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11804&mode=",
+      "nominees": [
+        {
+          "name": "Max Gruber",
+          "personId": "3673",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3673"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Forster",
+          "personId": "3129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3129"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11857",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11857&mode=",
+      "nominees": [
+        {
+          "name": "Gustaf Retzius",
+          "personId": "7668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7668"
+        },
+        {
+          "name": "Santiago Ramon y Cajàl",
+          "personId": "7547",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7547"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Schwalbe",
+          "personId": "8276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11913",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11913&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alf. Gilkinet",
+          "personId": "3447",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3447"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "11963",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11963&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Pavlov",
+          "personId": "7055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wladimir Roth",
+          "personId": "7911",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7911"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12008",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12008&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Haeckel",
+          "personId": "3770",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3770"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12056",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12056&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Pavlov",
+          "personId": "7055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7055"
+        },
+        {
+          "name": "Oswald Schmiedeberg",
+          "personId": "8213",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8213"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H von Tappeiner",
+          "personId": "9872",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9872"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12102",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12102&mode=",
+      "nominees": [
+        {
+          "name": "Robert Koch",
+          "personId": "4941",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4941"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vincenzo de Giaxa",
+          "personId": "2225",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2225"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12151",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12151&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Pavlov",
+          "personId": "7055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Voltaire Masius",
+          "personId": "5976",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5976"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12246",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12246&mode=",
+      "nominees": [
+        {
+          "name": "Albrecht Kossel",
+          "personId": "4995",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4995"
+        },
+        {
+          "name": "Félix Marchand",
+          "personId": "5891",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5891"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Küster",
+          "personId": "5109",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5109"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12300",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12300&mode=",
+      "nominees": [
+        {
+          "name": "Niels Finsen",
+          "personId": "3015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Widmark",
+          "personId": "10154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10154"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12345",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12345&mode=",
+      "nominees": [
+        {
+          "name": "Camillo Golgi",
+          "personId": "3527",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3527"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Holmgren",
+          "personId": "4276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12389",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12389&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Pavlov",
+          "personId": "7055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Franz Hofmeister",
+          "personId": "4259",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4259"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12480",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12480&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Pavlov",
+          "personId": "7055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "I Nuel",
+          "personId": "6787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6787"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12522",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12522&mode=",
+      "nominees": [
+        {
+          "name": "James Israel",
+          "personId": "4492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4492"
+        },
+        {
+          "name": "U Kroenlein",
+          "personId": "5053",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5053"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oscar Wyss",
+          "personId": "10336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10336"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12610",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12610&mode=",
+      "nominees": [
+        {
+          "name": "Élie Metchnikoff",
+          "personId": "6214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6214"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Hlava",
+          "personId": "4229",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4229"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12652",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12652&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A von Winiwarter",
+          "personId": "9891",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9891"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    },
+    {
+      "nominationId": "12694",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12694&mode=",
+      "nominees": [
+        {
+          "name": "Ronald Ross",
+          "personId": "7892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thomas Fraser",
+          "personId": "3187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3187"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:58:06+00:00",
+  "httpStatus": 200,
+  "category": "medicine",
+  "year": 1902,
+  "economicsProbe": false
+}

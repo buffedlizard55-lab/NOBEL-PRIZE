@@ -1,0 +1,758 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948",
+  "statedCount": 35,
+  "parsedCount": 35,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "45",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=45&mode=",
+      "nominees": [
+        {
+          "name": "Hans Albrecht Bethe",
+          "personId": "971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=971"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Eugene Marshak",
+          "personId": "13840",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13840"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "498",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=498&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Compton",
+          "personId": "1918",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1918"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "890",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=890&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Tolansky",
+          "personId": "9298",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9298"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "1275",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1275&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Desmond Bernal",
+          "personId": "929",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=929"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "1651",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1651&mode=",
+      "nominees": [
+        {
+          "name": "Felix Bloch",
+          "personId": "1081",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1081"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cornelis Jacobus Gorter",
+          "personId": "3559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3559"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "2028",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2028&mode=",
+      "nominees": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "2366",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2366&mode=",
+      "nominees": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Alfred Coulson",
+          "personId": "1994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1994"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "2700",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2700&mode=",
+      "nominees": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Franck",
+          "personId": "3167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3167"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "3036",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3036&mode=",
+      "nominees": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Preston",
+          "personId": "7403",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7403"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "3360",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3360&mode=",
+      "nominees": [
+        {
+          "name": "Arthur Dempster",
+          "personId": "2369",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2369"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Allison",
+          "personId": "380",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=380"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "3721",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3721&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harold Clayton Urey",
+          "personId": "9461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9461"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "4041",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4041&mode=",
+      "nominees": [
+        {
+          "name": "Pyotr Leonidovich Kapitsa",
+          "personId": "4706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4706"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Niels Bohr",
+          "personId": "1118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1118"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "4385",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4385&mode=",
+      "nominees": [
+        {
+          "name": "Donald William Kerst",
+          "personId": "4806",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4806"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice de Broglie",
+          "personId": "2198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2198"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "4724",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4724&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Yves Rocard",
+          "personId": "7786",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7786"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "5038",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5038&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Émile Borel",
+          "personId": "1177",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1177"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "5358",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5358&mode=",
+      "nominees": [
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harald Wergeland",
+          "personId": "10084",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10084"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "5697",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5697&mode=",
+      "nominees": [
+        {
+          "name": "Balthasar van der Pol",
+          "personId": "9524",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9524"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Prince Louis-Victor de Broglie",
+          "personId": "2200",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2200"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "5992",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5992&mode=",
+      "nominees": [
+        {
+          "name": "Helmut Scheffers",
+          "personId": "8146",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8146"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johannes Stark",
+          "personId": "8735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8735"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "6335",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6335&mode=",
+      "nominees": [
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Joos",
+          "personId": "4630",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4630"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "6663",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6663&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Iosifovich Veksler",
+          "personId": "9584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9584"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph Platt",
+          "personId": "7288",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7288"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "6969",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6969&mode=",
+      "nominees": [
+        {
+          "name": "Hideki Yukawa",
+          "personId": "10359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10359"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marcel Schein",
+          "personId": "8148",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8148"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "7238",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7238&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        },
+        {
+          "name": "Pierre Victor Auger",
+          "personId": "561",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=561"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacques Hadamard",
+          "personId": "3765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3765"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "7483",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7483&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        },
+        {
+          "name": "Pierre Victor Auger",
+          "personId": "561",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=561"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Perrin",
+          "personId": "7134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7134"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "7719",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7719&mode=",
+      "nominees": [
+        {
+          "name": "Felix Bloch",
+          "personId": "1081",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1081"
+        },
+        {
+          "name": "Hideki Yukawa",
+          "personId": "10359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10359"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregor Wentzel",
+          "personId": "10082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10082"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "8009",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8009&mode=",
+      "nominees": [
+        {
+          "name": "Pyotr Leonidovich Kapitsa",
+          "personId": "4706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4706"
+        },
+        {
+          "name": "Willem Keesom",
+          "personId": "4758",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4758"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Theodor Svedberg",
+          "personId": "8915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8915"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "8243",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8243&mode=",
+      "nominees": [
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "8477",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8477&mode=",
+      "nominees": [
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jesse DuMond",
+          "personId": "2593",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2593"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "8762",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8762&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Marcel Schein",
+          "personId": "8148",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8148"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Victor Hess",
+          "personId": "4127",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4127"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "8948",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8948&mode=",
+      "nominees": [
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        },
+        {
+          "name": "Donald William Kerst",
+          "personId": "4806",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4806"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "9110",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9110&mode=",
+      "nominees": [
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        },
+        {
+          "name": "Otto Robert Frisch",
+          "personId": "3236",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3236"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "9287",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9287&mode=",
+      "nominees": [
+        {
+          "name": "Bruno Benedetto Rossi",
+          "personId": "7898",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7898"
+        },
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pierre Victor Auger",
+          "personId": "561",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=561"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "9471",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9471&mode=",
+      "nominees": [
+        {
+          "name": "Henry Yeagley",
+          "personId": "10344",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10344"
+        },
+        {
+          "name": "Robert Wichard Pohl",
+          "personId": "7311",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7311"
+        },
+        {
+          "name": "Karl Jansky",
+          "personId": "4554",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4554"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Winfried Schumann",
+          "personId": "8270",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8270"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "9710",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9710&mode=",
+      "nominees": [
+        {
+          "name": "Bengt Edlén",
+          "personId": "2690",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2690"
+        },
+        {
+          "name": "Walter Grotrian",
+          "personId": "3667",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3667"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Kastler",
+          "personId": "4727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "9686",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9686&mode=",
+      "nominees": [
+        {
+          "name": "Frits Zernike",
+          "personId": "10397",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10397"
+        },
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Kastler",
+          "personId": "4727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    },
+    {
+      "nominationId": "9765",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9765&mode=",
+      "nominees": [
+        {
+          "name": "Edwin Mattison McMillan",
+          "personId": "6062",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6062"
+        },
+        {
+          "name": "Vladimir Iosifovich Veksler",
+          "personId": "9584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9584"
+        },
+        {
+          "name": "Donald William Kerst",
+          "personId": "4806",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4806"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Manne Karl Siegbahn",
+          "personId": "8515",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8515"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:37+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1948,
+  "economicsProbe": false
+}

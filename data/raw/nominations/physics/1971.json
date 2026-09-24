@@ -1,0 +1,2525 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971",
+  "statedCount": 113,
+  "parsedCount": 113,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "21786",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21786&mode=",
+      "nominees": [
+        {
+          "name": "Anatole Abragam",
+          "personId": "11028",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11028"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Godefroy",
+          "personId": "15781",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15781"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21788",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21788&mode=",
+      "nominees": [
+        {
+          "name": "Anatole Abragam",
+          "personId": "11028",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11028"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "André Lallemand",
+          "personId": "10955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10955"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21789",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21789&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nicolay Gennadijevitj Basov",
+          "personId": "11052",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11052"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21790",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21790&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dmitrii Ivanovich Blokhintsev",
+          "personId": "15782",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15782"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21791",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21791&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Christov",
+          "personId": "15783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15783"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21792",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21792&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Moshé Flato",
+          "personId": "15784",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15784"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21793",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21793&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Moret-Bailly",
+          "personId": "15785",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15785"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21794",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21794&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bengt Nagel",
+          "personId": "15778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15778"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21795",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21795&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dmitry Vasilevich Shirkov",
+          "personId": "15788",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15788"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21796",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21796&mode=",
+      "nominees": [
+        {
+          "name": "Satyendra Nath Bose",
+          "personId": "10677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10677"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Kothari",
+          "personId": "15789",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15789"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21797",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21797&mode=",
+      "nominees": [
+        {
+          "name": "Satyendra Nath Bose",
+          "personId": "10677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10677"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mambillikalathil Govind Kumar Menon",
+          "personId": "14435",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14435"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21798",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21798&mode=",
+      "nominees": [
+        {
+          "name": "Subramanyan Chandrasekhar",
+          "personId": "10748",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10748"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerhard Herzberg",
+          "personId": "11155",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11155"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21799",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21799&mode=",
+      "nominees": [
+        {
+          "name": "Leon Neil Cooper",
+          "personId": "11409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11409"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Elbaum",
+          "personId": "15790",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15790"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21800",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21800&mode=",
+      "nominees": [
+        {
+          "name": "Albert Victor Crewe",
+          "personId": "15791",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15791"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Shimaoka",
+          "personId": "15792",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15792"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21801",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21801&mode=",
+      "nominees": [
+        {
+          "name": "Robert Henry Dicke",
+          "personId": "10761",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10761"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Brian Garner Wybourne",
+          "personId": "15793",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15793"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21802",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21802&mode=",
+      "nominees": [
+        {
+          "name": "Freeman John Dyson",
+          "personId": "13296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13296"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Herbert Sydney Green",
+          "personId": "15794",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15794"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21803",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21803&mode=",
+      "nominees": [
+        {
+          "name": "William Martin Fairbank",
+          "personId": "13140",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13140"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice Loyal Huggins",
+          "personId": "15797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15797"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21804",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21804&mode=",
+      "nominees": [
+        {
+          "name": "Val Logsdon Fitch",
+          "personId": "14232",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14232"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Fischer",
+          "personId": "14471",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14471"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21805",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21805&mode=",
+      "nominees": [
+        {
+          "name": "Val Logsdon Fitch",
+          "personId": "14232",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14232"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leon Max Lederman",
+          "personId": "10957",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10957"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21806",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21806&mode=",
+      "nominees": [
+        {
+          "name": "Val Logsdon Fitch",
+          "personId": "14232",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14232"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ronald Mermod",
+          "personId": "15798",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15798"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21807",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21807&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Aleksandrovich Fock",
+          "personId": "10784",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10784"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Klaus Fuchs",
+          "personId": "15799",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15799"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21808",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21808&mode=",
+      "nominees": [
+        {
+          "name": "Dennis Gabor",
+          "personId": "3289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3289"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hendrik Brugt Gerhard Casimir",
+          "personId": "15448",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15448"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21809",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21809&mode=",
+      "nominees": [
+        {
+          "name": "Dennis Gabor",
+          "personId": "3289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3289"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Davis",
+          "personId": "15800",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15800"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21810",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21810&mode=",
+      "nominees": [
+        {
+          "name": "Dennis Gabor",
+          "personId": "3289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3289"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pierre Jacquinot",
+          "personId": "10575",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10575"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21811",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21811&mode=",
+      "nominees": [
+        {
+          "name": "Dennis Gabor",
+          "personId": "3289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3289"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean-Pierre Lehman",
+          "personId": "15463",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15463"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21812",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21812&mode=",
+      "nominees": [
+        {
+          "name": "Dennis Gabor",
+          "personId": "3289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3289"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "André Maréchal",
+          "personId": "10849",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10849"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21813",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21813&mode=",
+      "nominees": [
+        {
+          "name": "Cornelis Jacobus Gorter",
+          "personId": "3559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3559"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Hasbrouck Van Vleck",
+          "personId": "9551",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9551"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21814",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21814&mode=",
+      "nominees": [
+        {
+          "name": "Walter Heinrich Heitler",
+          "personId": "4021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Yomosa",
+          "personId": "15802",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15802"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21831",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21831&mode=",
+      "nominees": [
+        {
+          "name": "Pyotr Leonidovich Kapitsa",
+          "personId": "4706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4706"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Bewilonga",
+          "personId": "15979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15979"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21832",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21832&mode=",
+      "nominees": [
+        {
+          "name": "Pyotr Leonidovich Kapitsa",
+          "personId": "4706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4706"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Steiner",
+          "personId": "15980",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15980"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21833",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21833&mode=",
+      "nominees": [
+        {
+          "name": "Bernd Theodor Matthias",
+          "personId": "13350",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13350"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maria Goeppert-Mayer",
+          "personId": "10622",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10622"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21834",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21834&mode=",
+      "nominees": [
+        {
+          "name": "Bernd Theodor Matthias",
+          "personId": "13350",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13350"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Willard Frank Libby",
+          "personId": "5458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5458"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21835",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21835&mode=",
+      "nominees": [
+        {
+          "name": "Bernd Theodor Matthias",
+          "personId": "13350",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13350"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harold Clayton Urey",
+          "personId": "9461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9461"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21836",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21836&mode=",
+      "nominees": [
+        {
+          "name": "Nevill Francis Mott",
+          "personId": "6467",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6467"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Edwin Enderby",
+          "personId": "15981",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15981"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21838",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21838&mode=",
+      "nominees": [
+        {
+          "name": "Yoichiro Nambu",
+          "personId": "14565",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14565"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Takehiko Takabayasi",
+          "personId": "13156",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13156"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21839",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21839&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Kurt Hermann Panofsky",
+          "personId": "6971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6971"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Shuji Fukui",
+          "personId": "14256",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14256"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21840",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21840&mode=",
+      "nominees": [
+        {
+          "name": "Bruno Benedetto Rossi",
+          "personId": "7898",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7898"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Satio Hayakawa",
+          "personId": "13159",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13159"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21841",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21841&mode=",
+      "nominees": [
+        {
+          "name": "Ernst August Friedrich Ruska",
+          "personId": "7977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7977"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Fagerlind",
+          "personId": "15984",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15984"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21843",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21843&mode=",
+      "nominees": [
+        {
+          "name": "Martin Ryle",
+          "personId": "13171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Lawrence Bragg",
+          "personId": "11051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11051"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21842",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21842&mode=",
+      "nominees": [
+        {
+          "name": "Martin Ryle",
+          "personId": "13171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21844",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21844&mode=",
+      "nominees": [
+        {
+          "name": "Abdus Salam",
+          "personId": "10876",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10876"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Albrecht Bethe",
+          "personId": "971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=971"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21845",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21845&mode=",
+      "nominees": [
+        {
+          "name": "Abdus Salam",
+          "personId": "10876",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10876"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Adrien Maurice Dirac",
+          "personId": "2447",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2447"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21846",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21846&mode=",
+      "nominees": [
+        {
+          "name": "Abdus Salam",
+          "personId": "10876",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10876"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Hofstadter",
+          "personId": "10875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10875"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21847",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21847&mode=",
+      "nominees": [
+        {
+          "name": "Abdus Salam",
+          "personId": "10876",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10876"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nicholas Kemmer",
+          "personId": "10570",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10570"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21848",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21848&mode=",
+      "nominees": [
+        {
+          "name": "Abdus Salam",
+          "personId": "10876",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10876"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Taunton Matthews",
+          "personId": "14237",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14237"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21849",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21849&mode=",
+      "nominees": [
+        {
+          "name": "Kai Manne Börje Siegbahn",
+          "personId": "15795",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15795"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Dupouy",
+          "personId": "13836",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13836"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21850",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21850&mode=",
+      "nominees": [
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "T Bailey",
+          "personId": "15985",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15985"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21853",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21853&mode=",
+      "nominees": [
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Ballard",
+          "personId": "15986",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15986"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21854",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21854&mode=",
+      "nominees": [
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Swanson",
+          "personId": "15987",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15987"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21855",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21855&mode=",
+      "nominees": [
+        {
+          "name": "Max Steenbeck",
+          "personId": "15433",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15433"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Werner Hartmann",
+          "personId": "15988",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15988"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21857",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21857&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Weber",
+          "personId": "13135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13135"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frank Crawford",
+          "personId": "15989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15989"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21858",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21858&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Weber",
+          "personId": "13135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13135"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Hittmair",
+          "personId": "15990",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15990"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21859",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21859&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Weber",
+          "personId": "13135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13135"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pekka Jauho",
+          "personId": "13157",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13157"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21860",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21860&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Weber",
+          "personId": "13135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13135"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21862",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21862&mode=",
+      "nominees": [
+        {
+          "name": "John Charles Wheatley",
+          "personId": "15453",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15453"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Paul Enz",
+          "personId": "15991",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15991"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21863",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21863&mode=",
+      "nominees": [
+        {
+          "name": "Chien-Shiung Wu",
+          "personId": "10859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Foley",
+          "personId": "15992",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15992"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21864",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21864&mode=",
+      "nominees": [
+        {
+          "name": "Chien-Shiung Wu",
+          "personId": "10859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tsung-Dao Lee",
+          "personId": "10775",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10775"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21865",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21865&mode=",
+      "nominees": [
+        {
+          "name": "Chien-Shiung Wu",
+          "personId": "10859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Serber",
+          "personId": "8412",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8412"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21866",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21866&mode=",
+      "nominees": [
+        {
+          "name": "Chien-Shiung Wu",
+          "personId": "10859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jack Steinberger",
+          "personId": "13123",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13123"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21867",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21867&mode=",
+      "nominees": [
+        {
+          "name": "Chien-Shiung Wu",
+          "personId": "10859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gian Carlo Wick",
+          "personId": "15993",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15993"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21868",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21868&mode=",
+      "nominees": [
+        {
+          "name": "Alexei Alexeyevich Abrikosov",
+          "personId": "15475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15475"
+        },
+        {
+          "name": "John Robert Schrieffer",
+          "personId": "11410",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11410"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Peter Fulde",
+          "personId": "15994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15994"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21869",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21869&mode=",
+      "nominees": [
+        {
+          "name": "Edoardo Amaldi",
+          "personId": "398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=398"
+        },
+        {
+          "name": "Victor Frederick Weisskopf",
+          "personId": "10067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10067"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Ferrari",
+          "personId": "15995",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15995"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21870",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21870&mode=",
+      "nominees": [
+        {
+          "name": "Edoardo Amaldi",
+          "personId": "398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=398"
+        },
+        {
+          "name": "Victor Frederick Weisskopf",
+          "personId": "10067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10067"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Ferrero",
+          "personId": "15996",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15996"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21871",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21871&mode=",
+      "nominees": [
+        {
+          "name": "Brebis Bleaney",
+          "personId": "10746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10746"
+        },
+        {
+          "name": "Rudolf Ernst Peierls",
+          "personId": "13272",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13272"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cornelis Jacobus Gorter",
+          "personId": "3559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3559"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21872",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21872&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        },
+        {
+          "name": "Arthur Strong Wightman",
+          "personId": "15391",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15391"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21873",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21873&mode=",
+      "nominees": [
+        {
+          "name": "Aage Niels Bohr",
+          "personId": "11404",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11404"
+        },
+        {
+          "name": "Ben Roy Mottelson",
+          "personId": "11405",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11405"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Hansen",
+          "personId": "15478",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15478"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21874",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21874&mode=",
+      "nominees": [
+        {
+          "name": "Aage Niels Bohr",
+          "personId": "11404",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11404"
+        },
+        {
+          "name": "Ben Roy Mottelson",
+          "personId": "11405",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11405"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paavo Juhani Kantele",
+          "personId": "15380",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15380"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21875",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21875&mode=",
+      "nominees": [
+        {
+          "name": "Aage Niels Bohr",
+          "personId": "11404",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11404"
+        },
+        {
+          "name": "Ben Roy Mottelson",
+          "personId": "11405",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11405"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph Schintlmeister",
+          "personId": "15998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15998"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21876",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21876&mode=",
+      "nominees": [
+        {
+          "name": "Satyendra Nath Bose",
+          "personId": "10677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10677"
+        },
+        {
+          "name": "Subramanyan Chandrasekhar",
+          "personId": "10748",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10748"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21877",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21877&mode=",
+      "nominees": [
+        {
+          "name": "Wernher von Braun",
+          "personId": "16000",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16000"
+        },
+        {
+          "name": "Hermann Oberth",
+          "personId": "15062",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15062"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Pascual Jordan",
+          "personId": "4636",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4636"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21878",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21878&mode=",
+      "nominees": [
+        {
+          "name": "Gregory Breit",
+          "personId": "1318",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1318"
+        },
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A. E. S. Green",
+          "personId": "16001",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16001"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21879",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21879&mode=",
+      "nominees": [
+        {
+          "name": "Gregory Breit",
+          "personId": "1318",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1318"
+        },
+        {
+          "name": "Victor Frederick Weisskopf",
+          "personId": "10067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10067"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Greiner",
+          "personId": "16002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16002"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21882",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21882&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Connes",
+          "personId": "15501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15501"
+        },
+        {
+          "name": "André Lallemand",
+          "personId": "10955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Vernier",
+          "personId": "16009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16009"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21883",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21883&mode=",
+      "nominees": [
+        {
+          "name": "James Watson Cronin",
+          "personId": "14233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14233"
+        },
+        {
+          "name": "Val Logsdon Fitch",
+          "personId": "14232",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14232"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Murray Gell-Mann",
+          "personId": "11043",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11043"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21884",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21884&mode=",
+      "nominees": [
+        {
+          "name": "James Watson Cronin",
+          "personId": "14233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14233"
+        },
+        {
+          "name": "Val Logsdon Fitch",
+          "personId": "14232",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14232"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Heer",
+          "personId": "14235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14235"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21885",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21885&mode=",
+      "nominees": [
+        {
+          "name": "James Watson Cronin",
+          "personId": "14233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14233"
+        },
+        {
+          "name": "Val Logsdon Fitch",
+          "personId": "14232",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14232"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21886",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21886&mode=",
+      "nominees": [
+        {
+          "name": "James Watson Cronin",
+          "personId": "14233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14233"
+        },
+        {
+          "name": "Val Logsdon Fitch",
+          "personId": "14232",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14232"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Weber",
+          "personId": "16012",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16012"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21887",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21887&mode=",
+      "nominees": [
+        {
+          "name": "Marian Danysz",
+          "personId": "10755",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10755"
+        },
+        {
+          "name": "Jerzy Pniewski",
+          "personId": "10758",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10758"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Schöpf",
+          "personId": "16013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16013"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21889",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21889&mode=",
+      "nominees": [
+        {
+          "name": "Dennis Gabor",
+          "personId": "3289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3289"
+        },
+        {
+          "name": "Cornelis Jacobus Gorter",
+          "personId": "3559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3559"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Kastler",
+          "personId": "4727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21890",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21890&mode=",
+      "nominees": [
+        {
+          "name": "Dennis Gabor",
+          "personId": "3289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3289"
+        },
+        {
+          "name": "Cornelis Jacobus Gorter",
+          "personId": "3559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3559"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Roche",
+          "personId": "7790",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7790"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21901",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21901&mode=",
+      "nominees": [
+        {
+          "name": "Samuel Abraham Goudsmit",
+          "personId": "3575",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3575"
+        },
+        {
+          "name": "George Eugene Uhlenbeck",
+          "personId": "9429",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9429"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Otto Schmitt",
+          "personId": "16019",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16019"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21902",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21902&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Gregory",
+          "personId": "16020",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16020"
+        },
+        {
+          "name": "Charles Peyrou",
+          "personId": "16021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Louis Leprince-Ringuet",
+          "personId": "5398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5398"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21903",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21903&mode=",
+      "nominees": [
+        {
+          "name": "Antony Hewish",
+          "personId": "15490",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15490"
+        },
+        {
+          "name": "Martin Ryle",
+          "personId": "13171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vitaly Lazarevich Ginzburg",
+          "personId": "16350",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16350"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21905",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21905&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Pascual Jordan",
+          "personId": "4636",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4636"
+        },
+        {
+          "name": "Oskar Benjamin Klein",
+          "personId": "4889",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4889"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Johann Freudenberg",
+          "personId": "3212",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3212"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21906",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21906&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Pascual Jordan",
+          "personId": "4636",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4636"
+        },
+        {
+          "name": "Oskar Benjamin Klein",
+          "personId": "4889",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4889"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johannes Hans Daniel Jensen",
+          "personId": "10539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10539"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21909",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21909&mode=",
+      "nominees": [
+        {
+          "name": "Leon Max Lederman",
+          "personId": "10957",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10957"
+        },
+        {
+          "name": "Chien-Shiung Wu",
+          "personId": "10859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Allan Maxwell Sachs",
+          "personId": "16028",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16028"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21910",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21910&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Charles Bernard Lovell",
+          "personId": "13172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13172"
+        },
+        {
+          "name": "Martin Ryle",
+          "personId": "13171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Kolsky",
+          "personId": "16029",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16029"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21911",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21911&mode=",
+      "nominees": [
+        {
+          "name": "Erwin Wilhelm Müller",
+          "personId": "6562",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6562"
+        },
+        {
+          "name": "Ernst August Friedrich Ruska",
+          "personId": "7977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7977"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Manfred Eigen",
+          "personId": "13019",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13019"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21912",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21912&mode=",
+      "nominees": [
+        {
+          "name": "Rudolf Ernst Peierls",
+          "personId": "13272",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13272"
+        },
+        {
+          "name": "John Hasbrouck Van Vleck",
+          "personId": "9551",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9551"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erwin Louis Hahn",
+          "personId": "16030",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16030"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21913",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21913&mode=",
+      "nominees": [
+        {
+          "name": "Paul Buford Price",
+          "personId": "16031",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16031"
+        },
+        {
+          "name": "Robert Mowbray Walker",
+          "personId": "16032",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16032"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Hamilton Reynolds",
+          "personId": "13843",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13843"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21914",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21914&mode=",
+      "nominees": [
+        {
+          "name": "Bruno Benedetto Rossi",
+          "personId": "7898",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7898"
+        },
+        {
+          "name": "Martin Ryle",
+          "personId": "13171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Ceccarelli",
+          "personId": "16033",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16033"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21915",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21915&mode=",
+      "nominees": [
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        },
+        {
+          "name": "John Hasbrouck Van Vleck",
+          "personId": "9551",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9551"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Per Olov Löwdin",
+          "personId": "11156",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11156"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21916",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21916&mode=",
+      "nominees": [
+        {
+          "name": "James Van Allen",
+          "personId": "11024",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11024"
+        },
+        {
+          "name": "Robert Wilson",
+          "personId": "16034",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16034"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gilberto Bernardini",
+          "personId": "10571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10571"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21917",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21917&mode=",
+      "nominees": [
+        {
+          "name": "Viktor Amazaspovich Ambartsumian",
+          "personId": "11003",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11003"
+        },
+        {
+          "name": "Jan Hendrik Oort",
+          "personId": "10641",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10641"
+        },
+        {
+          "name": "Bengt Strömgren",
+          "personId": "15431",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15431"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean-Claude Pecker",
+          "personId": "13924",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13924"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21918",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21918&mode=",
+      "nominees": [
+        {
+          "name": "Viktor Amazaspovich Ambartsumian",
+          "personId": "11003",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11003"
+        },
+        {
+          "name": "Jan Hendrik Oort",
+          "personId": "10641",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10641"
+        },
+        {
+          "name": "Bengt Strömgren",
+          "personId": "15431",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15431"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Perrin",
+          "personId": "7134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7134"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21919",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21919&mode=",
+      "nominees": [
+        {
+          "name": "John Bardeen",
+          "personId": "10541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10541"
+        },
+        {
+          "name": "Leon Neil Cooper",
+          "personId": "11409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11409"
+        },
+        {
+          "name": "John Robert Schrieffer",
+          "personId": "11410",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11410"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21920",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21920&mode=",
+      "nominees": [
+        {
+          "name": "John Bardeen",
+          "personId": "10541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10541"
+        },
+        {
+          "name": "Leon Neil Cooper",
+          "personId": "11409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11409"
+        },
+        {
+          "name": "John Robert Schrieffer",
+          "personId": "11410",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11410"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leopoldo Máximo Falicov",
+          "personId": "16036",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16036"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21921",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21921&mode=",
+      "nominees": [
+        {
+          "name": "John Bardeen",
+          "personId": "10541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10541"
+        },
+        {
+          "name": "Leon Neil Cooper",
+          "personId": "11409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11409"
+        },
+        {
+          "name": "John Robert Schrieffer",
+          "personId": "11410",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11410"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Knight",
+          "personId": "16037",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16037"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21922",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21922&mode=",
+      "nominees": [
+        {
+          "name": "John Bardeen",
+          "personId": "10541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10541"
+        },
+        {
+          "name": "Leon Neil Cooper",
+          "personId": "11409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11409"
+        },
+        {
+          "name": "John Robert Schrieffer",
+          "personId": "11410",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11410"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Charles Marshall",
+          "personId": "14481",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14481"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21923",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21923&mode=",
+      "nominees": [
+        {
+          "name": "John Bardeen",
+          "personId": "10541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10541"
+        },
+        {
+          "name": "Leon Neil Cooper",
+          "personId": "11409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11409"
+        },
+        {
+          "name": "John Robert Schrieffer",
+          "personId": "11410",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11410"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tore Olsen",
+          "personId": "14573",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14573"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21924",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21924&mode=",
+      "nominees": [
+        {
+          "name": "John Bardeen",
+          "personId": "10541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10541"
+        },
+        {
+          "name": "Leon Neil Cooper",
+          "personId": "11409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11409"
+        },
+        {
+          "name": "John Robert Schrieffer",
+          "personId": "11410",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11410"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pekka Johannes Tarjanne",
+          "personId": "14432",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14432"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21925",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21925&mode=",
+      "nominees": [
+        {
+          "name": "Nikolai Nikolaevic Bogoljubov",
+          "personId": "10921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10921"
+        },
+        {
+          "name": "Leon Neil Cooper",
+          "personId": "11409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11409"
+        },
+        {
+          "name": "Arthur Strong Wightman",
+          "personId": "15391",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15391"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Fried",
+          "personId": "16038",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16038"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21926",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21926&mode=",
+      "nominees": [
+        {
+          "name": "Aage Niels Bohr",
+          "personId": "11404",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11404"
+        },
+        {
+          "name": "Ben Roy Mottelson",
+          "personId": "11405",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11405"
+        },
+        {
+          "name": "John Archibald Wheeler",
+          "personId": "10765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10765"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Glenn Theodore Seaborg",
+          "personId": "8323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8323"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21927",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21927&mode=",
+      "nominees": [
+        {
+          "name": "Gregory Breit",
+          "personId": "1318",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1318"
+        },
+        {
+          "name": "Rudolf Ernst Peierls",
+          "personId": "13272",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13272"
+        },
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Victor Frederick Weisskopf",
+          "personId": "10067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10067"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21928",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21928&mode=",
+      "nominees": [
+        {
+          "name": "Bertram Neville Brockhouse",
+          "personId": "14181",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14181"
+        },
+        {
+          "name": "Clifford Glenwood Shull",
+          "personId": "20067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=20067"
+        },
+        {
+          "name": "Ernest Omar Wollan",
+          "personId": "10768",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10768"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinz Maier-Leibnitz",
+          "personId": "14203",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14203"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21931",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21931&mode=",
+      "nominees": [
+        {
+          "name": "Nicholas Constantine Christofilos",
+          "personId": "13887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13887"
+        },
+        {
+          "name": "Ernest David Courant",
+          "personId": "13160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13160"
+        },
+        {
+          "name": "Milton Stanley Livingston",
+          "personId": "13161",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13161"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Chen Ning Yang",
+          "personId": "13847",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13847"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21932",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21932&mode=",
+      "nominees": [
+        {
+          "name": "Marcello Conversi",
+          "personId": "10790",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10790"
+        },
+        {
+          "name": "Adriano Gozzini",
+          "personId": "11016",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11016"
+        },
+        {
+          "name": "Alexander Tyapkin",
+          "personId": "16040",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16040"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edoardo Amaldi",
+          "personId": "398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=398"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21933",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21933&mode=",
+      "nominees": [
+        {
+          "name": "Marcello Conversi",
+          "personId": "10790",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10790"
+        },
+        {
+          "name": "Adriano Gozzini",
+          "personId": "11016",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11016"
+        },
+        {
+          "name": "Alexander Tyapkin",
+          "personId": "16040",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16040"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dmitrii Ivanovich Blokhintsev",
+          "personId": "15782",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15782"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21935",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21935&mode=",
+      "nominees": [
+        {
+          "name": "Cornelis Jacobus Gorter",
+          "personId": "3559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3559"
+        },
+        {
+          "name": "Ivar Waller",
+          "personId": "10770",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10770"
+        },
+        {
+          "name": "Yevgeny Konstantinovich Zavoisky",
+          "personId": "10860",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10860"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sergei Vasilyevich Vonsovskij",
+          "personId": "15503",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15503"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21937",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21937&mode=",
+      "nominees": [
+        {
+          "name": "Antony Hewish",
+          "personId": "15490",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15490"
+        },
+        {
+          "name": "Alfred Charles Bernard Lovell",
+          "personId": "13172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13172"
+        },
+        {
+          "name": "Martin Ryle",
+          "personId": "13171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Stevenson",
+          "personId": "13817",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13817"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21938",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21938&mode=",
+      "nominees": [
+        {
+          "name": "Leon Max Lederman",
+          "personId": "10957",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10957"
+        },
+        {
+          "name": "Melvin Schwartz",
+          "personId": "13180",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13180"
+        },
+        {
+          "name": "Jack Steinberger",
+          "personId": "13123",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13123"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bruno Ferretti",
+          "personId": "10576",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10576"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21939",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21939&mode=",
+      "nominees": [
+        {
+          "name": "Leon Max Lederman",
+          "personId": "10957",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10957"
+        },
+        {
+          "name": "Melvin Schwartz",
+          "personId": "13180",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13180"
+        },
+        {
+          "name": "Jack Steinberger",
+          "personId": "13123",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13123"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerson Goldhaber",
+          "personId": "13853",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13853"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    },
+    {
+      "nominationId": "21940",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=21940&mode=",
+      "nominees": [
+        {
+          "name": "Maarten Schmidt",
+          "personId": "16043",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16043"
+        },
+        {
+          "name": "John Archibald Wheeler",
+          "personId": "10765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10765"
+        },
+        {
+          "name": "Yakov Borisovich Zeldovich",
+          "personId": "14198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14198"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vladimir Vanysek",
+          "personId": "16044",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16044"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:57+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1971,
+  "economicsProbe": false
+}

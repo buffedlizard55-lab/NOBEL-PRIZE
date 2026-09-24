@@ -1,0 +1,2776 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901",
+  "statedCount": 137,
+  "parsedCount": 137,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "290",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=290&mode=",
+      "nominees": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Hanssen",
+          "personId": "3872",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3872"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "218",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=218&mode=",
+      "nominees": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sofus Høgsbro",
+          "personId": "4431",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4431"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "671",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=671&mode=",
+      "nominees": [
+        {
+          "name": "Conrad Beyer",
+          "personId": "981",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=981"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Jonas",
+          "personId": "4620",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4620"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "16158",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16158&mode=",
+      "nominees": [
+        {
+          "name": "Jean de Bloch",
+          "personId": "2190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2190"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rostoworowski",
+          "personId": "11877",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11877"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1183",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1183&mode=",
+      "nominees": [
+        {
+          "name": "Jean de Bloch",
+          "personId": "2190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2190"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Count Nigra",
+          "personId": "6697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1165",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1165&mode=",
+      "nominees": [
+        {
+          "name": "Jean de Bloch",
+          "personId": "2190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2190"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1135",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1135&mode=",
+      "nominees": [
+        {
+          "name": "Jean de Bloch",
+          "personId": "2190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2190"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kasparek",
+          "personId": "4725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4725"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1062",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1062&mode=",
+      "nominees": [
+        {
+          "name": "Jean de Bloch",
+          "personId": "2190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2190"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philippe Sagnac",
+          "personId": "8039",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8039"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1591",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1591&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Lammasch",
+          "personId": "5187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5187"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1586",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1586&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Austrian Inter-Parliamentary Group (Pirquet)",
+          "personId": "9061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9061"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1581",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1581&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Schönbrunn",
+          "personId": "8307",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8307"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1576",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1576&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ritter Wladimir von Gniewosz-Olexow",
+          "personId": "9766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1570",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1570&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "37 members of the Swedish parliament (Wavrinsky)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1561",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1561&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Hungarian Inter-Parliamentary Group (Apponyi)",
+          "personId": "9135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9135"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1544",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1544&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Beckman",
+          "personId": "799",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=799"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1515",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1515&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philip James Stanhope",
+          "personId": "8729",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8729"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1448",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1448&mode=",
+      "nominees": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S van Houten",
+          "personId": "9539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9539"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1984",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1984&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ritter Wladimir von Gniewosz-Olexow",
+          "personId": "9766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1982",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1982&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "August Hermann Ferdinand Goos",
+          "personId": "3552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3552"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1979",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1979&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Manuel Torres Campos",
+          "personId": "9319",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9319"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1975",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1975&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Franz von Liszt",
+          "personId": "9819",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9819"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1971",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1971&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Four members of the German Parliament",
+          "personId": "3137",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3137"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1964",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1964&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Count de Macedo",
+          "personId": "2259",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2259"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1954",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1954&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Holland",
+          "personId": "4265",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4265"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1944",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1944&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        },
+        {
+          "name": "The Institute of International Law (Institut de Droit International)",
+          "personId": "9137",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9137"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernest Lehr",
+          "personId": "5353",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5353"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1927",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1927&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Austrian Inter-Parliamentary Group (Pirquet)",
+          "personId": "9061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9061"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1897",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1897&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Hungarian Inter-Parliamentary Group (Apponyi)",
+          "personId": "9135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9135"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "1824",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1824&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Professors at the University of Louvain",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2322",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2322&mode=",
+      "nominees": [
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Jeanhenry",
+          "personId": "4571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4571"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2318",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2318&mode=",
+      "nominees": [
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lacheval",
+          "personId": "5136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5136"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2312",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2312&mode=",
+      "nominees": [
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "3 Professors at the University of Lausanne",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2304",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2304&mode=",
+      "nominees": [
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2293",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2293&mode=",
+      "nominees": [
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Morel",
+          "personId": "6418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6418"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2268",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2268&mode=",
+      "nominees": [
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ellen Robinson",
+          "personId": "7780",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7780"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2204",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2204&mode=",
+      "nominees": [
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        },
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Stein",
+          "personId": "8762",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8762"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2655",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2655&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Kleen",
+          "personId": "4886",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4886"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2654",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2654&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ole Anton Qvam",
+          "personId": "7508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7508"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2653",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2653&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "3 professors at the University of Brussels",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2652",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2652&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "24 members of the Würtemberg Parliament (House of Deputies)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2650",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2650&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2646",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2646&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "40 members of the Württemberg parliament (House of Deputies)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2641",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2641&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "92 members of the Swedish Parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2631",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2631&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "7 professors at the University of Amsterdam",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2607",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2607&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Elias Sunde",
+          "personId": "8899",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8899"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2539",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2539&mode=",
+      "nominees": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Getz",
+          "personId": "3407",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3407"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "2873",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2873&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "3205",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3205&mode=",
+      "nominees": [
+        {
+          "name": "Charles Albert Gobat",
+          "personId": "3493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Theodor Lund",
+          "personId": "5697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "3530",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3530&mode=",
+      "nominees": [
+        {
+          "name": "Jan Jacob Lodewijk ten Kate",
+          "personId": "5567",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5567"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "3893",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3893&mode=",
+      "nominees": [
+        {
+          "name": "Edouard Linker",
+          "personId": "5524",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5524"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Vutkovitch",
+          "personId": "9913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9913"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "4276",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4276&mode=",
+      "nominees": [
+        {
+          "name": "Eduard Loewenthal",
+          "personId": "5580",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5580"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hernes",
+          "personId": "4088",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4088"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "4212",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4212&mode=",
+      "nominees": [
+        {
+          "name": "Eduard Loewenthal",
+          "personId": "5580",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5580"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Traeger",
+          "personId": "9328",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9328"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "4557",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4557&mode=",
+      "nominees": [
+        {
+          "name": "Belva Ann Lockwood",
+          "personId": "5562",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5562"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Member of the US Senate",
+          "personId": "6120",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6120"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "4972",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4972&mode=",
+      "nominees": [
+        {
+          "name": "Fyodor Fyodorovich (Frédéric) Martens",
+          "personId": "5939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5939"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Professors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "4948",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4948&mode=",
+      "nominees": [
+        {
+          "name": "Fyodor Fyodorovich (Frédéric) Martens",
+          "personId": "5939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5939"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edgard Rouard de Card",
+          "personId": "7917",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7917"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "4888",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4888&mode=",
+      "nominees": [
+        {
+          "name": "Fyodor Fyodorovich (Frédéric) Martens",
+          "personId": "5939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5939"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Matzen",
+          "personId": "6003",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6003"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "5203",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5203&mode=",
+      "nominees": [
+        {
+          "name": "Gustave Moynier",
+          "personId": "6490",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6490"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Kleen",
+          "personId": "4886",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4886"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "5521",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5521&mode=",
+      "nominees": [
+        {
+          "name": "Arthur Mühlberger",
+          "personId": "6545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6545"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Friedrich Haussmann",
+          "personId": "3953",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3953"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "5945",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5945&mode=",
+      "nominees": [
+        {
+          "name": "Czar Nikolai II of Russia",
+          "personId": "2073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Schönbrunn",
+          "personId": "8307",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8307"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "5940",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5940&mode=",
+      "nominees": [
+        {
+          "name": "Czar Nikolai II of Russia",
+          "personId": "2073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Austrian Inter-Parliamentary Group (Pirquet)",
+          "personId": "9061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9061"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "5933",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5933&mode=",
+      "nominees": [
+        {
+          "name": "Czar Nikolai II of Russia",
+          "personId": "2073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Count Nigra",
+          "personId": "6697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "5916",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5916&mode=",
+      "nominees": [
+        {
+          "name": "Czar Nikolai II of Russia",
+          "personId": "2073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Lammasch",
+          "personId": "5187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5187"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "5859",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5859&mode=",
+      "nominees": [
+        {
+          "name": "Czar Nikolai II of Russia",
+          "personId": "2073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ritter Wladimir von Gniewosz-Olexow",
+          "personId": "9766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6147",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6147&mode=",
+      "nominees": [
+        {
+          "name": "Beniamino Pandolfi",
+          "personId": "6965",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6965"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Italian Inter-Parliamentary Group",
+          "personId": "9151",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9151"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6627",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6627&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Jeanhenry",
+          "personId": "4571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4571"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6626",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6626&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "5 members of the Swedish parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6625",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6625&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Schönbrunn",
+          "personId": "8307",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8307"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6624",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6624&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Austrian Inter-Parliamentary Group (Pirquet)",
+          "personId": "9061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9061"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6623",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6623&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Count Nigra",
+          "personId": "6697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6622",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6622&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Lammasch",
+          "personId": "5187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5187"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6621",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6621&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ritter Wladimir von Gniewosz-Olexow",
+          "personId": "9766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6620",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6620&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        },
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "37 members of the Swedish parliament (Wavrinsky)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6619",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6619&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S van Houten",
+          "personId": "9539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9539"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6618",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6618&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Michel Kebedgy",
+          "personId": "4750",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4750"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6617",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6617&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacques Novikow",
+          "personId": "6773",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6773"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6616",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6616&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sofus Høgsbro",
+          "personId": "4431",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4431"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6615",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6615&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Lainez",
+          "personId": "5168",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5168"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6614",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6614&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Hedin",
+          "personId": "3979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3979"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6612",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6612&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Hanssen",
+          "personId": "3872",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3872"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6610",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6610&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jules Clère",
+          "personId": "1843",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1843"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6608",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6608&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Beckman",
+          "personId": "799",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=799"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6606",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6606&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "Fyodor Fyodorovich (Frédéric) Martens",
+          "personId": "5939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5939"
+        },
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Professors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6604",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6604&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6602",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6602&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6600",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6600&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Morel",
+          "personId": "6418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6418"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6598",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6598&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6594",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6594&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sebastião Magalhães Lima",
+          "personId": "5804",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5804"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6590",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6590&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Marie La Fontaine",
+          "personId": "5125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5125"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6586",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6586&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6582",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6582&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Count von Bothmer",
+          "personId": "1998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1998"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6575",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6575&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        },
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        },
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Hungarian Inter-Parliamentary Group (Apponyi)",
+          "personId": "9135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9135"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6568",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6568&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6548",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6548&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the French parliament (Labiche, Trarieux and others)",
+          "personId": "6142",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6142"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6491",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6491&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of Académie des sciences politiques et morales",
+          "personId": "6121",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6121"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "6812",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6812&mode=",
+      "nominees": [
+        {
+          "name": "Julian Pauncefote of Preston (1st Baron Pauncefote)",
+          "personId": "7048",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7048"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Theodor Lund",
+          "personId": "5697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "7105",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7105&mode=",
+      "nominees": [
+        {
+          "name": "Policarpo Petrochi",
+          "personId": "7180",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7180"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Chiapelli",
+          "personId": "1764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1764"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "7370",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7370&mode=",
+      "nominees": [
+        {
+          "name": "N Pierlin",
+          "personId": "7238",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7238"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Allemane",
+          "personId": "374",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=374"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "7607",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7607&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Richter",
+          "personId": "7720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7720"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "24 members of the Würtemberg Parliament (House of Deputies)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "7847",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7847&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Spencer",
+          "personId": "8690",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8690"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "V Hilty",
+          "personId": "4184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8130",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8130&mode=",
+      "nominees": [
+        {
+          "name": "William Thomas Stead",
+          "personId": "8750",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8750"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Theodor Lund",
+          "personId": "5697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8432",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8432&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Schönbrunn",
+          "personId": "8307",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8307"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8429",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8429&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Count Nigra",
+          "personId": "6697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8426",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8426&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Lammasch",
+          "personId": "5187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5187"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8423",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8423&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ritter Wladimir von Gniewosz-Olexow",
+          "personId": "9766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8420",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8420&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Austrian Inter-Parliamentary Group (Pirquet)",
+          "personId": "9061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9061"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8417",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8417&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        },
+        {
+          "name": "Fyodor Fyodorovich (Frédéric) Martens",
+          "personId": "5939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5939"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Professors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8413",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8413&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8407",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8407&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        },
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Hungarian Inter-Parliamentary Group (Apponyi)",
+          "personId": "9135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9135"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8395",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8395&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "François Kemény",
+          "personId": "4782",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4782"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8357",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8357&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Rahnsen",
+          "personId": "7527",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7527"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8590",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8590&mode=",
+      "nominees": [
+        {
+          "name": "Lev Nikolaevich (Leo) Tolstoy",
+          "personId": "9303",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9303"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "V Hilty",
+          "personId": "4184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "8869",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8869&mode=",
+      "nominees": [
+        {
+          "name": "(Gaetano) Umano (Meale)",
+          "personId": "9437",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9437"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Malachia de Christoforis",
+          "personId": "2215",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2215"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9049",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9049&mode=",
+      "nominees": [
+        {
+          "name": "Otto Umfrid",
+          "personId": "9438",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9438"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "24 members of the Würtemberg Parliament (House of Deputies)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9205",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9205&mode=",
+      "nominees": [
+        {
+          "name": "Louis Léger Vauthier",
+          "personId": "19301",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=19301"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Pajot",
+          "personId": "6952",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6952"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9410",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9410&mode=",
+      "nominees": [
+        {
+          "name": "The Institute of International Law (Institut de Droit International)",
+          "personId": "9137",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9137"
+        },
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernest Lehr",
+          "personId": "5353",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5353"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9381",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9381&mode=",
+      "nominees": [
+        {
+          "name": "The Institute of International Law (Institut de Droit International)",
+          "personId": "9137",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9137"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Kleen",
+          "personId": "4886",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4886"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9555",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9555&mode=",
+      "nominees": [
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Martin",
+          "personId": "5943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5943"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9742",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9742&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Albert Gobat",
+          "personId": "3493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3493"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9740",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9740&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugène Richard",
+          "personId": "7700",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7700"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9738",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9738&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Theodor Lund",
+          "personId": "5697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9735",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9735&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Jakob Horst",
+          "personId": "4312",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4312"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9732",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9732&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Hirsch",
+          "personId": "4206",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4206"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9729",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9729&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig von Bar",
+          "personId": "9716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9722",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9722&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Portuguese Inter-Parliamentary Group",
+          "personId": "9177",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9177"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9713",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9713&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Belgian Inter-Parliamentary Group",
+          "personId": "9064",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9064"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9690",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9690&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The US Inter-Parliamentary Group",
+          "personId": "9198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9198"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9848",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9848&mode=",
+      "nominees": [
+        {
+          "name": "The English Peace Society",
+          "personId": "9090",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9090"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Evans Darby",
+          "personId": "2134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2134"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10017",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10017&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Jeanhenry",
+          "personId": "4571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4571"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10016",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10016&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10015",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10015&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10014",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10014&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Morel",
+          "personId": "6418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6418"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10012",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10012&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        },
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Stein",
+          "personId": "8762",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8762"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10010",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10010&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Émile Arnaud",
+          "personId": "492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=492"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10008",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10008&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10006",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10006&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hodgson Pratt",
+          "personId": "7393",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7393"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10001",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10001&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        },
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        },
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "37 members of the Swedish parliament (Wavrinsky)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "9978",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9978&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon de Montluc",
+          "personId": "2276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    },
+    {
+      "nominationId": "10107",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10107&mode=",
+      "nominees": [
+        {
+          "name": "Societá interregionale per la pace, Unione Lombarda",
+          "personId": "8639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8639"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edoardo Porra",
+          "personId": "7358",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7358"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:16+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1901,
+  "economicsProbe": false
+}

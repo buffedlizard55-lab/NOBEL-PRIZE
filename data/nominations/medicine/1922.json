@@ -1,0 +1,1269 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922",
+  "statedCount": 86,
+  "parsedCount": 64,
+  "countMatchesStated": false,
+  "nominations": [
+    {
+      "nominationId": "7301",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7301&mode=",
+      "nominees": [
+        {
+          "name": "Constantin Levaditi",
+          "personId": "5418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5418"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Bruynoghe",
+          "personId": "1407",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1407"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "7545",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7545&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Henkel",
+          "personId": "4051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4051"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "7781",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7781&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Röntgen",
+          "personId": "8006",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8006"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Naunyn",
+          "personId": "6616",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6616"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "8069",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8069&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Biedermann",
+          "personId": "998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=998"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "8392",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8392&mode=",
+      "nominees": [
+        {
+          "name": "Fernand Widal",
+          "personId": "10147",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10147"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Robert Richet",
+          "personId": "7718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7718"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "8353",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8353&mode=",
+      "nominees": [
+        {
+          "name": "Maurice Arthus",
+          "personId": "515",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=515"
+        },
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        },
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Robert Richet",
+          "personId": "7718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7718"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "8535",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8535&mode=",
+      "nominees": [
+        {
+          "name": "Viktor von Ebner",
+          "personId": "9735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9735"
+        },
+        {
+          "name": "Wilhelm Roux",
+          "personId": "7934",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7934"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Pommer",
+          "personId": "7332",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7332"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "8913",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8913&mode=",
+      "nominees": [
+        {
+          "name": "Cécile Vogt",
+          "personId": "9688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9688"
+        },
+        {
+          "name": "Oskar Vogt",
+          "personId": "9692",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9692"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Holmgren",
+          "personId": "4276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "8901",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8901&mode=",
+      "nominees": [
+        {
+          "name": "Cécile Vogt",
+          "personId": "9688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9688"
+        },
+        {
+          "name": "Oskar Vogt",
+          "personId": "9692",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9692"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Bergmark",
+          "personId": "913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=913"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "8867",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8867&mode=",
+      "nominees": [
+        {
+          "name": "Cécile Vogt",
+          "personId": "9688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9688"
+        },
+        {
+          "name": "Oskar Vogt",
+          "personId": "9692",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9692"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Bárány",
+          "personId": "686",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=686"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "8999",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8999&mode=",
+      "nominees": [
+        {
+          "name": "Maurice Arthus",
+          "personId": "515",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=515"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Malengreau",
+          "personId": "5839",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5839"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "9157",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9157&mode=",
+      "nominees": [
+        {
+          "name": "Benjamin Lipschütz",
+          "personId": "5535",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5535"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Merk",
+          "personId": "6194",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6194"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "9335",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9335&mode=",
+      "nominees": [
+        {
+          "name": "Heinrich Quincke",
+          "personId": "7507",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7507"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Müller",
+          "personId": "6554",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6554"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "9517",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9517&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Simon Flexner",
+          "personId": "3065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3065"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "9649",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9649&mode=",
+      "nominees": [
+        {
+          "name": "Carl Flügge",
+          "personId": "3076",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3076"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Gins",
+          "personId": "3458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3458"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "9808",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9808&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Perthes",
+          "personId": "7143",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7143"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "9941",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9941&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Mönckeberg",
+          "personId": "6574",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6574"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10069",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10069&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kurt Wolf",
+          "personId": "10284",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10284"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10186",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10186&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martin Heidenhain",
+          "personId": "3998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3998"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10303",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10303&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Gaupp",
+          "personId": "3359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3359"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10400",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10400&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Mayer",
+          "personId": "6015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6015"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10503",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10503&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Trendelenburg",
+          "personId": "9344",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9344"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10586",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10586&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wolfgang Stock",
+          "personId": "8801",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8801"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10672",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10672&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otfried Müller",
+          "personId": "6555",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6555"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10752",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10752&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Wilson",
+          "personId": "10225",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10225"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10827",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10827&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Jacobj",
+          "personId": "4518",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4518"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10912",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10912&mode=",
+      "nominees": [
+        {
+          "name": "Eugen Steinach",
+          "personId": "8765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8765"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Yasusaburo Sakaki",
+          "personId": "8050",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8050"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "10996",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10996&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jay Schamberg",
+          "personId": "8141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8141"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16309",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16309&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Zeeman",
+          "personId": "10387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10387"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16308",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16308&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Mendes da Costa",
+          "personId": "11975",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11975"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16307",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16307&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Ruitinga",
+          "personId": "7966",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7966"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16306",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16306&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "O Lanz",
+          "personId": "11807",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11807"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16305",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16305&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W de Vries",
+          "personId": "2310",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2310"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16304",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16304&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Burger",
+          "personId": "11804",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11804"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16303",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16303&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Louis Bolk",
+          "personId": "1129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1129"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16302",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16302&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A.H. van Rooy",
+          "personId": "11800",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11800"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16301",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16301&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Bouman",
+          "personId": "1229",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1229"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16300",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16300&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J van Loghem",
+          "personId": "11806",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11806"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16299",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16299&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Noordenboos",
+          "personId": "11973",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11973"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16298",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16298&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J van Rees",
+          "personId": "11972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11972"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "16297",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16297&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J de Bruin",
+          "personId": "11976",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11976"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11105",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11105&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "I Snapper",
+          "personId": "8630",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8630"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11100",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11100&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Louis Bolk",
+          "personId": "1129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1129"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11070",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11070&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Wertheim Salomonsen",
+          "personId": "10093",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10093"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11140",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11140&mode=",
+      "nominees": [
+        {
+          "name": "Albert Calmette",
+          "personId": "1548",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1548"
+        },
+        {
+          "name": "Camille Delezenne",
+          "personId": "2353",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2353"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jules Bordet",
+          "personId": "1172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1172"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11201",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11201&mode=",
+      "nominees": [
+        {
+          "name": "David Bruce",
+          "personId": "1385",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1385"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alphonse Laveran",
+          "personId": "5279",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5279"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11263",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11263&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Roux",
+          "personId": "7934",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7934"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Ipsen",
+          "personId": "4484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4484"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11323",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11323&mode=",
+      "nominees": [
+        {
+          "name": "Barthélemy Gosio",
+          "personId": "3564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3564"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pietro Canalis",
+          "personId": "1574",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1574"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11385",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11385&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexis Carrel",
+          "personId": "1621",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1621"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11444",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11444&mode=",
+      "nominees": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Grosser",
+          "personId": "3661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3661"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11504",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11504&mode=",
+      "nominees": [
+        {
+          "name": "Albert Calmette",
+          "personId": "1548",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1548"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Renardet",
+          "personId": "7651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7651"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11556",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11556&mode=",
+      "nominees": [
+        {
+          "name": "Leonardo Bianchi",
+          "personId": "989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=989"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Enrico Morselli",
+          "personId": "6448",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6448"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11609",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11609&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Fibiger",
+          "personId": "2978",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2978"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Rössle",
+          "personId": "8010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8010"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11663",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11663&mode=",
+      "nominees": [
+        {
+          "name": "Heinrich Bechhold",
+          "personId": "788",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=788"
+        },
+        {
+          "name": "Edward Kendall",
+          "personId": "4789",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4789"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Zeynek",
+          "personId": "10402",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10402"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11716",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11716&mode=",
+      "nominees": [
+        {
+          "name": "Guide Banti",
+          "personId": "679",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=679"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dante Pacchioni",
+          "personId": "6939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6939"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11766",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11766&mode=",
+      "nominees": [
+        {
+          "name": "August von Wassermann",
+          "personId": "9887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9887"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Otto",
+          "personId": "6920",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6920"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11823",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11823&mode=",
+      "nominees": [
+        {
+          "name": "August von Wassermann",
+          "personId": "9887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9887"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Julius Morgenroth",
+          "personId": "6431",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6431"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11876",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11876&mode=",
+      "nominees": [
+        {
+          "name": "Heinrich Quincke",
+          "personId": "7507",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7507"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Stintzing",
+          "personId": "8795",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8795"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11960",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11960&mode=",
+      "nominees": [
+        {
+          "name": "Salomon Henschen",
+          "personId": "4067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4067"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Einar Sjövall",
+          "personId": "8569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8569"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11957",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11957&mode=",
+      "nominees": [
+        {
+          "name": "Salomon Henschen",
+          "personId": "4067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4067"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Fürst",
+          "personId": "3280",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3280"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "11981",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11981&mode=",
+      "nominees": [
+        {
+          "name": "Rudolf Magnus",
+          "personId": "5811",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5811"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Laqueur",
+          "personId": "5235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5235"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "12026",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12026&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Lockemann",
+          "personId": "5558",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5558"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "12074",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12074&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Macdonald",
+          "personId": "5755",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5755"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    },
+    {
+      "nominationId": "12120",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12120&mode=",
+      "nominees": [
+        {
+          "name": "Karl Landsteiner",
+          "personId": "5205",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5205"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Pettersson",
+          "personId": "7184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:58:26+00:00",
+  "httpStatus": 200,
+  "category": "medicine",
+  "year": 1922,
+  "economicsProbe": false
+}

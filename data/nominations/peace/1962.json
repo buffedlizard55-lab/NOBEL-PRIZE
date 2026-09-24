@@ -1,0 +1,1516 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962",
+  "statedCount": 77,
+  "parsedCount": 77,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "16981",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16981&mode=",
+      "nominees": [
+        {
+          "name": "Charles Alexandrowicz",
+          "personId": "11601",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11601"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "T Rama Rao",
+          "personId": "12762",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12762"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16982",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16982&mode=",
+      "nominees": [
+        {
+          "name": "Vinoba Bhave",
+          "personId": "11603",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11603"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dominique Pire",
+          "personId": "11432",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11432"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16983",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16983&mode=",
+      "nominees": [
+        {
+          "name": "Charles Braibant",
+          "personId": "11533",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11533"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "René Pleven",
+          "personId": "11483",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11483"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16984",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16984&mode=",
+      "nominees": [
+        {
+          "name": "Fenner Brockway",
+          "personId": "11605",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11605"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Judith Hart",
+          "personId": "12765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12765"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16985",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16985&mode=",
+      "nominees": [
+        {
+          "name": "Frederick Burdick",
+          "personId": "11450",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11450"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Leonard Pilcher",
+          "personId": "11535",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11535"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16986",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16986&mode=",
+      "nominees": [
+        {
+          "name": "Frederick Burdick",
+          "personId": "11450",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11450"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kenneth Gray",
+          "personId": "12766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16987",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16987&mode=",
+      "nominees": [
+        {
+          "name": "Clark Grenville",
+          "personId": "12767",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12767"
+        },
+        {
+          "name": "Louis Sohn",
+          "personId": "11506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11506"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Julian Boyd",
+          "personId": "11510",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11510"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16988",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16988&mode=",
+      "nominees": [
+        {
+          "name": "Clark Grenville",
+          "personId": "12767",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12767"
+        },
+        {
+          "name": "Louis Sohn",
+          "personId": "11506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11506"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Foster",
+          "personId": "12768",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12768"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16989",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16989&mode=",
+      "nominees": [
+        {
+          "name": "Clark Grenville",
+          "personId": "12767",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12767"
+        },
+        {
+          "name": "Louis Sohn",
+          "personId": "11506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11506"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Chuter Ede",
+          "personId": "12769",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12769"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16990",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16990&mode=",
+      "nominees": [
+        {
+          "name": "Clark Grenville",
+          "personId": "12767",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12767"
+        },
+        {
+          "name": "Louis Sohn",
+          "personId": "11506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11506"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "3 Members of the Norwegian Storting",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16991",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16991&mode=",
+      "nominees": [
+        {
+          "name": "Clark Grenville",
+          "personId": "12767",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12767"
+        },
+        {
+          "name": "Louis Sohn",
+          "personId": "11506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11506"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hugo Oswald",
+          "personId": "11626",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11626"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16992",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16992&mode=",
+      "nominees": [
+        {
+          "name": "Clark Grenville",
+          "personId": "12767",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12767"
+        },
+        {
+          "name": "Louis Sohn",
+          "personId": "11506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11506"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Several Members of The House of Commons",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16993",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16993&mode=",
+      "nominees": [
+        {
+          "name": "Clark Grenville",
+          "personId": "12767",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12767"
+        },
+        {
+          "name": "Louis Sohn",
+          "personId": "11506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11506"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gordon Chown",
+          "personId": "12773",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12773"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16994",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16994&mode=",
+      "nominees": [
+        {
+          "name": "Walter Robert Corti",
+          "personId": "1973",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1973"
+        },
+        {
+          "name": "Théodore Eugène César Ruyssen",
+          "personId": "7992",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7992"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Wehberg",
+          "personId": "10043",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10043"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16995",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16995&mode=",
+      "nominees": [
+        {
+          "name": "Norman Cousins",
+          "personId": "11464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11464"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "American Friends Service Committee",
+          "personId": "407",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=407"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16996",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16996&mode=",
+      "nominees": [
+        {
+          "name": "Emile Dreyfus",
+          "personId": "2539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2539"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Brechbühl",
+          "personId": "11469",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11469"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16997",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16997&mode=",
+      "nominees": [
+        {
+          "name": "Cyrus Eaton",
+          "personId": "11543",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11543"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Boyd Orr of Brechin",
+          "personId": "1260",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1260"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16998",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16998&mode=",
+      "nominees": [
+        {
+          "name": "Cyrus Eaton",
+          "personId": "11543",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11543"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jennings Randolph",
+          "personId": "11546",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11546"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "16999",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16999&mode=",
+      "nominees": [
+        {
+          "name": "James William Fulbright",
+          "personId": "3269",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3269"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "David Dean Rusk",
+          "personId": "12775",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12775"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17000",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17000&mode=",
+      "nominees": [
+        {
+          "name": "Boris Gourevitch",
+          "personId": "11424",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11424"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert McIver",
+          "personId": "11425",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11425"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17001",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17001&mode=",
+      "nominees": [
+        {
+          "name": "Mrs. Alexander Hadden",
+          "personId": "12776",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12776"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Åke Sandler",
+          "personId": "11492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11492"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17002",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17002&mode=",
+      "nominees": [
+        {
+          "name": "Lotta Hitchmanova",
+          "personId": "11642",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11642"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Smith",
+          "personId": "11643",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11643"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17003",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17003&mode=",
+      "nominees": [
+        {
+          "name": "Salvatore Jaquinto",
+          "personId": "11645",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11645"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Domenico Colasanto",
+          "personId": "12777",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12777"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17004",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17004&mode=",
+      "nominees": [
+        {
+          "name": "Eli Stanley Jones",
+          "personId": "12778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thorvald Kållstad",
+          "personId": "12779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12779"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17006",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17006&mode=",
+      "nominees": [
+        {
+          "name": "Urho Kekkonen",
+          "personId": "4771",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4771"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "4 members of the Government of Finland",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17005",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17005&mode=",
+      "nominees": [
+        {
+          "name": "Urho Kekkonen",
+          "personId": "4771",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4771"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martti Miettunen",
+          "personId": "12780",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12780"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17007",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17007&mode=",
+      "nominees": [
+        {
+          "name": "John Kennedy",
+          "personId": "12784",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12784"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Joachim Hambro",
+          "personId": "3830",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3830"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17010",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17010&mode=",
+      "nominees": [
+        {
+          "name": "Gertrud Kurz-Hohl",
+          "personId": "11647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Chaudet",
+          "personId": "12786",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12786"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17009",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17009&mode=",
+      "nominees": [
+        {
+          "name": "Gertrud Kurz-Hohl",
+          "personId": "11647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Peter Schneider",
+          "personId": "12806",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12806"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17008",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17008&mode=",
+      "nominees": [
+        {
+          "name": "Gertrud Kurz-Hohl",
+          "personId": "11647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Peter Noll",
+          "personId": "12785",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12785"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17011",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17011&mode=",
+      "nominees": [
+        {
+          "name": "Trygve Halvdan Lie",
+          "personId": "5465",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5465"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "4 Members of the Norwegian Storting",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17012",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17012&mode=",
+      "nominees": [
+        {
+          "name": "Charles Lutz",
+          "personId": "11701",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11701"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Izhak Ben-Zwi",
+          "personId": "12787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12787"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17014",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17014&mode=",
+      "nominees": [
+        {
+          "name": "Raja Manikan",
+          "personId": "12788",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12788"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "David Svenungsson",
+          "personId": "12790",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12790"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17013",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17013&mode=",
+      "nominees": [
+        {
+          "name": "Raja Manikan",
+          "personId": "12788",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12788"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Åke Zetterberg",
+          "personId": "12789",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12789"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17015",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17015&mode=",
+      "nominees": [
+        {
+          "name": "Giulia Scappino Murena",
+          "personId": "11705",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11705"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ugo Redano",
+          "personId": "11706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11706"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17016",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17016&mode=",
+      "nominees": [
+        {
+          "name": "Basil O´Connor",
+          "personId": "11573",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11573"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacob Javitz",
+          "personId": "11488",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11488"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17017",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17017&mode=",
+      "nominees": [
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gunnar Garbo",
+          "personId": "12791",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12791"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17018",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17018&mode=",
+      "nominees": [
+        {
+          "name": "Charles Richet",
+          "personId": "13689",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13689"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Durbet",
+          "personId": "12792",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12792"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17019",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17019&mode=",
+      "nominees": [
+        {
+          "name": "Anna Eleanor Roosevelt",
+          "personId": "7854",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7854"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Fitts Ryan",
+          "personId": "12793",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12793"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17020",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17020&mode=",
+      "nominees": [
+        {
+          "name": "Anna Eleanor Roosevelt",
+          "personId": "7854",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7854"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Kennedy",
+          "personId": "12784",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12784"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17021",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17021&mode=",
+      "nominees": [
+        {
+          "name": "Luigi Spinelli",
+          "personId": "11712",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11712"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gennaro Papa",
+          "personId": "12794",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12794"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17022",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17022&mode=",
+      "nominees": [
+        {
+          "name": "Clarence Streit",
+          "personId": "8837",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8837"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ralph Norman Angell Lane",
+          "personId": "449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=449"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17023",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17023&mode=",
+      "nominees": [
+        {
+          "name": "Clarence Streit",
+          "personId": "8837",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8837"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Estes Kefauer",
+          "personId": "4760",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4760"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17024",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17024&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Ude",
+          "personId": "9425",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9425"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Konstantin Radakovic",
+          "personId": "7518",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7518"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17025",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17025&mode=",
+      "nominees": [
+        {
+          "name": "Fritz von Unruh",
+          "personId": "12795",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12795"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Tiburtius",
+          "personId": "12796",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12796"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17026",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17026&mode=",
+      "nominees": [
+        {
+          "name": "The International Commission of Jurists",
+          "personId": "12797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12797"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edvard Hambro",
+          "personId": "12798",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12798"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17027",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17027&mode=",
+      "nominees": [
+        {
+          "name": "Moral Re-Armament (MRA)",
+          "personId": "12799",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12799"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eiliv Skard",
+          "personId": "8571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8571"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17028",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17028&mode=",
+      "nominees": [
+        {
+          "name": "Rockefeller Foundation",
+          "personId": "12800",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12800"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A number of members of the Swedish Parliament",
+          "personId": "11497",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11497"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17029",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17029&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Simon Ramanjatova",
+          "personId": "12801",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12801"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17030",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17030&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Takashi Takayama",
+          "personId": "12805",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12805"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17031",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17031&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oscar Secco Ellauri",
+          "personId": "12802",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12802"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17032",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17032&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the Dutch parliament",
+          "personId": "11677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11677"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17033",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17033&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cleto Carbonara",
+          "personId": "11684",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11684"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17035",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17035&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Konrad Nordahl",
+          "personId": "12804",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12804"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17034",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17034&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Aase Bjerkholt",
+          "personId": "12803",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12803"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17036",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17036&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Miguel Izquierdo",
+          "personId": "12807",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12807"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17037",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17037&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ivan Ribar",
+          "personId": "11680",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11680"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17038",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17038&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlo Giacon",
+          "personId": "11679",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11679"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17039",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17039&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giuseppe de Arcais",
+          "personId": "12808",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12808"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17040",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17040&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vladislav Brajkovic",
+          "personId": "12001",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12001"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17041",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17041&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Gunasekera",
+          "personId": "12809",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12809"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17042",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17042&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Guido Lucatello",
+          "personId": "12810",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12810"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17043",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17043&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugène Montel",
+          "personId": "12811",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12811"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17045",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17045&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "2 French Senators",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17044",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17044&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "André Méric",
+          "personId": "11673",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11673"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17046",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17046&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Ourliac",
+          "personId": "12812",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12812"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17047",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17047&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mun Hui-Soh",
+          "personId": "12813",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12813"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17048",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17048&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antoni Bonadico",
+          "personId": "12814",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12814"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17049",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17049&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gonario Pinna",
+          "personId": "11691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11691"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17050",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17050&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "José Costales",
+          "personId": "12815",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12815"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17051",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17051&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Renzo Pigni",
+          "personId": "12821",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12821"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17052",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17052&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Elias Serra Rafols",
+          "personId": "12816",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12816"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17053",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17053&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Donald Brinkmann",
+          "personId": "12817",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12817"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17054",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17054&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "2 members of the Dutch Parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17055",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17055&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Guy Mollet",
+          "personId": "11696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11696"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17056",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17056&mode=",
+      "nominees": [
+        {
+          "name": "World Veterans Federation (Fédération Mondiale des Anciens Combattants)",
+          "personId": "13005",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13005"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vittorio Badini-Confalonieri",
+          "personId": "12818",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12818"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    },
+    {
+      "nominationId": "17057",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17057&mode=",
+      "nominees": [
+        {
+          "name": "Youth Aliyah Organisation",
+          "personId": "12823",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12823"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A number of members of Knesset",
+          "personId": "12824",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12824"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:01:07+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1962,
+  "economicsProbe": false
+}

@@ -1,0 +1,541 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905",
+  "statedCount": 27,
+  "parsedCount": 27,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "6",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Abbe",
+          "personId": "276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=276"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Winkelmann",
+          "personId": "10245",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10245"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "457",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=457&mode=",
+      "nominees": [
+        {
+          "name": "René Blondlot",
+          "personId": "1084",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1084"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Bouchard",
+          "personId": "1217",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1217"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "853",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=853&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Boltzmann",
+          "personId": "1133",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1133"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Planck",
+          "personId": "7283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7283"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "1235",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1235&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Braun",
+          "personId": "1298",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1298"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Quincke",
+          "personId": "7505",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7505"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "1611",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1611&mode=",
+      "nominees": [
+        {
+          "name": "James Dewar",
+          "personId": "2412",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2412"
+        },
+        {
+          "name": "Petr Lebedev",
+          "personId": "5320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5320"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Orest Khvol´son",
+          "personId": "4827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4827"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "1988",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1988&mode=",
+      "nominees": [
+        {
+          "name": "Julius Elster",
+          "personId": "2773",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2773"
+        },
+        {
+          "name": "Hans Geitel",
+          "personId": "3380",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3380"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf von Baeyer",
+          "personId": "9713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9713"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "2327",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2327&mode=",
+      "nominees": [
+        {
+          "name": "Oliver Heaviside",
+          "personId": "3972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3972"
+        },
+        {
+          "name": "Philipp E.A. v. Lenard",
+          "personId": "5373",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5373"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "2660",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2660&mode=",
+      "nominees": [
+        {
+          "name": "Heinrich Kayser",
+          "personId": "4746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4746"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Julius",
+          "personId": "4657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4657"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "2995",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2995&mode=",
+      "nominees": [
+        {
+          "name": "Friedrich Kohlrausch",
+          "personId": "4958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4958"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Warburg",
+          "personId": "9978",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9978"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "3320",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3320&mode=",
+      "nominees": [
+        {
+          "name": "Philipp E.A. v. Lenard",
+          "personId": "5373",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5373"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "3683",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3683&mode=",
+      "nominees": [
+        {
+          "name": "Gabriel Lippmann",
+          "personId": "5533",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5533"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marcellin Berthelot",
+          "personId": "949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=949"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "4000",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4000&mode=",
+      "nominees": [
+        {
+          "name": "Gabriel Lippmann",
+          "personId": "5533",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5533"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edmond Bouty",
+          "personId": "1246",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1246"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "4346",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4346&mode=",
+      "nominees": [
+        {
+          "name": "Gabriel Lippmann",
+          "personId": "5533",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5533"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Pellat",
+          "personId": "7089",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7089"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "4684",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4684&mode=",
+      "nominees": [
+        {
+          "name": "Augusto Righi",
+          "personId": "7738",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7738"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Poincaré",
+          "personId": "7313",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7313"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "4997",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4997&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marie Curie",
+          "personId": "2051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2051"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "5320",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5320&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pierre Curie",
+          "personId": "2053",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2053"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "5661",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5661&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Norman Lockyer",
+          "personId": "5563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5563"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "5955",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5955&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oliver Lodge",
+          "personId": "5569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5569"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "6302",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6302&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Lubbock",
+          "personId": "5670",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5670"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "6632",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6632&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "6936",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6936&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Strutt, Lord Rayleigh",
+          "personId": "8852",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8852"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "7205",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7205&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Silvanus Thompson",
+          "personId": "9234",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9234"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "7450",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7450&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Thomson, Lord Kelvin",
+          "personId": "9249",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9249"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "7688",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7688&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William White",
+          "personId": "10141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10141"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "7979",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7979&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri du Bois",
+          "personId": "2553",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2553"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "8216",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8216&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hendrik Lorentz",
+          "personId": "5636",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5636"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    },
+    {
+      "nominationId": "8448",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8448&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Thomson",
+          "personId": "9247",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9247"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Röntgen",
+          "personId": "8006",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8006"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:05+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1905,
+  "economicsProbe": false
+}

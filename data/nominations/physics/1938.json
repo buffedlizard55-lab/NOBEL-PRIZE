@@ -1,0 +1,543 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938",
+  "statedCount": 25,
+  "parsedCount": 25,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "36",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=36&mode=",
+      "nominees": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "488",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=488&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugen Badarau",
+          "personId": "613",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=613"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "882",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=882&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Prince Louis-Victor de Broglie",
+          "personId": "2200",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2200"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "1265",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1265&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice de Broglie",
+          "personId": "2198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2198"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "1641",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1641&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Compton",
+          "personId": "1918",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1918"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "2018",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2018&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "2357",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2357&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Yakov (Jacov) Frenkel",
+          "personId": "3206",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3206"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "2690",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2690&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Owen Richardson",
+          "personId": "7710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "3026",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3026&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Paget Thomson",
+          "personId": "9242",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9242"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "3350",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3350&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Laureto Tieri",
+          "personId": "9264",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9264"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "3712",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3712&mode=",
+      "nominees": [
+        {
+          "name": "Wander de Haas",
+          "personId": "2230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2230"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pieter Zeeman",
+          "personId": "10386",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10386"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "4031",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4031&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Lawrence",
+          "personId": "5290",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5290"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Erikson",
+          "personId": "2818",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2818"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "4375",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4375&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Lawrence",
+          "personId": "5290",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5290"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hantaro Nagaoka",
+          "personId": "6592",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6592"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "4715",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4715&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "5030",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5030&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregor Wentzel",
+          "personId": "10082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10082"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "5351",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5351&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        },
+        {
+          "name": "Ernest Lawrence",
+          "personId": "5290",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5290"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "5690",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5690&mode=",
+      "nominees": [
+        {
+          "name": "Erich Regener",
+          "personId": "7617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7617"
+        },
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        },
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erwin Schrödinger",
+          "personId": "8240",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8240"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "5985",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5985&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        },
+        {
+          "name": "Ernest Lawrence",
+          "personId": "5290",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5290"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Chandrasekhara Raman",
+          "personId": "7540",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7540"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "6331",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6331&mode=",
+      "nominees": [
+        {
+          "name": "John Douglas Cockcroft",
+          "personId": "1855",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1855"
+        },
+        {
+          "name": "Ernest Thomas Sinton Walton",
+          "personId": "9967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9967"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "6859",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6859&mode=",
+      "nominees": [
+        {
+          "name": "Halvor Solberg",
+          "personId": "8650",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8650"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vagn Ekman",
+          "personId": "2744",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2744"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "6797",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6797&mode=",
+      "nominees": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        },
+        {
+          "name": "Tor Bergeron",
+          "personId": "897",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=897"
+        },
+        {
+          "name": "Jacob Bjerknes",
+          "personId": "1044",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1044"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vagn Ekman",
+          "personId": "2744",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2744"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "7148",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7148&mode=",
+      "nominees": [
+        {
+          "name": "Halvor Solberg",
+          "personId": "8650",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8650"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sem Saeland",
+          "personId": "8033",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8033"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "7097",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7097&mode=",
+      "nominees": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        },
+        {
+          "name": "Tor Bergeron",
+          "personId": "897",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=897"
+        },
+        {
+          "name": "Jacob Bjerknes",
+          "personId": "1044",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1044"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sem Saeland",
+          "personId": "8033",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8033"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "7413",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7413&mode=",
+      "nominees": [
+        {
+          "name": "Halvor Solberg",
+          "personId": "8650",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8650"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Benedicks",
+          "personId": "854",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=854"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    },
+    {
+      "nominationId": "7363",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7363&mode=",
+      "nominees": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        },
+        {
+          "name": "Tor Bergeron",
+          "personId": "897",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=897"
+        },
+        {
+          "name": "Jacob Bjerknes",
+          "personId": "1044",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1044"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Benedicks",
+          "personId": "854",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=854"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:31+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1938,
+  "economicsProbe": false
+}

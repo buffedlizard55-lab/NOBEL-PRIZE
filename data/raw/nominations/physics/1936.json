@@ -1,0 +1,653 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936",
+  "statedCount": 30,
+  "parsedCount": 30,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "35",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=35&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Deissmann",
+          "personId": "2331",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2331"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "487",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=487&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max von Laue",
+          "personId": "9807",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9807"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "881",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=881&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "1263",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1263&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hantaro Nagaoka",
+          "personId": "6592",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6592"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "1639",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1639&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Planck",
+          "personId": "7283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7283"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "2016",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2016&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice de Broglie",
+          "personId": "2198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2198"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "2355",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2355&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Perrin",
+          "personId": "7136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7136"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "2688",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2688&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        },
+        {
+          "name": "Giuseppe Paolo Stanislao Occhialini",
+          "personId": "6816",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6816"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Prince Louis-Victor de Broglie",
+          "personId": "2200",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2200"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "3024",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3024&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Jacob Clay",
+          "personId": "1835",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1835"
+        },
+        {
+          "name": "Victor Hess",
+          "personId": "4127",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4127"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Compton",
+          "personId": "1918",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1918"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "3348",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3348&mode=",
+      "nominees": [
+        {
+          "name": "Jacob Bjerknes",
+          "personId": "1044",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1044"
+        },
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Shaw",
+          "personId": "8483",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8483"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "3711",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3711&mode=",
+      "nominees": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vagn Ekman",
+          "personId": "2744",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2744"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "4030",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4030&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Reginald Daly",
+          "personId": "2117",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2117"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "4374",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4374&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Owen Richardson",
+          "personId": "7710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "4714",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4714&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregori Aminoff",
+          "personId": "414",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=414"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "5028",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5028&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Benedicks",
+          "personId": "854",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=854"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "5349",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5349&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustaf Ising",
+          "personId": "4491",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4491"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "5688",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5688&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nils Zeilon",
+          "personId": "10390",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10390"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "5983",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5983&mode=",
+      "nominees": [
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        },
+        {
+          "name": "Petrus Debye",
+          "personId": "2325",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2325"
+        },
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anton von Eiselsberg",
+          "personId": "9743",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9743"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "6329",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6329&mode=",
+      "nominees": [
+        {
+          "name": "Arthur Eddington",
+          "personId": "2680",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2680"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph Petavel",
+          "personId": "7150",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7150"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "6658",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6658&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Angelo Barbagelata",
+          "personId": "691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=691"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "6964",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6964&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Werner Karl Heisenberg",
+          "personId": "4018",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4018"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "7233",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7233&mode=",
+      "nominees": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alwin Walther",
+          "personId": "9965",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9965"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "7478",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7478&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Gaede",
+          "personId": "3294",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3294"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Benndorf",
+          "personId": "867",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=867"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "7716",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7716&mode=",
+      "nominees": [
+        {
+          "name": "Walter Gerlach",
+          "personId": "3398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3398"
+        },
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pierre Weiss",
+          "personId": "10065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10065"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "8005",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8005&mode=",
+      "nominees": [
+        {
+          "name": "Wander de Haas",
+          "personId": "2230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2230"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pieter Zeeman",
+          "personId": "10386",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10386"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "8241",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8241&mode=",
+      "nominees": [
+        {
+          "name": "Victor Hess",
+          "personId": "4127",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4127"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacob Clay",
+          "personId": "1835",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1835"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "8474",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8474&mode=",
+      "nominees": [
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Plate",
+          "personId": "7285",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7285"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "8758",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8758&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Campbell",
+          "personId": "1568",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1568"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "8945",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8945&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Weiss",
+          "personId": "10065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10065"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gabriel Foëx",
+          "personId": "3087",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3087"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    },
+    {
+      "nominationId": "9108",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9108&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Weiss",
+          "personId": "10065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10065"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Helios Ollivier",
+          "personId": "6855",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6855"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:29+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1936,
+  "economicsProbe": false
+}

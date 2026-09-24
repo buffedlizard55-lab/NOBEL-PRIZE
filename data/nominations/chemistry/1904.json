@@ -1,0 +1,636 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904",
+  "statedCount": 32,
+  "parsedCount": 32,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "52",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=52&mode=",
+      "nominees": [
+        {
+          "name": "Adolf von Baeyer",
+          "personId": "9713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9713"
+        },
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Graebe",
+          "personId": "3585",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3585"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "505",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=505&mode=",
+      "nominees": [
+        {
+          "name": "Adolf von Baeyer",
+          "personId": "9713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9713"
+        },
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        },
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adriaan Lobry de Bruyn",
+          "personId": "5554",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5554"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "896",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=896&mode=",
+      "nominees": [
+        {
+          "name": "Marcellin Berthelot",
+          "personId": "949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=949"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Darboux",
+          "personId": "2132",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2132"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "1282",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1282&mode=",
+      "nominees": [
+        {
+          "name": "Marcellin Berthelot",
+          "personId": "949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=949"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "1658",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1658&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ossian Aschan",
+          "personId": "521",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=521"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "2035",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2035&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marcellin Berthelot",
+          "personId": "949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=949"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "2373",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2373&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edvard Hjelt",
+          "personId": "4225",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4225"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "2707",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2707&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "3043",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3043&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Ostwald",
+          "personId": "6913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6913"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Glasenapp",
+          "personId": "3478",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3478"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "3367",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3367&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Ostwald",
+          "personId": "6913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6913"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Walden",
+          "personId": "9940",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9940"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "3728",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3728&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf von Baeyer",
+          "personId": "9713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9713"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "4048",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4048&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Bamberger",
+          "personId": "673",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=673"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "4392",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4392&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Bischoff",
+          "personId": "1040",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1040"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "4731",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4731&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Waldemar Brögger",
+          "personId": "1416",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1416"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "5045",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5045&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bohuslav Brauner",
+          "personId": "1304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1304"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "5365",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5365&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giacomo Ciamician",
+          "personId": "1802",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1802"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "5704",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5704&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Per Cleve",
+          "personId": "1845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "5999",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5999&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Fischer",
+          "personId": "3022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3022"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "6342",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6342&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Goldschmidt",
+          "personId": "3517",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3517"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "6670",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6670&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philippe-Auguste Guye",
+          "personId": "3737",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3737"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "6975",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6975&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thorstein Hiortdahl",
+          "personId": "4195",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4195"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "7244",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7244&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Hofmann",
+          "personId": "4255",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4255"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "7489",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7489&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Member of the Nobel Committee for chemistry",
+          "personId": "14107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14107"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "7724",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7724&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Koenigs",
+          "personId": "4951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4951"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "8013",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8013&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Kohlrausch",
+          "personId": "4959",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4959"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "8247",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8247&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Lubbock",
+          "personId": "5670",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5670"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "8481",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8481&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Pettersson",
+          "personId": "7185",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7185"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "8766",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8766&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oskar Piloty",
+          "personId": "7249",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7249"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "8952",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8952&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Rosenberg",
+          "personId": "7871",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7871"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "9112",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9112&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henrik Söderbaum",
+          "personId": "8966",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8966"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "9291",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9291&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    },
+    {
+      "nominationId": "9475",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9475&mode=",
+      "nominees": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Herman Lie Vogt",
+          "personId": "9690",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9690"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:04+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1904,
+  "economicsProbe": false
+}

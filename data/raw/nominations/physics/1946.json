@@ -1,0 +1,567 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946",
+  "statedCount": 26,
+  "parsedCount": 26,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "43",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=43&mode=",
+      "nominees": [
+        {
+          "name": "Edward Appleton",
+          "personId": "469",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=469"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward da Costa Andrade",
+          "personId": "2091",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2091"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "496",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=496&mode=",
+      "nominees": [
+        {
+          "name": "Walther Bothe",
+          "personId": "1209",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1209"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "888",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=888&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harlow Shapley",
+          "personId": "8473",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8473"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "1273",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1273&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugene Wigner",
+          "personId": "10181",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10181"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "1649",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1649&mode=",
+      "nominees": [
+        {
+          "name": "John Douglas Cockcroft",
+          "personId": "1855",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1855"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bruno Benedetto Rossi",
+          "personId": "7898",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7898"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "2026",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2026&mode=",
+      "nominees": [
+        {
+          "name": "Arthur Dempster",
+          "personId": "2369",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2369"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lachlan Gilchrist",
+          "personId": "3440",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3440"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "2364",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2364&mode=",
+      "nominees": [
+        {
+          "name": "Pyotr Leonidovich Kapitsa",
+          "personId": "4706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4706"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Adrien Maurice Dirac",
+          "personId": "2447",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2447"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "2698",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2698&mode=",
+      "nominees": [
+        {
+          "name": "Donald William Kerst",
+          "personId": "4806",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4806"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph Valasek",
+          "personId": "9488",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9488"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "3034",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3034&mode=",
+      "nominees": [
+        {
+          "name": "Paul Langevin",
+          "personId": "5223",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5223"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M da Silva",
+          "personId": "2095",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2095"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "3358",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3358&mode=",
+      "nominees": [
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max von Laue",
+          "personId": "9807",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9807"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "3719",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3719&mode=",
+      "nominees": [
+        {
+          "name": "Robert Oppenheimer",
+          "personId": "6873",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6873"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "David Mathias Dennison",
+          "personId": "2378",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2378"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "4039",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4039&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Ladenburg",
+          "personId": "5145",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5145"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "4383",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4383&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Howard Robertson",
+          "personId": "7771",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7771"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "4722",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4722&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Hansen",
+          "personId": "3866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3866"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "5036",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5036&mode=",
+      "nominees": [
+        {
+          "name": "Francis Simon",
+          "personId": "8542",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8542"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frederick Lindemann (Lord Cherwell)",
+          "personId": "5503",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5503"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "5356",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5356&mode=",
+      "nominees": [
+        {
+          "name": "Hideki Yukawa",
+          "personId": "10359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10359"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregor Wentzel",
+          "personId": "10082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10082"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "5695",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5695&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "5990",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5990&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        },
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Prince Louis-Victor de Broglie",
+          "personId": "2200",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2200"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "6333",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6333&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        },
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Felix Bloch",
+          "personId": "1081",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1081"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "6661",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6661&mode=",
+      "nominees": [
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        },
+        {
+          "name": "Otto Robert Frisch",
+          "personId": "3236",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3236"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Niels Bohr",
+          "personId": "1118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1118"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "6967",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6967&mode=",
+      "nominees": [
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        },
+        {
+          "name": "Otto Robert Frisch",
+          "personId": "3236",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3236"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oskar Benjamin Klein",
+          "personId": "4889",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4889"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "7236",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7236&mode=",
+      "nominees": [
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        },
+        {
+          "name": "Otto Robert Frisch",
+          "personId": "3236",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3236"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Egil Hylleraas",
+          "personId": "4407",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4407"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "7481",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7481&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        },
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        },
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Franck",
+          "personId": "3167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3167"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "7887",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7887&mode=",
+      "nominees": [
+        {
+          "name": "George Gamow",
+          "personId": "3319",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3319"
+        },
+        {
+          "name": "Hideki Yukawa",
+          "personId": "10359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10359"
+        },
+        {
+          "name": "Maurice de Broglie",
+          "personId": "2198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2198"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Thibaud",
+          "personId": "9214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9214"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "7835",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7835&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        },
+        {
+          "name": "Fritz Strassmann",
+          "personId": "8826",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8826"
+        },
+        {
+          "name": "Hans Albrecht Bethe",
+          "personId": "971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=971"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Thibaud",
+          "personId": "9214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9214"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    },
+    {
+      "nominationId": "8007",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8007&mode=",
+      "nominees": [
+        {
+          "name": "Nuclear Scientists",
+          "personId": "8333",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8333"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexandre Dauvillier",
+          "personId": "2148",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2148"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:36+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1946,
+  "economicsProbe": false
+}

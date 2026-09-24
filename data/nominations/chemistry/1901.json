@@ -1,0 +1,403 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901",
+  "statedCount": 20,
+  "parsedCount": 20,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "49",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=49&mode=",
+      "nominees": [
+        {
+          "name": "Svante Arrhenius",
+          "personId": "511",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=511"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Rosenberg",
+          "personId": "7871",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7871"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "502",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=502&mode=",
+      "nominees": [
+        {
+          "name": "Svante Arrhenius",
+          "personId": "511",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=511"
+        },
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Per Cleve",
+          "personId": "1845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "893",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=893&mode=",
+      "nominees": [
+        {
+          "name": "Svante Arrhenius",
+          "personId": "511",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=511"
+        },
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Pettersson",
+          "personId": "7185",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7185"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "1279",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1279&mode=",
+      "nominees": [
+        {
+          "name": "Marcellin Berthelot",
+          "personId": "949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=949"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph de Lacaze-Duthiers",
+          "personId": "2250",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2250"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "1655",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1655&mode=",
+      "nominees": [
+        {
+          "name": "Emil Fischer",
+          "personId": "3022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3022"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf von Baeyer",
+          "personId": "9713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9713"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "2032",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2032&mode=",
+      "nominees": [
+        {
+          "name": "Emil Fischer",
+          "personId": "3022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3022"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edvard Hjelt",
+          "personId": "4225",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4225"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "2370",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2370&mode=",
+      "nominees": [
+        {
+          "name": "Emil Fischer",
+          "personId": "3022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3022"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Nef",
+          "personId": "6631",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6631"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "2704",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2704&mode=",
+      "nominees": [
+        {
+          "name": "Emil Fischer",
+          "personId": "3022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3022"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oskar Widman",
+          "personId": "10150",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10150"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "3040",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3040&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marcellin Berthelot",
+          "personId": "949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=949"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "3364",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3364&mode=",
+      "nominees": [
+        {
+          "name": "William Pope",
+          "personId": "7351",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7351"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Silvanus Thompson",
+          "personId": "9234",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9234"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "3725",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3725&mode=",
+      "nominees": [
+        {
+          "name": "Zdenko Skraup",
+          "personId": "8579",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8579"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eduard Lippmann",
+          "personId": "5531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5531"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "4045",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4045&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugen Bamberger",
+          "personId": "672",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=672"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "4389",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4389&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Fischer",
+          "personId": "3022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3022"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "4728",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4728&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Gnehm",
+          "personId": "3490",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3490"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "5042",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5042&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Member of the Nobel Committee for chemistry",
+          "personId": "14107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14107"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "5362",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5362&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Landolt",
+          "personId": "5199",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5199"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "5701",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5701&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Lorenz",
+          "personId": "5639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5639"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "5996",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5996&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Lunge",
+          "personId": "5703",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5703"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "6339",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6339&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    },
+    {
+      "nominationId": "6667",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6667&mode=",
+      "nominees": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frederick Treadwell",
+          "personId": "9336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9336"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:02+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1901,
+  "economicsProbe": false
+}

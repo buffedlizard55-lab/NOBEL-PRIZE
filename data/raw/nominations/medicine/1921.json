@@ -1,0 +1,1843 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921",
+  "statedCount": 110,
+  "parsedCount": 94,
+  "countMatchesStated": false,
+  "nominations": [
+    {
+      "nominationId": "5769",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5769&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Bayliss",
+          "personId": "777",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=777"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "6060",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6060&mode=",
+      "nominees": [
+        {
+          "name": "Henri Duret",
+          "personId": "2614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Lavrand",
+          "personId": "5287",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5287"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "6405",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6405&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Manson",
+          "personId": "5881",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5881"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Newham",
+          "personId": "6672",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6672"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "6727",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6727&mode=",
+      "nominees": [
+        {
+          "name": "Hideyo Noguchi",
+          "personId": "6740",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6740"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Juan de Azua",
+          "personId": "2184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "7031",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7031&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Günter Herrmann",
+          "personId": "4100",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4100"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "7544",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7544&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Fuchs",
+          "personId": "3264",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3264"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Manuel Márquez",
+          "personId": "5925",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5925"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "7780",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7780&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Simon Flexner",
+          "personId": "3065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3065"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "8166",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8166&mode=",
+      "nominees": [
+        {
+          "name": "Hans Meyer",
+          "personId": "6233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6233"
+        },
+        {
+          "name": "G Déjerine",
+          "personId": "2336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2336"
+        },
+        {
+          "name": "Constantin von Monakow",
+          "personId": "9828",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9828"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Friedrich von Müller",
+          "personId": "9831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9831"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "8123",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8123&mode=",
+      "nominees": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        },
+        {
+          "name": "Max Rubner",
+          "personId": "7951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7951"
+        },
+        {
+          "name": "Félix Marchand",
+          "personId": "5891",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5891"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Friedrich von Müller",
+          "personId": "9831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9831"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "8301",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8301&mode=",
+      "nominees": [
+        {
+          "name": "Hideyo Noguchi",
+          "personId": "6740",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6740"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gideon Wells",
+          "personId": "10074",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10074"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "8534",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8534&mode=",
+      "nominees": [
+        {
+          "name": "Theobald Smith",
+          "personId": "8621",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8621"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harvey Cushing",
+          "personId": "2065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2065"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "8816",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8816&mode=",
+      "nominees": [
+        {
+          "name": "Walter Cannon",
+          "personId": "1584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1584"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Hoskins",
+          "personId": "4318",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4318"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "8998",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8998&mode=",
+      "nominees": [
+        {
+          "name": "Henri Duret",
+          "personId": "2614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Baltus",
+          "personId": "668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=668"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "9156",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9156&mode=",
+      "nominees": [
+        {
+          "name": "C Willems",
+          "personId": "10202",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10202"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Coughlin",
+          "personId": "1992",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1992"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "9334",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9334&mode=",
+      "nominees": [
+        {
+          "name": "Henri Duret",
+          "personId": "2614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Voituriez",
+          "personId": "9699",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9699"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "9516",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9516&mode=",
+      "nominees": [
+        {
+          "name": "Theobald Smith",
+          "personId": "8621",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8621"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles White",
+          "personId": "10137",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10137"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "9648",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9648&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Manson",
+          "personId": "5881",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5881"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C de Magalhaes",
+          "personId": "2261",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2261"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "9807",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9807&mode=",
+      "nominees": [
+        {
+          "name": "Henri Duret",
+          "personId": "2614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Delassus",
+          "personId": "2343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "9940",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9940&mode=",
+      "nominees": [
+        {
+          "name": "Henri Duret",
+          "personId": "2614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Delépine",
+          "personId": "2350",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2350"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10068",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10068&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugen Enderlen",
+          "personId": "2790",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2790"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10185",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10185&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernest Starling",
+          "personId": "8739",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8739"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10302",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10302&mode=",
+      "nominees": [
+        {
+          "name": "Arthur Kendall",
+          "personId": "4787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4787"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Zeit",
+          "personId": "10391",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10391"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10399",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10399&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Abelous",
+          "personId": "289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=289"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10502",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10502&mode=",
+      "nominees": [
+        {
+          "name": "Henri Vincent",
+          "personId": "9659",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9659"
+        },
+        {
+          "name": "Fernand Widal",
+          "personId": "10147",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10147"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pierre Lagrange",
+          "personId": "5160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5160"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10585",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10585&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Abadie",
+          "personId": "274",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=274"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10711",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10711&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Robert Richet",
+          "personId": "7718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7718"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10703",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10703&mode=",
+      "nominees": [
+        {
+          "name": "Maurice Arthus",
+          "personId": "515",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=515"
+        },
+        {
+          "name": "Jacques Loeb",
+          "personId": "5571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5571"
+        },
+        {
+          "name": "Hartog Hamburger",
+          "personId": "3834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3834"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Robert Richet",
+          "personId": "7718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7718"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10751",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10751&mode=",
+      "nominees": [
+        {
+          "name": "William Mayo",
+          "personId": "6023",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6023"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Mix",
+          "personId": "6334",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6334"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10826",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10826&mode=",
+      "nominees": [
+        {
+          "name": "James Mackenzie",
+          "personId": "5774",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5774"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ronald Ross",
+          "personId": "7892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7892"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10911",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10911&mode=",
+      "nominees": [
+        {
+          "name": "William Mayo",
+          "personId": "6023",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6023"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Evans",
+          "personId": "2862",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2862"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "10995",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10995&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon Frédéricq",
+          "personId": "3192",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3192"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11069",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11069&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Xavier Francotte",
+          "personId": "3170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3170"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11139",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11139&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Morgan",
+          "personId": "6428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Dendy",
+          "personId": "2373",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2373"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11200",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11200&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Willem Einthoven",
+          "personId": "2730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2730"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11262",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11262&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Bardier",
+          "personId": "701",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=701"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11322",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11322&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Sigalas",
+          "personId": "8529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8529"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11384",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11384&mode=",
+      "nominees": [
+        {
+          "name": "Henry Head",
+          "personId": "3968",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3968"
+        }
+      ],
+      "nominators": [],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11443",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11443&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Barthe",
+          "personId": "720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=720"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11503",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11503&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Beille",
+          "personId": "827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=827"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11555",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11555&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Victor Pachon",
+          "personId": "6941",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6941"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11608",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11608&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Soulié",
+          "personId": "8673",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8673"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11662",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11662&mode=",
+      "nominees": [
+        {
+          "name": "Theobald Smith",
+          "personId": "8621",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8621"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Kendall",
+          "personId": "4787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4787"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11715",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11715&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Mossé",
+          "personId": "6461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6461"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11765",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11765&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Marie",
+          "personId": "5915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5915"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugenio Tanzi",
+          "personId": "9005",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9005"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11822",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11822&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Julin",
+          "personId": "4656",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4656"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11875",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11875&mode=",
+      "nominees": [
+        {
+          "name": "Henri Duret",
+          "personId": "2614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Raquet",
+          "personId": "7569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7569"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11930",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11930&mode=",
+      "nominees": [
+        {
+          "name": "Henri Duret",
+          "personId": "2614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Lemière",
+          "personId": "5363",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5363"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "11980",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11980&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Aloy",
+          "personId": "389",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=389"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12025",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12025&mode=",
+      "nominees": [
+        {
+          "name": "Karl Landsteiner",
+          "personId": "5205",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5205"
+        },
+        {
+          "name": "Max Rubner",
+          "personId": "7951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7951"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max von Gruber",
+          "personId": "9771",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9771"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12073",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12073&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Bergonié",
+          "personId": "914",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=914"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12119",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12119&mode=",
+      "nominees": [
+        {
+          "name": "Henri Vincent",
+          "personId": "9659",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9659"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Arnozan",
+          "personId": "502",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=502"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12168",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12168&mode=",
+      "nominees": [
+        {
+          "name": "Carlos Chagas",
+          "personId": "1702",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1702"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H de Gouvêa",
+          "personId": "2227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2227"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12216",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12216&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Marie",
+          "personId": "5915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5915"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giusto Coronedi",
+          "personId": "1966",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1966"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12316",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12316&mode=",
+      "nominees": [
+        {
+          "name": "Albert Calmette",
+          "personId": "1548",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1548"
+        },
+        {
+          "name": "Fernand Widal",
+          "personId": "10147",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10147"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Henrijean",
+          "personId": "4058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4058"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12361",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12361&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Swaen",
+          "personId": "8922",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8922"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12403",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12403&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Fraipont",
+          "personId": "3155",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3155"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12452",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12452&mode=",
+      "nominees": [
+        {
+          "name": "Carl von Hess",
+          "personId": "9780",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9780"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "von Hippel",
+          "personId": "9781",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9781"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12495",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12495&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Donnan",
+          "personId": "2506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2506"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12538",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12538&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emile Moure",
+          "personId": "6475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6475"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12583",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12583&mode=",
+      "nominees": [
+        {
+          "name": "Gustav Killian",
+          "personId": "4839",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4839"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gunnar Holmgren",
+          "personId": "4278",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4278"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12626",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12626&mode=",
+      "nominees": [
+        {
+          "name": "Christiaan Eijkman",
+          "personId": "2723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2723"
+        },
+        {
+          "name": "Max Rubner",
+          "personId": "7951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7951"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Julius Morgenroth",
+          "personId": "6431",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6431"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12667",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12667&mode=",
+      "nominees": [
+        {
+          "name": "Emile Roux",
+          "personId": "7930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Troisfontaines",
+          "personId": "9359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9359"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12709",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12709&mode=",
+      "nominees": [
+        {
+          "name": "Leonardo Bianchi",
+          "personId": "989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=989"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Achille Sclavo",
+          "personId": "8317",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8317"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12747",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12747&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Ernst",
+          "personId": "2828",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2828"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12784",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12784&mode=",
+      "nominees": [
+        {
+          "name": "Jaume Ferran y Clua",
+          "personId": "2959",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2959"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Amalio Gimeno Y Cabañas",
+          "personId": "3456",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3456"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12828",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12828&mode=",
+      "nominees": [
+        {
+          "name": "August von Wassermann",
+          "personId": "9887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9887"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Kraepelin",
+          "personId": "5016",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5016"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12863",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12863&mode=",
+      "nominees": [
+        {
+          "name": "August von Wassermann",
+          "personId": "9887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9887"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fred Neufeld",
+          "personId": "6662",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6662"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12902",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12902&mode=",
+      "nominees": [
+        {
+          "name": "Leonardo Bianchi",
+          "personId": "989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=989"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerolamo Gatti",
+          "personId": "3353",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3353"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12939",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12939&mode=",
+      "nominees": [
+        {
+          "name": "Christiaan Eijkman",
+          "personId": "2723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2723"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wolfgang Heubner",
+          "personId": "4142",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4142"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16242",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16242&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Fredricia",
+          "personId": "11928",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11928"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16241",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16241&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Th Madsen",
+          "personId": "5798",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5798"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16240",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16240&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "August Krogh",
+          "personId": "5058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5058"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16239",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16239&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "V Henriques",
+          "personId": "11927",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11927"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16238",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16238&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Bock",
+          "personId": "1100",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1100"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16237",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16237&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Bárány",
+          "personId": "686",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=686"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16236",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16236&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Göthlin",
+          "personId": "11926",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11926"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16235",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16235&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Bergmark",
+          "personId": "913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=913"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16234",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16234&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Torsten Thunberg",
+          "personId": "9257",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9257"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16233",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16233&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Sjövall",
+          "personId": "11862",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11862"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16232",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16232&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Petrén",
+          "personId": "7177",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7177"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "16231",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16231&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Broman",
+          "personId": "11925",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11925"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12997",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12997&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Wimmer",
+          "personId": "10237",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10237"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "12975",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12975&mode=",
+      "nominees": [
+        {
+          "name": "Charles Sherrington",
+          "personId": "8493",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8493"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Overton",
+          "personId": "6926",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6926"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13011",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13011&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ricardo Jorge",
+          "personId": "4639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4639"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13044",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13044&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Pregl",
+          "personId": "7399",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7399"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albrecht Kossel",
+          "personId": "4995",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4995"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13077",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13077&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Agostino de Lieto Vollaro",
+          "personId": "2253",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2253"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13110",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13110&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Camillo Golgi",
+          "personId": "3527",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3527"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13142",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13142&mode=",
+      "nominees": [
+        {
+          "name": "Eugen Steinach",
+          "personId": "8765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8765"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Zaaijer",
+          "personId": "10360",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10360"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13179",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13179&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Roux",
+          "personId": "7934",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7934"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Braus",
+          "personId": "1305",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1305"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13213",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13213&mode=",
+      "nominees": [
+        {
+          "name": "David Bruce",
+          "personId": "1385",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1385"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alphonse Laveran",
+          "personId": "5279",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5279"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13244",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13244&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Gley",
+          "personId": "3484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Bégouin",
+          "personId": "817",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=817"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13282",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13282&mode=",
+      "nominees": [
+        {
+          "name": "August von Wassermann",
+          "personId": "9887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9887"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Otto",
+          "personId": "6920",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6920"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13312",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13312&mode=",
+      "nominees": [
+        {
+          "name": "Emil Abderhalden",
+          "personId": "282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=282"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Pregl",
+          "personId": "7399",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7399"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    },
+    {
+      "nominationId": "13346",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13346&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Sauerbruch",
+          "personId": "8114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E von Romberg",
+          "personId": "9847",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9847"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:58:26+00:00",
+  "httpStatus": 200,
+  "category": "medicine",
+  "year": 1921,
+  "economicsProbe": false
+}

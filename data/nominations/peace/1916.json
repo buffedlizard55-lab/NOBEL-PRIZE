@@ -1,0 +1,566 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916",
+  "statedCount": 27,
+  "parsedCount": 27,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "233",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=233&mode=",
+      "nominees": [
+        {
+          "name": "Jane Addams",
+          "personId": "311",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=311"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Train Dutton",
+          "personId": "2624",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2624"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "686",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=686&mode=",
+      "nominees": [
+        {
+          "name": "P Ahlberg",
+          "personId": "337",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=337"
+        },
+        {
+          "name": "Louis Lazare Zamenhof",
+          "personId": "10372",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10372"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Albert Lindhagen",
+          "personId": "5508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5508"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "1077",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1077&mode=",
+      "nominees": [
+        {
+          "name": "Ralph Norman Angell Lane",
+          "personId": "449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=449"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edwin Doak Mead",
+          "personId": "6069",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6069"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "1525",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1525&mode=",
+      "nominees": [
+        {
+          "name": "Émile Arnaud",
+          "personId": "492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=492"
+        },
+        {
+          "name": "Edvard Wavrinsky",
+          "personId": "10012",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10012"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "1463",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1463&mode=",
+      "nominees": [
+        {
+          "name": "Émile Arnaud",
+          "personId": "492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=492"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "1901",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1901&mode=",
+      "nominees": [
+        {
+          "name": "Giacomo Paolo Giovanni della Chiesa (Pope Benedict XV)",
+          "personId": "859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert von Berzeviczy",
+          "personId": "9725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9725"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "1839",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1839&mode=",
+      "nominees": [
+        {
+          "name": "Giacomo Paolo Giovanni della Chiesa (Pope Benedict XV)",
+          "personId": "859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Kadlcák",
+          "personId": "4679",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4679"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "2219",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2219&mode=",
+      "nominees": [
+        {
+          "name": "Léon Victor Auguste Bourgeois",
+          "personId": "1233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N Nilsson",
+          "personId": "6702",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6702"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "2554",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2554&mode=",
+      "nominees": [
+        {
+          "name": "Érico Marinho da Gama Coelho",
+          "personId": "1860",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1860"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Algindo Guanabara",
+          "personId": "3691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3691"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "2888",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2888&mode=",
+      "nominees": [
+        {
+          "name": "Edoardo Giretti",
+          "personId": "3468",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3468"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "3220",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3220&mode=",
+      "nominees": [
+        {
+          "name": "Heinrich Lammasch",
+          "personId": "5187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5187"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Christian Lous Lange",
+          "personId": "5214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5214"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "3545",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3545&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Nys",
+          "personId": "6802",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6802"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thomas Erskine Holland",
+          "personId": "4267",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4267"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "3908",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3908&mode=",
+      "nominees": [
+        {
+          "name": "Edvard Wavrinsky",
+          "personId": "10012",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10012"
+        },
+        {
+          "name": "Émile Arnaud",
+          "personId": "492",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=492"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "4227",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4227&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Weyringer",
+          "personId": "10125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10125"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Josef Fon",
+          "personId": "3097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3097"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "4572",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4572&mode=",
+      "nominees": [
+        {
+          "name": "Louis Lazare Zamenhof",
+          "personId": "10372",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10372"
+        },
+        {
+          "name": "P Ahlberg",
+          "personId": "337",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=337"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Albert Lindhagen",
+          "personId": "5508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5508"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "4903",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4903&mode=",
+      "nominees": [
+        {
+          "name": "The Academy of International Law (Académie de Droit international de la Haye)",
+          "personId": "9058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lassa Francis Lawrence Oppenheim",
+          "personId": "6872",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6872"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "5274",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5274&mode=",
+      "nominees": [
+        {
+          "name": "Central Organization for a Durable Peace",
+          "personId": "1688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1688"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Larsson",
+          "personId": "5244",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5244"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "5259",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5259&mode=",
+      "nominees": [
+        {
+          "name": "Central Organization for a Durable Peace",
+          "personId": "1688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1688"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Knut Wicksell",
+          "personId": "10146",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10146"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "5218",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5218&mode=",
+      "nominees": [
+        {
+          "name": "Central Organization for a Durable Peace",
+          "personId": "1688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1688"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Axel Theodor Adelswärd",
+          "personId": "316",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=316"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "5536",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5536&mode=",
+      "nominees": [
+        {
+          "name": "International Committee of Women for Permanent Peace",
+          "personId": "4468",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4468"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Albert Lindhagen",
+          "personId": "5508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5508"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "5874",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5874&mode=",
+      "nominees": [
+        {
+          "name": "International Museum of War and Peace",
+          "personId": "4474",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4474"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bucher-Heller",
+          "personId": "1423",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1423"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "6162",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6162&mode=",
+      "nominees": [
+        {
+          "name": "The National Peace Council",
+          "personId": "9160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9160"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "6506",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6506&mode=",
+      "nominees": [
+        {
+          "name": "Société belge d'Arbitrage (Belgian Arbitration Society )",
+          "personId": "8641",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8641"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "6827",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6827&mode=",
+      "nominees": [
+        {
+          "name": "Société suisse de la Paix",
+          "personId": "8643",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8643"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "7120",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7120&mode=",
+      "nominees": [
+        {
+          "name": "Société de législation comparée (Society of Comparative Legislation)",
+          "personId": "8642",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8642"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fernand Daguin",
+          "personId": "2100",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2100"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "7385",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7385&mode=",
+      "nominees": [
+        {
+          "name": "The Swedish Peace and Arbitration League",
+          "personId": "9192",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9192"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "55 members of the Swedish parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    },
+    {
+      "nominationId": "7620",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7620&mode=",
+      "nominees": [
+        {
+          "name": "The Norwegian Peace Association",
+          "personId": "9168",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9168"
+        },
+        {
+          "name": "The Danish Peace Association",
+          "personId": "9086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9086"
+        },
+        {
+          "name": "The Swedish Peace and Arbitration League and The Swedish Peace Association",
+          "personId": "9193",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9193"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Theodor Zahle",
+          "personId": "10367",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10367"
+        },
+        {
+          "name": "Grønborg",
+          "personId": "11278",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11278"
+        },
+        {
+          "name": "Petersen",
+          "personId": "11279",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11279"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:28+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1916,
+  "economicsProbe": false
+}

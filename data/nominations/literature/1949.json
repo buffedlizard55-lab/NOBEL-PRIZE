@@ -1,0 +1,830 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949",
+  "statedCount": 43,
+  "parsedCount": 43,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "289",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=289&mode=",
+      "nominees": [
+        {
+          "name": "Arnulf Øverland",
+          "personId": "10463",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10463"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martin Lamm",
+          "personId": "5184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "217",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=217&mode=",
+      "nominees": [
+        {
+          "name": "Arnulf Øverland",
+          "personId": "10463",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10463"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lorentz Eckhoff",
+          "personId": "2675",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2675"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "192",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=192&mode=",
+      "nominees": [
+        {
+          "name": "Arnulf Øverland",
+          "personId": "10463",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10463"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Fett",
+          "personId": "2973",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2973"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "645",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=645&mode=",
+      "nominees": [
+        {
+          "name": "Taha Hussein",
+          "personId": "4387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ahmad Lutfi el-Sayed",
+          "personId": "2751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2751"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "1033",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1033&mode=",
+      "nominees": [
+        {
+          "name": "Carl Sandburg",
+          "personId": "8080",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8080"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Einar Tegen",
+          "personId": "9032",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9032"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "1425",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1425&mode=",
+      "nominees": [
+        {
+          "name": "Jacinto Grau Delgado",
+          "personId": "3618",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3618"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hjalmar Gullberg",
+          "personId": "3716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "1823",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1823&mode=",
+      "nominees": [
+        {
+          "name": "Benedetto Croce",
+          "personId": "2027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2027"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lincean Academy (Accademia dei Lincei)",
+          "personId": "5494",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5494"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "1794",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1794&mode=",
+      "nominees": [
+        {
+          "name": "Benedetto Croce",
+          "personId": "2027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2027"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Strich",
+          "personId": "8370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8370"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "2179",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2179&mode=",
+      "nominees": [
+        {
+          "name": "Mark Aldanov (Landau)",
+          "personId": "356",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=356"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "2537",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2537&mode=",
+      "nominees": [
+        {
+          "name": "Georges Duhamel",
+          "personId": "2581",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2581"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martin Lamm",
+          "personId": "5184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "2516",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2516&mode=",
+      "nominees": [
+        {
+          "name": "Georges Duhamel",
+          "personId": "2581",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2581"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Knut Hjalmar Leonard Hammarskjöld",
+          "personId": "3845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "2848",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2848&mode=",
+      "nominees": [
+        {
+          "name": "Marie Under",
+          "personId": "9443",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9443"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Knut Hjalmar Leonard Hammarskjöld",
+          "personId": "3845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "3203",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3203&mode=",
+      "nominees": [
+        {
+          "name": "Riccardo Bacchelli",
+          "personId": "600",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=600"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thomas Eliot",
+          "personId": "2757",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2757"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "3185",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3185&mode=",
+      "nominees": [
+        {
+          "name": "Riccardo Bacchelli",
+          "personId": "600",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=600"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lincean Academy (Accademia dei Lincei)",
+          "personId": "5494",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5494"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "3510",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3510&mode=",
+      "nominees": [
+        {
+          "name": "Alfonso Reyes",
+          "personId": "7682",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7682"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gabriela (Lucile) Mistral (Godoy y Alcayaga)",
+          "personId": "6323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6323"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "3870",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3870&mode=",
+      "nominees": [
+        {
+          "name": "Reinaldo Temprano Azcona",
+          "personId": "9035",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9035"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emilio Alarcos García",
+          "personId": "347",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=347"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "4189",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4189&mode=",
+      "nominees": [
+        {
+          "name": "Pär Fabian Lagerkvist",
+          "personId": "5150",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5150"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erik Ekelund",
+          "personId": "2737",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2737"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "4555",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4555&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Beck",
+          "personId": "795",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=795"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "4533",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4533&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andreas Hofgaard Winsnes",
+          "personId": "10250",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10250"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "4870",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4870&mode=",
+      "nominees": [
+        {
+          "name": "Eugène Baie",
+          "personId": "628",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=628"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice Maeterlinck",
+          "personId": "5801",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5801"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "5201",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5201&mode=",
+      "nominees": [
+        {
+          "name": "François Mauriac",
+          "personId": "6005",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6005"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Maurice Peyre",
+          "personId": "7190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7190"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "5188",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5188&mode=",
+      "nominees": [
+        {
+          "name": "François Mauriac",
+          "personId": "6005",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6005"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustaf Hellström",
+          "personId": "4034",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4034"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "5504",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5504&mode=",
+      "nominees": [
+        {
+          "name": "John Steinbeck",
+          "personId": "8766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8766"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Maurice Peyre",
+          "personId": "7190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7190"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "5841",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5841&mode=",
+      "nominees": [
+        {
+          "name": "Dorothy Fisher",
+          "personId": "3039",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3039"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "David Baumgardt",
+          "personId": "761",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=761"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "6132",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6132&mode=",
+      "nominees": [
+        {
+          "name": "George Santayana",
+          "personId": "8095",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8095"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giuseppe Borgese",
+          "personId": "1182",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1182"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "6472",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6472&mode=",
+      "nominees": [
+        {
+          "name": "Sean O´Casey",
+          "personId": "6933",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6933"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oscar Wieselgren",
+          "personId": "10176",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10176"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "6793",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6793&mode=",
+      "nominees": [
+        {
+          "name": "Henriette Charasson",
+          "personId": "1724",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1724"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Serge Barrault",
+          "personId": "714",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=714"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "7095",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7095&mode=",
+      "nominees": [
+        {
+          "name": "Samuel Joseph Agnon",
+          "personId": "330",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=330"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hugo Samuel Bergmann",
+          "personId": "909",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=909"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "7361",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7361&mode=",
+      "nominees": [
+        {
+          "name": "Angelos Sikelianos",
+          "personId": "8531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8531"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigfrid Siwertz",
+          "personId": "8564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8564"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "7601",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7601&mode=",
+      "nominees": [
+        {
+          "name": "Alberto Moravia",
+          "personId": "6403",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6403"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hjalmar Gullberg",
+          "personId": "3716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "7832",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7832&mode=",
+      "nominees": [
+        {
+          "name": "Albert Camus",
+          "personId": "1572",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1572"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hjalmar Gullberg",
+          "personId": "3716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "8119",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8119&mode=",
+      "nominees": [
+        {
+          "name": "Mikhail Sholokhov",
+          "personId": "8503",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8503"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Valentin Kiparsky",
+          "personId": "4858",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4858"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "8348",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8348&mode=",
+      "nominees": [
+        {
+          "name": "Leonid Leonov",
+          "personId": "5391",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5391"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Valentin Kiparsky",
+          "personId": "4858",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4858"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "8584",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8584&mode=",
+      "nominees": [
+        {
+          "name": "Boris Pasternak",
+          "personId": "7016",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7016"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cecil Bowra",
+          "personId": "1259",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1259"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "8863",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8863&mode=",
+      "nominees": [
+        {
+          "name": "Enrique González Martínez",
+          "personId": "3540",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3540"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antonio Castro Leal",
+          "personId": "1661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1661"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "9044",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9044&mode=",
+      "nominees": [
+        {
+          "name": "Hans Carossa",
+          "personId": "1615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Olsson",
+          "personId": "6859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6859"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "9197",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9197&mode=",
+      "nominees": [
+        {
+          "name": "Charles Morgan",
+          "personId": "6424",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6424"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Elias Wessén",
+          "personId": "10102",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10102"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "9374",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9374&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jón Helgason",
+          "personId": "4027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4027"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "9554",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9554&mode=",
+      "nominees": [
+        {
+          "name": "Winston Leonard Spencer Churchill",
+          "personId": "1797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1797"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nils Ahnlund",
+          "personId": "341",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=341"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "9552",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9552&mode=",
+      "nominees": [
+        {
+          "name": "Winston Leonard Spencer Churchill",
+          "personId": "1797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1797"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Birger Nerman",
+          "personId": "6648",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6648"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "9684",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9684&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gunnar Tilander",
+          "personId": "9270",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9270"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "9842",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9842&mode=",
+      "nominees": [
+        {
+          "name": "Georges André Malraux",
+          "personId": "5850",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5850"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martin Lamm",
+          "personId": "5184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    },
+    {
+      "nominationId": "9970",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9970&mode=",
+      "nominees": [
+        {
+          "name": "Thornton Niven Wilder",
+          "personId": "14152",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14152"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Yngve Brilioth",
+          "personId": "1341",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1341"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:50+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1949,
+  "economicsProbe": false
+}

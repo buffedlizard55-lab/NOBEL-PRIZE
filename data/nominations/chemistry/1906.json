@@ -1,0 +1,374 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906",
+  "statedCount": 19,
+  "parsedCount": 19,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "54",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=54&mode=",
+      "nominees": [
+        {
+          "name": "Marcellin Berthelot",
+          "personId": "949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=949"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Fischer",
+          "personId": "3022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3022"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "507",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=507&mode=",
+      "nominees": [
+        {
+          "name": "Victor Grignard",
+          "personId": "3649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3649"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustaf Komppa",
+          "personId": "4977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4977"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "898",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=898&mode=",
+      "nominees": [
+        {
+          "name": "Victor Grignard",
+          "personId": "3649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3649"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oscar Loew",
+          "personId": "5578",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5578"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "1284",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1284&mode=",
+      "nominees": [
+        {
+          "name": "Dmitri Mendeleev",
+          "personId": "6171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oscar Hertwig",
+          "personId": "4107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4107"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "1660",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1660&mode=",
+      "nominees": [
+        {
+          "name": "Dmitri Mendeleev",
+          "personId": "6171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Luther",
+          "personId": "5710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "2037",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2037&mode=",
+      "nominees": [
+        {
+          "name": "Dmitri Mendeleev",
+          "personId": "6171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Pettersson",
+          "personId": "7185",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7185"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "2375",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2375&mode=",
+      "nominees": [
+        {
+          "name": "Dmitri Mendeleev",
+          "personId": "6171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacobus Henricus Van´t Hoff",
+          "personId": "9563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9563"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "2709",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2709&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf von Baeyer",
+          "personId": "9713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9713"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "3045",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3045&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vincenz Czerny",
+          "personId": "2080",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2080"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "3369",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3369&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Darboux",
+          "personId": "2132",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2132"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "3730",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3730&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Louis Henry",
+          "personId": "4063",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4063"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "4050",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4050&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Klason",
+          "personId": "4880",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4880"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "4394",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4394&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philipp E.A. v. Lenard",
+          "personId": "5373",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5373"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "4733",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4733&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Ramsay",
+          "personId": "7552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7552"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "5047",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5047&mode=",
+      "nominees": [
+        {
+          "name": "Henri Moissan",
+          "personId": "6352",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6352"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Rosenberg",
+          "personId": "7871",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7871"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "5367",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5367&mode=",
+      "nominees": [
+        {
+          "name": "Walther Nernst",
+          "personId": "6650",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6650"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Beckmann",
+          "personId": "800",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=800"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "5706",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5706&mode=",
+      "nominees": [
+        {
+          "name": "Walther Nernst",
+          "personId": "6650",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6650"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Hantzsch",
+          "personId": "3878",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3878"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "6001",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6001&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Ostwald",
+          "personId": "6913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6913"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Amos Noyes",
+          "personId": "6783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6783"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    },
+    {
+      "nominationId": "6344",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6344&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Ostwald",
+          "personId": "6913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6913"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Walker",
+          "personId": "9947",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9947"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:05+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1906,
+  "economicsProbe": false
+}

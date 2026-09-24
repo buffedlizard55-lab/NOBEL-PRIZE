@@ -1,0 +1,921 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950",
+  "statedCount": 42,
+  "parsedCount": 42,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "47",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=47&mode=",
+      "nominees": [
+        {
+          "name": "Georg von Békésy",
+          "personId": "9721",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9721"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erwin Meyer",
+          "personId": "6230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6230"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "500",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=500&mode=",
+      "nominees": [
+        {
+          "name": "Hans Albrecht Bethe",
+          "personId": "971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=971"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Herman Farwell",
+          "personId": "2916",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2916"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "891",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=891&mode=",
+      "nominees": [
+        {
+          "name": "Felix Bloch",
+          "personId": "1081",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1081"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Willis Eugene Lamb, Jr",
+          "personId": "5176",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5176"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "1277",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1277&mode=",
+      "nominees": [
+        {
+          "name": "Prince Louis-Victor de Broglie",
+          "personId": "2200",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2200"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Villat",
+          "personId": "9654",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9654"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "1653",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1653&mode=",
+      "nominees": [
+        {
+          "name": "Pyotr Leonidovich Kapitsa",
+          "personId": "4706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4706"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Adrien Maurice Dirac",
+          "personId": "2447",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2447"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "2030",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2030&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Émile Borel",
+          "personId": "1177",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1177"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "2368",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2368&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marcel Pauthenier",
+          "personId": "7049",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7049"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "2702",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2702&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francois Croze",
+          "personId": "2034",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2034"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "3038",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3038&mode=",
+      "nominees": [
+        {
+          "name": "Walther Meissner",
+          "personId": "6095",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6095"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max von Laue",
+          "personId": "9807",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9807"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "3362",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3362&mode=",
+      "nominees": [
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "3723",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3723&mode=",
+      "nominees": [
+        {
+          "name": "Balthasar van der Pol",
+          "personId": "9524",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9524"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Prince Louis-Victor de Broglie",
+          "personId": "2200",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2200"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "4043",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4043&mode=",
+      "nominees": [
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mari Johan Druyvesteyn",
+          "personId": "2552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2552"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "4387",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4387&mode=",
+      "nominees": [
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Werner Karl Heisenberg",
+          "personId": "4018",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4018"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "4726",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4726&mode=",
+      "nominees": [
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ralph de Laer Kronig",
+          "personId": "5064",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5064"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "5040",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5040&mode=",
+      "nominees": [
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Morand",
+          "personId": "6401",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6401"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "5360",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5360&mode=",
+      "nominees": [
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Nolan",
+          "personId": "6741",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6741"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "5699",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5699&mode=",
+      "nominees": [
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Theodor Svedberg",
+          "personId": "8915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8915"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "5994",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5994&mode=",
+      "nominees": [
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernest Thomas Sinton Walton",
+          "personId": "9967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9967"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "6337",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6337&mode=",
+      "nominees": [
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Hettner",
+          "personId": "4138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4138"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "6665",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6665&mode=",
+      "nominees": [
+        {
+          "name": "Robert Wood",
+          "personId": "10300",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10300"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Strong",
+          "personId": "8846",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8846"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "6971",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6971&mode=",
+      "nominees": [
+        {
+          "name": "Hideki Yukawa",
+          "personId": "10359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10359"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harold Clayton Urey",
+          "personId": "9461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9461"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "7240",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7240&mode=",
+      "nominees": [
+        {
+          "name": "Frits Zernike",
+          "personId": "10397",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10397"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Abraham van Heel",
+          "personId": "9537",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9537"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "7485",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7485&mode=",
+      "nominees": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        },
+        {
+          "name": "Hendrik Kramers",
+          "personId": "5024",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5024"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Niels Bohr",
+          "personId": "1118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1118"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "7721",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7721&mode=",
+      "nominees": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        },
+        {
+          "name": "Hendrik Kramers",
+          "personId": "5024",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5024"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Christian Møller",
+          "personId": "6571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6571"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "8011",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8011&mode=",
+      "nominees": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        },
+        {
+          "name": "Hendrik Kramers",
+          "personId": "5024",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5024"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Torsten Gustafson",
+          "personId": "3727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "8245",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8245&mode=",
+      "nominees": [
+        {
+          "name": "Ira Bowen",
+          "personId": "1255",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1255"
+        },
+        {
+          "name": "Bengt Edlén",
+          "personId": "2690",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2690"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wojciech Rubinowicz",
+          "personId": "7949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7949"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "8479",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8479&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Mattauch",
+          "personId": "5997",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5997"
+        },
+        {
+          "name": "Walther Kossel",
+          "personId": "4997",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4997"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Felix Machatschki",
+          "personId": "5765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5765"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "8764",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8764&mode=",
+      "nominees": [
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "8950",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8950&mode=",
+      "nominees": [
+        {
+          "name": "Edward Purcell",
+          "personId": "7484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7484"
+        },
+        {
+          "name": "Felix Bloch",
+          "personId": "1081",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1081"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Shirley Quimby",
+          "personId": "7503",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7503"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "9233",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9233&mode=",
+      "nominees": [
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        },
+        {
+          "name": "Henry Norris Russell",
+          "personId": "7981",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7981"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "9201",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9201&mode=",
+      "nominees": [
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        },
+        {
+          "name": "Henry Norris Russell",
+          "personId": "7981",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7981"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Franck",
+          "personId": "3167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3167"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "9289",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9289&mode=",
+      "nominees": [
+        {
+          "name": "Marietta Blau",
+          "personId": "1070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1070"
+        },
+        {
+          "name": "Hertha Wambacher",
+          "personId": "9970",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9970"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erwin Schrödinger",
+          "personId": "8240",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8240"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "9473",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9473&mode=",
+      "nominees": [
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        },
+        {
+          "name": "Hideki Yukawa",
+          "personId": "10359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10359"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harald Wergeland",
+          "personId": "10084",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10084"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "9609",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9609&mode=",
+      "nominees": [
+        {
+          "name": "Giuseppe Paolo Stanislao Occhialini",
+          "personId": "6816",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6816"
+        },
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Markus Fierz",
+          "personId": "2986",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2986"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "9767",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9767&mode=",
+      "nominees": [
+        {
+          "name": "Giuseppe Paolo Stanislao Occhialini",
+          "personId": "6816",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6816"
+        },
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "9902",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9902&mode=",
+      "nominees": [
+        {
+          "name": "Giuseppe Paolo Stanislao Occhialini",
+          "personId": "6816",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6816"
+        },
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Perrin",
+          "personId": "7134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7134"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "10032",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10032&mode=",
+      "nominees": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        },
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Czeslaw Bialobrzeski",
+          "personId": "987",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=987"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "10148",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10148&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        },
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice de Broglie",
+          "personId": "2198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2198"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "10266",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10266&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        },
+        {
+          "name": "Cecil Frank Powell",
+          "personId": "7379",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7379"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Louis Leprince-Ringuet",
+          "personId": "5398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5398"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "10367",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10367&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        },
+        {
+          "name": "Horace Welcome Babcock",
+          "personId": "588",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=588"
+        },
+        {
+          "name": "Grote Reber",
+          "personId": "7597",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7597"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexandre Dauvillier",
+          "personId": "2148",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2148"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "10544",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10544&mode=",
+      "nominees": [
+        {
+          "name": "Felix Bloch",
+          "personId": "1081",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1081"
+        },
+        {
+          "name": "Edward Purcell",
+          "personId": "7484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Kastler",
+          "personId": "4727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    },
+    {
+      "nominationId": "10534",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10534&mode=",
+      "nominees": [
+        {
+          "name": "Frits Zernike",
+          "personId": "10397",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10397"
+        },
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        },
+        {
+          "name": "Bengt Edlén",
+          "personId": "2690",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2690"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Kastler",
+          "personId": "4727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:39+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1950,
+  "economicsProbe": false
+}

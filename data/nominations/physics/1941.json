@@ -1,0 +1,328 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941",
+  "statedCount": 15,
+  "parsedCount": 15,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "38",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=38&mode=",
+      "nominees": [
+        {
+          "name": "Edward Appleton",
+          "personId": "469",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=469"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Owen Richardson",
+          "personId": "7710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "491",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=491&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Victor Auger",
+          "personId": "561",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=561"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacques Hadamard",
+          "personId": "3765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3765"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "885",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=885&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Reginald Daly",
+          "personId": "2117",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2117"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "1268",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1268&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harlow Shapley",
+          "personId": "8473",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8473"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "1644",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1644&mode=",
+      "nominees": [
+        {
+          "name": "Wander de Haas",
+          "personId": "2230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2230"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adriaan Fokker",
+          "personId": "3092",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3092"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "2021",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2021&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Boris Iliin",
+          "personId": "4442",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4442"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "2359",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2359&mode=",
+      "nominees": [
+        {
+          "name": "Isidor Rabi",
+          "personId": "7513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7513"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leigh Page",
+          "personId": "6948",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6948"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "2693",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2693&mode=",
+      "nominees": [
+        {
+          "name": "Giancarlo Vallauri",
+          "personId": "9503",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9503"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Quirino Majorana",
+          "personId": "5829",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5829"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "3029",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3029&mode=",
+      "nominees": [
+        {
+          "name": "Giancarlo Vallauri",
+          "personId": "9503",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9503"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giovanni Someda",
+          "personId": "8656",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8656"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "3353",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3353&mode=",
+      "nominees": [
+        {
+          "name": "Hideki Yukawa",
+          "personId": "10359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10359"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Toshizo Matsumoto",
+          "personId": "5995",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5995"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "3715",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3715&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        },
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregor Wentzel",
+          "personId": "10082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10082"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "4034",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4034&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        },
+        {
+          "name": "Fritz Strassmann",
+          "personId": "8826",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8826"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Abraham Goudsmit",
+          "personId": "3575",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3575"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "4378",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4378&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        },
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Franck",
+          "personId": "3167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3167"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "4718",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4718&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        },
+        {
+          "name": "Isidor Rabi",
+          "personId": "7513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7513"
+        },
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    },
+    {
+      "nominationId": "5033",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5033&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:33+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1941,
+  "economicsProbe": false
+}

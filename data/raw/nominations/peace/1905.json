@@ -1,0 +1,1616 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905",
+  "statedCount": 82,
+  "parsedCount": 82,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "222",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=222&mode=",
+      "nominees": [
+        {
+          "name": "Klas Pontus Arnoldson",
+          "personId": "500",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=500"
+        },
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Hanssen",
+          "personId": "3872",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3872"
+        },
+        {
+          "name": "Thore Myrvang",
+          "personId": "11248",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11248"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "768",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=768&mode=",
+      "nominees": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        },
+        {
+          "name": "Klas Pontus Arnoldson",
+          "personId": "500",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=500"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Hanssen",
+          "personId": "3872",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3872"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "740",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=740&mode=",
+      "nominees": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "675",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=675&mode=",
+      "nominees": [
+        {
+          "name": "Fredrik Bajer",
+          "personId": "639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=639"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Herman Trier",
+          "personId": "9353",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9353"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "1166",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1166&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Barclay",
+          "personId": "697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=697"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lord Reay",
+          "personId": "5625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5625"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "1137",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1137&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Barclay",
+          "personId": "697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=697"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Felix Stoerk",
+          "personId": "8810",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8810"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "1066",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1066&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Barclay",
+          "personId": "697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=697"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Kleen",
+          "personId": "4886",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4886"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "1518",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1518&mode=",
+      "nominees": [
+        {
+          "name": "Richard Bartholdt",
+          "personId": "726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=726"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ritter Wladimir von Gniewosz-Olexow",
+          "personId": "9766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "1452",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1452&mode=",
+      "nominees": [
+        {
+          "name": "Richard Bartholdt",
+          "personId": "726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=726"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Theodore Burton",
+          "personId": "1475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1475"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "1828",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1828&mode=",
+      "nominees": [
+        {
+          "name": "William Evans Darby",
+          "personId": "2134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2134"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Macdonnel",
+          "personId": "5757",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5757"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "2208",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2208&mode=",
+      "nominees": [
+        {
+          "name": "Chevalier Edouard Eugène Descamps",
+          "personId": "2387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "2643",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2643&mode=",
+      "nominees": [
+        {
+          "name": "Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)",
+          "personId": "2086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2086"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Prebensen",
+          "personId": "7397",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7397"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "2634",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2634&mode=",
+      "nominees": [
+        {
+          "name": "Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)",
+          "personId": "2086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2086"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Morel",
+          "personId": "6418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6418"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "2610",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2610&mode=",
+      "nominees": [
+        {
+          "name": "Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)",
+          "personId": "2086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2086"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Kleen",
+          "personId": "4886",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4886"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "2543",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2543&mode=",
+      "nominees": [
+        {
+          "name": "Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)",
+          "personId": "2086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2086"
+        },
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Stein",
+          "personId": "8762",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8762"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "2942",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2942&mode=",
+      "nominees": [
+        {
+          "name": "John Theodor Lund",
+          "personId": "5697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5697"
+        },
+        {
+          "name": "International Arbitration League",
+          "personId": "4465",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4465"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "2877",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2877&mode=",
+      "nominees": [
+        {
+          "name": "John Theodor Lund",
+          "personId": "5697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5697"
+        },
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philip James Stanhope",
+          "personId": "8729",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8729"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3270",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3270&mode=",
+      "nominees": [
+        {
+          "name": "Fyodor Fyodorovich (Frédéric) Martens",
+          "personId": "5939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5939"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Harburger",
+          "personId": "3884",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3884"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3209",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3209&mode=",
+      "nominees": [
+        {
+          "name": "Fyodor Fyodorovich (Frédéric) Martens",
+          "personId": "5939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5939"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "August Hermann Ferdinand Goos",
+          "personId": "3552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3552"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3673",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3673&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "6 professors at the University of Bologna",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3671",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3671&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "6 members of the Italian Senate",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3669",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3669&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hector Saachi",
+          "personId": "8012",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8012"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3667",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3667&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "30 Italian Senators",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3664",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3664&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Professors at the University of Pavia",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3661",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3661&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Professors at the University of Padua",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3658",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3658&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3654",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3654&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph Ricchieri",
+          "personId": "7695",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7695"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3650",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3650&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Marcora",
+          "personId": "5902",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5902"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3645",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3645&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlo Romussi",
+          "personId": "7847",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7847"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3637",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3637&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edoardo Giretti",
+          "personId": "3468",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3468"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3627",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3627&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emilio Brusa",
+          "personId": "1405",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1405"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3616",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3616&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Gabba",
+          "personId": "3288",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3288"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3596",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3596&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Napoleone Colajanni",
+          "personId": "1902",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1902"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3534",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3534&mode=",
+      "nominees": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Enrico Ferri",
+          "personId": "2965",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2965"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "3897",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3897&mode=",
+      "nominees": [
+        {
+          "name": "Gustave Moynier",
+          "personId": "6490",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6490"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Kleen",
+          "personId": "4886",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4886"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "4216",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4216&mode=",
+      "nominees": [
+        {
+          "name": "Priscilla Hannah Peckover",
+          "personId": "7073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Brand",
+          "personId": "1281",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1281"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "4561",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4561&mode=",
+      "nominees": [
+        {
+          "name": "Hodgson Pratt",
+          "personId": "7393",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7393"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon de Montluc",
+          "personId": "2276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "4950",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4950&mode=",
+      "nominees": [
+        {
+          "name": "Louis Renault",
+          "personId": "7653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernest Lehr",
+          "personId": "5353",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5353"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "4892",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4892&mode=",
+      "nominees": [
+        {
+          "name": "Louis Renault",
+          "personId": "7653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Lyon-Caen",
+          "personId": "5723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5723"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5207",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5207&mode=",
+      "nominees": [
+        {
+          "name": "Paul Smet de Naeyer",
+          "personId": "8596",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8596"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "de Aulnis de Bourrouil (Baron)",
+          "personId": "2182",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2182"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5656",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5656&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Swedish Inter-Parliamentary Group",
+          "personId": "9188",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9188"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5655",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5655&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tydemann, Jr.",
+          "personId": "9415",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9415"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5654",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5654&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Eickhoff",
+          "personId": "2719",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2719"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5653",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5653&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Betz",
+          "personId": "975",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=975"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5652",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5652&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Hirsch",
+          "personId": "4206",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4206"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5651",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5651&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Attems (Count)",
+          "personId": "549",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=549"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5650",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5650&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ritter Wladimir von Gniewosz-Olexow",
+          "personId": "9766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5649",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5649&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jos. Herold",
+          "personId": "4089",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4089"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5648",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5648&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5647",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5647&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Morel",
+          "personId": "6418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6418"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5646",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5646&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Felix Stone Moscheles",
+          "personId": "6455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6455"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5645",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5645&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Émile Labiche",
+          "personId": "5132",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5132"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5644",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5644&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Henry Dunant",
+          "personId": "2594",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2594"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5643",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5643&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ellen Robinson",
+          "personId": "7780",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7780"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5642",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5642&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernesto Teodoro Moneta",
+          "personId": "6368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6368"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5641",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5641&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Lammasch",
+          "personId": "5187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5187"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5640",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5640&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Baron de Pirquet",
+          "personId": "19065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=19065"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5639",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5639&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eduard Skáloz",
+          "personId": "8570",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8570"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5638",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5638&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon de Montluc",
+          "personId": "2276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5637",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5637&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Sileny",
+          "personId": "8535",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8535"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5636",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5636&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ritter von Schreiner",
+          "personId": "9856",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9856"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5635",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5635&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Count von Schönborn",
+          "personId": "9860",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9860"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5633",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5633&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "14 members of the Hungarian parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5631",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5631&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig von Bar",
+          "personId": "9716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5628",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5628&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustav von Roszkowski",
+          "personId": "9848",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9848"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5624",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5624&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Michel Kebedgy",
+          "personId": "4750",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4750"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5620",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5620&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Élie Ducommun",
+          "personId": "2569",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2569"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5614",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5614&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Franz von Kemény",
+          "personId": "9792",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9792"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5605",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5605&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacques Novikow",
+          "personId": "6773",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6773"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5594",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5594&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "von Bothmer (Cont)",
+          "personId": "9729",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9729"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5577",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5577&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        },
+        {
+          "name": "Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)",
+          "personId": "2086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2086"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Stein",
+          "personId": "8762",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8762"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5525",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5525&mode=",
+      "nominees": [
+        {
+          "name": "Bertha Sophie von Suttner (Baroness)",
+          "personId": "9866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9866"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frédéric Passy",
+          "personId": "7015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7015"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "5863",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5863&mode=",
+      "nominees": [
+        {
+          "name": "Henriette Verdier Winteler de Weindeck",
+          "personId": "10251",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10251"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerville Réache",
+          "personId": "7592",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7592"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "6151",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6151&mode=",
+      "nominees": [
+        {
+          "name": "The American Peace Society",
+          "personId": "9059",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9059"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Benjamin Franklin Trueblood",
+          "personId": "9366",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9366"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "6551",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6551&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaston Moch",
+          "personId": "6343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "6495",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6495&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Baart de la Faille",
+          "personId": "584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "6816",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6816&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        },
+        {
+          "name": "John Theodor Lund",
+          "personId": "5697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5697"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philip James Stanhope",
+          "personId": "8729",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8729"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "7109",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7109&mode=",
+      "nominees": [
+        {
+          "name": "International Arbitration League",
+          "personId": "4465",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4465"
+        },
+        {
+          "name": "John Theodor Lund",
+          "personId": "5697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5697"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Randal Cremer",
+          "personId": "2021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2021"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "7417",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7417&mode=",
+      "nominees": [
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lloyd Morgan",
+          "personId": "6427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6427"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "7374",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7374&mode=",
+      "nominees": [
+        {
+          "name": "The Peace Society",
+          "personId": "9171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Goudy",
+          "personId": "3577",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3577"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "7610",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7610&mode=",
+      "nominees": [
+        {
+          "name": "Société de législation comparée (Society of Comparative Legislation)",
+          "personId": "8642",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8642"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fernand Daguin",
+          "personId": "2100",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2100"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    },
+    {
+      "nominationId": "7850",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7850&mode=",
+      "nominees": [
+        {
+          "name": "The Union of French Women (L´Union des femmes de France)",
+          "personId": "5122",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5122"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Brisson",
+          "personId": "1350",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1350"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:19+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1905,
+  "economicsProbe": false
+}

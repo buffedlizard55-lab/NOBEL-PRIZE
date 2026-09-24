@@ -1,0 +1,498 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925",
+  "statedCount": 25,
+  "parsedCount": 25,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "168",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=168&mode=",
+      "nominees": [
+        {
+          "name": "Willem Kloos",
+          "personId": "4909",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4909"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dutch authors and professors",
+          "personId": "2621",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2621"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "621",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=621&mode=",
+      "nominees": [
+        {
+          "name": "Rudolf Maria Holzapfel",
+          "personId": "4290",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4290"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Romain Rolland",
+          "personId": "7831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7831"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "1009",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1009&mode=",
+      "nominees": [
+        {
+          "name": "Paul Ernst",
+          "personId": "2829",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2829"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Ermatinger",
+          "personId": "2827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2827"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "1559",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1559&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaetano Salvemini",
+          "personId": "11236",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11236"
+        },
+        {
+          "name": "Gaetano Mosca",
+          "personId": "6452",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6452"
+        },
+        {
+          "name": "Niccolò Rodolico",
+          "personId": "11237",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11237"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "1540",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1540&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A number of Swiss professors.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "1510",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1510&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A number of Swiss professors.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "1441",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1441&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lars Olof Jonathan (Nathan) Söderblom",
+          "personId": "8967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8967"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "1401",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1401&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Verner von Heidenstam",
+          "personId": "4000",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4000"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "1771",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1771&mode=",
+      "nominees": [
+        {
+          "name": "Paul Sabatier",
+          "personId": "8018",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8018"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Bildt",
+          "personId": "1009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1009"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "2155",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2155&mode=",
+      "nominees": [
+        {
+          "name": "Matilde Serao",
+          "personId": "8411",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8411"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "4 professors of the Academy in Naples",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "2492",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2492&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frederik Poulsen",
+          "personId": "7370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7370"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "2824",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2824&mode=",
+      "nominees": [
+        {
+          "name": "Sigrid Undset",
+          "personId": "9445",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9445"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "2 members of the Royal Norwegian Society of Sciences and Letters",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "3162",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3162&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Zachrisson",
+          "personId": "10364",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10364"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "3486",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3486&mode=",
+      "nominees": [
+        {
+          "name": "Olav Duun",
+          "personId": "2625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2625"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hjalmar Lindroth",
+          "personId": "5516",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5516"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "3846",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3846&mode=",
+      "nominees": [
+        {
+          "name": "Paul Raynal",
+          "personId": "7590",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7590"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tor Hedberg",
+          "personId": "3977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3977"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "4165",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4165&mode=",
+      "nominees": [
+        {
+          "name": "Georg Morris Cohen Brandes",
+          "personId": "1283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1283"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Fett",
+          "personId": "2973",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2973"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "4509",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4509&mode=",
+      "nominees": [
+        {
+          "name": "Franz (Ferenc) Herczeg",
+          "personId": "4073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the Hungarian Academy of Sciences",
+          "personId": "6144",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6144"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "4846",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4846&mode=",
+      "nominees": [
+        {
+          "name": "Paul More",
+          "personId": "6406",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6406"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lars Olof Jonathan (Nathan) Söderblom",
+          "personId": "8967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8967"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "5164",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5164&mode=",
+      "nominees": [
+        {
+          "name": "Giovanni Schembari",
+          "personId": "8153",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8153"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Achille Loria",
+          "personId": "5641",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5641"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "5482",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5482&mode=",
+      "nominees": [
+        {
+          "name": "Roberto Bracco",
+          "personId": "1267",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1267"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Haakon Shetelig",
+          "personId": "8495",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8495"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "5819",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5819&mode=",
+      "nominees": [
+        {
+          "name": "Grazia Deledda (Madesani)",
+          "personId": "2348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henrik Schück",
+          "personId": "8296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8296"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "6110",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6110&mode=",
+      "nominees": [
+        {
+          "name": "Johan Bojer",
+          "personId": "1126",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1126"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Christen Collin",
+          "personId": "1891",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1891"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "6451",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6451&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig von Pastor",
+          "personId": "7017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7017"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oluf Kolsrud",
+          "personId": "4974",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4974"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "6773",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6773&mode=",
+      "nominees": [
+        {
+          "name": "Otokar (Václav) [Venceslas] Brezina (Jebavy) [Jebary]",
+          "personId": "1327",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1327"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "6 professors of the University in Brno (Brünn)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    },
+    {
+      "nominationId": "7076",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7076&mode=",
+      "nominees": [
+        {
+          "name": "George Bernard Shaw",
+          "personId": "8479",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8479"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tor Hedberg",
+          "personId": "3977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3977"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:32+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1925,
+  "economicsProbe": false
+}

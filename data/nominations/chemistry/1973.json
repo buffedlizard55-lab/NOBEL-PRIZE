@@ -1,0 +1,3442 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973",
+  "statedCount": 166,
+  "parsedCount": 166,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "22771",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22771&mode=",
+      "nominees": [
+        {
+          "name": "Duilio Arigoni",
+          "personId": "15578",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15578"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Isler",
+          "personId": "16140",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16140"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22772",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22772&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Israel Arnon",
+          "personId": "13889",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13889"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Glenn Theodore Seaborg",
+          "personId": "8323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8323"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22773",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22773&mode=",
+      "nominees": [
+        {
+          "name": "Richard Maling Barrer",
+          "personId": "10822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dennis Gabor",
+          "personId": "3289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3289"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22775",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22775&mode=",
+      "nominees": [
+        {
+          "name": "Neil Bartlett",
+          "personId": "13013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13013"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Herbert Kaesz",
+          "personId": "16624",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16624"
+        },
+        {
+          "name": "Marion Frederick Hawthorne",
+          "personId": "18960",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=18960"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22776",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22776&mode=",
+      "nominees": [
+        {
+          "name": "Neil Bartlett",
+          "personId": "13013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13013"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Jander",
+          "personId": "14589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14589"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22777",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22777&mode=",
+      "nominees": [
+        {
+          "name": "Neil Bartlett",
+          "personId": "13013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13013"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johannes Hans Daniel Jensen",
+          "personId": "10539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10539"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22778",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22778&mode=",
+      "nominees": [
+        {
+          "name": "Neil Bartlett",
+          "personId": "13013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13013"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ivan Lyudvigovich Knunyants",
+          "personId": "16625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16625"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22779",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22779&mode=",
+      "nominees": [
+        {
+          "name": "Neil Bartlett",
+          "personId": "13013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13013"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Willard Frank Libby",
+          "personId": "5458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5458"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22780",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22780&mode=",
+      "nominees": [
+        {
+          "name": "Neil Bartlett",
+          "personId": "13013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13013"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Smith",
+          "personId": "16626",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16626"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22782",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22782&mode=",
+      "nominees": [
+        {
+          "name": "Karl Sune Detlof Bergström",
+          "personId": "921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Konrad Emil Bloch",
+          "personId": "11154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11154"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22783",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22783&mode=",
+      "nominees": [
+        {
+          "name": "Karl Sune Detlof Bergström",
+          "personId": "921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stanford Moore",
+          "personId": "6393",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6393"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22784",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22784&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Martin Bijvoet",
+          "personId": "1007",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1007"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Rogers",
+          "personId": "16629",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16629"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22785",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22785&mode=",
+      "nominees": [
+        {
+          "name": "Arthur John Birch",
+          "personId": "10670",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10670"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Edward Ringwood",
+          "personId": "16076",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16076"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22786",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22786&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Charles Brown",
+          "personId": "13015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Baciocchi",
+          "personId": "16630",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16630"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22787",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22787&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Charles Brown",
+          "personId": "13015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Djerassi",
+          "personId": "13016",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13016"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22788",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22788&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Charles Brown",
+          "personId": "13015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Hirst",
+          "personId": "16631",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16631"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22789",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22789&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Charles Brown",
+          "personId": "13015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Price",
+          "personId": "13893",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13893"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22790",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22790&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Charles Brown",
+          "personId": "13015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Russell",
+          "personId": "14595",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14595"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22791",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22791&mode=",
+      "nominees": [
+        {
+          "name": "Geoffrey Burnstock",
+          "personId": "16632",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16632"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry McIlwain",
+          "personId": "15584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22792",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22792&mode=",
+      "nominees": [
+        {
+          "name": "Britton Chance",
+          "personId": "11122",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11122"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Miller",
+          "personId": "16633",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16633"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22793",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22793&mode=",
+      "nominees": [
+        {
+          "name": "Britton Chance",
+          "personId": "11122",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11122"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heikki Suomalainen",
+          "personId": "16091",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16091"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22794",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22794&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Chatt",
+          "personId": "18812",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=18812"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gunnar Hägg",
+          "personId": "4417",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4417"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22798",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22798&mode=",
+      "nominees": [
+        {
+          "name": "John Warcup Cornforth Jr",
+          "personId": "13896",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13896"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Decker",
+          "personId": "16636",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16636"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22799",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22799&mode=",
+      "nominees": [
+        {
+          "name": "John Warcup Cornforth Jr",
+          "personId": "13896",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13896"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Schreiber",
+          "personId": "16637",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16637"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22800",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22800&mode=",
+      "nominees": [
+        {
+          "name": "Charles Alfred Coulson",
+          "personId": "1994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1994"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stephen Finney Mason",
+          "personId": "16176",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16176"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22801",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22801&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Sergeevich Davydov",
+          "personId": "16638",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16638"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Aleksandr Mikhailovich Prokhorov [Prockorov]",
+          "personId": "11053",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11053"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22802",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22802&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Sergeevich Davydov",
+          "personId": "16638",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16638"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Simonetta",
+          "personId": "11139",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11139"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22803",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22803&mode=",
+      "nominees": [
+        {
+          "name": "Carl Djerassi",
+          "personId": "13016",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13016"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ralph Alexander Raphael",
+          "personId": "14592",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14592"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22804",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22804&mode=",
+      "nominees": [
+        {
+          "name": "Pehr Victor Edman",
+          "personId": "15601",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15601"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "I MacIntyre",
+          "personId": "16639",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16639"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22805",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22805&mode=",
+      "nominees": [
+        {
+          "name": "Nikolay Markovich Emanuel",
+          "personId": "15614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nikolay Nikolayevich Semyonov",
+          "personId": "8398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8398"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22806",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22806&mode=",
+      "nominees": [
+        {
+          "name": "Paul Hugh Emmett",
+          "personId": "14661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14661"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Teichner",
+          "personId": "16640",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16640"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22807",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22807&mode=",
+      "nominees": [
+        {
+          "name": "Albert Jakob Eschenmoser",
+          "personId": "14002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14002"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Aebi",
+          "personId": "16641",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16641"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22808",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22808&mode=",
+      "nominees": [
+        {
+          "name": "Albert Jakob Eschenmoser",
+          "personId": "14002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14002"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Morf",
+          "personId": "14004",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14004"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22809",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22809&mode=",
+      "nominees": [
+        {
+          "name": "Albert Jakob Eschenmoser",
+          "personId": "14002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14002"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerhard Schröder",
+          "personId": "16642",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16642"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22810",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22810&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22811",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22811&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Fava",
+          "personId": "14286",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14286"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22812",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22812&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Fischer",
+          "personId": "16884",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16884"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22813",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22813&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Indelli",
+          "personId": "16644",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16644"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22814",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22814&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Friedrich Wilhelm Jost",
+          "personId": "10508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10508"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22815",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22815&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kimio Ohno",
+          "personId": "16645",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16645"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22816",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22816&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eolo Scrocco",
+          "personId": "11078",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11078"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22817",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22817&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Otto Fischer",
+          "personId": "13074",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13074"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22818",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22818&mode=",
+      "nominees": [
+        {
+          "name": "Paul John Flory",
+          "personId": "3072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Eisenberg",
+          "personId": "16647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16647"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22819",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22819&mode=",
+      "nominees": [
+        {
+          "name": "Paul John Flory",
+          "personId": "3072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Helmer Gustavson",
+          "personId": "10901",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10901"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22820",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22820&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Naumovich Frumkin",
+          "personId": "3254",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3254"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Los",
+          "personId": "16648",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16648"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22821",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22821&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Naumovich Frumkin",
+          "personId": "3254",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3254"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stefan Minc",
+          "personId": "10828",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10828"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22822",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22822&mode=",
+      "nominees": [
+        {
+          "name": "André Guinier",
+          "personId": "16306",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16306"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Laffitte",
+          "personId": "14304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14304"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22823",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22823&mode=",
+      "nominees": [
+        {
+          "name": "Osamu Hayaishi",
+          "personId": "16192",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16192"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eric Mitchell Crook",
+          "personId": "15516",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15516"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22824",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22824&mode=",
+      "nominees": [
+        {
+          "name": "Osamu Hayaishi",
+          "personId": "16192",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16192"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Helmut Holzer",
+          "personId": "16649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16649"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22825",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22825&mode=",
+      "nominees": [
+        {
+          "name": "Clyde Allen Hutchison",
+          "personId": "10814",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10814"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22826",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22826&mode=",
+      "nominees": [
+        {
+          "name": "Hugh Esmor Huxley",
+          "personId": "16651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Lawrie",
+          "personId": "16652",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16652"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22827",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22827&mode=",
+      "nominees": [
+        {
+          "name": "Erich Hückel",
+          "personId": "4401",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4401"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Ludwig Mössbauer",
+          "personId": "11391",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11391"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22828",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22828&mode=",
+      "nominees": [
+        {
+          "name": "William Summer Johnson",
+          "personId": "13053",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13053"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D A Taylor",
+          "personId": "16653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16653"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22829",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22829&mode=",
+      "nominees": [
+        {
+          "name": "Friedrich Wilhelm Jost",
+          "personId": "10508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10508"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Schwabe",
+          "personId": "16195",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16195"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22830",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22830&mode=",
+      "nominees": [
+        {
+          "name": "Martin David Kamen",
+          "personId": "10671",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10671"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edoardo Amaldi",
+          "personId": "398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=398"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22831",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22831&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Gautheron",
+          "personId": "16654",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16654"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22832",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22832&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "François Jacob",
+          "personId": "14730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14730"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22833",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22833&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Noguchi",
+          "personId": "16656",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16656"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22834",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22834&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Otto Schmitt",
+          "personId": "16019",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16019"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22835",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22835&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Michael Sela",
+          "personId": "16657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16657"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22836",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22836&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nathan Sharon",
+          "personId": "16658",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16658"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22837",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22837&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Howard Stein",
+          "personId": "8764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8764"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22838",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22838&mode=",
+      "nominees": [
+        {
+          "name": "Wiktor Kemula",
+          "personId": "4785",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4785"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Józef Hurwic",
+          "personId": "11082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11082"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22839",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22839&mode=",
+      "nominees": [
+        {
+          "name": "Hans Leo Kornberg",
+          "personId": "16048",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16048"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H King",
+          "personId": "16659",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16659"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22840",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22840&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Edward Koshland Jr.",
+          "personId": "16142",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16142"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Klaus Helmut Krisch",
+          "personId": "16660",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16660"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22841",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22841&mode=",
+      "nominees": [
+        {
+          "name": "Otto Kratky",
+          "personId": "13932",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13932"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Breitenbach",
+          "personId": "14689",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14689"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22842",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22842&mode=",
+      "nominees": [
+        {
+          "name": "Otto Kratky",
+          "personId": "13932",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13932"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Hoffmann-Ostenhof",
+          "personId": "16661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16661"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22843",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22843&mode=",
+      "nominees": [
+        {
+          "name": "Otto Kratky",
+          "personId": "13932",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13932"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kurt Ludwig Komarek",
+          "personId": "16662",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16662"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22844",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22844&mode=",
+      "nominees": [
+        {
+          "name": "Edwin Herbert Land",
+          "personId": "16197",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16197"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Porter",
+          "personId": "10654",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10654"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22845",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22845&mode=",
+      "nominees": [
+        {
+          "name": "Edgar Lederer",
+          "personId": "11057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22846",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22846&mode=",
+      "nominees": [
+        {
+          "name": "William Nunn Lipscomb Jr.",
+          "personId": "10803",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10803"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22847",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22847&mode=",
+      "nominees": [
+        {
+          "name": "Herman Francis Mark",
+          "personId": "5921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Albrecht Bethe",
+          "personId": "971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=971"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22848",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22848&mode=",
+      "nominees": [
+        {
+          "name": "Herman Francis Mark",
+          "personId": "5921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Sancho",
+          "personId": "16665",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16665"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22849",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22849&mode=",
+      "nominees": [
+        {
+          "name": "Archer John Porter Martin",
+          "personId": "5945",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5945"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Colin John Owen Rhonabwy Morris",
+          "personId": "15531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15531"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22850",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22850&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Edward Mayer",
+          "personId": "6019",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6019"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Baur",
+          "personId": "16666",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16666"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22851",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22851&mode=",
+      "nominees": [
+        {
+          "name": "Harden Marsden McConnell",
+          "personId": "15553",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15553"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22852",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22852&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bruce Merrifield",
+          "personId": "14617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14617"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Arnold Alberty",
+          "personId": "11066",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11066"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22853",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22853&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bruce Merrifield",
+          "personId": "14617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14617"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Broun",
+          "personId": "16667",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16667"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22854",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22854&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bruce Merrifield",
+          "personId": "14617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14617"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Owen",
+          "personId": "16668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16668"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22855",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22855&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bruce Merrifield",
+          "personId": "14617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14617"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Talbot",
+          "personId": "16669",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16669"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22856",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22856&mode=",
+      "nominees": [
+        {
+          "name": "W T Morgan",
+          "personId": "16670",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16670"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Watkins",
+          "personId": "16671",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16671"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22857",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22857&mode=",
+      "nominees": [
+        {
+          "name": "Aleksandr Nikolaevich Nesmejanov",
+          "personId": "13084",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13084"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martin Israelevich Kabachnik",
+          "personId": "16208",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16208"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22858",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22858&mode=",
+      "nominees": [
+        {
+          "name": "George Emil Palade",
+          "personId": "16672",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16672"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Baret",
+          "personId": "16673",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16673"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22859",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22859&mode=",
+      "nominees": [
+        {
+          "name": "George Claude Pimentel",
+          "personId": "13996",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13996"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul-Antoine Giguère",
+          "personId": "3436",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3436"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22860",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22860&mode=",
+      "nominees": [
+        {
+          "name": "Michael Polanyi",
+          "personId": "7317",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7317"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Davies",
+          "personId": "16674",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16674"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22861",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22861&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Prelog",
+          "personId": "7400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Balenovic",
+          "personId": "10830",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10830"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22862",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22862&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Prelog",
+          "personId": "7400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Robert Engel",
+          "personId": "11070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11070"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22864",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22864&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Prelog",
+          "personId": "7400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Basil Charles Leicester Weedon",
+          "personId": "16676",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16676"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22863",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22863&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Prelog",
+          "personId": "7400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Klyne",
+          "personId": "15519",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15519"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22865",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22865&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Prelog",
+          "personId": "7400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leopold Ruzicka",
+          "personId": "7994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7994"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22866",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22866&mode=",
+      "nominees": [
+        {
+          "name": "William Charles Price",
+          "personId": "16589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Sanderson Mulliken",
+          "personId": "6504",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6504"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22867",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22867&mode=",
+      "nominees": [
+        {
+          "name": "Ilya Romanovich Prigogine",
+          "personId": "10583",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10583"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Ross",
+          "personId": "16677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16677"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22868",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22868&mode=",
+      "nominees": [
+        {
+          "name": "Gopalasamudram Narayanan Ramachandran",
+          "personId": "10948",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10948"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Nath",
+          "personId": "16678",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16678"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22869",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22869&mode=",
+      "nominees": [
+        {
+          "name": "Ernst August Friedrich Ruska",
+          "personId": "7977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7977"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Einar Stenhagen",
+          "personId": "13343",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13343"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22870",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22870&mode=",
+      "nominees": [
+        {
+          "name": "Andrzej Viktor Schally",
+          "personId": "16679",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16679"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Martinez-Manautou",
+          "personId": "16177",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16177"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22871",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22871&mode=",
+      "nominees": [
+        {
+          "name": "Kai Manne Börje Siegbahn",
+          "personId": "15795",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15795"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A J Robertson",
+          "personId": "16680",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16680"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22872",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22872&mode=",
+      "nominees": [
+        {
+          "name": "Kai Manne Börje Siegbahn",
+          "personId": "15795",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15795"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Truter",
+          "personId": "16681",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16681"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22873",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22873&mode=",
+      "nominees": [
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Kastler",
+          "personId": "4727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22874",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22874&mode=",
+      "nominees": [
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean-Pierre Lehman",
+          "personId": "15463",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15463"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22875",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22875&mode=",
+      "nominees": [
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Moccia",
+          "personId": "16683",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16683"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22876",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22876&mode=",
+      "nominees": [
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Hasbrouck Van Vleck",
+          "personId": "9551",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9551"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22877",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22877&mode=",
+      "nominees": [
+        {
+          "name": "František Šorm",
+          "personId": "14769",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14769"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Canonica",
+          "personId": "16684",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16684"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22878",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22878&mode=",
+      "nominees": [
+        {
+          "name": "Sol Spiegelman",
+          "personId": "18908",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=18908"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Manfred Eigen",
+          "personId": "13019",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13019"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22880",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22880&mode=",
+      "nominees": [
+        {
+          "name": "Kenzi Tamaru",
+          "personId": "16686",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16686"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wolfgang Sachtler",
+          "personId": "16687",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16687"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22881",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22881&mode=",
+      "nominees": [
+        {
+          "name": "Leonhard Johann Eugen Tiganik",
+          "personId": "16688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16688"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Gulbaran",
+          "personId": "16689",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16689"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22883",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22883&mode=",
+      "nominees": [
+        {
+          "name": "Hiroomi Umezawa",
+          "personId": "14250",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14250"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Hikime",
+          "personId": "16690",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16690"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22884",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22884&mode=",
+      "nominees": [
+        {
+          "name": "John Hasbrouck Van Vleck",
+          "personId": "9551",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9551"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C MacLean",
+          "personId": "16691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16691"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22885",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22885&mode=",
+      "nominees": [
+        {
+          "name": "Carl Wilhelm Wagner",
+          "personId": "10831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10831"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Bianchi",
+          "personId": "11142",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11142"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22886",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22886&mode=",
+      "nominees": [
+        {
+          "name": "Carl Wilhelm Wagner",
+          "personId": "10831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10831"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Nowotny",
+          "personId": "10645",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10645"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22887",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22887&mode=",
+      "nominees": [
+        {
+          "name": "Carl Wilhelm Wagner",
+          "personId": "10831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10831"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Shimoji",
+          "personId": "16693",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16693"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22888",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22888&mode=",
+      "nominees": [
+        {
+          "name": "Carl Wilhelm Wagner",
+          "personId": "10831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10831"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Zolta?n Ga?bor Szabó",
+          "personId": "14624",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14624"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22889",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22889&mode=",
+      "nominees": [
+        {
+          "name": "Alan Walsh",
+          "personId": "13978",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13978"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andrew Reginald Howard Cole",
+          "personId": "16694",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16694"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22890",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22890&mode=",
+      "nominees": [
+        {
+          "name": "Alan Walsh",
+          "personId": "13978",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13978"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Roy",
+          "personId": "16695",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16695"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22891",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22891&mode=",
+      "nominees": [
+        {
+          "name": "Y Wang",
+          "personId": "16696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16696"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F H Kelly",
+          "personId": "16697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22892",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22892&mode=",
+      "nominees": [
+        {
+          "name": "Edgar Bright Wilson Jr.",
+          "personId": "10218",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10218"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22893",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22893&mode=",
+      "nominees": [
+        {
+          "name": "H Witt",
+          "personId": "14172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Grisebach",
+          "personId": "16700",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16700"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22894",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22894&mode=",
+      "nominees": [
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jack Edward Baldwin",
+          "personId": "16701",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16701"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22895",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22895&mode=",
+      "nominees": [
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Bickelhaupt",
+          "personId": "16702",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16702"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22896",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22896&mode=",
+      "nominees": [
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Butenandt",
+          "personId": "1487",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1487"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22897",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22897&mode=",
+      "nominees": [
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Feodor Lynen",
+          "personId": "5722",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5722"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22898",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22898&mode=",
+      "nominees": [
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Plieninger",
+          "personId": "16703",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16703"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22899",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22899&mode=",
+      "nominees": [
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Shaw",
+          "personId": "15575",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15575"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22900",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22900&mode=",
+      "nominees": [
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinz August Staab",
+          "personId": "13370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13370"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22901",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22901&mode=",
+      "nominees": [
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N.N.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22903",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22903&mode=",
+      "nominees": [
+        {
+          "name": "Yevgeny Konstantinovich Zavoisky",
+          "personId": "10860",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10860"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cornelis Jacobus Gorter",
+          "personId": "3559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3559"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22904",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22904&mode=",
+      "nominees": [
+        {
+          "name": "S Ahrland",
+          "personId": "16706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16706"
+        },
+        {
+          "name": "Ralph Gottfrid Pearson",
+          "personId": "16707",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16707"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Kida",
+          "personId": "16708",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16708"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22905",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22905&mode=",
+      "nominees": [
+        {
+          "name": "Neil Bartlett",
+          "personId": "13013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13013"
+        },
+        {
+          "name": "Martin David Kamen",
+          "personId": "10671",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10671"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emilio Gino Segrè",
+          "personId": "10538",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10538"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22906",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22906&mode=",
+      "nominees": [
+        {
+          "name": "Alan Rushton Battersby",
+          "personId": "14687",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14687"
+        },
+        {
+          "name": "John Warcup Cornforth Jr",
+          "personId": "13896",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13896"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22907",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22907&mode=",
+      "nominees": [
+        {
+          "name": "Karl Sune Detlof Bergström",
+          "personId": "921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=921"
+        },
+        {
+          "name": "David Adriaan van Dorp",
+          "personId": "16709",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16709"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Egbert Havinga",
+          "personId": "3955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3955"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22908",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22908&mode=",
+      "nominees": [
+        {
+          "name": "Karl Sune Detlof Bergström",
+          "personId": "921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=921"
+        },
+        {
+          "name": "David Adriaan van Dorp",
+          "personId": "16709",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16709"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Kloosterziel",
+          "personId": "16710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22909",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22909&mode=",
+      "nominees": [
+        {
+          "name": "Karl Sune Detlof Bergström",
+          "personId": "921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=921"
+        },
+        {
+          "name": "David Adriaan van Dorp",
+          "personId": "16709",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16709"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Mandel",
+          "personId": "13037",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13037"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22910",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22910&mode=",
+      "nominees": [
+        {
+          "name": "Karl Sune Detlof Bergström",
+          "personId": "921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=921"
+        },
+        {
+          "name": "David Adriaan van Dorp",
+          "personId": "16709",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16709"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Luitzen Johannes Oosterhoff",
+          "personId": "10918",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10918"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22911",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22911&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Charles Brown",
+          "personId": "13015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13015"
+        },
+        {
+          "name": "Louis Plack Hammett",
+          "personId": "3851",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3851"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Marino",
+          "personId": "16711",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16711"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22914",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22914&mode=",
+      "nominees": [
+        {
+          "name": "John Warcup Cornforth Jr",
+          "personId": "13896",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13896"
+        },
+        {
+          "name": "George Joseph Popják",
+          "personId": "13988",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13988"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur John Birch",
+          "personId": "10670",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10670"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22915",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22915&mode=",
+      "nominees": [
+        {
+          "name": "Pehr Victor Edman",
+          "personId": "15601",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15601"
+        },
+        {
+          "name": "Robert Bruce Merrifield",
+          "personId": "14617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14617"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Cheesman",
+          "personId": "16714",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16714"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22916",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22916&mode=",
+      "nominees": [
+        {
+          "name": "Albert Jakob Eschenmoser",
+          "personId": "14002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14002"
+        },
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Musso",
+          "personId": "16715",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16715"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22917",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22917&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        },
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "José Ignacio Fernández Alonso",
+          "personId": "16716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22918",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22918&mode=",
+      "nominees": [
+        {
+          "name": "Henry Eyring",
+          "personId": "2875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2875"
+        },
+        {
+          "name": "John Clark Slater",
+          "personId": "8589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8589"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Per Olov Löwdin",
+          "personId": "11156",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11156"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22919",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22919&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Otto Fischer",
+          "personId": "13074",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13074"
+        },
+        {
+          "name": "Aleksandr Nikolaevich Nesmejanov",
+          "personId": "13084",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13084"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nicolay Gennadijevitj Basov",
+          "personId": "11052",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11052"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22920",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22920&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Otto Fischer",
+          "personId": "13074",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13074"
+        },
+        {
+          "name": "Geoffrey Wilkinson",
+          "personId": "14663",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14663"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Donald Charlton Bradley",
+          "personId": "16717",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16717"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22921",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22921&mode=",
+      "nominees": [
+        {
+          "name": "Paul John Flory",
+          "personId": "3072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3072"
+        },
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Tileston Edsall",
+          "personId": "2693",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2693"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22922",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22922&mode=",
+      "nominees": [
+        {
+          "name": "Paul John Flory",
+          "personId": "3072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3072"
+        },
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Kornberg",
+          "personId": "10979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10979"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22923",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22923&mode=",
+      "nominees": [
+        {
+          "name": "Victor Gutmann",
+          "personId": "16189",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16189"
+        },
+        {
+          "name": "I Lindqvist",
+          "personId": "16718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16718"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hanns Malissa",
+          "personId": "13022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13022"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22924",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22924&mode=",
+      "nominees": [
+        {
+          "name": "Donald Holroyde Hey",
+          "personId": "4146",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4146"
+        },
+        {
+          "name": "William Albert Waters",
+          "personId": "16119",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16119"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A James",
+          "personId": "16719",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16719"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22925",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22925&mode=",
+      "nominees": [
+        {
+          "name": "Donald Holroyde Hey",
+          "personId": "4146",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4146"
+        },
+        {
+          "name": "William Albert Waters",
+          "personId": "16119",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16119"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Williams",
+          "personId": "16720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16720"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22927",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22927&mode=",
+      "nominees": [
+        {
+          "name": "Rolf Huisgen",
+          "personId": "10666",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10666"
+        },
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Neidlein",
+          "personId": "16722",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16722"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22928",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22928&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        },
+        {
+          "name": "Michael Sela",
+          "personId": "16657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Christian Boehmer Anfinsen",
+          "personId": "16045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16045"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22929",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22929&mode=",
+      "nominees": [
+        {
+          "name": "Ephraim Katchalski",
+          "personId": "13348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13348"
+        },
+        {
+          "name": "Michael Sela",
+          "personId": "16657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "André Michel Lwoff",
+          "personId": "5718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5718"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22930",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22930&mode=",
+      "nominees": [
+        {
+          "name": "Wlodzimierz Kolos",
+          "personId": "16723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16723"
+        },
+        {
+          "name": "Clemens Roothaan",
+          "personId": "16724",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16724"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Zbigniew Kecki",
+          "personId": "16725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16725"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22931",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22931&mode=",
+      "nominees": [
+        {
+          "name": "Otto Kratky",
+          "personId": "13932",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13932"
+        },
+        {
+          "name": "Ralph Walter Wyckoff",
+          "personId": "10521",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10521"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Nowacki",
+          "personId": "16726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16726"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22932",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22932&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bruce Merrifield",
+          "personId": "14617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14617"
+        },
+        {
+          "name": "Jerker Porath",
+          "personId": "15602",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15602"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Lemonde",
+          "personId": "16727",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16727"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22933",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22933&mode=",
+      "nominees": [
+        {
+          "name": "George Claude Pimentel",
+          "personId": "13996",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13996"
+        },
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Ulrich Franck",
+          "personId": "16728",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16728"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22934",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22934&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Prelog",
+          "personId": "7400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7400"
+        },
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Horn",
+          "personId": "16220",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16220"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22936",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22936&mode=",
+      "nominees": [
+        {
+          "name": "Erich Adler",
+          "personId": "13461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13461"
+        },
+        {
+          "name": "Holger Gustaf Henrik Erdtman",
+          "personId": "16730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16730"
+        },
+        {
+          "name": "Karl Johann Freudenberg",
+          "personId": "3212",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3212"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Björkman",
+          "personId": "16731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16731"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22937",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22937&mode=",
+      "nominees": [
+        {
+          "name": "Karl Sune Detlof Bergström",
+          "personId": "921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=921"
+        },
+        {
+          "name": "Gerold Karl Schwarzenbach",
+          "personId": "10904",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10904"
+        },
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Conrad Hans Eugster",
+          "personId": "16732",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16732"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22938",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22938&mode=",
+      "nominees": [
+        {
+          "name": "E Bertaut",
+          "personId": "16733",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16733"
+        },
+        {
+          "name": "Jean Lecomte",
+          "personId": "14284",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14284"
+        },
+        {
+          "name": "Félix Trombe",
+          "personId": "10660",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10660"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Clément Courty",
+          "personId": "2004",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2004"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22940",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22940&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Charles Brown",
+          "personId": "13015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13015"
+        },
+        {
+          "name": "Paul von Ragué Schleyer",
+          "personId": "15592",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15592"
+        },
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Laurent",
+          "personId": "16735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16735"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22941",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22941&mode=",
+      "nominees": [
+        {
+          "name": "Britton Chance",
+          "personId": "11122",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11122"
+        },
+        {
+          "name": "David Green",
+          "personId": "11000",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11000"
+        },
+        {
+          "name": "Efraim Racker",
+          "personId": "11161",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11161"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Baum",
+          "personId": "16736",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16736"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22943",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22943&mode=",
+      "nominees": [
+        {
+          "name": "John Warcup Cornforth Jr",
+          "personId": "13896",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13896"
+        },
+        {
+          "name": "George Joseph Popják",
+          "personId": "13988",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13988"
+        },
+        {
+          "name": "Gopalasamudram Narayanan Ramachandran",
+          "personId": "10948",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10948"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Ramachandran",
+          "personId": "16738",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16738"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22944",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22944&mode=",
+      "nominees": [
+        {
+          "name": "Rudolf Criegee",
+          "personId": "13371",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13371"
+        },
+        {
+          "name": "Alfred Rieche",
+          "personId": "14005",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14005"
+        },
+        {
+          "name": "Georg Wittig",
+          "personId": "10657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Johann Freudenberg",
+          "personId": "3212",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3212"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22945",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22945&mode=",
+      "nominees": [
+        {
+          "name": "Boris Vladimirovich Derjagin",
+          "personId": "15612",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15612"
+        },
+        {
+          "name": "Jan Theodoor Gerard Overbeek",
+          "personId": "6924",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6924"
+        },
+        {
+          "name": "Evert Johannes Willem Verwey",
+          "personId": "14677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14677"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexei Dimitrow Sheludko",
+          "personId": "16739",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16739"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22946",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22946&mode=",
+      "nominees": [
+        {
+          "name": "Michael James Steuart Dewar",
+          "personId": "16740",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16740"
+        },
+        {
+          "name": "Holger Gustaf Henrik Erdtman",
+          "personId": "16730",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16730"
+        },
+        {
+          "name": "Tetsuo Nozoe",
+          "personId": "15680",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15680"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Yagi",
+          "personId": "16741",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16741"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22947",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22947&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Hartmann",
+          "personId": "13910",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13910"
+        },
+        {
+          "name": "Christian Klixbüll-Jørgensen",
+          "personId": "15660",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15660"
+        },
+        {
+          "name": "Leslie Eleazer Orgel",
+          "personId": "11140",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11140"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Gayoso",
+          "personId": "16742",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16742"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22948",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22948&mode=",
+      "nominees": [
+        {
+          "name": "Osamu Hayaishi",
+          "personId": "16192",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16192"
+        },
+        {
+          "name": "Jerker Porath",
+          "personId": "15602",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15602"
+        },
+        {
+          "name": "Hiroomi Umezawa",
+          "personId": "14250",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14250"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Hirai",
+          "personId": "16743",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16743"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22949",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22949&mode=",
+      "nominees": [
+        {
+          "name": "Wlodzimierz Kolos",
+          "personId": "16723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16723"
+        },
+        {
+          "name": "Clemens Roothaan",
+          "personId": "16724",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16724"
+        },
+        {
+          "name": "Lutoslaw Wolniewicz",
+          "personId": "16744",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16744"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "B Janaszewski",
+          "personId": "16745",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16745"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    },
+    {
+      "nominationId": "22950",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=22950&mode=",
+      "nominees": [
+        {
+          "name": "Wlodzimierz Kolos",
+          "personId": "16723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16723"
+        },
+        {
+          "name": "Clemens Roothaan",
+          "personId": "16724",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16724"
+        },
+        {
+          "name": "Lutoslaw Wolniewicz",
+          "personId": "16744",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16744"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Stolarczyk",
+          "personId": "16746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16746"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:58:02+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1973,
+  "economicsProbe": false
+}

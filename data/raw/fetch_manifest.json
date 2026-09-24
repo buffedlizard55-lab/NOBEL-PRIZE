@@ -1,0 +1,3832 @@
+{
+  "retrievedAt": "2026-09-24T01:01:20+00:00",
+  "errors": [
+    "medicine 1901: error=None stated=128 parsed=115",
+    "medicine 1902: error=None stated=90 parsed=67",
+    "medicine 1903: error=None stated=81 parsed=60",
+    "medicine 1904: error=None stated=117 parsed=97",
+    "medicine 1905: error=None stated=142 parsed=106",
+    "medicine 1906: error=None stated=98 parsed=83",
+    "medicine 1907: error=None stated=94 parsed=68",
+    "medicine 1908: error=None stated=121 parsed=96",
+    "medicine 1909: error=None stated=125 parsed=89",
+    "medicine 1910: error=None stated=159 parsed=134",
+    "medicine 1911: error=None stated=92 parsed=74",
+    "medicine 1912: error=None stated=131 parsed=105",
+    "medicine 1913: error=None stated=152 parsed=124",
+    "medicine 1914: error=None stated=170 parsed=131",
+    "medicine 1915: error=None stated=65 parsed=46",
+    "medicine 1916: error=None stated=71 parsed=50",
+    "medicine 1917: error=None stated=79 parsed=53",
+    "medicine 1918: error=None stated=65 parsed=41",
+    "medicine 1919: error=None stated=119 parsed=69",
+    "medicine 1920: error=None stated=141 parsed=76",
+    "medicine 1921: error=None stated=110 parsed=94",
+    "medicine 1922: error=None stated=86 parsed=64",
+    "medicine 1923: error=None stated=141 parsed=133",
+    "medicine 1924: error=None stated=102 parsed=84",
+    "medicine 1925: error=None stated=155 parsed=147",
+    "medicine 1926: error=None stated=102 parsed=91",
+    "medicine 1927: error=None stated=108 parsed=93",
+    "medicine 1928: error=None stated=147 parsed=137",
+    "medicine 1929: error=None stated=121 parsed=107",
+    "medicine 1930: error=None stated=139 parsed=129",
+    "medicine 1931: error=None stated=161 parsed=155",
+    "medicine 1932: error=None stated=117 parsed=111",
+    "medicine 1933: error=None stated=80 parsed=74",
+    "medicine 1934: error=None stated=211 parsed=200",
+    "medicine 1935: error=None stated=177 parsed=168",
+    "medicine 1936: error=None stated=155 parsed=141",
+    "medicine 1937: error=None stated=180 parsed=169",
+    "medicine 1938: error=None stated=111 parsed=105",
+    "medicine 1939: error=None stated=98 parsed=96",
+    "medicine 1940: error=None stated=58 parsed=52",
+    "medicine 1941: error=None stated=68 parsed=51",
+    "medicine 1942: error=None stated=50 parsed=31",
+    "medicine 1944: error=None stated=23 parsed=15",
+    "medicine 1945: error=None stated=47 parsed=36",
+    "medicine 1946: error=None stated=81 parsed=61"
+  ],
+  "nominationPages": [
+    {
+      "category": "physics",
+      "year": 1901,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1901",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1902,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1902",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 29,
+      "parsedCount": 29,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1903,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1903",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 35,
+      "parsedCount": 35,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1904,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1904",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 24,
+      "parsedCount": 24,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1905,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1906,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1906",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 18,
+      "parsedCount": 18,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1907,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1907",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1908,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1908",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 24,
+      "parsedCount": 24,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1909,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1909",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 49,
+      "parsedCount": 49,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1910,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1910",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 58,
+      "parsedCount": 58,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1911,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1911",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1912,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1912",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1913,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1913",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 39,
+      "parsedCount": 39,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1914,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1914",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 38,
+      "parsedCount": 38,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1915,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1915",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 18,
+      "parsedCount": 18,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1916,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1916",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 32,
+      "parsedCount": 32,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1917,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1917",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 34,
+      "parsedCount": 34,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1918,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1918",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 29,
+      "parsedCount": 29,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1919,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1919",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1920,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1920",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 28,
+      "parsedCount": 28,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1921,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1921",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 31,
+      "parsedCount": 31,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1922,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1922",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 47,
+      "parsedCount": 47,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1923,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1923",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 18,
+      "parsedCount": 18,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1924,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1924",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 32,
+      "parsedCount": 32,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1925,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1925",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 31,
+      "parsedCount": 31,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1926,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1926",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 42,
+      "parsedCount": 42,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1927,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1927",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 33,
+      "parsedCount": 33,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1928,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1928",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 32,
+      "parsedCount": 32,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1929,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1929",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 58,
+      "parsedCount": 58,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1930,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1930",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 40,
+      "parsedCount": 40,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1931,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1931",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 26,
+      "parsedCount": 26,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1932,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1932",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 41,
+      "parsedCount": 41,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1933,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1933",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 48,
+      "parsedCount": 48,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1934,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 54,
+      "parsedCount": 54,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1935,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1935",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 39,
+      "parsedCount": 39,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1936,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1937,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1937",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 54,
+      "parsedCount": 54,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1938,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1938",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 25,
+      "parsedCount": 25,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1939,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1939",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 42,
+      "parsedCount": 42,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1940,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1940",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 36,
+      "parsedCount": 36,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1941,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1941",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 15,
+      "parsedCount": 15,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1942,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 20,
+      "parsedCount": 20,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1943,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1943",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 20,
+      "parsedCount": 20,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1944,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1944",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 17,
+      "parsedCount": 17,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1945,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 20,
+      "parsedCount": 20,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1946,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 26,
+      "parsedCount": 26,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1947,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1947",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 31,
+      "parsedCount": 31,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1948,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 35,
+      "parsedCount": 35,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1949,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1949",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 53,
+      "parsedCount": 53,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1950,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 42,
+      "parsedCount": 42,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1951,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1951",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 50,
+      "parsedCount": 50,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1952,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1952",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 45,
+      "parsedCount": 45,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1953,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1953",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 51,
+      "parsedCount": 51,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1954,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1954",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 53,
+      "parsedCount": 53,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1955,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1955",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 58,
+      "parsedCount": 58,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1956,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1956",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 72,
+      "parsedCount": 72,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1957,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1957",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 66,
+      "parsedCount": 66,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1958,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1958",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 55,
+      "parsedCount": 55,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1959,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1959",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 61,
+      "parsedCount": 61,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1960,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1960",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 80,
+      "parsedCount": 80,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1961,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1961",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 54,
+      "parsedCount": 54,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1962,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1962",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 79,
+      "parsedCount": 79,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1963,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1963",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 81,
+      "parsedCount": 81,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1964,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1964",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 90,
+      "parsedCount": 90,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1965,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1965",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 106,
+      "parsedCount": 106,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1966,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1966",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 115,
+      "parsedCount": 115,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1967,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1967",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 117,
+      "parsedCount": 117,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1968,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1968",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 128,
+      "parsedCount": 128,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1969,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1969",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 132,
+      "parsedCount": 132,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1970,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1970",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 121,
+      "parsedCount": 121,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1971,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1971",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 113,
+      "parsedCount": 113,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1972,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1972",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 119,
+      "parsedCount": 119,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1973,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1973",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 167,
+      "parsedCount": 167,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1974,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1974",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 163,
+      "parsedCount": 163,
+      "countMatchesStated": true
+    },
+    {
+      "category": "physics",
+      "year": 1975,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1975",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 176,
+      "parsedCount": 176,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1901,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 20,
+      "parsedCount": 20,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1902,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1902",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 24,
+      "parsedCount": 24,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1903,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1903",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 23,
+      "parsedCount": 23,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1904,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 32,
+      "parsedCount": 32,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1905,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1905",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 38,
+      "parsedCount": 38,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1906,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1906",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 19,
+      "parsedCount": 19,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1907,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1907",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1908,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1908",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 34,
+      "parsedCount": 34,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1909,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1909",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1910,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1910",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 22,
+      "parsedCount": 22,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1911,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1911",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 19,
+      "parsedCount": 19,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1912,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1912",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 31,
+      "parsedCount": 31,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1913,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1913",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 31,
+      "parsedCount": 31,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1914,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1914",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 28,
+      "parsedCount": 28,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1915,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1915",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1916,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1916",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1917,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1917",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 17,
+      "parsedCount": 17,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1918,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1918",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 11,
+      "parsedCount": 11,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1919,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1919",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 22,
+      "parsedCount": 22,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1920,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1920",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 29,
+      "parsedCount": 29,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1921,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1921",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 46,
+      "parsedCount": 46,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1922,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1922",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 34,
+      "parsedCount": 34,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1923,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 16,
+      "parsedCount": 16,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1924,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1924",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 35,
+      "parsedCount": 35,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1925,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1925",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 25,
+      "parsedCount": 25,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1926,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 37,
+      "parsedCount": 37,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1927,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1927",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1928,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1928",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 39,
+      "parsedCount": 39,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1929,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1929",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 61,
+      "parsedCount": 61,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1930,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1930",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 29,
+      "parsedCount": 29,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1931,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1931",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 43,
+      "parsedCount": 43,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1932,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1932",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 40,
+      "parsedCount": 40,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1933,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 39,
+      "parsedCount": 39,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1934,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1934",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 41,
+      "parsedCount": 41,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1935,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1935",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 50,
+      "parsedCount": 50,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1936,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1936",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 38,
+      "parsedCount": 38,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1937,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1937",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 36,
+      "parsedCount": 36,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1938,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1938",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 17,
+      "parsedCount": 17,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1939,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1939",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 35,
+      "parsedCount": 35,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1940,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 34,
+      "parsedCount": 34,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1941,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 23,
+      "parsedCount": 23,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1942,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1942",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1943,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1943",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 18,
+      "parsedCount": 18,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1944,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1944",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 37,
+      "parsedCount": 37,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1945,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1945",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 24,
+      "parsedCount": 24,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1946,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 33,
+      "parsedCount": 33,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1947,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1947",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 29,
+      "parsedCount": 29,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1948,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1948",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 74,
+      "parsedCount": 74,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1949,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1949",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 59,
+      "parsedCount": 59,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1950,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1950",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 68,
+      "parsedCount": 68,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1951,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1951",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 55,
+      "parsedCount": 55,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1952,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1952",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 67,
+      "parsedCount": 67,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1953,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1953",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 63,
+      "parsedCount": 63,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1954,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1954",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 72,
+      "parsedCount": 72,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1955,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1955",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 74,
+      "parsedCount": 74,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1956,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1956",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 80,
+      "parsedCount": 80,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1957,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1957",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 95,
+      "parsedCount": 95,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1958,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1958",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 85,
+      "parsedCount": 85,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1959,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1959",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 69,
+      "parsedCount": 69,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1960,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1960",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 82,
+      "parsedCount": 82,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1961,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1961",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 80,
+      "parsedCount": 80,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1962,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1962",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 69,
+      "parsedCount": 69,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1963,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1963",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 88,
+      "parsedCount": 88,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1964,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1964",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 101,
+      "parsedCount": 101,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1965,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1965",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 101,
+      "parsedCount": 101,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1966,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1966",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 118,
+      "parsedCount": 118,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1967,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1967",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 135,
+      "parsedCount": 135,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1968,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1968",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 139,
+      "parsedCount": 139,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1969,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1969",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 175,
+      "parsedCount": 175,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1970,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1970",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 115,
+      "parsedCount": 115,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1971,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1971",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 114,
+      "parsedCount": 114,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1972,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1972",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 151,
+      "parsedCount": 151,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1973,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1973",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 166,
+      "parsedCount": 166,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1974,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1974",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 165,
+      "parsedCount": 165,
+      "countMatchesStated": true
+    },
+    {
+      "category": "chemistry",
+      "year": 1975,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1975",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 159,
+      "parsedCount": 159,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1901,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1901",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 128,
+      "parsedCount": 115,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1902,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 90,
+      "parsedCount": 67,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1903,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1903",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 81,
+      "parsedCount": 60,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1904,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1904",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 117,
+      "parsedCount": 97,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1905,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1905",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 142,
+      "parsedCount": 106,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1906,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1906",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 98,
+      "parsedCount": 83,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1907,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1907",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 94,
+      "parsedCount": 68,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1908,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1908",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 121,
+      "parsedCount": 96,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1909,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1909",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 125,
+      "parsedCount": 89,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1910,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1910",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 159,
+      "parsedCount": 134,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1911,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1911",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 92,
+      "parsedCount": 74,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1912,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1912",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 131,
+      "parsedCount": 105,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1913,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1913",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 152,
+      "parsedCount": 124,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1914,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 170,
+      "parsedCount": 131,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1915,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1915",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 65,
+      "parsedCount": 46,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1916,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1916",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 71,
+      "parsedCount": 50,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1917,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1917",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 79,
+      "parsedCount": 53,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1918,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1918",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 65,
+      "parsedCount": 41,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1919,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1919",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 119,
+      "parsedCount": 69,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1920,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1920",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 141,
+      "parsedCount": 76,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1921,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 110,
+      "parsedCount": 94,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1922,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 86,
+      "parsedCount": 64,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1923,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1923",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 141,
+      "parsedCount": 133,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1924,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1924",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 102,
+      "parsedCount": 84,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1925,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1925",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 155,
+      "parsedCount": 147,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1926,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1926",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 102,
+      "parsedCount": 91,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1927,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1927",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 108,
+      "parsedCount": 93,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1928,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1928",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 147,
+      "parsedCount": 137,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1929,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1929",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 121,
+      "parsedCount": 107,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1930,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1930",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 139,
+      "parsedCount": 129,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1931,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1931",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 161,
+      "parsedCount": 155,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1932,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1932",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 117,
+      "parsedCount": 111,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1933,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1933",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 80,
+      "parsedCount": 74,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1934,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1934",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 211,
+      "parsedCount": 200,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1935,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1935",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 177,
+      "parsedCount": 168,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1936,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1936",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 155,
+      "parsedCount": 141,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1937,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1937",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 180,
+      "parsedCount": 169,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1938,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1938",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 111,
+      "parsedCount": 105,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1939,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1939",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 98,
+      "parsedCount": 96,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1940,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1940",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 58,
+      "parsedCount": 52,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1941,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1941",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 68,
+      "parsedCount": 51,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1942,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1942",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 50,
+      "parsedCount": 31,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1943,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 28,
+      "parsedCount": 28,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1944,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1944",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 23,
+      "parsedCount": 15,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1945,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 47,
+      "parsedCount": 36,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1946,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1946",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 81,
+      "parsedCount": 61,
+      "countMatchesStated": false
+    },
+    {
+      "category": "medicine",
+      "year": 1947,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1947",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 85,
+      "parsedCount": 85,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1948,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1948",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 148,
+      "parsedCount": 148,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1949,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1949",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 103,
+      "parsedCount": 103,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1950,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1950",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 121,
+      "parsedCount": 121,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1951,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1951",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 109,
+      "parsedCount": 109,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1952,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1952",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 122,
+      "parsedCount": 122,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1953,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 166,
+      "parsedCount": 166,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1954,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1954",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1955,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1955",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1956,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1956",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1957,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1957",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1958,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1958",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1959,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1959",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1960,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1960",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1961,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1961",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1962,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1962",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1963,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1963",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1964,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1964",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1965,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1965",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1966,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1966",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1967,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1967",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1968,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1968",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1969,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1969",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1970,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1970",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1971,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1971",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1972,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1972",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1973,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1973",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1974,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1974",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "medicine",
+      "year": 1975,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1975",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1901,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 37,
+      "parsedCount": 37,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1902,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1902",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 44,
+      "parsedCount": 44,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1903,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1903",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 41,
+      "parsedCount": 41,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1904,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1904",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1905,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 28,
+      "parsedCount": 28,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1906,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1906",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 50,
+      "parsedCount": 50,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1907,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1907",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 37,
+      "parsedCount": 37,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1908,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1908",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 23,
+      "parsedCount": 23,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1909,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1909",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 38,
+      "parsedCount": 38,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1910,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1910",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1911,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1911",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1912,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 37,
+      "parsedCount": 37,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1913,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1913",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 32,
+      "parsedCount": 32,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1914,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1914",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 26,
+      "parsedCount": 26,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1915,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1915",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 26,
+      "parsedCount": 26,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1916,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1916",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 46,
+      "parsedCount": 46,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1917,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1917",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 26,
+      "parsedCount": 26,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1918,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1918",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 19,
+      "parsedCount": 19,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1919,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1919",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 18,
+      "parsedCount": 18,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1920,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1920",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1921,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 22,
+      "parsedCount": 22,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1922,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1922",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1923,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 36,
+      "parsedCount": 36,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1924,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1924",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 22,
+      "parsedCount": 22,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1925,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1925",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 25,
+      "parsedCount": 25,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1926,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1926",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 37,
+      "parsedCount": 37,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1927,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1927",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 29,
+      "parsedCount": 29,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1928,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1928",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 48,
+      "parsedCount": 48,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1929,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1929",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1930,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1930",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 47,
+      "parsedCount": 47,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1931,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 49,
+      "parsedCount": 49,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1932,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1932",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 48,
+      "parsedCount": 48,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1933,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1933",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 47,
+      "parsedCount": 47,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1934,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1934",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 44,
+      "parsedCount": 44,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1935,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1935",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 52,
+      "parsedCount": 52,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1936,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1936",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 47,
+      "parsedCount": 47,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1937,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1937",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 62,
+      "parsedCount": 62,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1938,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1938",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 47,
+      "parsedCount": 47,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1939,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1939",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 45,
+      "parsedCount": 45,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1940,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1940",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 26,
+      "parsedCount": 26,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1941,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1941",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 21,
+      "parsedCount": 21,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1942,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 30,
+      "parsedCount": 30,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1943,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1943",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 21,
+      "parsedCount": 21,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1944,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1944",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 24,
+      "parsedCount": 24,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1945,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 23,
+      "parsedCount": 23,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1946,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1946",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 32,
+      "parsedCount": 32,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1947,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1947",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 43,
+      "parsedCount": 43,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1948,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1948",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 45,
+      "parsedCount": 45,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1949,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 43,
+      "parsedCount": 43,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1950,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1950",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 79,
+      "parsedCount": 79,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1951,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1951",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 44,
+      "parsedCount": 44,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1952,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 57,
+      "parsedCount": 57,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1953,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1953",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 34,
+      "parsedCount": 34,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1954,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 35,
+      "parsedCount": 35,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1955,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1955",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 59,
+      "parsedCount": 59,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1956,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1956",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 158,
+      "parsedCount": 158,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1957,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1957",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 66,
+      "parsedCount": 66,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1958,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1958",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 70,
+      "parsedCount": 70,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1959,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1959",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 83,
+      "parsedCount": 83,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1960,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 70,
+      "parsedCount": 70,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1961,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1961",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 93,
+      "parsedCount": 93,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1962,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1962",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 86,
+      "parsedCount": 86,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1963,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1963",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 121,
+      "parsedCount": 121,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1964,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1964",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 98,
+      "parsedCount": 98,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1965,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1965",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 120,
+      "parsedCount": 120,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1966,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1966",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 99,
+      "parsedCount": 99,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1967,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1967",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 112,
+      "parsedCount": 112,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1968,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1968",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 112,
+      "parsedCount": 112,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1969,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1969",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 184,
+      "parsedCount": 184,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1970,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1970",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 128,
+      "parsedCount": 128,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1971,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1971",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 137,
+      "parsedCount": 137,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1972,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1972",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 158,
+      "parsedCount": 158,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1973,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1973",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 205,
+      "parsedCount": 205,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1974,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1974",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 188,
+      "parsedCount": 188,
+      "countMatchesStated": true
+    },
+    {
+      "category": "literature",
+      "year": 1975,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1975",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 223,
+      "parsedCount": 223,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1901,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 137,
+      "parsedCount": 137,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1902,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1902",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 105,
+      "parsedCount": 105,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1903,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1903",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 65,
+      "parsedCount": 65,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1904,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1904",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 69,
+      "parsedCount": 69,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1905,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 82,
+      "parsedCount": 82,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1906,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1906",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 87,
+      "parsedCount": 87,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1907,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1907",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 83,
+      "parsedCount": 83,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1908,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1908",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 71,
+      "parsedCount": 71,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1909,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1909",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 46,
+      "parsedCount": 46,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1910,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1910",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 71,
+      "parsedCount": 71,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1911,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 67,
+      "parsedCount": 67,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1912,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1912",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 64,
+      "parsedCount": 64,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1913,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1913",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 77,
+      "parsedCount": 77,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1914,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1914",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 66,
+      "parsedCount": 66,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1915,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1915",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 73,
+      "parsedCount": 73,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1916,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1916",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 27,
+      "parsedCount": 27,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1917,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1917",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 22,
+      "parsedCount": 22,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1918,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1918",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 25,
+      "parsedCount": 25,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1919,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1919",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 28,
+      "parsedCount": 28,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1920,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1920",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 33,
+      "parsedCount": 33,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1921,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 17,
+      "parsedCount": 17,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1922,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1922",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 42,
+      "parsedCount": 42,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1923,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1923",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 91,
+      "parsedCount": 91,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1924,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1924",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 53,
+      "parsedCount": 53,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1925,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1925",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 73,
+      "parsedCount": 73,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1926,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1926",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 72,
+      "parsedCount": 72,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1927,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 37,
+      "parsedCount": 37,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1928,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1928",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 50,
+      "parsedCount": 50,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1929,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1929",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 79,
+      "parsedCount": 79,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1930,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1930",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 73,
+      "parsedCount": 73,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1931,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1931",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 75,
+      "parsedCount": 75,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1932,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1932",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 74,
+      "parsedCount": 74,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1933,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1933",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 85,
+      "parsedCount": 85,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1934,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1934",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 103,
+      "parsedCount": 103,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1935,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1935",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 111,
+      "parsedCount": 111,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1936,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1936",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 196,
+      "parsedCount": 196,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1937,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1937",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 63,
+      "parsedCount": 63,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1938,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1938",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 90,
+      "parsedCount": 90,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1939,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1939",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 59,
+      "parsedCount": 59,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1940,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1940",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1941,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1941",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 3,
+      "parsedCount": 3,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1942,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1942",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1943,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1943",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1944,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1944",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1945,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 18,
+      "parsedCount": 18,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1946,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 31,
+      "parsedCount": 31,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1947,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1947",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 25,
+      "parsedCount": 25,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1948,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1948",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 79,
+      "parsedCount": 79,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1949,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1949",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 48,
+      "parsedCount": 48,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1950,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1950",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 77,
+      "parsedCount": 77,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1951,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1951",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 103,
+      "parsedCount": 103,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1952,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1952",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 77,
+      "parsedCount": 77,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1953,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1953",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 101,
+      "parsedCount": 101,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1954,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1954",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 54,
+      "parsedCount": 54,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1955,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1955",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 66,
+      "parsedCount": 66,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1956,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1956",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 53,
+      "parsedCount": 53,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1957,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1957",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 38,
+      "parsedCount": 38,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1958,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1958",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 52,
+      "parsedCount": 52,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1959,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1959",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 43,
+      "parsedCount": 43,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1960,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1960",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 69,
+      "parsedCount": 69,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1961,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1961",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 131,
+      "parsedCount": 131,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1962,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 77,
+      "parsedCount": 77,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1963,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1963",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 213,
+      "parsedCount": 213,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1964,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1964",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 92,
+      "parsedCount": 92,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1965,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1965",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 78,
+      "parsedCount": 78,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1966,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1966",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 61,
+      "parsedCount": 61,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1967,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1967",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 95,
+      "parsedCount": 95,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1968,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1968",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 78,
+      "parsedCount": 78,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1969,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1969",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 75,
+      "parsedCount": 75,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1970,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1970",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 70,
+      "parsedCount": 70,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1971,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1971",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 86,
+      "parsedCount": 86,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1972,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 99,
+      "parsedCount": 99,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1973,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1973",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 170,
+      "parsedCount": 170,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1974,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1974",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 105,
+      "parsedCount": 105,
+      "countMatchesStated": true
+    },
+    {
+      "category": "peace",
+      "year": 1975,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1975",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 121,
+      "parsedCount": 121,
+      "countMatchesStated": true
+    },
+    {
+      "category": "economics",
+      "year": 1969,
+      "url": "https://www.nobelprize.org/nomination/archive/list.php?prize=6&year=1969",
+      "httpStatus": 200,
+      "error": null,
+      "statedCount": 0,
+      "parsedCount": 0,
+      "countMatchesStated": true
+    }
+  ],
+  "categories": {
+    "physics": {
+      "nom_prize": 1
+    },
+    "chemistry": {
+      "nom_prize": 2
+    },
+    "medicine": {
+      "nom_prize": 3
+    },
+    "literature": {
+      "nom_prize": 4
+    },
+    "peace": {
+      "nom_prize": 5
+    },
+    "economics": {
+      "nom_prize": 6
+    }
+  }
+}

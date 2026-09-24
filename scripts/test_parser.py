@@ -11,8 +11,13 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from build_catalog import build  # noqa: E402
-from nobel_lib import name_match_level, parse_nomination_list, portion_from_share  # noqa: E402
+from build_catalog import build, flag_total_disagreements, stored_nomination_totals  # noqa: E402
+from nobel_lib import (  # noqa: E402
+    ARCHIVE_STATED_TOTALS,
+    name_match_level,
+    parse_nomination_list,
+    portion_from_share,
+)
 
 
 FIXTURE = """<!DOCTYPE html>
@@ -148,6 +153,50 @@ class ParserTests(unittest.TestCase):
             self.assertIn("No Nobel Prize was awarded", withheld["overallMotivation"])
             # A partial fixture must not grow extra prize years.
             self.assertNotIn("chemistry-1901", {prize["key"] for prize in catalog["prizes"]})
+
+
+class StoredTotalsTests(unittest.TestCase):
+    def test_totals_sum_downloaded_files(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raw = Path(tmp)
+            (raw / "nominations" / "physics").mkdir(parents=True)
+            (raw / "nominations" / "physics" / "1901.json").write_text(
+                json.dumps({"statedCount": 5, "parsedCount": 5}), encoding="utf-8"
+            )
+            (raw / "nominations" / "physics" / "1902.json").write_text(
+                json.dumps({"statedCount": 7, "parsedCount": 6}), encoding="utf-8"
+            )
+            # Failed fetches and non-year files must not count.
+            (raw / "nominations" / "physics" / "1903.json").write_text(
+                json.dumps({"error": "HTTP 503"}), encoding="utf-8"
+            )
+            (raw / "nominations" / "physics" / "notes.txt").write_text("not json", encoding="utf-8")
+            totals = stored_nomination_totals(raw)
+            self.assertEqual(totals["physics"], {"years": 2, "stated": 12, "stored": 11})
+            self.assertEqual(totals["chemistry"], {"years": 0, "stated": 0, "stored": 0})
+            self.assertNotIn("economics", totals)
+
+    def test_flag_when_totals_disagree(self):
+        flags = []
+        totals = {
+            "physics": {"years": 75, "stated": 4019, "stored": 4019},
+            "peace": {"years": 75, "stated": 5229, "stored": 5229},
+        }
+        flag_total_disagreements(flags, totals)
+        self.assertEqual(len(flags), 1)
+        self.assertEqual(flags[0]["code"], "stored_nomination_total_differs_from_homepage_table")
+        self.assertIn("5230", flags[0]["message"])
+        self.assertIn("5229", flags[0]["message"])
+
+    def test_no_flag_when_totals_match(self):
+        flags = []
+        totals = {
+            category: {"years": 75, "stated": value["nominations"], "stored": value["nominations"]}
+            for category, value in ARCHIVE_STATED_TOTALS.items()
+            if isinstance(value, dict) and "nominations" in value
+        }
+        flag_total_disagreements(flags, totals)
+        self.assertEqual(flags, [])
 
 
 if __name__ == "__main__":

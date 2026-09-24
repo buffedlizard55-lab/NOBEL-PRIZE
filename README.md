@@ -48,7 +48,7 @@ python -m unittest scripts/test_parser.py
 
 ## What this build checked
 
-Retrieved 2026-09-24 from the official API and nomination archive:
+Retrieved 2026-09-24 from the official API and nomination archive. Re-checked against the live official pages on 2026-09-24 (second session): the archive homepage table, the facts page, the v1 prize API, and the physics 1903 list page all still match the stored files.
 
 - 682 prize records: 633 awarded and 49 not awarded. That matches the facts page.
 - 1,018 laureate records and 1,026 award slots. That matches the facts page.
@@ -56,11 +56,12 @@ Retrieved 2026-09-24 from the official API and nomination archive:
 - Repeated laureates in the download: Marie Curie, John Bardeen, Linus Pauling, Frederick Sanger, K. Barry Sharpless, the International Committee of the Red Cross, and the Office of the United Nations High Commissioner for Refugees.
 - API prize status is `declined` for Jean-Paul Sartre and Le Duc Tho, and `restricted` for Boris Pasternak. Those words are shown as published.
 - 2025 is included. 2026 is not.
+- Stored nomination totals were recomputed from the downloaded files and compared with the official homepage table per subject: physics 4,019, chemistry 4,249, and literature 4,533 match exactly. Medicine stores 5,110 rows, equal to the official total, while the medicine year pages state 5,950 in total because 45 pages state more nominations than they contain Show links. Peace stores 5,229 rows, one short of the homepage table's 5,230. All three cases are flagged in `data/FLAGS.md` (f0705, f0706). The By subject page on the site shows this table.
 
 ## Known limits — next session
 
 1. **Nomination detail pages are not bulk-copied.** List pages are stored: nominee, nominator, and the official Show link. Each `show.php` motivation is linked, not copied. A full crawl would be large and would burden the service. Next step: small delayed batches, or a bulk export from the awarding institutions.
-2. **Official nomination totals disagree.** On 2026-09-24 the archive homepage table said 23,141 nominations and the advanced search page said 23,983. Both numbers are kept. Do not average them.
+2. **Official nomination totals disagree.** On 2026-09-24 the archive homepage table said 23,141 nominations and the advanced search page said 23,983. Both numbers are kept. Do not average them. This archive stores 23,140 rows: every peace year page's stated count equals its rows, but the peace sum (5,229) is one short of the homepage table (5,230), and no downloaded page contains that one extra row. The gap is flagged (f0706), not filled.
 3. **Medicine list pages disagree with their own counts.** For 45 medicine years, mostly 1901–1946, the page says more nominations than it contains Show links. Every linked row is stored. The missing rows are not in the HTML and were not invented. Saved copies of those pages are in `data/raw/nomination_html/`.
 4. **Medicine nominations stop at 1953** on the archive homepage. The 1954–1975 list pages returned 0. That zero is flagged. It is not a complete candidate list.
 5. **Economic sciences nominations are not in the public archive.** `list.php?prize=6&year=1969` returned 0, and the search form has no economics category. That zero is not evidence that nobody was nominated.
@@ -72,6 +73,15 @@ Retrieved 2026-09-24 from the official API and nomination archive:
 11. **2026 prizes** should be added only after the October 2026 announcements, by re-running the fetcher.
 12. **Adjusted prize amounts** are copied from `prizeAmountAdjusted`. This project does not calculate its own inflation series.
 
+## Suggested next steps (prioritized)
+
+1. **Add the 2026 prizes after the October 2026 announcements.** Announcements are expected to start around 6 October 2026. Run the **Refresh official Nobel data** workflow, then update the year-range constants (`verify_catalog.py` checks years against 1901–2025 and the facts-page counts embedded in `nobel_lib.py` must be refreshed from the facts page, not typed from memory).
+2. **Fetch nomination detail pages in small batches.** Each stored row links to its `show.php` page, which carries the nominator's motivation. A polite crawl (a few hundred pages per day with delays) would add the "what nominators said" layer without burdening the service. Never summarize these from memory — copy or leave linked.
+3. **Ask the archive maintainers about the two official disagreements** (flagged, not fixed here): the peace sum of year pages (5,229) versus the homepage table (5,230), and the 45 medicine year pages that state more nominations than they contain Show links. Contact channels are on nobelprize.org. Any answer should be added as a sourced note, not a correction.
+4. **Watch for the medicine window to grow.** The archive homepage says physiology or medicine data is currently published only through 1953 and that new years appear with delays. Re-running the fetcher periodically will pick up new years automatically.
+5. **Nomination rows 1976 onward open gradually under the 50-year rule** (1976 becomes eligible in 2026, but the archive tables retrieved in September 2026 still stopped at 1975). Re-run the fetcher; new years appear when the institutions release them.
+6. **Do not add inflation-adjusted money or comparative rankings.** The site intentionally shows only the official motivation, the published `prizeAmountAdjusted`, and the official nominee lists. Adding our own analysis would break the "no hallucinations" rule that this archive is built on.
+
 ## Local preview
 
 ```bash
@@ -79,3 +89,5 @@ python -m http.server 8000 --bind 0.0.0.0
 ```
 
 Open the site root. Paths are relative so GitHub Pages project sites work without a custom base URL.
+
+Automated UI checks live outside the repository: the build was verified with a headless DOM test covering browse, search, prize and laureate dialogs (including not-awarded years and economics), the analysis cross-check tables, flags, and pagination. Re-run `python -m unittest scripts/test_parser.py` for the pipeline tests.

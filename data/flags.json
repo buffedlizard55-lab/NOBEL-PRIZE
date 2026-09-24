@@ -7747,5 +7747,25 @@
       "https://www.nobelprize.org/nomination/archive/search.php"
     ],
     "id": "f0704"
+  },
+  {
+    "code": "stored_nomination_total_differs_from_homepage_table",
+    "severity": "review",
+    "message": "The official archive homepage table says 5110 medicine nominations for 1901–1953. The downloaded year pages state 5950 in total. The stored rows equal the official total. The higher stated sum comes from the 45 medicine pages that state more nominations than they contain Show links; those extra names are not in the HTML. Both numbers are kept. Nothing was added to close the gap.",
+    "sources": [
+      "https://www.nobelprize.org/nomination/archive/",
+      "https://www.nobelprize.org/nomination/archive/list.php"
+    ],
+    "id": "f0705"
+  },
+  {
+    "code": "stored_nomination_total_differs_from_homepage_table",
+    "severity": "review",
+    "message": "The official archive homepage table says 5230 peace nominations for 1901–1975. The downloaded year pages state 5229 in total. The downloaded pages contain 5229 Show-link rows, and only those rows are stored here. Every downloaded peace year page's stated count equals its rows, but the sum is 1 short of the homepage total. This archive does not know which year page the homepage total counts beyond. Both numbers are kept. Nothing was added to close the gap.",
+    "sources": [
+      "https://www.nobelprize.org/nomination/archive/",
+      "https://www.nobelprize.org/nomination/archive/list.php"
+    ],
+    "id": "f0706"
   }
 ]

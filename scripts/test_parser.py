@@ -57,6 +57,10 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(name_match_level("Sully Prudhomme", "Sully (René) Prudhomme"), "exact_without_parenthetical")
         self.assertEqual(name_match_level("Wilhelm Conrad Röntgen", "Wilhelm Röntgen"), "possible")
         self.assertIsNone(name_match_level("Marie Curie", "Pierre Curie"))
+        self.assertEqual(name_match_level("Miguel Angel Asturias", "Miguel Ángel Asturias"), "diacritic")
+        self.assertEqual(name_match_level("Eugene O'Neill", "Eugene O´Neill"), "exact")
+        self.assertEqual(name_match_level("Eisaku Satō", "Eisako Sato"), "near")
+        self.assertIsNone(name_match_level("Gustaf Dalén", "Nils Dalén"))
         self.assertEqual(portion_from_share("4"), "1/4")
         self.assertEqual(portion_from_share("1"), "1")
 

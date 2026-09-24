@@ -324,14 +324,27 @@ def clean_motivation(value):
     return text or None
 
 
+_APOSTROPHES = "’´`'ʼ′‛ˈ"
+
+
 def fold(value):
     text = clean_ws(value) or ""
+    for char in _APOSTROPHES:
+        text = text.replace(char, "'")
     text = unicodedata.normalize("NFKC", text)
-    text = text.replace("’", "'").replace("´", "'").replace("`", "'")
     text = text.replace("–", "-").replace("—", "-")
     text = text.casefold()
     text = re.sub(r"\s+", " ", text)
     return text
+
+
+def match_fold(value):
+    """Comparison form. Strips diacritics. Does not rewrite a displayed name."""
+    text = fold(value)
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(char for char in text if not unicodedata.combining(char))
+    text = re.sub(r"[^a-z0-9' ]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def texts_equivalent(left, right):
@@ -542,23 +555,63 @@ def parse_nomination_list(html, source_url):
     }
 
 
+_NAME_STOP = {"von", "van", "de", "del", "der", "den", "la", "le", "di", "da", "dos", "das", "und", "and", "the"}
+
+
+def _name_tokens(value):
+    folded = match_fold(re.sub(r"\([^)]*\)", " ", value or ""))
+    return [token for token in re.split(r"[^a-z0-9']+", folded) if len(token) >= 3 and token not in _NAME_STOP]
+
+
+def _edit_distance(left, right):
+    if abs(len(left) - len(right)) > 2:
+        return 3
+    previous = list(range(len(right) + 1))
+    for i, left_char in enumerate(left, start=1):
+        current = [i]
+        for j, right_char in enumerate(right, start=1):
+            current.append(min(
+                previous[j] + 1,
+                current[j - 1] + 1,
+                previous[j - 1] + (left_char != right_char),
+            ))
+        previous = current
+    return previous[-1]
+
+
+def _near_tokens(left_tokens, right_tokens):
+    if not left_tokens or not right_tokens:
+        return False
+    if _edit_distance(left_tokens[-1], right_tokens[-1]) > 1:
+        return False
+    if len(left_tokens) == 1 or len(right_tokens) == 1:
+        return _edit_distance(left_tokens[-1], right_tokens[-1]) <= 1 and min(len(left_tokens[-1]), len(right_tokens[-1])) >= 6
+    others = left_tokens[:-1]
+    candidates = right_tokens[:-1]
+    return any(_edit_distance(token, candidate) <= 1 for token in others for candidate in candidates)
+
+
 def name_match_level(laureate_name, nominee_name):
-    """Conservative match. Never treats a weak overlap as confirmed."""
-    left = fold(laureate_name)
-    right = fold(nominee_name)
+    """Conservative match. A near spelling is not treated as confirmed."""
+    left = match_fold(laureate_name)
+    right = match_fold(nominee_name)
     if not left or not right:
         return None
     if left == right:
-        return "exact"
-    left_stripped = fold(re.sub(r"\([^)]*\)", " ", laureate_name or ""))
-    right_stripped = fold(re.sub(r"\([^)]*\)", " ", nominee_name or ""))
-    if left_stripped and left_stripped == right_stripped:
+        return "exact" if fold(laureate_name) == fold(nominee_name) else "diacritic"
+    left_plain = match_fold(re.sub(r"\([^)]*\)", " ", laureate_name or ""))
+    right_plain = match_fold(re.sub(r"\([^)]*\)", " ", nominee_name or ""))
+    if left_plain and left_plain == right_plain:
         return "exact_without_parenthetical"
-    left_tokens = [token for token in re.split(r"[^a-z0-9']+", left_stripped) if len(token) >= 4]
-    right_tokens = [token for token in re.split(r"[^a-z0-9']+", right_stripped) if len(token) >= 4]
-    if not left_tokens or not right_tokens:
-        return None
-    shared = set(left_tokens) & set(right_tokens)
-    if shared and (set(left_tokens) <= set(right_tokens) or set(right_tokens) <= set(left_tokens)):
-        return "possible"
+    left_tokens = _name_tokens(laureate_name)
+    right_tokens = _name_tokens(nominee_name)
+    if left_tokens and right_tokens:
+        if set(left_tokens) == set(right_tokens):
+            return "token_equal"
+        if set(left_tokens) <= set(right_tokens) and left_tokens[-1] == right_tokens[-1]:
+            return "contained"
+        if set(left_tokens) <= set(right_tokens) or set(right_tokens) <= set(left_tokens):
+            return "possible"
+    if _near_tokens(left_tokens, right_tokens):
+        return "near"
     return None

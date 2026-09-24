@@ -176,6 +176,21 @@ def build(raw_dir: Path, out_dir: Path):
     v2_people = index_v2_laureates(load_json(raw_dir / "v2_laureates.json"))
     fetch_manifest = load_json(raw_dir / "fetch_manifest.json") or {}
 
+    nominees_by_category = {}
+    for category_id in CATEGORIES:
+        by_year = {}
+        folder = raw_dir / "nominations" / category_id
+        if folder.exists():
+            for path in folder.glob("*.json"):
+                parsed = load_json(path)
+                if not parsed or parsed.get("error"):
+                    continue
+                try:
+                    by_year[int(path.stem)] = unique_nominees(parsed)
+                except ValueError:
+                    continue
+        nominees_by_category[category_id] = by_year
+
     keys = set(v1_prizes) | set(v2_prizes)
     prizes = []
     laureates = {}
@@ -241,8 +256,12 @@ def build(raw_dir: Path, out_dir: Path):
             flag(
                 prize_flags,
                 "nomination_parse_count_mismatch",
-                "integrity",
-                f"Official list page says {parsed_nom.get('statedCount')} nominations; the parser stored {parsed_nom.get('parsedCount')}. The page is linked for manual review. Missing names were not filled in.",
+                "review",
+                (
+                    f"The official list page says {parsed_nom.get('statedCount')} nominations, "
+                    f"but the HTML contains {parsed_nom.get('parsedCount')} Show links. "
+                    "Every linked row was stored. The rows that make up the difference are not in the downloaded HTML and were not invented."
+                ),
                 prizeKey=key,
                 sources=[nomination_list_url(category, year)],
             )
@@ -438,11 +457,20 @@ def build(raw_dir: Path, out_dir: Path):
                 raw_affiliations = [raw_affiliations]
             for item in raw_affiliations or []:
                 if item in ([], {}):
-                    flag(prize_flags, "empty_affiliation_object", "review", f"Empty affiliation object for laureate {laureate_id}.", prizeKey=key, laureateId=laureate_id)
                     continue
                 label = affiliation_label(item)
                 if label:
                     affiliations.append(label)
+            if awarded and not affiliations and category not in ("literature", "peace"):
+                flag(
+                    prize_flags,
+                    "affiliation_not_published",
+                    "info",
+                    f"No affiliation was published for {display or laureate_id} on this prize. Literature and peace often have none; this category usually does. Nothing was filled in.",
+                    prizeKey=key,
+                    laureateId=laureate_id,
+                    sources=[laureate_api_url(laureate_id)],
+                )
 
             facts = external_href((v2_award or {}).get("links"), "laureate facts") or external_href(v2_person.get("links"), "laureate facts") or laureate_facts_url(laureate_id)
             person_summary = external_href((v2_award or {}).get("links"), "prize summary") or summary_url(category, year)
@@ -469,7 +497,7 @@ def build(raw_dir: Path, out_dir: Path):
                 "portion": portion,
                 "motivation": motivation,
                 "prizeStatus": status,
-                "sortOrder": str((v2_award or source_row).get("sortOrder") or ""),
+                "sortOrder": str((v2_award or {}).get("sortOrder") or source_row.get("sortOrder") or ""),
                 "affiliations": affiliations,
                 "factsUrl": facts,
                 "apiUrl": laureate_api_url(laureate_id),
@@ -541,31 +569,86 @@ def build(raw_dir: Path, out_dir: Path):
                 flag(prize_flags, "portions_do_not_sum_to_one", "integrity", f"Prize portions sum to {sum(portions):.4f}, not 1.", prizeKey=key)
 
         nominee_summary = unique_nominees(parsed_nom) if parsed_nom and category != "economics" else []
-        if nominee_summary:
+        if nominee_summary and laureate_rows:
             for row in laureate_rows:
-                levels = [name_match_level(row["displayName"], nominee["name"]) for nominee in nominee_summary]
-                if "exact" in levels or "exact_without_parenthetical" in levels:
+                matches = []
+                for nominee in nominee_summary:
+                    level = name_match_level(row["displayName"], nominee["name"])
+                    if level:
+                        matches.append((level, nominee))
+                best = None
+                for level in ("exact", "diacritic", "exact_without_parenthetical", "token_equal", "contained", "possible", "near"):
+                    found = [nominee for item_level, nominee in matches if item_level == level]
+                    if found:
+                        best = (level, found)
+                        break
+                published = sorted({nominee["name"] for nominee in best[1]})[:6] if best else []
+                row["nominationNameMatch"] = {"level": best[0] if best else "none", "publishedNames": published}
+                if not best:
+                    other_years = []
+                    for other_year, other_nominees in sorted(nominees_by_category.get(category, {}).items()):
+                        if other_year == year:
+                            continue
+                        close = []
+                        for nominee in other_nominees:
+                            level = name_match_level(row["displayName"], nominee["name"])
+                            if level in ("exact", "diacritic", "near"):
+                                close.append(nominee["name"])
+                        if close:
+                            other_years.append(f"{other_year}: {sorted(set(close))[0]}")
+                        if len(other_years) >= 4:
+                            break
+                    row["nominationNameMatch"]["otherYearSpellings"] = other_years
+                if best and best[0] == "exact":
                     continue
-                if "possible" in levels:
+                if best and best[0] in ("diacritic", "exact_without_parenthetical", "token_equal", "contained"):
                     flag(
                         prize_flags,
-                        "laureate_only_possible_nominee_name_match",
-                        "review",
-                        f"{row['displayName']} is not an exact name match to a published nominee on the official list. A possible token match exists and must be reviewed. This is not a statement that the person was or was not nominated.",
+                        "nomination_list_spelling_differs",
+                        "info",
+                        f"The official list spells this name “{published[0]}”. The API name is “{row['displayName']}”. The difference is diacritics, apostrophes, or a parenthetical. The API name is displayed. The list spelling was not rewritten.",
                         prizeKey=key,
                         laureateId=row["id"],
                         sources=[nomination_list_url(category, year)],
                     )
-                elif nom_status in ("ingested", "parse_count_mismatch"):
+                    continue
+                if best and best[0] == "possible":
+                    flag(
+                        prize_flags,
+                        "laureate_only_possible_nominee_name_match",
+                        "review",
+                        f"{row['displayName']} is not an exact match to a published nominee. The closest published name is “{published[0]}”. This is not a statement that they are the same person, or that the laureate was nominated.",
+                        prizeKey=key,
+                        laureateId=row["id"],
+                        sources=[nomination_list_url(category, year)],
+                    )
+                    continue
+                if best and best[0] == "near":
+                    flag(
+                        prize_flags,
+                        "nomination_list_near_spelling",
+                        "review",
+                        f"The official list does not contain “{row['displayName']}” exactly. A near spelling is “{published[0]}”. Review the list before treating them as the same person. The names were not merged.",
+                        prizeKey=key,
+                        laureateId=row["id"],
+                        sources=[nomination_list_url(category, year)],
+                    )
+                    continue
+                if nom_status in ("ingested", "parse_count_mismatch"):
+                    extra = ""
+                    other_years = row["nominationNameMatch"].get("otherYearSpellings") or []
+                    if other_years:
+                        extra = " A similar published spelling appears in another stored year of this category, and was not moved onto this prize: " + "; ".join(other_years) + "."
                     flag(
                         prize_flags,
                         "laureate_name_not_on_nomination_list",
                         "review",
-                        f"No exact or parenthetical-stripped name match for {row['displayName']} on the stored official nomination list. Possible causes include spelling, an omission allowed by the archive rules, or a parser gap. This is not a finding that the laureate was not nominated.",
+                        f"No exact, diacritic, or near spelling of {row['displayName']} is on the stored official list for this prize.{extra} This is not a finding that the laureate was not nominated.",
                         prizeKey=key,
                         laureateId=row["id"],
                         sources=[nomination_list_url(category, year), ARCHIVE_MANUAL],
                     )
+
             if any(item.get("nominationId") == "19478" for item in (parsed_nom or {}).get("nominations") or []):
                 flag(
                     prize_flags,

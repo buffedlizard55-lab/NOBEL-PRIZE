@@ -16,6 +16,7 @@
     to: 2025,
     awarded: "all",
     flagsOnly: false,
+    flagSeverity: "review",
     page: 0,
     prizeKey: null,
     laureateId: null,
@@ -166,7 +167,7 @@
           <span>${prize.awarded ? "Awarded" : "Not awarded"}</span>
           ${prize.dateAwarded ? `<span>Date awarded ${esc(prize.dateAwarded)}</span>` : ""}
           ${prize.prizeAmount != null ? `<span>${esc(money(prize.prizeAmount))}</span>` : ""}
-          <span>${esc(statusLabel(prize.nomination.status))}</span>
+          <span>${esc(statusLabel(prize.nomination.status))}${prize.nomination.statedCount != null ? ` · ${prize.nomination.parsedCount == null ? "" : prize.nomination.parsedCount + " stored / "}${prize.nomination.statedCount} stated` : ""}</span>
         </div>
         <div class="link-row">
           <a href="#prize/${esc(prize.key)}">Open record</a>
@@ -302,13 +303,22 @@
   }
 
   function renderFlags() {
-    const flags = state.catalog.flags.filter((flag) => !state.query || fold(flag.message + " " + flag.code + " " + (flag.prizeKey || "")).includes(fold(state.query)));
+    const flags = state.catalog.flags.filter((flag) => {
+      if (state.flagSeverity !== "all" && flag.severity !== state.flagSeverity) return false;
+      return !state.query || fold(flag.message + " " + flag.code + " " + (flag.prizeKey || "")).includes(fold(state.query));
+    });
+    const counts = { review: 0, integrity: 0, info: 0 };
+    state.catalog.flags.forEach((flag) => { counts[flag.severity] = (counts[flag.severity] || 0) + 1; });
     const slice = flags.slice(state.page * 30, state.page * 30 + 30);
     const pages = Math.max(1, Math.ceil(flags.length / 30));
     main.innerHTML = `
       <section class="method">
         <h2>Flags for review</h2>
-        <p>${flags.length} notes. A flag is a disagreement, a gap, or a scope note. It is not a correction, and missing names were not filled in. Full text: <a href="data/FLAGS.md">FLAGS.md</a>.</p>
+        <p>A flag is a disagreement, a gap, or a scope note. It is not a correction, and missing names were not filled in. Full text: <a href="data/FLAGS.md">FLAGS.md</a>.</p>
+        <div class="chip-list" style="flex-direction:row;flex-wrap:wrap">
+          ${["review", "integrity", "info", "all"].map((item) => `<button type="button" class="chip" data-severity="${item}" aria-pressed="${state.flagSeverity === item}">${item === "all" ? "All" : item} ${item === "all" ? state.catalog.flags.length : counts[item] || 0}</button>`).join("")}
+        </div>
+        <p>${flags.length} shown.</p>
         ${slice.map((flag) => `
           <article class="card">
             <p class="kicker">${esc(flag.id || "")} · ${esc(flag.severity)}</p>
@@ -349,6 +359,8 @@
         </ul>
         <h3>Line-by-line review</h3>
         <p>Open a prize, then open its official summary and API record. The CSV files are the review copies: <a href="data/prizes.csv">prizes.csv</a>, <a href="data/laureates.csv">laureates.csv</a>, <a href="data/nominations.csv">nominations.csv</a>.</p>
+        <h3>Medicine list pages that disagree with themselves</h3>
+        <p>Some physiology or medicine list pages state more nominations than they contain Show links. Every linked row is stored. The difference is flagged. Those missing names are not in the downloaded HTML, so they are not in this archive.</p>
         <h3>What this build does not know</h3>
         <ul>
           <li>2026 prizes had not been announced on 24 September 2026. <a href="${esc(meta.notAnnounced.source)}">Physics list page</a>.</li>
@@ -357,6 +369,19 @@
           <li>API v1 sometimes stores names in a different order from API v2. When both exist, v2 is displayed and the difference is flagged.</li>
         </ul>
       </article>`;
+  }
+
+  function nameMatchNote(row) {
+    const match = row.nominationNameMatch;
+    if (!match || match.level === "exact" || match.level === "none" && !(match.otherYearSpellings || []).length) return "";
+    if (match.level === "diacritic" || match.level === "exact_without_parenthetical" || match.level === "token_equal" || match.level === "contained") {
+      return `<p>Official list spelling: ${esc((match.publishedNames || [])[0] || "")}. Shown name is the API name. The names were not rewritten.</p>`;
+    }
+    if (match.level === "possible" || match.level === "near") {
+      return `<p>Not an exact list match. Closest published spelling: ${esc((match.publishedNames || [])[0] || "")}. Not merged.</p>`;
+    }
+    const other = (match.otherYearSpellings || []).join("; ");
+    return other ? `<p>Not on this year’s stored list. A similar spelling in another year was not moved here: ${esc(other)}.</p>` : `<p>Not found on this year’s stored nomination list. No name was added.</p>`;
   }
 
   function awardedNominee(prize, nominee) {
@@ -391,6 +416,7 @@
                 ${(row.affiliations || []).map((item) => `<span>${esc(item)}</span>`).join("")}
               </div>
               ${row.motivationSwedish ? `<p>Swedish motivation, as published: ${esc(row.motivationSwedish)}</p>` : ""}
+              ${nameMatchNote(row)}
               <div class="link-row">
                 ${link(row.factsUrl, "Official facts")}
                 ${link(row.apiUrl, "Laureate API")}

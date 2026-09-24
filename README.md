@@ -46,20 +46,31 @@ python -m unittest scripts/test_parser.py
 
 `fetch_official.py` uses only the Python standard library. It pauses between nomination pages. Failed pages are recorded in `data/raw/fetch_manifest.json` and are not filled in.
 
+## What this build checked
+
+Retrieved 2026-09-24 from the official API and nomination archive:
+
+- 682 prize records: 633 awarded and 49 not awarded. That matches the facts page.
+- 1,018 laureate records and 1,026 award slots. That matches the facts page.
+- 68 prize awards recorded as female, and 28 organisation records. That matches the facts page.
+- Repeated laureates in the download: Marie Curie, John Bardeen, Linus Pauling, Frederick Sanger, K. Barry Sharpless, the International Committee of the Red Cross, and the Office of the United Nations High Commissioner for Refugees.
+- API prize status is `declined` for Jean-Paul Sartre and Le Duc Tho, and `restricted` for Boris Pasternak. Those words are shown as published.
+- 2025 is included. 2026 is not.
+
 ## Known limits — next session
 
-These are the gaps that still block a complete “who else was considered” answer. They should be worked in the next session, not papered over.
-
-1. **Nomination detail pages are not bulk-copied.** The archive has on the order of 23,000 published nominations. This project stores list pages (nominee, nominator, official “Show” link) when the fetcher has run. It does not download each `show.php` motivation. Doing that would be a large, slow crawl and conflicts with the API terms’ request to avoid burdening the service. Next step: fetch detail pages in small, delayed batches, or ask the awarding institutions for a bulk export.
-2. **Official nomination totals disagree.** On 2026-09-24 the archive homepage table said 23,141 nominations and the advanced search page said 23,983. Both numbers are kept and flagged. They need a human check with Nobel Prize Outreach. Do not average them.
-3. **Medicine nominations stop at 1953** on the archive homepage, not at the 50-year line. Years 1954–1975 must not be filled from memory. After a fetch, compare those pages with the homepage statement.
-4. **Economic sciences nominations are not in the public archive.** `list.php?prize=6&year=1969` returned 0 nominations, and the search form has no economics category. That zero is not evidence that nobody was nominated.
-5. **The 50-year seal still covers 1976 onward**, as of the archive tables retrieved in September 2026. New years open on the archive’s own schedule, which can lag the seal.
-6. **Physics and chemistry hide a nomination if a nominee is alive.** A laureate name missing from a list is flagged for review. It is not a finding that the person was not nominated.
-7. **API prize status and the facts page do not always use the same word.** Boris Pasternak’s API `prizeStatus` is `restricted`. The facts page says he was coerced to decline. Jean-Paul Sartre’s API status is `declined`. Le Duc Tho’s facts pages use more than one wording for the same refusal. The archive shows both and does not collapse them.
-8. **API v1 name order can differ from API v2.** Example checked on 24 September 2026: v1 lists the 2024 literature laureate as first name Kang, surname Han; the official list and API v2 use Han Kang. v2 is displayed. The difference is flagged when both files are present.
-9. **2026 prizes** should be added only after the October 2026 announcements, by re-running the fetcher. Do not add them early.
-10. **Adjusted prize amounts** are copied from `prizeAmountAdjusted` when API v2 is present. This project does not calculate its own inflation series.
+1. **Nomination detail pages are not bulk-copied.** List pages are stored: nominee, nominator, and the official Show link. Each `show.php` motivation is linked, not copied. A full crawl would be large and would burden the service. Next step: small delayed batches, or a bulk export from the awarding institutions.
+2. **Official nomination totals disagree.** On 2026-09-24 the archive homepage table said 23,141 nominations and the advanced search page said 23,983. Both numbers are kept. Do not average them.
+3. **Medicine list pages disagree with their own counts.** For 45 medicine years, mostly 1901–1946, the page says more nominations than it contains Show links. Every linked row is stored. The missing rows are not in the HTML and were not invented. Saved copies of those pages are in `data/raw/nomination_html/`.
+4. **Medicine nominations stop at 1953** on the archive homepage. The 1954–1975 list pages returned 0. That zero is flagged. It is not a complete candidate list.
+5. **Economic sciences nominations are not in the public archive.** `list.php?prize=6&year=1969` returned 0, and the search form has no economics category. That zero is not evidence that nobody was nominated.
+6. **The 50-year seal still covers 1976 onward**, as of the archive tables retrieved in September 2026.
+7. **Some laureate names are not on that year’s stored list.** Examples kept as flags, not corrections: Richard Kuhn is absent from the 1938 chemistry list and present in other chemistry years; Albert Lutuli is absent from 1960 peace and present in 1961 as Albert Luthuli. Those rows were not moved. Physics and chemistry can also omit a nomination while a nominee is alive.
+8. **Spellings differ.** The list may use a longer name, a diacritic, or a near spelling (`Eisako Sato` for Eisaku Satō, `Aleksandr Solzjenitsyn` for Aleksandr Solzhenitsyn). The API name is displayed. The list spelling is shown beside it and was not rewritten.
+9. **API prize status and the facts page do not always use the same word.** Pasternak’s API status is `restricted`. The facts page says he was coerced to decline. Kuhn, Butenandt, and Domagk are `received` in the API; the facts page says they were forced to decline and could later receive the diploma and medal, but not the prize amount. Both are kept.
+10. **API v1 name order can differ from API v2.** Example: v1 lists the 2024 literature laureate as Kang Han; v2 and the official list use Han Kang. v2 is displayed. The difference is flagged.
+11. **2026 prizes** should be added only after the October 2026 announcements, by re-running the fetcher.
+12. **Adjusted prize amounts** are copied from `prizeAmountAdjusted`. This project does not calculate its own inflation series.
 
 ## Local preview
 

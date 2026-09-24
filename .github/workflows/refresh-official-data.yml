@@ -2,6 +2,11 @@ name: Refresh official Nobel data
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - arena/01a0d0d5-nobel-prize
+    paths-ignore:
+      - "data/**"
 
 permissions:
   contents: write

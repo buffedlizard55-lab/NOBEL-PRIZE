@@ -1,0 +1,351 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921",
+  "statedCount": 17,
+  "parsedCount": 17,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "299",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=299&mode=",
+      "nominees": [
+        {
+          "name": "Giovanni d´Ajutolo",
+          "personId": "2085",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2085"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Ciamcian",
+          "personId": "1800",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1800"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "238",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=238&mode=",
+      "nominees": [
+        {
+          "name": "Giovanni d´Ajutolo",
+          "personId": "2085",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2085"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pietro Albertoni",
+          "personId": "350",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=350"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "691",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=691&mode=",
+      "nominees": [
+        {
+          "name": "Karl Hjalmar Branting",
+          "personId": "1292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1292"
+        },
+        {
+          "name": "Christian Lous Lange",
+          "personId": "5214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5214"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Swedish Inter-Parliamentary Group (Edvard Wavrinsky)",
+          "personId": "9190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9190"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "1082",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1082&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Clark Hoover",
+          "personId": "4300",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4300"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P von Törne",
+          "personId": "9877",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9877"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "1550",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1550&mode=",
+      "nominees": [
+        {
+          "name": "Hans Jakob Horst",
+          "personId": "4312",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4312"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Albert Blehr",
+          "personId": "1072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1072"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "1526",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1526&mode=",
+      "nominees": [
+        {
+          "name": "Hans Jakob Horst",
+          "personId": "4312",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4312"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wollert Konow",
+          "personId": "4982",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4982"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "1468",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1468&mode=",
+      "nominees": [
+        {
+          "name": "Hans Jakob Horst",
+          "personId": "4312",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4312"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edvard Wavrinsky",
+          "personId": "10012",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10012"
+        },
+        {
+          "name": "Erik Röing",
+          "personId": "11280",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11280"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "1905",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1905&mode=",
+      "nominees": [
+        {
+          "name": "Christian Lous Lange",
+          "personId": "5214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5214"
+        },
+        {
+          "name": "Karl Hjalmar Branting",
+          "personId": "1292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Swedish Inter-Parliamentary Group (Edvard Wavrinsky)",
+          "personId": "9190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9190"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "1844",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1844&mode=",
+      "nominees": [
+        {
+          "name": "Christian Lous Lange",
+          "personId": "5214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5214"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Danish Inter-Parliamentary Group (Laust Moltesen)",
+          "personId": "9081",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9081"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "2277",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2277&mode=",
+      "nominees": [
+        {
+          "name": "Tomás Garrigue Masaryk",
+          "personId": "5969",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5969"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "22 Professors at the University of Prague (Drtina and Novotny)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "2224",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2224&mode=",
+      "nominees": [
+        {
+          "name": "Tomás Garrigue Masaryk",
+          "personId": "5969",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5969"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "84 members of the Czechoslovakian parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "2559",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2559&mode=",
+      "nominees": [
+        {
+          "name": "Jakob Münter",
+          "personId": "6566",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6566"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Benjamin Vogt",
+          "personId": "9686",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9686"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "2893",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2893&mode=",
+      "nominees": [
+        {
+          "name": "Gérôme Périnet",
+          "personId": "7117",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7117"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edouard Claparède",
+          "personId": "1812",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1812"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "3225",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3225&mode=",
+      "nominees": [
+        {
+          "name": "Francesco Quacquarelli",
+          "personId": "7494",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7494"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Ursi",
+          "personId": "9468",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9468"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "3550",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3550&mode=",
+      "nominees": [
+        {
+          "name": "James Brown Scott",
+          "personId": "8320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8320"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregers Winther Wulfsberg Gram",
+          "personId": "3597",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3597"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "3913",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3913&mode=",
+      "nominees": [
+        {
+          "name": "The National Peace Council",
+          "personId": "9160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9160"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Neil Maclean",
+          "personId": "5779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5779"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    },
+    {
+      "nominationId": "4232",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4232&mode=",
+      "nominees": [
+        {
+          "name": "The American Red Cross",
+          "personId": "9060",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9060"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Finnish Goverment (R. Holsti)",
+          "personId": "9124",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9124"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:32+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1921,
+  "economicsProbe": false
+}

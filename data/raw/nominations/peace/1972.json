@@ -1,0 +1,1959 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972",
+  "statedCount": 99,
+  "parsedCount": 99,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "23193",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23193&mode=",
+      "nominees": [
+        {
+          "name": "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+          "personId": "15836",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15836"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léopold Sédar Senghor",
+          "personId": "12703",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12703"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23194",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23194&mode=",
+      "nominees": [
+        {
+          "name": "Amnesty International",
+          "personId": "14384",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14384"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Hastings (Earl of Huntingdon)",
+          "personId": "16942",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16942"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23195",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23195&mode=",
+      "nominees": [
+        {
+          "name": "Seán MacBride",
+          "personId": "16943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16943"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lord Sainsbury",
+          "personId": "16944",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16944"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23196",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23196&mode=",
+      "nominees": [
+        {
+          "name": "Seán MacBride",
+          "personId": "16943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16943"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richie Ryan",
+          "personId": "16945",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16945"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23197",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23197&mode=",
+      "nominees": [
+        {
+          "name": "Seán MacBride",
+          "personId": "16943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16943"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Borm",
+          "personId": "16946",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16946"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23198",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23198&mode=",
+      "nominees": [
+        {
+          "name": "Seán MacBride",
+          "personId": "16943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16943"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M van der Stoel",
+          "personId": "16947",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16947"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23199",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23199&mode=",
+      "nominees": [
+        {
+          "name": "Lev Eugene Dobriansky",
+          "personId": "16948",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16948"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward Derwinski",
+          "personId": "16949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16949"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23200",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23200&mode=",
+      "nominees": [
+        {
+          "name": "the Population Council",
+          "personId": "16950",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16950"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philip Hauser",
+          "personId": "16951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16951"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23201",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23201&mode=",
+      "nominees": [
+        {
+          "name": "Edward Heath",
+          "personId": "14881",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14881"
+        },
+        {
+          "name": "Roy Jenkins",
+          "personId": "16953",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16953"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ferdinand Hermens",
+          "personId": "16952",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16952"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23202",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23202&mode=",
+      "nominees": [
+        {
+          "name": "Cyrus Eaton",
+          "personId": "11543",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11543"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jennings Randolph",
+          "personId": "11546",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11546"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23203",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23203&mode=",
+      "nominees": [
+        {
+          "name": "Mother Teresa",
+          "personId": "17231",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17231"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lester Pearson",
+          "personId": "7071",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7071"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23204",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23204&mode=",
+      "nominees": [
+        {
+          "name": "Charles Alexandrowicz",
+          "personId": "11601",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11601"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "T Rama Rao",
+          "personId": "12762",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12762"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23205",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23205&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Smith III",
+          "personId": "16958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16958"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23206",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23206&mode=",
+      "nominees": [
+        {
+          "name": "U Thant",
+          "personId": "14785",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14785"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bronson Clark",
+          "personId": "14928",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14928"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23207",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23207&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wiley Mayne",
+          "personId": "16959",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16959"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23208",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23208&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Everett Jordan",
+          "personId": "16960",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16960"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23209",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23209&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sam Ervin, Jr.",
+          "personId": "16961",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16961"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23210",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23210&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Elliott Trudeau",
+          "personId": "16962",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16962"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Gervais",
+          "personId": "16963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23211",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23211&mode=",
+      "nominees": [
+        {
+          "name": "International Union for Land Value Taxation and Free Trade",
+          "personId": "14803",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14803"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Campbell Ross Douglas (Baron of Barloch)",
+          "personId": "14804",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14804"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23212",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23212&mode=",
+      "nominees": [
+        {
+          "name": "Pope Paul VI",
+          "personId": "16965",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16965"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cinzio Violante",
+          "personId": "16966",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16966"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23213",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23213&mode=",
+      "nominees": [
+        {
+          "name": "Stefan Wyszynski",
+          "personId": "15961",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15961"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stanley Haidasz",
+          "personId": "15905",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15905"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23214",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23214&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mike Mansfield",
+          "personId": "5880",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5880"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23215",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23215&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "members of the Dutch parliament",
+          "personId": "16967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16967"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23216",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23216&mode=",
+      "nominees": [
+        {
+          "name": "Seán MacBride",
+          "personId": "16943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16943"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Trevor West",
+          "personId": "16968",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16968"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23217",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23217&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Strom Thurmond",
+          "personId": "16969",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16969"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23218",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23218&mode=",
+      "nominees": [
+        {
+          "name": "Elie Wiesel",
+          "personId": "15735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15735"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Olivier de Pierrebourg",
+          "personId": "16970",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16970"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23219",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23219&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Blary",
+          "personId": "16971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16971"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23220",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23220&mode=",
+      "nominees": [
+        {
+          "name": "Amnesty International",
+          "personId": "14384",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14384"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "members of the Swedish parliament",
+          "personId": "16972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16972"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23221",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23221&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "members of the American Congress",
+          "personId": "16973",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16973"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23222",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23222&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Elliott Trudeau",
+          "personId": "16962",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16962"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kenneth Robinson",
+          "personId": "16974",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16974"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23223",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23223&mode=",
+      "nominees": [
+        {
+          "name": "Elie Wiesel",
+          "personId": "15735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15735"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Kaufmann",
+          "personId": "4736",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4736"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23224",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23224&mode=",
+      "nominees": [
+        {
+          "name": "Norman Cousins",
+          "personId": "11464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11464"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tsuruji Kotani",
+          "personId": "16975",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16975"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23225",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23225&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "André Dilgent",
+          "personId": "16976",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16976"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23226",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23226&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harold Davies (Baron Davies of Leek)",
+          "personId": "16977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16977"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23227",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23227&mode=",
+      "nominees": [
+        {
+          "name": "John Collins",
+          "personId": "14856",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14856"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "members of the British parliament",
+          "personId": "16978",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16978"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23228",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23228&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Forrester",
+          "personId": "15844",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15844"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23229",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23229&mode=",
+      "nominees": [
+        {
+          "name": "the Population Council",
+          "personId": "16950",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16950"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Norman Ernest Borlaug",
+          "personId": "14818",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14818"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23230",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23230&mode=",
+      "nominees": [
+        {
+          "name": "Elie Wiesel",
+          "personId": "15735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15735"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Stanley McGovern",
+          "personId": "17226",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17226"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23231",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23231&mode=",
+      "nominees": [
+        {
+          "name": "Elie Wiesel",
+          "personId": "15735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15735"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Jackson",
+          "personId": "16982",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16982"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23232",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23232&mode=",
+      "nominees": [
+        {
+          "name": "Elie Wiesel",
+          "personId": "15735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15735"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Stehlin",
+          "personId": "16983",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16983"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23233",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23233&mode=",
+      "nominees": [
+        {
+          "name": "John Collins",
+          "personId": "14856",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14856"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul O'Higgins",
+          "personId": "16984",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16984"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23234",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23234&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "members of the German parliament",
+          "personId": "16985",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16985"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23235",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23235&mode=",
+      "nominees": [
+        {
+          "name": "Charles Kaisel Bliss",
+          "personId": "14897",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14897"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Douglas Nixon Everingham",
+          "personId": "15075",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15075"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23236",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23236&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "members of the Belgian parliament",
+          "personId": "16987",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16987"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23237",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23237&mode=",
+      "nominees": [
+        {
+          "name": "Eugene Carson Blake",
+          "personId": "15864",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15864"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jerome Waldie",
+          "personId": "15865",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15865"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23238",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23238&mode=",
+      "nominees": [
+        {
+          "name": "Elie Wiesel",
+          "personId": "15735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15735"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Anderson Falk",
+          "personId": "14821",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14821"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23239",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23239&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Hazard",
+          "personId": "16989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16989"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23240",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23240&mode=",
+      "nominees": [
+        {
+          "name": "John Collins",
+          "personId": "14856",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14856"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John (Jock) Middleton Campbell (Baron Campbell of Eskan)",
+          "personId": "16990",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16990"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23241",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23241&mode=",
+      "nominees": [
+        {
+          "name": "U Thant",
+          "personId": "14785",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14785"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Laurence Naish",
+          "personId": "15846",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15846"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23242",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23242&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "3 members of the Luxembourg parliament",
+          "personId": "16991",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16991"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23243",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23243&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Roger Duchet",
+          "personId": "16992",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16992"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23244",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23244&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Cant",
+          "personId": "15849",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15849"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23245",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23245&mode=",
+      "nominees": [
+        {
+          "name": "Norman Cousins",
+          "personId": "11464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11464"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlos Romulo",
+          "personId": "7846",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7846"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23246",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23246&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Horsky",
+          "personId": "16993",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16993"
+        },
+        {
+          "name": "Miloslav Kanák",
+          "personId": "16994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16994"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23247",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23247&mode=",
+      "nominees": [
+        {
+          "name": "Francisco Arasa",
+          "personId": "15959",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15959"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Pi Suñer",
+          "personId": "15901",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15901"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23248",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23248&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jan Capek",
+          "personId": "16995",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16995"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23249",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23249&mode=",
+      "nominees": [
+        {
+          "name": "Danilo Dolci",
+          "personId": "11604",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11604"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Clarke Adams",
+          "personId": "16996",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16996"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23250",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23250&mode=",
+      "nominees": [
+        {
+          "name": "Norman Cousins",
+          "personId": "11464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11464"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jonathan Bingham",
+          "personId": "16997",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16997"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23251",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23251&mode=",
+      "nominees": [
+        {
+          "name": "Michel Stassinopoulos",
+          "personId": "15969",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15969"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "René Cassin",
+          "personId": "1649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1649"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23252",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23252&mode=",
+      "nominees": [
+        {
+          "name": "Alfonso Garcia Robles",
+          "personId": "15868",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15868"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philip Noel-Baker",
+          "personId": "6735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6735"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23253",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23253&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Olav Totland",
+          "personId": "16998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16998"
+        },
+        {
+          "name": "Eigil Liand",
+          "personId": "17211",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17211"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23254",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23254&mode=",
+      "nominees": [
+        {
+          "name": "Amnesty International",
+          "personId": "14384",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14384"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Peter Archer",
+          "personId": "17000",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17000"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23255",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23255&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "members of the Belgian parliament",
+          "personId": "16987",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16987"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23256",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23256&mode=",
+      "nominees": [
+        {
+          "name": "Amnesty International",
+          "personId": "14384",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14384"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jeremy Thorpe",
+          "personId": "17001",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17001"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23257",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23257&mode=",
+      "nominees": [
+        {
+          "name": "Alexandre Marc",
+          "personId": "17002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17002"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Guy Heraud",
+          "personId": "17003",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17003"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23258",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23258&mode=",
+      "nominees": [
+        {
+          "name": "Count Richard Nicolas Coudenhove-Kalergi",
+          "personId": "1991",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1991"
+        },
+        {
+          "name": "Jean Monnet",
+          "personId": "15972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Struye",
+          "personId": "17004",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17004"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23259",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23259&mode=",
+      "nominees": [
+        {
+          "name": "Spurgeon Milton Keeny",
+          "personId": "14871",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14871"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Chester Jarvis",
+          "personId": "15840",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15840"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23260",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23260&mode=",
+      "nominees": [
+        {
+          "name": "International Union for Land Value Taxation and Free Trade",
+          "personId": "14803",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14803"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Henningsen",
+          "personId": "15917",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15917"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23261",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23261&mode=",
+      "nominees": [
+        {
+          "name": "Annie Margareth Skau",
+          "personId": "17005",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17005"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henrik Bahr",
+          "personId": "17006",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17006"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23262",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23262&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marie Lous Mohr",
+          "personId": "14063",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14063"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23263",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23263&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jack Marshall",
+          "personId": "17007",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17007"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23264",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23264&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Berrigan",
+          "personId": "17008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17008"
+        },
+        {
+          "name": "Philip Berrigan",
+          "personId": "17010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17010"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jan-Erik Wikström",
+          "personId": "17009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17009"
+        },
+        {
+          "name": "David Wismark",
+          "personId": "17011",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17011"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23265",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23265&mode=",
+      "nominees": [
+        {
+          "name": "Elie Wiesel",
+          "personId": "15735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15735"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Leber",
+          "personId": "17012",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17012"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23266",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23266&mode=",
+      "nominees": [
+        {
+          "name": "Amnesty International",
+          "personId": "14384",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14384"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Hamling",
+          "personId": "17013",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17013"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23267",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23267&mode=",
+      "nominees": [
+        {
+          "name": "Amnesty International",
+          "personId": "14384",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14384"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Scheu",
+          "personId": "17014",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17014"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23268",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23268&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Milan Bartos",
+          "personId": "17015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17015"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23269",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23269&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Berrigan",
+          "personId": "17008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17008"
+        },
+        {
+          "name": "Philip Berrigan",
+          "personId": "17010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17010"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Howard Parsons",
+          "personId": "17017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17017"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23270",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23270&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Berrigan",
+          "personId": "17008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17008"
+        },
+        {
+          "name": "Philip Berrigan",
+          "personId": "17010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17010"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giovanni Costigan",
+          "personId": "17019",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17019"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23271",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23271&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Professors from the Catholic University in Louvain",
+          "personId": "17020",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17020"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23272",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23272&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Berrigan",
+          "personId": "17008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17008"
+        },
+        {
+          "name": "Philip Berrigan",
+          "personId": "17010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17010"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "12 members of the Swedish parliament",
+          "personId": "17022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17022"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23273",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23273&mode=",
+      "nominees": [
+        {
+          "name": "Elise Ottesen-Jensen",
+          "personId": "17023",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17023"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "members of the Swedish parliament",
+          "personId": "16972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=16972"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23274",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23274&mode=",
+      "nominees": [
+        {
+          "name": "Ralph Nader",
+          "personId": "17024",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17024"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frank Edward Moss",
+          "personId": "14371",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14371"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23275",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23275&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Berrigan",
+          "personId": "17008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17008"
+        },
+        {
+          "name": "Philip Berrigan",
+          "personId": "17010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17010"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Herman Badillo",
+          "personId": "17027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17027"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23276",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23276&mode=",
+      "nominees": [
+        {
+          "name": "Ranganath Ramachandra Diwakar",
+          "personId": "17028",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17028"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Michael Landmann",
+          "personId": "5197",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5197"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23277",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23277&mode=",
+      "nominees": [
+        {
+          "name": "Charles Rhyne",
+          "personId": "14370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Julio Cueto Rúa",
+          "personId": "17029",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17029"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23278",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23278&mode=",
+      "nominees": [
+        {
+          "name": "Helen Suzman",
+          "personId": "17030",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17030"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Edmonds Luyt",
+          "personId": "17031",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17031"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23279",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23279&mode=",
+      "nominees": [
+        {
+          "name": "Isabelle Lyon Dean Grant",
+          "personId": "17032",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17032"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harold Terry \"Bizz\" Johnson",
+          "personId": "17033",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17033"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23280",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23280&mode=",
+      "nominees": [
+        {
+          "name": "Elie Wiesel",
+          "personId": "15735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15735"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Håkon Olsen",
+          "personId": "17034",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17034"
+        },
+        {
+          "name": "Ingemund Gullvåg",
+          "personId": "17035",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17035"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23281",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23281&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the Danish parliament",
+          "personId": "17036",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17036"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23282",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23282&mode=",
+      "nominees": [
+        {
+          "name": "William Chapman",
+          "personId": "17037",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17037"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jerome Waldie",
+          "personId": "15865",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15865"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23283",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23283&mode=",
+      "nominees": [
+        {
+          "name": "World Esperanto Association (Universala Esperanto Asocio)",
+          "personId": "14778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14778"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Rossbach",
+          "personId": "15882",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15882"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23284",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23284&mode=",
+      "nominees": [
+        {
+          "name": "Billy Graham",
+          "personId": "17038",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17038"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Peter Mills",
+          "personId": "17039",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17039"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23285",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23285&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Berrigan",
+          "personId": "17008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17008"
+        },
+        {
+          "name": "Philip Berrigan",
+          "personId": "17010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17010"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Anderson",
+          "personId": "17041",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17041"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23286",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23286&mode=",
+      "nominees": [
+        {
+          "name": "Orlando Villas Bôas",
+          "personId": "15761",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15761"
+        },
+        {
+          "name": "Claudio Villas Bôas",
+          "personId": "15762",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15762"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alan Tindal Lennox-Boyd (Viscount Boyd of Merton)",
+          "personId": "15763",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15763"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23287",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23287&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "5 members of the Swedish parliament",
+          "personId": "17044",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17044"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23288",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23288&mode=",
+      "nominees": [
+        {
+          "name": "Marc Joux",
+          "personId": "13433",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13433"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Auguste Billiemaz",
+          "personId": "13427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13427"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23289",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23289&mode=",
+      "nominees": [
+        {
+          "name": "Pierre Radwanski",
+          "personId": "14944",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14944"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andrew Kawcsak",
+          "personId": "17046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17046"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23290",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23290&mode=",
+      "nominees": [
+        {
+          "name": "Hélder Câmara",
+          "personId": "15822",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=15822"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "29 members of the Italian parliament",
+          "personId": "17047",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17047"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    },
+    {
+      "nominationId": "23291",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=23291&mode=",
+      "nominees": [
+        {
+          "name": "James William Fulbright",
+          "personId": "3269",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3269"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Coutsoheras",
+          "personId": "17049",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17049"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1972"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:01:16+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1972,
+  "economicsProbe": false
+}

@@ -1,0 +1,441 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921",
+  "statedCount": 22,
+  "parsedCount": 22,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "164",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=164&mode=",
+      "nominees": [
+        {
+          "name": "Arno Holz",
+          "personId": "4289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4289"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "49 members of The Nobel Prize Committee of the Society of Authors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "617",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=617&mode=",
+      "nominees": [
+        {
+          "name": "Jacinto Benavente",
+          "personId": "845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=845"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "21 members of Royal Spanish Academy (Real Academia Española)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "1006",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1006&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Avenarius",
+          "personId": "572",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=572"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Groos",
+          "personId": "8351",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8351"
+        },
+        {
+          "name": "Rudolf Eucken",
+          "personId": "2851",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2851"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "1438",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1438&mode=",
+      "nominees": [
+        {
+          "name": "Henri Bergson",
+          "personId": "917",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=917"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Verner von Heidenstam",
+          "personId": "4000",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4000"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "1397",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1397&mode=",
+      "nominees": [
+        {
+          "name": "Henri Bergson",
+          "personId": "917",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=917"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the Academy of Political and Moral Sciences",
+          "personId": "8338",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8338"
+        },
+        {
+          "name": "Several members of The French Academy (Académie Française)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "1767",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1767&mode=",
+      "nominees": [
+        {
+          "name": "Stefan Zeromski",
+          "personId": "10399",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10399"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the Academy of Science",
+          "personId": "6128",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6128"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "2151",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2151&mode=",
+      "nominees": [
+        {
+          "name": "Arne Garborg",
+          "personId": "3323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3323"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leopold (Frits) Läffler",
+          "personId": "8355",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8355"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "2531",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2531&mode=",
+      "nominees": [
+        {
+          "name": "Grazia Deledda (Madesani)",
+          "personId": "2348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "17 members of the Lincean Academy (Accademia dei Lincei)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "2488",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2488&mode=",
+      "nominees": [
+        {
+          "name": "Grazia Deledda (Madesani)",
+          "personId": "2348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Bildt",
+          "personId": "1009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1009"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "2934",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2934&mode=",
+      "nominees": [
+        {
+          "name": "Anatole (Jacques) France (Thibault)",
+          "personId": "3157",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3157"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emanuel Walberg",
+          "personId": "9934",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9934"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "2860",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2860&mode=",
+      "nominees": [
+        {
+          "name": "Anatole (Jacques) France (Thibault)",
+          "personId": "3157",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3157"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Vising",
+          "personId": "9675",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9675"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "2820",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2820&mode=",
+      "nominees": [
+        {
+          "name": "Anatole (Jacques) France (Thibault)",
+          "personId": "3157",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3157"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erik Staaff",
+          "personId": "8714",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8714"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "3158",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3158&mode=",
+      "nominees": [
+        {
+          "name": "Angel Guimerà y Jorge",
+          "personId": "3713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3713"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of Royal Academy of Fine Letters (Real Academia de Buenas Letras)",
+          "personId": "6125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6125"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "3482",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3482&mode=",
+      "nominees": [
+        {
+          "name": "Otokar (Václav) [Venceslas] Brezina (Jebavy) [Jebary]",
+          "personId": "1327",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1327"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arne Novák",
+          "personId": "6768",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6768"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "3842",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3842&mode=",
+      "nominees": [
+        {
+          "name": "Alois Jirásek",
+          "personId": "4592",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4592"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Czech Academy of Science and Arts",
+          "personId": "2074",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2074"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "4161",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4161&mode=",
+      "nominees": [
+        {
+          "name": "Jean Revel",
+          "personId": "7673",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7673"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Academy of Sciences, Humanities and Arts",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "4505",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4505&mode=",
+      "nominees": [
+        {
+          "name": "Gunnar Gunnarsson",
+          "personId": "3721",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3721"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Noreen",
+          "personId": "6757",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6757"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "4842",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4842&mode=",
+      "nominees": [
+        {
+          "name": "Émile Boutroux",
+          "personId": "1245",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1245"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harald Hjärne",
+          "personId": "4227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4227"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "5160",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5160&mode=",
+      "nominees": [
+        {
+          "name": "John Galsworthy",
+          "personId": "3315",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3315"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Österling",
+          "personId": "10460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10460"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "5478",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5478&mode=",
+      "nominees": [
+        {
+          "name": "William Yeats",
+          "personId": "10345",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10345"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erik Axel Karlfeldt",
+          "personId": "4716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "5815",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5815&mode=",
+      "nominees": [
+        {
+          "name": "George Bernard Shaw",
+          "personId": "8479",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8479"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henrik Schück",
+          "personId": "8296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8296"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    },
+    {
+      "nominationId": "6106",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6106&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Wells",
+          "personId": "10075",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10075"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henrik Schück",
+          "personId": "8296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8296"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:29+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1921,
+  "economicsProbe": false
+}

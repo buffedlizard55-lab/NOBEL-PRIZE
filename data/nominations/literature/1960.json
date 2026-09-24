@@ -1,0 +1,1388 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960",
+  "statedCount": 70,
+  "parsedCount": 70,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "17955",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17955&mode=",
+      "nominees": [
+        {
+          "name": "Saint-John Perse",
+          "personId": "12089",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12089"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thomas Eliot",
+          "personId": "2757",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2757"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17954",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17954&mode=",
+      "nominees": [
+        {
+          "name": "Saint-John Perse",
+          "personId": "12089",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12089"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Johnson",
+          "personId": "12669",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12669"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16715",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16715&mode=",
+      "nominees": [
+        {
+          "name": "Aldous Huxley",
+          "personId": "4397",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4397"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Fricker",
+          "personId": "12497",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12497"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16716",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16716&mode=",
+      "nominees": [
+        {
+          "name": "Henry de Montherlant",
+          "personId": "13234",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13234"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Morier",
+          "personId": "12259",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12259"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16717",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16717&mode=",
+      "nominees": [
+        {
+          "name": "Franz Theodor Csoker",
+          "personId": "12499",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12499"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Austrian PEN-Club (Österreichischer PEN-Klub)",
+          "personId": "571",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=571"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16718",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16718&mode=",
+      "nominees": [
+        {
+          "name": "Wesley La Violette",
+          "personId": "12500",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12500"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "V Gokak",
+          "personId": "12501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12501"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16719",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16719&mode=",
+      "nominees": [
+        {
+          "name": "Sarvepalli Radhakrishnan",
+          "personId": "7525",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7525"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N Sidhanta",
+          "personId": "11476",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11476"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16720",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16720&mode=",
+      "nominees": [
+        {
+          "name": "Herman Teirlinck",
+          "personId": "9033",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9033"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Theodor Frings",
+          "personId": "12502",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12502"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16721",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16721&mode=",
+      "nominees": [
+        {
+          "name": "Jules Supervielle",
+          "personId": "12292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Fabre",
+          "personId": "14156",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14156"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17958",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17958&mode=",
+      "nominees": [
+        {
+          "name": "Robert Frost",
+          "personId": "3248",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3248"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Havighurst",
+          "personId": "12505",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12505"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17957",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17957&mode=",
+      "nominees": [
+        {
+          "name": "Robert Frost",
+          "personId": "3248",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3248"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nils Erik Enkvist",
+          "personId": "12504",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12504"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17956",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17956&mode=",
+      "nominees": [
+        {
+          "name": "Robert Frost",
+          "personId": "3248",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3248"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Galinsky",
+          "personId": "12503",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12503"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16723",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16723&mode=",
+      "nominees": [
+        {
+          "name": "Gonzague de Reynold",
+          "personId": "12271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Swiss Writers Association (Schweizerischer Schriftstellerverein)",
+          "personId": "12491",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12491"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16724",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16724&mode=",
+      "nominees": [
+        {
+          "name": "Mario Roques",
+          "personId": "12484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12484"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "I Frandon",
+          "personId": "12485",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12485"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16725",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16725&mode=",
+      "nominees": [
+        {
+          "name": "Karl Heinrich Waggerl",
+          "personId": "12506",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12506"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Friedrich Wild",
+          "personId": "12507",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12507"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16726",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16726&mode=",
+      "nominees": [
+        {
+          "name": "Miroslav Krleza",
+          "personId": "12404",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12404"
+        },
+        {
+          "name": "Ivo Andric",
+          "personId": "12405",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12405"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Yugoslavian Author´s Society",
+          "personId": "12421",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12421"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17961",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17961&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Academie Argentina de Letras",
+          "personId": "12145",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12145"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17960",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17960&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jules Horrent",
+          "personId": "12508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12508"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17959",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17959&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gunnar Tilander",
+          "personId": "9270",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9270"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16728",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16728&mode=",
+      "nominees": [
+        {
+          "name": "Christopher Fry",
+          "personId": "12273",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12273"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Henkel",
+          "personId": "12509",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12509"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16729",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16729&mode=",
+      "nominees": [
+        {
+          "name": "Tarjei Vesaas",
+          "personId": "9629",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9629"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigmund Skard",
+          "personId": "12027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12027"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16730",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16730&mode=",
+      "nominees": [
+        {
+          "name": "Robert von Ranke Graves",
+          "personId": "3619",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3619"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johannes Edfelt",
+          "personId": "12371",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12371"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16731",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16731&mode=",
+      "nominees": [
+        {
+          "name": "Werner Bergengruen",
+          "personId": "13601",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13601"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wolfgang Stammler",
+          "personId": "12510",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12510"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16732",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16732&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        },
+        {
+          "name": "Tarjei Vesaas",
+          "personId": "9629",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9629"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johannes Andreasson Dale",
+          "personId": "12269",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12269"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16733",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16733&mode=",
+      "nominees": [
+        {
+          "name": "Maria Dabrowska",
+          "personId": "2097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2097"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Polish PEN-Club",
+          "personId": "12542",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12542"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16734",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16734&mode=",
+      "nominees": [
+        {
+          "name": "Aquiline Ribeiro",
+          "personId": "12511",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12511"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Portuguese Author´s Society",
+          "personId": "12543",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12543"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17963",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17963&mode=",
+      "nominees": [
+        {
+          "name": "Miguel Torga",
+          "personId": "12475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12475"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Several professors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17962",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17962&mode=",
+      "nominees": [
+        {
+          "name": "Miguel Torga",
+          "personId": "12475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12475"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emile Planchard",
+          "personId": "12544",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12544"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16736",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16736&mode=",
+      "nominees": [
+        {
+          "name": "Martin Heidegger",
+          "personId": "12481",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12481"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Böckmann",
+          "personId": "12513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12513"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16737",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16737&mode=",
+      "nominees": [
+        {
+          "name": "Wilhelm Lehmann",
+          "personId": "12514",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12514"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Friedrich Sengle",
+          "personId": "12515",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12515"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16738",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16738&mode=",
+      "nominees": [
+        {
+          "name": "Marie Noël",
+          "personId": "12516",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12516"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice Bemol",
+          "personId": "12517",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12517"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17965",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17965&mode=",
+      "nominees": [
+        {
+          "name": "Romulo Gallegos",
+          "personId": "12009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12009"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Several South American proposers",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17964",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17964&mode=",
+      "nominees": [
+        {
+          "name": "Romulo Gallegos",
+          "personId": "12009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12009"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Brazilian PEN-Club",
+          "personId": "12545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12545"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16740",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16740&mode=",
+      "nominees": [
+        {
+          "name": "Georges André Malraux",
+          "personId": "5850",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5850"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Claude Digeon",
+          "personId": "12431",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12431"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16741",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16741&mode=",
+      "nominees": [
+        {
+          "name": "Armand Godoy",
+          "personId": "12294",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12294"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anna Hyatt Huntington",
+          "personId": "12518",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12518"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16742",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16742&mode=",
+      "nominees": [
+        {
+          "name": "John Boynton Priestley",
+          "personId": "12519",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12519"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Wilson Knight",
+          "personId": "12450",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12450"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16743",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16743&mode=",
+      "nominees": [
+        {
+          "name": "Juana de Ibarbourou",
+          "personId": "12458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cuban Academy of Language (Academia Cubana de Lengua)",
+          "personId": "12170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12170"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17967",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17967&mode=",
+      "nominees": [
+        {
+          "name": "Jean Price-Mars",
+          "personId": "12520",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12520"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Daniel Rope",
+          "personId": "12521",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12521"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17966",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17966&mode=",
+      "nominees": [
+        {
+          "name": "Jean Price-Mars",
+          "personId": "12520",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12520"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georges Duhamel",
+          "personId": "2581",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2581"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16745",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16745&mode=",
+      "nominees": [
+        {
+          "name": "Heimito von Doderer",
+          "personId": "12486",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12486"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Alker",
+          "personId": "12086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12086"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17969",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17969&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harald Beyer",
+          "personId": "12063",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12063"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17968",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17968&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Heiberg",
+          "personId": "3992",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3992"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16747",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16747&mode=",
+      "nominees": [
+        {
+          "name": "Rudolf Alexander Schröder",
+          "personId": "12359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12359"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Erich Kästner",
+          "personId": "12522",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12522"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17971",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17971&mode=",
+      "nominees": [
+        {
+          "name": "Karl Jaspers",
+          "personId": "4563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hermann Kasack",
+          "personId": "12523",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12523"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17970",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17970&mode=",
+      "nominees": [
+        {
+          "name": "Karl Jaspers",
+          "personId": "4563",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4563"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Erich Kästner",
+          "personId": "12522",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12522"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16749",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16749&mode=",
+      "nominees": [
+        {
+          "name": "Gunnar Gunnarsson",
+          "personId": "3721",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3721"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stellan Arvidson",
+          "personId": "12118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12118"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17973",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17973&mode=",
+      "nominees": [
+        {
+          "name": "Max Mell",
+          "personId": "12065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12065"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Höfler",
+          "personId": "12525",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12525"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17972",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17972&mode=",
+      "nominees": [
+        {
+          "name": "Max Mell",
+          "personId": "12065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12065"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Jagoditsch",
+          "personId": "12524",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12524"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16751",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16751&mode=",
+      "nominees": [
+        {
+          "name": "René Émile Char",
+          "personId": "12526",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12526"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georges Blin",
+          "personId": "12082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12082"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17974",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17974&mode=",
+      "nominees": [
+        {
+          "name": "James Thurber",
+          "personId": "12527",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12527"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Elias",
+          "personId": "12528",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12528"
+        },
+        {
+          "name": "Arthur Mizener",
+          "personId": "12529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12529"
+        },
+        {
+          "name": "Stephen Whicher",
+          "personId": "12530",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12530"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16753",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16753&mode=",
+      "nominees": [
+        {
+          "name": "Karen Blixen",
+          "personId": "1077",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1077"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Jungbluth",
+          "personId": "12531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12531"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16755",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16755&mode=",
+      "nominees": [
+        {
+          "name": "Henry Graham Greene",
+          "personId": "3628",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3628"
+        },
+        {
+          "name": "Jean-Paul Sartre",
+          "personId": "12337",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12337"
+        },
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kristian Smidt",
+          "personId": "12251",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12251"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17978",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17978&mode=",
+      "nominees": [
+        {
+          "name": "Ilias Venezis",
+          "personId": "12532",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12532"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stylianos Kapsomenos",
+          "personId": "12534",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12534"
+        },
+        {
+          "name": "Nicolas Andriotis",
+          "personId": "12533",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12533"
+        },
+        {
+          "name": "Emmanuel Kriaras",
+          "personId": "13682",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13682"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16758",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16758&mode=",
+      "nominees": [
+        {
+          "name": "Simon Vestdijk",
+          "personId": "9633",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9633"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigfrid Siwertz",
+          "personId": "8564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8564"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16759",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16759&mode=",
+      "nominees": [
+        {
+          "name": "Taha Hussein",
+          "personId": "4387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hedberg",
+          "personId": "12535",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12535"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17980",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17980&mode=",
+      "nominees": [
+        {
+          "name": "Ivo Andric",
+          "personId": "12405",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12405"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Johnson",
+          "personId": "12669",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12669"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "17979",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17979&mode=",
+      "nominees": [
+        {
+          "name": "Ivo Andric",
+          "personId": "12405",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12405"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Martinson",
+          "personId": "5958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5958"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16761",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16761&mode=",
+      "nominees": [
+        {
+          "name": "Aksel Sandemose",
+          "personId": "12536",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12536"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Johnson",
+          "personId": "12669",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12669"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16762",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16762&mode=",
+      "nominees": [
+        {
+          "name": "Edward Morgan Forster",
+          "personId": "3128",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3128"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Johnson",
+          "personId": "12669",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12669"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16763",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16763&mode=",
+      "nominees": [
+        {
+          "name": "Julien Gracq",
+          "personId": "12428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Johnson",
+          "personId": "12669",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12669"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16764",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16764&mode=",
+      "nominees": [
+        {
+          "name": "John Steinbeck",
+          "personId": "8766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8766"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Olsson",
+          "personId": "6859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6859"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16765",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16765&mode=",
+      "nominees": [
+        {
+          "name": "Louis Aragon",
+          "personId": "12455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12455"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Olsson",
+          "personId": "6859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6859"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16766",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16766&mode=",
+      "nominees": [
+        {
+          "name": "Ezra Pound",
+          "personId": "12112",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12112"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andersson",
+          "personId": "12353",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12353"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16767",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16767&mode=",
+      "nominees": [
+        {
+          "name": "George Macauley Trevelyan",
+          "personId": "9345",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9345"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Martinson",
+          "personId": "5958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5958"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16768",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16768&mode=",
+      "nominees": [
+        {
+          "name": "Ignazio Silone",
+          "personId": "8539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8539"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Johnson",
+          "personId": "12669",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12669"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16769",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16769&mode=",
+      "nominees": [
+        {
+          "name": "Alberto Moravia",
+          "personId": "6403",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6403"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Johnson",
+          "personId": "12669",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12669"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16770",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16770&mode=",
+      "nominees": [
+        {
+          "name": "Heinrich Böll",
+          "personId": "12538",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12538"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustav Korlén",
+          "personId": "12539",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12539"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16771",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16771&mode=",
+      "nominees": [
+        {
+          "name": "Junzaburo Nishiwaki",
+          "personId": "12540",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12540"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Naoshiro Tsuji",
+          "personId": "12377",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12377"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16772",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16772&mode=",
+      "nominees": [
+        {
+          "name": "Stratis Myrivilis",
+          "personId": "12541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12541"
+        },
+        {
+          "name": "Ilias Venezis",
+          "personId": "12532",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12532"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Greek Authors´ Union",
+          "personId": "12547",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12547"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    },
+    {
+      "nominationId": "16773",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16773&mode=",
+      "nominees": [
+        {
+          "name": "Junichiro Tanizaki",
+          "personId": "12374",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12374"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigfrid Siwertz",
+          "personId": "8564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8564"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1960"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:00+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1960,
+  "economicsProbe": false
+}

@@ -1,0 +1,931 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901",
+  "statedCount": 37,
+  "parsedCount": 37,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "149",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=149&mode=",
+      "nominees": [
+        {
+          "name": "Émile Zola",
+          "personId": "10419",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10419"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marcellin Berthelot",
+          "personId": "949",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=949"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "605",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=605&mode=",
+      "nominees": [
+        {
+          "name": "René Vallery-Radot",
+          "personId": "9505",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9505"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugène Melchoir de Vogüé",
+          "personId": "9695",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9695"
+        },
+        {
+          "name": "E Legouvé",
+          "personId": "11167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11167"
+        },
+        {
+          "name": "Albert Vandal",
+          "personId": "9554",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9554"
+        },
+        {
+          "name": "Gabriel Hanotaux",
+          "personId": "3861",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3861"
+        },
+        {
+          "name": "Albert Sorel",
+          "personId": "8665",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8665"
+        },
+        {
+          "name": "Sully (René) Prudhomme",
+          "personId": "7470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7470"
+        },
+        {
+          "name": "Henri Lavedan",
+          "personId": "11168",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11168"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "1124",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1124&mode=",
+      "nominees": [
+        {
+          "name": "Edmond Rostand",
+          "personId": "7903",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7903"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gabriel Hanotaux",
+          "personId": "3861",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3861"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "1046",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1046&mode=",
+      "nominees": [
+        {
+          "name": "Edmond Rostand",
+          "personId": "7903",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7903"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Hervieu",
+          "personId": "4111",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4111"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "1382",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1382&mode=",
+      "nominees": [
+        {
+          "name": "Julius Gersdorff",
+          "personId": "3404",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3404"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Heinrich Döring",
+          "personId": "2641",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2641"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "1754",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1754&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Baumgartner, S.J.",
+          "personId": "763",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=763"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Knud Krogh-Tonning",
+          "personId": "5059",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5059"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "2135",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2135&mode=",
+      "nominees": [
+        {
+          "name": "Alexandru Dimitrie Xenopol",
+          "personId": "10339",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10339"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Gavanescu",
+          "personId": "3365",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3365"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "2469",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2469&mode=",
+      "nominees": [
+        {
+          "name": "Oscar le Pin",
+          "personId": "7254",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7254"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Bonnaviat",
+          "personId": "1153",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1153"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "2804",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2804&mode=",
+      "nominees": [
+        {
+          "name": "Paul Sabatier",
+          "personId": "8018",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8018"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Bildt",
+          "personId": "1009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1009"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3143",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3143&mode=",
+      "nominees": [
+        {
+          "name": "Louis Ducros",
+          "personId": "2570",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2570"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Michel Clerc",
+          "personId": "1842",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1842"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3626",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3626&mode=",
+      "nominees": [
+        {
+          "name": "Sully (René) Prudhomme",
+          "personId": "7470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7470"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Per Geijer",
+          "personId": "3377",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3377"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3611",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3611&mode=",
+      "nominees": [
+        {
+          "name": "Sully (René) Prudhomme",
+          "personId": "7470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7470"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Michel Bréal",
+          "personId": "1307",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1307"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3584",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3584&mode=",
+      "nominees": [
+        {
+          "name": "Sully (René) Prudhomme",
+          "personId": "7470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7470"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustave Lanson",
+          "personId": "5233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5233"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3466",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3466&mode=",
+      "nominees": [
+        {
+          "name": "Sully (René) Prudhomme",
+          "personId": "7470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7470"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri de Bornier",
+          "personId": "8345",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8345"
+        },
+        {
+          "name": "Gaston Paris",
+          "personId": "6990",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6990"
+        },
+        {
+          "name": "Paul Bourget",
+          "personId": "1235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1235"
+        },
+        {
+          "name": "Gréard",
+          "personId": "11169",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11169"
+        },
+        {
+          "name": "A Theuriet",
+          "personId": "11170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11170"
+        },
+        {
+          "name": "Gaston Boissier",
+          "personId": "1122",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1122"
+        },
+        {
+          "name": "Ludovic Halévy",
+          "personId": "3798",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3798"
+        },
+        {
+          "name": "H Houssaye",
+          "personId": "11172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11172"
+        },
+        {
+          "name": "François Coppée",
+          "personId": "1943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1943"
+        },
+        {
+          "name": "J de Heredia",
+          "personId": "11173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11173"
+        },
+        {
+          "name": "J Lemaître",
+          "personId": "11174",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11174"
+        },
+        {
+          "name": "C de Freycinet",
+          "personId": "11146",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11146"
+        },
+        {
+          "name": "P Deschanel",
+          "personId": "11176",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11176"
+        },
+        {
+          "name": "É Ollivier",
+          "personId": "11178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11178"
+        },
+        {
+          "name": "Guillaume",
+          "personId": "11179",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11179"
+        },
+        {
+          "name": "Costa de Beauregard",
+          "personId": "11180",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11180"
+        },
+        {
+          "name": "Émile Faguet",
+          "personId": "2896",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2896"
+        },
+        {
+          "name": "Gaston Paris",
+          "personId": "6990",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6990"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3985",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3985&mode=",
+      "nominees": [
+        {
+          "name": "Frederi (Frédéric) Mistral",
+          "personId": "6320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6320"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Julius Cornu",
+          "personId": "1963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3980",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3980&mode=",
+      "nominees": [
+        {
+          "name": "Frederi (Frédéric) Mistral",
+          "personId": "6320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6320"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Appel",
+          "personId": "464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=464"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3972",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3972&mode=",
+      "nominees": [
+        {
+          "name": "Frederi (Frédéric) Mistral",
+          "personId": "6320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6320"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "André Dumas",
+          "personId": "2586",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2586"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3950",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3950&mode=",
+      "nominees": [
+        {
+          "name": "Frederi (Frédéric) Mistral",
+          "personId": "6320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6320"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lèon Clédat",
+          "personId": "1836",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1836"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "3880",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3880&mode=",
+      "nominees": [
+        {
+          "name": "Frederi (Frédéric) Mistral",
+          "personId": "6320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6320"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eduard Koschwitz",
+          "personId": "4989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4989"
+        },
+        {
+          "name": "J Jarnik",
+          "personId": "11181",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11181"
+        },
+        {
+          "name": "A Mussafia",
+          "personId": "11183",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11183"
+        },
+        {
+          "name": "K Vollmöller",
+          "personId": "11184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11184"
+        },
+        {
+          "name": "A Kissner",
+          "personId": "11185",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11185"
+        },
+        {
+          "name": "G Baist",
+          "personId": "11186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11186"
+        },
+        {
+          "name": "K Voretzsch",
+          "personId": "11187",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11187"
+        },
+        {
+          "name": "M Friedwagner",
+          "personId": "11188",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11188"
+        },
+        {
+          "name": "H Schneegans",
+          "personId": "11189",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11189"
+        },
+        {
+          "name": "H Suchier",
+          "personId": "11190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11190"
+        },
+        {
+          "name": "Fr. Neumann",
+          "personId": "11191",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11191"
+        },
+        {
+          "name": "W Cloëtta",
+          "personId": "11192",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11192"
+        },
+        {
+          "name": "Th. Gartner",
+          "personId": "11193",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11193"
+        },
+        {
+          "name": "Albert Stimming",
+          "personId": "11194",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11194"
+        },
+        {
+          "name": "H Schuchardt",
+          "personId": "11195",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11195"
+        },
+        {
+          "name": "G Gröber",
+          "personId": "11196",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11196"
+        },
+        {
+          "name": "E Böhmer",
+          "personId": "11197",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11197"
+        },
+        {
+          "name": "E Mérimée",
+          "personId": "11198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11198"
+        },
+        {
+          "name": "E Ritter",
+          "personId": "11199",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11199"
+        },
+        {
+          "name": "L Constans",
+          "personId": "11200",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11200"
+        },
+        {
+          "name": "Paul Meyer",
+          "personId": "11201",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11201"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "4147",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4147&mode=",
+      "nominees": [
+        {
+          "name": "Gaston Paris",
+          "personId": "6990",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6990"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Wulff",
+          "personId": "10326",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10326"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "4490",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4490&mode=",
+      "nominees": [
+        {
+          "name": "Carl Gustaf Estlander",
+          "personId": "2841",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2841"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Frosterus",
+          "personId": "3249",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3249"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "4967",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4967&mode=",
+      "nominees": [
+        {
+          "name": "Henryk Sienkiewicz",
+          "personId": "8523",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8523"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harald Hjärne",
+          "personId": "4227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4227"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "4941",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4941&mode=",
+      "nominees": [
+        {
+          "name": "Henryk Sienkiewicz",
+          "personId": "8523",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8523"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Hildebrand",
+          "personId": "4167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4167"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "4879",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4879&mode=",
+      "nominees": [
+        {
+          "name": "Henryk Sienkiewicz",
+          "personId": "8523",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8523"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Comte Stanislaw Tarnowski",
+          "personId": "9008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9008"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "5144",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5144&mode=",
+      "nominees": [
+        {
+          "name": "Auguste Sabatier",
+          "personId": "8015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gabriel Monod",
+          "personId": "6375",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6375"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "5462",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5462&mode=",
+      "nominees": [
+        {
+          "name": "Paul Duproix",
+          "personId": "2607",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2607"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Émile Redard",
+          "personId": "7605",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7605"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "5802",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5802&mode=",
+      "nominees": [
+        {
+          "name": "Gaspar Núñez de Arce",
+          "personId": "6789",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6789"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mariano Catalina y Cobo",
+          "personId": "8348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8348"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "6218",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6218&mode=",
+      "nominees": [
+        {
+          "name": "Charles Borgeaud",
+          "personId": "1181",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1181"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Oechsli",
+          "personId": "6824",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6824"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "6197",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6197&mode=",
+      "nominees": [
+        {
+          "name": "Charles Borgeaud",
+          "personId": "1181",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1181"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antoine Guilland",
+          "personId": "3708",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3708"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "6139",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6139&mode=",
+      "nominees": [
+        {
+          "name": "Charles Borgeaud",
+          "personId": "1181",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1181"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Seippel",
+          "personId": "8390",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8390"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "6438",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6438&mode=",
+      "nominees": [
+        {
+          "name": "Charles Renouvier",
+          "personId": "7661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7661"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antoine Benoist",
+          "personId": "875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=875"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "6758",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6758&mode=",
+      "nominees": [
+        {
+          "name": "Franz Kemény",
+          "personId": "4784",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4784"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Imre Pauer",
+          "personId": "7037",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7037"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "7063",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7063&mode=",
+      "nominees": [
+        {
+          "name": "Giacomo Stampa",
+          "personId": "8726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8726"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Vámbéry",
+          "personId": "9511",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9511"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "7333",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7333&mode=",
+      "nominees": [
+        {
+          "name": "Antonio Fogazzaro",
+          "personId": "3089",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3089"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Forssell",
+          "personId": "19056",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=19056"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "7576",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7576&mode=",
+      "nominees": [
+        {
+          "name": "Ossip Lourié",
+          "personId": "5657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5657"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kristian Birch-Reichenwald Aars",
+          "personId": "272",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=272"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "7809",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7809&mode=",
+      "nominees": [
+        {
+          "name": "João da Câmara",
+          "personId": "1906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joachim Coelho de Carvalho",
+          "personId": "1861",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1861"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    },
+    {
+      "nominationId": "8099",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8099&mode=",
+      "nominees": [
+        {
+          "name": "Malwida von Meysenbug [Meysenburg]",
+          "personId": "6250",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6250"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gabriel Monod",
+          "personId": "6375",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6375"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:13+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1901,
+  "economicsProbe": false
+}

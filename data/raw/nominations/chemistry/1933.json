@@ -1,0 +1,819 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933",
+  "statedCount": 39,
+  "parsedCount": 39,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "80",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=80&mode=",
+      "nominees": [
+        {
+          "name": "Gabriel Émile Bertrand",
+          "personId": "953",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=953"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Nicolle",
+          "personId": "6686",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6686"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "533",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=533&mode=",
+      "nominees": [
+        {
+          "name": "Otto Ruff",
+          "personId": "7958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7958"
+        },
+        {
+          "name": "Max Bodenstein",
+          "personId": "1106",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1106"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Plate",
+          "personId": "7285",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7285"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "924",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=924&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Brönsted",
+          "personId": "1419",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1419"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Izaak Maurits Kolthoff",
+          "personId": "4976",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4976"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "1311",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1311&mode=",
+      "nominees": [
+        {
+          "name": "Walter Noddack",
+          "personId": "6732",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6732"
+        },
+        {
+          "name": "Ida Noddack",
+          "personId": "6731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6731"
+        },
+        {
+          "name": "Nikodem Caro",
+          "personId": "1611",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1611"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walther Nernst",
+          "personId": "6650",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6650"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "1878",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1878&mode=",
+      "nominees": [
+        {
+          "name": "Ida Noddack",
+          "personId": "6731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6731"
+        },
+        {
+          "name": "Walter Noddack",
+          "personId": "6732",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6732"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Wagner",
+          "personId": "9923",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9923"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "1799",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1799&mode=",
+      "nominees": [
+        {
+          "name": "Dirk Coster",
+          "personId": "1981",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1981"
+        },
+        {
+          "name": "George de Hevesy",
+          "personId": "2235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2235"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Wagner",
+          "personId": "9923",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9923"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "2064",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2064&mode=",
+      "nominees": [
+        {
+          "name": "Petrus Debye",
+          "personId": "2325",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2325"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kurt Bennewitz",
+          "personId": "872",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=872"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "2401",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2401&mode=",
+      "nominees": [
+        {
+          "name": "Otto Diels",
+          "personId": "2432",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2432"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Windaus",
+          "personId": "10241",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10241"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "2736",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2736&mode=",
+      "nominees": [
+        {
+          "name": "Carl Neuberg",
+          "personId": "6657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6657"
+        },
+        {
+          "name": "Otto Diels",
+          "personId": "2432",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2432"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Otto Wieland",
+          "personId": "10166",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10166"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "3072",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3072&mode=",
+      "nominees": [
+        {
+          "name": "Otto Diels",
+          "personId": "2432",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2432"
+        },
+        {
+          "name": "Paul Karrer",
+          "personId": "4719",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4719"
+        },
+        {
+          "name": "Heinrich Otto Wieland",
+          "personId": "10166",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10166"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Fischer",
+          "personId": "3026",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3026"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "3395",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3395&mode=",
+      "nominees": [
+        {
+          "name": "Frederick George Donnan",
+          "personId": "2508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2508"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Lewis",
+          "personId": "5446",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5446"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "3757",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3757&mode=",
+      "nominees": [
+        {
+          "name": "Victor Goldschmidt",
+          "personId": "3520",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3520"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Haber",
+          "personId": "3758",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3758"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "4076",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4076&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        },
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Planck",
+          "personId": "7283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7283"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "4420",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4420&mode=",
+      "nominees": [
+        {
+          "name": "Paul Karrer",
+          "personId": "4719",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4719"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Clyde Bailey",
+          "personId": "630",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=630"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "4759",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4759&mode=",
+      "nominees": [
+        {
+          "name": "Paul Karrer",
+          "personId": "4719",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4719"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ross Gortner",
+          "personId": "3562",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3562"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "5073",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5073&mode=",
+      "nominees": [
+        {
+          "name": "Paul Karrer",
+          "personId": "4719",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4719"
+        },
+        {
+          "name": "Ernst Späth",
+          "personId": "8709",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8709"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kurt Brass",
+          "personId": "1293",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1293"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "5393",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5393&mode=",
+      "nominees": [
+        {
+          "name": "Paul Karrer",
+          "personId": "4719",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4719"
+        },
+        {
+          "name": "Amé Pictet",
+          "personId": "7233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emile Briner",
+          "personId": "1345",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1345"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "5731",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5731&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Irving Langmuir",
+          "personId": "5229",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5229"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "6025",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6025&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Mann",
+          "personId": "5866",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5866"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "6368",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6368&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Palmaer",
+          "personId": "6960",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6960"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "6694",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6694&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cannon Sneed",
+          "personId": "8631",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8631"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "6999",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6999&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "7268",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7268&mode=",
+      "nominees": [
+        {
+          "name": "Walter Noddack",
+          "personId": "6732",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6732"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Deissmann",
+          "personId": "2331",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2331"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "7511",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7511&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Earl",
+          "personId": "2655",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2655"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "7746",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7746&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Harden",
+          "personId": "3887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3887"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "8035",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8035&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ian Morris Heilbron",
+          "personId": "4006",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4006"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "8268",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8268&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thomas Hilditch",
+          "personId": "4172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4172"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "8502",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8502&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Willstätter",
+          "personId": "10210",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10210"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "8785",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8785&mode=",
+      "nominees": [
+        {
+          "name": "Otto Ruff",
+          "personId": "7958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7958"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Sieverts",
+          "personId": "8527",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8527"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "8969",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8969&mode=",
+      "nominees": [
+        {
+          "name": "Artturi Virtanen",
+          "personId": "9668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9668"
+        },
+        {
+          "name": "Sören Sörensen",
+          "personId": "8972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oskari Routola",
+          "personId": "7924",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7924"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "9126",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9126&mode=",
+      "nominees": [
+        {
+          "name": "Artturi Virtanen",
+          "personId": "9668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9668"
+        },
+        {
+          "name": "Sören Sörensen",
+          "personId": "8972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Niilo Toivonen",
+          "personId": "9296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9296"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "9304",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9304&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Swarts",
+          "personId": "8926",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8926"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Franz Cumont",
+          "personId": "2045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2045"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "9486",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9486&mode=",
+      "nominees": [
+        {
+          "name": "Gustav Tammann",
+          "personId": "8998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8998"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustav Hüttig",
+          "personId": "4413",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4413"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "9621",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9621&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugène Cornec",
+          "personId": "1957",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1957"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "9778",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9778&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Gault",
+          "personId": "3357",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3357"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "9912",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9912&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Victor Grignard",
+          "personId": "3649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3649"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "10041",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10041&mode=",
+      "nominees": [
+        {
+          "name": "Emil Votocek",
+          "personId": "9905",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9905"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bohuslav Brauner",
+          "personId": "1304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1304"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "10157",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10157&mode=",
+      "nominees": [
+        {
+          "name": "Emil Votocek",
+          "personId": "9905",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9905"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    },
+    {
+      "nominationId": "10274",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10274&mode=",
+      "nominees": [
+        {
+          "name": "Emil Votocek",
+          "personId": "9905",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9905"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jan Sterba-Böhm",
+          "personId": "8777",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8777"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1933"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:26+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1933,
+  "economicsProbe": false
+}

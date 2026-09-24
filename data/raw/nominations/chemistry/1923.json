@@ -1,0 +1,352 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923",
+  "statedCount": 16,
+  "parsedCount": 16,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "70",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=70&mode=",
+      "nominees": [
+        {
+          "name": "Ossian Aschan",
+          "personId": "521",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=521"
+        },
+        {
+          "name": "Albin Haller",
+          "personId": "3812",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3812"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Bödtker",
+          "personId": "1513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1513"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "523",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=523&mode=",
+      "nominees": [
+        {
+          "name": "Carl Auer von Welsbach",
+          "personId": "559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=559"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Haber",
+          "personId": "3758",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3758"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "914",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=914&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Pregl",
+          "personId": "7399",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7399"
+        },
+        {
+          "name": "Carl Auer von Welsbach",
+          "personId": "559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=559"
+        },
+        {
+          "name": "Richard Zsigmondy",
+          "personId": "10428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Vesterberg",
+          "personId": "9634",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9634"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "1301",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1301&mode=",
+      "nominees": [
+        {
+          "name": "Jean Perrin",
+          "personId": "7136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7136"
+        },
+        {
+          "name": "Theodor Svedberg",
+          "personId": "8915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8915"
+        },
+        {
+          "name": "Theodor Curtius",
+          "personId": "2061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2061"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walther Nernst",
+          "personId": "6650",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6650"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "1677",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1677&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernhard Naunyn",
+          "personId": "6616",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6616"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "2054",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2054&mode=",
+      "nominees": [
+        {
+          "name": "Frederick Power",
+          "personId": "7380",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7380"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frank Clarke",
+          "personId": "1825",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1825"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "2392",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2392&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Pregl",
+          "personId": "7399",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7399"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Sjöqvist",
+          "personId": "8568",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8568"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "2726",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2726&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Pregl",
+          "personId": "7399",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7399"
+        },
+        {
+          "name": "Richard Zsigmondy",
+          "personId": "10428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans von Euler-Chelpin",
+          "personId": "9751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9751"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "3062",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3062&mode=",
+      "nominees": [
+        {
+          "name": "Henry Siedentopf",
+          "personId": "8513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8513"
+        },
+        {
+          "name": "Richard Zsigmondy",
+          "personId": "10428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Ostwald",
+          "personId": "6913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6913"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "3386",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3386&mode=",
+      "nominees": [
+        {
+          "name": "Sören Sörensen",
+          "personId": "8972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Claus Riiber",
+          "personId": "7739",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7739"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "3747",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3747&mode=",
+      "nominees": [
+        {
+          "name": "Sören Sörensen",
+          "personId": "8972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigval Schmidt-Nielsen",
+          "personId": "8209",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8209"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "4066",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4066&mode=",
+      "nominees": [
+        {
+          "name": "Gustav Tammann",
+          "personId": "8998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8998"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "August Bernthsen",
+          "personId": "942",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=942"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "4410",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4410&mode=",
+      "nominees": [
+        {
+          "name": "Gustav Tammann",
+          "personId": "8998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8998"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Trautz",
+          "personId": "9334",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9334"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "4749",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4749&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bohuslav Brauner",
+          "personId": "1304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1304"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "5063",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5063&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Victor Grignard",
+          "personId": "3649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3649"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    },
+    {
+      "nominationId": "5383",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5383&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacques Hadamard",
+          "personId": "3765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3765"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1923"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:18+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1923,
+  "economicsProbe": false
+}

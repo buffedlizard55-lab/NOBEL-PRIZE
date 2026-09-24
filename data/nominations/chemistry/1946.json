@@ -1,0 +1,670 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946",
+  "statedCount": 33,
+  "parsedCount": 33,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "92",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=92&mode=",
+      "nominees": [
+        {
+          "name": "Gabriel Émile Bertrand",
+          "personId": "953",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=953"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Lacroix",
+          "personId": "5140",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5140"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "546",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=546&mode=",
+      "nominees": [
+        {
+          "name": "Klaus Clusius",
+          "personId": "1853",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1853"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "1158",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1158&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Naumovich Frumkin",
+          "personId": "3254",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3254"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lloyd Reyerson",
+          "personId": "7681",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7681"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "1122",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1122&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Naumovich Frumkin",
+          "personId": "3254",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3254"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ralph Montonna",
+          "personId": "6386",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6386"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "1043",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1043&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Naumovich Frumkin",
+          "personId": "3254",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3254"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Izaak Maurits Kolthoff",
+          "personId": "4976",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4976"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "1323",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1323&mode=",
+      "nominees": [
+        {
+          "name": "Casimir Funk",
+          "personId": "3272",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3272"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James McBain",
+          "personId": "6034",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6034"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "1882",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1882&mode=",
+      "nominees": [
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Runnström",
+          "personId": "7974",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7974"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "1803",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1803&mode=",
+      "nominees": [
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George de Hevesy",
+          "personId": "2235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2235"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "2077",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2077&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Christopher Kelk Ingold",
+          "personId": "4461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4461"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "2411",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2411&mode=",
+      "nominees": [
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Kirkwood",
+          "personId": "4861",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4861"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "2748",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2748&mode=",
+      "nominees": [
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Livingston",
+          "personId": "5543",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5543"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "3085",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3085&mode=",
+      "nominees": [
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Smyth",
+          "personId": "8626",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8626"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "3408",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3408&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Norman Haworth",
+          "personId": "3957",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3957"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "3769",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3769&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leopold Ruzicka",
+          "personId": "7994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7994"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "4089",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4089&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustave Vavon",
+          "personId": "9572",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9572"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "4433",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4433&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georges Dupont",
+          "personId": "2605",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2605"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "4770",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4770&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans von Euler-Chelpin",
+          "personId": "9751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9751"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "5086",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5086&mode=",
+      "nominees": [
+        {
+          "name": "Hugh Taylor",
+          "personId": "9021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nathaniel Furman",
+          "personId": "3274",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3274"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "5404",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5404&mode=",
+      "nominees": [
+        {
+          "name": "Nikolay Nikolayevich Semyonov",
+          "personId": "8398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8398"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cyril Norman Hinshelwood",
+          "personId": "4194",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4194"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "5743",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5743&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Staudinger",
+          "personId": "8746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8746"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Fierz-David",
+          "personId": "2988",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2988"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "6231",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6231&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Staudinger",
+          "personId": "8746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8746"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eero Tommila",
+          "personId": "9309",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9309"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "6217",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6217&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Staudinger",
+          "personId": "8746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8746"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sulo Kilpi",
+          "personId": "4844",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4844"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "6195",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6195&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Staudinger",
+          "personId": "8746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8746"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Artturi Virtanen",
+          "personId": "9668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9668"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "6135",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6135&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Staudinger",
+          "personId": "8746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8746"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Niilo Toivonen",
+          "personId": "9296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9296"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "6540",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6540&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Tréfouël",
+          "personId": "9338",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9338"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "6477",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6477&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Tréfouël",
+          "personId": "9338",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9338"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frédéric Joliot",
+          "personId": "4613",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4613"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "6702",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6702&mode=",
+      "nominees": [
+        {
+          "name": "Jacques Tréfouël",
+          "personId": "9338",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9338"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pauline Ramart-Lucas",
+          "personId": "7541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7541"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "7006",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7006&mode=",
+      "nominees": [
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        },
+        {
+          "name": "Glenn Theodore Seaborg",
+          "personId": "8323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8323"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kasimir Fajans",
+          "personId": "2903",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2903"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "7276",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7276&mode=",
+      "nominees": [
+        {
+          "name": "Wendell Stanley",
+          "personId": "8731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8731"
+        },
+        {
+          "name": "Robert Burns Woodward",
+          "personId": "10302",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10302"
+        },
+        {
+          "name": "William von Eggers Doering",
+          "personId": "2466",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2466"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harlow Shapley",
+          "personId": "8473",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8473"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "7520",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7520&mode=",
+      "nominees": [
+        {
+          "name": "Wendell Stanley",
+          "personId": "8731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8731"
+        },
+        {
+          "name": "James Sumner",
+          "personId": "8895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8895"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans von Euler-Chelpin",
+          "personId": "9751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9751"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "7755",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7755&mode=",
+      "nominees": [
+        {
+          "name": "James Sumner",
+          "personId": "8895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8895"
+        },
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Theodor Svedberg",
+          "personId": "8915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8915"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "8044",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8044&mode=",
+      "nominees": [
+        {
+          "name": "James Sumner",
+          "personId": "8895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8895"
+        },
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arne Tiselius",
+          "personId": "9282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9282"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    },
+    {
+      "nominationId": "8276",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8276&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arne Westgren",
+          "personId": "10109",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10109"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:35+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1946,
+  "economicsProbe": false
+}

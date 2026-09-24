@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "integrityCount": 0,
+  "reviewCount": 0,
+  "problems": [],
+  "catalogCounts": {
+    "prizeRecords": 682,
+    "awardedPrizeRecords": 633,
+    "unawardedPrizeRecords": 49,
+    "laureateEntities": 1018,
+    "laureateSlots": 1026,
+    "flags": 704
+  }
+}

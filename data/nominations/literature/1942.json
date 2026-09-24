@@ -1,0 +1,583 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942",
+  "statedCount": 30,
+  "parsedCount": 30,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "287",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=287&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andreas Hofgaard Winsnes",
+          "personId": "10250",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10250"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "215",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=215&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rolv Laache",
+          "personId": "5128",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5128"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "185",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=185&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eivind Berggrav",
+          "personId": "899",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=899"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "808",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=808&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Didrik Seip",
+          "personId": "8385",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8385"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "798",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=798&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jens Thiis",
+          "personId": "9219",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9219"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "784",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=784&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frederik Poulsen",
+          "personId": "7370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7370"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "764",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=764&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Bull",
+          "personId": "1440",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1440"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "736",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=736&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Bach",
+          "personId": "601",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=601"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "668",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=668&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Adolf Bodelsen",
+          "personId": "1103",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1103"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "638",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=638&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vilhelm Andersen",
+          "personId": "423",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=423"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "1058",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1058&mode=",
+      "nominees": [
+        {
+          "name": "António Correia de Oliveira",
+          "personId": "1967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1967"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Knut Hjalmar Leonard Hammarskjöld",
+          "personId": "3845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "1026",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1026&mode=",
+      "nominees": [
+        {
+          "name": "António Correia de Oliveira",
+          "personId": "1967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1967"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "António Mendes Correia",
+          "personId": "6174",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6174"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "1560",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1560&mode=",
+      "nominees": [
+        {
+          "name": "Enrique Larreta",
+          "personId": "5239",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5239"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Spanish-American and Spanish universities.",
+          "personId": "8683",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8683"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "1543",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1543&mode=",
+      "nominees": [
+        {
+          "name": "Enrique Larreta",
+          "personId": "5239",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5239"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the Brasilian Academy.",
+          "personId": "6130",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6130"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "1514",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1514&mode=",
+      "nominees": [
+        {
+          "name": "Enrique Larreta",
+          "personId": "5239",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5239"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "11 members of the Academy for Moral and Political Science in Madrid.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "1447",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1447&mode=",
+      "nominees": [
+        {
+          "name": "Enrique Larreta",
+          "personId": "5239",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5239"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "5 members of the Royal Spanish Academy",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "1418",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1418&mode=",
+      "nominees": [
+        {
+          "name": "Enrique Larreta",
+          "personId": "5239",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5239"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ricardo Levene",
+          "personId": "5424",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5424"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "1787",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1787&mode=",
+      "nominees": [
+        {
+          "name": "Teixeira de Pascoaes",
+          "personId": "7012",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7012"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "João António de Mascarenhas Júdice",
+          "personId": "5970",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5970"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "2172",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2172&mode=",
+      "nominees": [
+        {
+          "name": "Johan Huizinga",
+          "personId": "4364",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4364"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Willem Jan Mari van Eysinga",
+          "personId": "2876",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2876"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "2509",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2509&mode=",
+      "nominees": [
+        {
+          "name": "Maria Madalena de Martel Patrício",
+          "personId": "5938",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5938"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "António Baião",
+          "personId": "627",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=627"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "2871",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2871&mode=",
+      "nominees": [
+        {
+          "name": "Gabriela (Lucile) Mistral (Godoy y Alcayaga)",
+          "personId": "6323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6323"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Afonso Costa",
+          "personId": "1978",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1978"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "2841",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2841&mode=",
+      "nominees": [
+        {
+          "name": "Gabriela (Lucile) Mistral (Godoy y Alcayaga)",
+          "personId": "6323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6323"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Knut Hjalmar Leonard Hammarskjöld",
+          "personId": "3845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "3178",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3178&mode=",
+      "nominees": [
+        {
+          "name": "Edmund Blunden",
+          "personId": "1092",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1092"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Donner",
+          "personId": "2511",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2511"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "3503",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3503&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jørgensen",
+          "personId": "4673",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4673"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Claes Lindskog",
+          "personId": "5519",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5519"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "3863",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3863&mode=",
+      "nominees": [
+        {
+          "name": "Charles Morgan",
+          "personId": "6424",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6424"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Österling",
+          "personId": "10460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10460"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "4182",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4182&mode=",
+      "nominees": [
+        {
+          "name": "Hans Carossa",
+          "personId": "1615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Österling",
+          "personId": "10460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10460"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "4526",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4526&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Hesse",
+          "personId": "4133",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4133"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigfrid Siwertz",
+          "personId": "8564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8564"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "4863",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4863&mode=",
+      "nominees": [
+        {
+          "name": "Georges Duhamel",
+          "personId": "2581",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2581"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Österling",
+          "personId": "10460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10460"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "5181",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5181&mode=",
+      "nominees": [
+        {
+          "name": "Sigfrid Siwertz",
+          "personId": "8564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8564"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Böggild-Andersen",
+          "personId": "1516",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1516"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    },
+    {
+      "nominationId": "5498",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5498&mode=",
+      "nominees": [
+        {
+          "name": "Nikolaj Berdyayev",
+          "personId": "888",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=888"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alf Nyman",
+          "personId": "6799",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6799"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1942"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:46+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1942,
+  "economicsProbe": false
+}

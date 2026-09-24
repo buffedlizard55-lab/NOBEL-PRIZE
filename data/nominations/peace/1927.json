@@ -1,0 +1,786 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927",
+  "statedCount": 37,
+  "parsedCount": 37,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "244",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=244&mode=",
+      "nominees": [
+        {
+          "name": "Albert I",
+          "personId": "349",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=349"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albéric Rolin-Jacquemyns (Baron)",
+          "personId": "7827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7827"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "697",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=697&mode=",
+      "nominees": [
+        {
+          "name": "Edvard Benes",
+          "personId": "862",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=862"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henriette Wurmová",
+          "personId": "10329",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10329"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "1188",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1188&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Edouard Buisson",
+          "personId": "1437",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1437"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Aulard",
+          "personId": "267",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=267"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "1173",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1173&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Edouard Buisson",
+          "personId": "1437",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1437"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ivar Berendsen",
+          "personId": "889",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=889"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "1145",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1145&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Edouard Buisson",
+          "personId": "1437",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1437"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacob Worm-Müller",
+          "personId": "10307",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10307"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "1088",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1088&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Edouard Buisson",
+          "personId": "1437",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1437"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Robert Richet",
+          "personId": "7718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7718"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "1474",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1474&mode=",
+      "nominees": [
+        {
+          "name": "Emilio Caldara",
+          "personId": "1538",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1538"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Winter",
+          "personId": "10252",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10252"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "1850",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1850&mode=",
+      "nominees": [
+        {
+          "name": "François David",
+          "personId": "2151",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2151"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Fouillox",
+          "personId": "3136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3136"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "2230",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2230&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giuseppe Rensi",
+          "personId": "7662",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7662"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "2565",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2565&mode=",
+      "nominees": [
+        {
+          "name": "Hans Jakob Horst",
+          "personId": "4312",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4312"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Albert Blehr",
+          "personId": "1072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1072"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "2899",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2899&mode=",
+      "nominees": [
+        {
+          "name": "Max Huber",
+          "personId": "4339",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4339"
+        },
+        {
+          "name": "Giuseppe Motta",
+          "personId": "6470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6470"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Oeri",
+          "personId": "6827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6827"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "3277",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3277&mode=",
+      "nominees": [
+        {
+          "name": "Carl Albert Lindhagen",
+          "personId": "5508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5508"
+        },
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "41 members of the Swedish Inter-Parliamentary Group",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "3231",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3231&mode=",
+      "nominees": [
+        {
+          "name": "Carl Albert Lindhagen",
+          "personId": "5508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5508"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Elof Lindberg",
+          "personId": "5498",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5498"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "3556",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3556&mode=",
+      "nominees": [
+        {
+          "name": "Giuseppe Motta",
+          "personId": "6470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6470"
+        },
+        {
+          "name": "Max Huber",
+          "personId": "4339",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4339"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Oeri",
+          "personId": "6827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6827"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "3919",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3919&mode=",
+      "nominees": [
+        {
+          "name": "Nikolaos Sokrates Politis",
+          "personId": "7321",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7321"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Lyon-Caen",
+          "personId": "5723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5723"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "4332",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4332&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        },
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Axel Theodor Adelswärd",
+          "personId": "316",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=316"
+        },
+        {
+          "name": "Eric Hallin",
+          "personId": "3814",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3814"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "4329",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4329&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        },
+        {
+          "name": "Carl Albert Lindhagen",
+          "personId": "5508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5508"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "41 members of the Swedish Inter-Parliamentary Group",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "4324",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4324&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Heilberg",
+          "personId": "4004",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4004"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "4312",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4312&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Marie La Fontaine",
+          "personId": "5125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5125"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "4284",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4284&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        },
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Wehberg",
+          "personId": "10043",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10043"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "4238",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4238&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Aage Friis",
+          "personId": "3233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3233"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "4582",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4582&mode=",
+      "nominees": [
+        {
+          "name": "Charles Robert Richet",
+          "personId": "7718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7718"
+        },
+        {
+          "name": "Madame Séverine",
+          "personId": "5785",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5785"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lucien Le Foyer",
+          "personId": "5311",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5311"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "4912",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4912&mode=",
+      "nominees": [
+        {
+          "name": "Albéric Rolin-Jacquemyns (Baron)",
+          "personId": "7827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7827"
+        },
+        {
+          "name": "André Weiss",
+          "personId": "10061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10061"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregers Winther Wulfsberg Gram",
+          "personId": "3597",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3597"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "5227",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5227&mode=",
+      "nominees": [
+        {
+          "name": "James Brown Scott",
+          "personId": "8320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8320"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gilbert Gidel",
+          "personId": "3427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3427"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "5545",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5545&mode=",
+      "nominees": [
+        {
+          "name": "Madame Séverine",
+          "personId": "5785",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5785"
+        },
+        {
+          "name": "Charles Robert Richet",
+          "personId": "7718",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7718"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lucien Le Foyer",
+          "personId": "5311",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5311"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "5883",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5883&mode=",
+      "nominees": [
+        {
+          "name": "Viscount Shishaku Shibusawa Eiichi",
+          "personId": "8496",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8496"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Wakasutsa",
+          "personId": "9931",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9931"
+        },
+        {
+          "name": "Danshaku Shidehara Kijuro",
+          "personId": "8497",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8497"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "6171",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6171&mode=",
+      "nominees": [
+        {
+          "name": "James Thomson Shotwell",
+          "personId": "8507",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8507"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Faculty of Law at the University of Leiden (D. van Blom)",
+          "personId": "9110",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9110"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "6514",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6514&mode=",
+      "nominees": [
+        {
+          "name": "Count Michel Tyszkiewicz",
+          "personId": "9419",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9419"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "de Gailhard Boncal",
+          "personId": "2222",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2222"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "6834",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6834&mode=",
+      "nominees": [
+        {
+          "name": "Bo Östen Undén",
+          "personId": "9441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Keilhau",
+          "personId": "4766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4766"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "7126",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7126&mode=",
+      "nominees": [
+        {
+          "name": "André Weiss",
+          "personId": "10061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10061"
+        },
+        {
+          "name": "Albéric Rolin-Jacquemyns (Baron)",
+          "personId": "7827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7827"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregers Winther Wulfsberg Gram",
+          "personId": "3597",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3597"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "7391",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7391&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent Court of Arbitration (Cour permanente d'Arbitrage)",
+          "personId": "9172",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9172"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frederik Nikolai Valdemar Beichmann",
+          "personId": "824",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=824"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "7626",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7626&mode=",
+      "nominees": [
+        {
+          "name": "Fédération syndicale internationale",
+          "personId": "2936",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2936"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thorvald Stauning",
+          "personId": "8749",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8749"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "7901",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7901&mode=",
+      "nominees": [
+        {
+          "name": "International Law Association",
+          "personId": "4473",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4473"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lord Shaw of Dumfermline",
+          "personId": "5630",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5630"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "7865",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7865&mode=",
+      "nominees": [
+        {
+          "name": "International Law Association",
+          "personId": "4473",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4473"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lord Parmoor",
+          "personId": "5623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5623"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "8146",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8146&mode=",
+      "nominees": [
+        {
+          "name": "Ligue internationale de la Paix et de la Liberté",
+          "personId": "5477",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5477"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Léon de Montluc",
+          "personId": "2276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "8400",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8400&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        },
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Axel Theodor Adelswärd",
+          "personId": "316",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=316"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    },
+    {
+      "nominationId": "8373",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8373&mode=",
+      "nominees": [
+        {
+          "name": "The Inter-Parliamentary Union",
+          "personId": "9138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9138"
+        },
+        {
+          "name": "Ludwig Quidde",
+          "personId": "7501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7501"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Wehberg",
+          "personId": "10043",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10043"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:37+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1927,
+  "economicsProbe": false
+}

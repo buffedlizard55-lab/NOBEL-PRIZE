@@ -1,0 +1,3462 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953",
+  "statedCount": 166,
+  "parsedCount": 166,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "148",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=148&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Roux",
+          "personId": "7931",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7931"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "604",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=604&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Santy",
+          "personId": "8098",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8098"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "992",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=992&mode=",
+      "nominees": [
+        {
+          "name": "Hans Selye",
+          "personId": "8395",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8395"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "T Castellano",
+          "personId": "1655",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1655"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "1381",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1381&mode=",
+      "nominees": [
+        {
+          "name": "Gaston Ramon",
+          "personId": "7545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7545"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Bordet",
+          "personId": "1174",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1174"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "1753",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1753&mode=",
+      "nominees": [
+        {
+          "name": "Gaston Ramon",
+          "personId": "7545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7545"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Bigwood",
+          "personId": "1006",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1006"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "2134",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2134&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Zange",
+          "personId": "10377",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10377"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "2468",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2468&mode=",
+      "nominees": [
+        {
+          "name": "Paul Owren",
+          "personId": "6931",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6931"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Semb",
+          "personId": "8396",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8396"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "2803",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2803&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Blalock",
+          "personId": "1061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1061"
+        },
+        {
+          "name": "Clarence Crafoord",
+          "personId": "2015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W v. Brunn",
+          "personId": "9475",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9475"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "3142",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3142&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Guillemin",
+          "personId": "3711",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3711"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "3465",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3465&mode=",
+      "nominees": [
+        {
+          "name": "Manfred Sakel",
+          "personId": "8051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8051"
+        },
+        {
+          "name": "Ugo Cerletti",
+          "personId": "1691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1691"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Hoff",
+          "personId": "4240",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4240"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "3827",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3827&mode=",
+      "nominees": [
+        {
+          "name": "Leopold Schönbauer",
+          "personId": "8306",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8306"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Driak",
+          "personId": "2540",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2540"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "4146",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4146&mode=",
+      "nominees": [
+        {
+          "name": "Emil von Dungern",
+          "personId": "9733",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9733"
+        },
+        {
+          "name": "Ronald Fisher",
+          "personId": "3041",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3041"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwik Hirszfeld",
+          "personId": "4216",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4216"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "4489",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4489&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Goodpasture",
+          "personId": "3545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3545"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward Doisy",
+          "personId": "2485",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2485"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "4826",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4826&mode=",
+      "nominees": [
+        {
+          "name": "Norman McAlister Gregg",
+          "personId": "3633",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3633"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P.H. van Gilse",
+          "personId": "9535",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9535"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "5143",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5143&mode=",
+      "nominees": [
+        {
+          "name": "Rafael Lorente de Nó",
+          "personId": "5634",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5634"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacob Molland",
+          "personId": "6356",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6356"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "5461",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5461&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Evans",
+          "personId": "2859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ralph Major",
+          "personId": "5828",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5828"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "5801",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5801&mode=",
+      "nominees": [
+        {
+          "name": "Etienne Wolff",
+          "personId": "10288",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10288"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Legait",
+          "personId": "5341",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5341"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "6092",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6092&mode=",
+      "nominees": [
+        {
+          "name": "Manfred Sakel",
+          "personId": "8051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8051"
+        },
+        {
+          "name": "Ugo Cerletti",
+          "personId": "1691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1691"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Wiedmann",
+          "personId": "10159",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10159"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "6437",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6437&mode=",
+      "nominees": [
+        {
+          "name": "John Enders",
+          "personId": "2791",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2791"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Means",
+          "personId": "6072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6072"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "6757",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6757&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Albert Lipmann",
+          "personId": "5529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5529"
+        },
+        {
+          "name": "Hans Selye",
+          "personId": "8395",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8395"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S de Jongh",
+          "personId": "2237",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2237"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "7062",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7062&mode=",
+      "nominees": [
+        {
+          "name": "Harland Wood",
+          "personId": "10299",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10299"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Krampitz",
+          "personId": "5026",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5026"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "7332",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7332&mode=",
+      "nominees": [
+        {
+          "name": "Antoine Lacassagne",
+          "personId": "5133",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5133"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Desaive",
+          "personId": "2385",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2385"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "7575",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7575&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Jarisch",
+          "personId": "4560",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4560"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F v. Brücke",
+          "personId": "9476",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9476"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "7808",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7808&mode=",
+      "nominees": [
+        {
+          "name": "Anton Carlson",
+          "personId": "1605",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1605"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Wiggers",
+          "personId": "10178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10178"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "8098",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8098&mode=",
+      "nominees": [
+        {
+          "name": "Oswald Theodore Avery",
+          "personId": "574",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=574"
+        },
+        {
+          "name": "Michael Heidelberger",
+          "personId": "3995",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3995"
+        },
+        {
+          "name": "Walther Goebel",
+          "personId": "3499",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3499"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Olitzki",
+          "personId": "6851",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6851"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "8331",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8331&mode=",
+      "nominees": [
+        {
+          "name": "Richard Behan",
+          "personId": "821",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=821"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Losas",
+          "personId": "5644",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5644"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "8565",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8565&mode=",
+      "nominees": [
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernardo Alberto Houssay",
+          "personId": "4324",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4324"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "8844",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8844&mode=",
+      "nominees": [
+        {
+          "name": "Oswald Theodore Avery",
+          "personId": "574",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=574"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Herbert Gasser",
+          "personId": "3351",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3351"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9028",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9028&mode=",
+      "nominees": [
+        {
+          "name": "Norman McAlister Gregg",
+          "personId": "3633",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3633"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lambert Rogers",
+          "personId": "7810",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7810"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9186",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9186&mode=",
+      "nominees": [
+        {
+          "name": "Helen Taussig",
+          "personId": "9017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9017"
+        },
+        {
+          "name": "Alfred Blalock",
+          "personId": "1061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1061"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Donald Proctor",
+          "personId": "7430",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7430"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9409",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9409&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Gillman",
+          "personId": "3454",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3454"
+        },
+        {
+          "name": "Theodore Gillman",
+          "personId": "3455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3455"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Raymond Dart",
+          "personId": "2140",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2140"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9378",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9378&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Gillman",
+          "personId": "3454",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3454"
+        },
+        {
+          "name": "Theodore Gillman",
+          "personId": "3455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3455"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "O Heyns",
+          "personId": "4152",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4152"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9364",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9364&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Gillman",
+          "personId": "3454",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3454"
+        },
+        {
+          "name": "Theodore Gillman",
+          "personId": "3455",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3455"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Cluver",
+          "personId": "1854",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1854"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9545",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9545&mode=",
+      "nominees": [
+        {
+          "name": "Gerhard Domagk",
+          "personId": "2494",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2494"
+        },
+        {
+          "name": "Konrad Lorenz",
+          "personId": "5638",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5638"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Peiper",
+          "personId": "7080",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7080"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9677",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9677&mode=",
+      "nominees": [
+        {
+          "name": "Henry Sigerist",
+          "personId": "8530",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8530"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlos Paz Soldan",
+          "personId": "7064",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7064"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9847",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9847&mode=",
+      "nominees": [
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        },
+        {
+          "name": "Fritz Albert Lipmann",
+          "personId": "5529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5529"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Cori",
+          "personId": "1953",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1953"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9836",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9836&mode=",
+      "nominees": [
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        },
+        {
+          "name": "Fritz Albert Lipmann",
+          "personId": "5529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5529"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerty Cori",
+          "personId": "1955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1955"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "9965",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9965&mode=",
+      "nominees": [
+        {
+          "name": "Julius Lempert",
+          "personId": "5370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5370"
+        },
+        {
+          "name": "Maurice Sourdille",
+          "personId": "8677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8677"
+        },
+        {
+          "name": "George Shambaugh, Jr",
+          "personId": "8470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8470"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gunnar Holmgren",
+          "personId": "4278",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4278"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10097",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10097&mode=",
+      "nominees": [
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        },
+        {
+          "name": "Edward Rickes",
+          "personId": "7723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7723"
+        },
+        {
+          "name": "Ernest Lester Smith",
+          "personId": "17761",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17761"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Wegner",
+          "personId": "10040",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10040"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10214",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10214&mode=",
+      "nominees": [
+        {
+          "name": "Ladislas de Meduna",
+          "personId": "2267",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2267"
+        },
+        {
+          "name": "Manfred Sakel",
+          "personId": "8051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8051"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Dawson",
+          "personId": "2173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2173"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10332",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10332&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Blalock",
+          "personId": "1061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1061"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Scott",
+          "personId": "8322",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8322"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10427",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10427&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        },
+        {
+          "name": "Frantisek Studnicka",
+          "personId": "8865",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8865"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Kabelik",
+          "personId": "4676",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4676"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10532",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10532&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Goodpasture",
+          "personId": "3545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3545"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Blalock",
+          "personId": "1061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1061"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10614",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10614&mode=",
+      "nominees": [
+        {
+          "name": "Charles Herbert Best",
+          "personId": "968",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=968"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Roskam",
+          "personId": "7883",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7883"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10700",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10700&mode=",
+      "nominees": [
+        {
+          "name": "George Papanicolaou",
+          "personId": "6979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6979"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Spyr. Dontas",
+          "personId": "2514",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2514"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10779",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10779&mode=",
+      "nominees": [
+        {
+          "name": "Frédéric Bremer",
+          "personId": "1321",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1321"
+        },
+        {
+          "name": "Carl Wiggers",
+          "personId": "10178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Corneille Heymans",
+          "personId": "4149",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4149"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10855",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10855&mode=",
+      "nominees": [
+        {
+          "name": "Norman McAlister Gregg",
+          "personId": "3633",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3633"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lorimer Dodds",
+          "personId": "2463",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2463"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "10939",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10939&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Blalock",
+          "personId": "1061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1061"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samuel Crowe",
+          "personId": "2033",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2033"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11023",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11023&mode=",
+      "nominees": [
+        {
+          "name": "Edward Rickes",
+          "personId": "7723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7723"
+        },
+        {
+          "name": "Ernest Lester Smith",
+          "personId": "17761",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17761"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Sarre",
+          "personId": "8105",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8105"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11098",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11098&mode=",
+      "nominees": [
+        {
+          "name": "Gerhard Domagk",
+          "personId": "2494",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2494"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Bürger",
+          "personId": "1504",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1504"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11167",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11167&mode=",
+      "nominees": [
+        {
+          "name": "George Papanicolaou",
+          "personId": "6979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6979"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Them. Sklawunos",
+          "personId": "8575",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8575"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11226",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11226&mode=",
+      "nominees": [
+        {
+          "name": "Bernhard Zondek",
+          "personId": "10421",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10421"
+        },
+        {
+          "name": "Philip Smith",
+          "personId": "8617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8617"
+        },
+        {
+          "name": "Selmar Aschheim",
+          "personId": "523",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=523"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Aryeh Feigenbaum",
+          "personId": "2941",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2941"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11289",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11289&mode=",
+      "nominees": [
+        {
+          "name": "Zénon-Marcel Bacq",
+          "personId": "612",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=612"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Fredericq",
+          "personId": "3190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3190"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11347",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11347&mode=",
+      "nominees": [
+        {
+          "name": "John Enders",
+          "personId": "2791",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2791"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Dingle",
+          "personId": "2444",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2444"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11411",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11411&mode=",
+      "nominees": [
+        {
+          "name": "George Papanicolaou",
+          "personId": "6979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6979"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Greg. Katsas",
+          "personId": "4731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4731"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11469",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11469&mode=",
+      "nominees": [
+        {
+          "name": "Clarence Crafoord",
+          "personId": "2015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Cristophe",
+          "personId": "2026",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2026"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11529",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11529&mode=",
+      "nominees": [
+        {
+          "name": "Fridrich Feyrter",
+          "personId": "2977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2977"
+        },
+        {
+          "name": "Alfred Pischinger",
+          "personId": "7274",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7274"
+        },
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Viktor Patzelt",
+          "personId": "7034",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7034"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11582",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11582&mode=",
+      "nominees": [
+        {
+          "name": "Gaston Ramon",
+          "personId": "7545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7545"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Guiseppe Caronia",
+          "personId": "1614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1614"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11633",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11633&mode=",
+      "nominees": [
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Büchner",
+          "personId": "1501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1501"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11687",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11687&mode=",
+      "nominees": [
+        {
+          "name": "David Rittenberg",
+          "personId": "7754",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7754"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Wertheimer",
+          "personId": "10096",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10096"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11742",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11742&mode=",
+      "nominees": [
+        {
+          "name": "Frank Burnet",
+          "personId": "1464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1464"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Burkitt",
+          "personId": "1462",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1462"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11739",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11739&mode=",
+      "nominees": [
+        {
+          "name": "Frank Burnet",
+          "personId": "1464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1464"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Claude Witherington Stump",
+          "personId": "8867",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8867"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11790",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11790&mode=",
+      "nominees": [
+        {
+          "name": "William Astbury",
+          "personId": "544",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=544"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Imre Szent-Györgyi",
+          "personId": "14649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14649"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11847",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11847&mode=",
+      "nominees": [
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arnold Welch",
+          "personId": "10071",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10071"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11901",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11901&mode=",
+      "nominees": [
+        {
+          "name": "Manoel de Abreu",
+          "personId": "2177",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2177"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francisco d´Ovidio",
+          "personId": "2653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2653"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "11955",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=11955&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Albert Lipmann",
+          "personId": "5529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5529"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Berry",
+          "personId": "943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=943"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12006",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12006&mode=",
+      "nominees": [
+        {
+          "name": "Leon Binet",
+          "personId": "1021",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1021"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Livieratos",
+          "personId": "5542",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5542"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12051",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12051&mode=",
+      "nominees": [
+        {
+          "name": "George Papanicolaou",
+          "personId": "6979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6979"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Koumaris",
+          "personId": "5006",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5006"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12098",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12098&mode=",
+      "nominees": [
+        {
+          "name": "Alessandro Vallebona",
+          "personId": "9504",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9504"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Mitolo",
+          "personId": "6328",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6328"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12143",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12143&mode=",
+      "nominees": [
+        {
+          "name": "Norman McAlister Gregg",
+          "personId": "3633",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3633"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Keith Inglis",
+          "personId": "4457",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4457"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12193",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12193&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Goodpasture",
+          "personId": "3545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3545"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Shields Warren",
+          "personId": "9993",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9993"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12240",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12240&mode=",
+      "nominees": [
+        {
+          "name": "Feodor Lynen",
+          "personId": "5722",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5722"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Albert Lipmann",
+          "personId": "5529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5529"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12284",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12284&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Blalock",
+          "personId": "1061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1061"
+        },
+        {
+          "name": "Helen Taussig",
+          "personId": "9017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9017"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Schwentker",
+          "personId": "8290",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8290"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12341",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12341&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Haddow",
+          "personId": "3766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3766"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lucio Severi",
+          "personId": "8464",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8464"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12386",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12386&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig Heilmeyer",
+          "personId": "4010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4010"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vlassios Vlassopoulos",
+          "personId": "9680",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9680"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12428",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12428&mode=",
+      "nominees": [
+        {
+          "name": "George Papanicolaou",
+          "personId": "6979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6979"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Th. Demetriades",
+          "personId": "2361",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2361"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12477",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12477&mode=",
+      "nominees": [
+        {
+          "name": "Hans Selye",
+          "personId": "8395",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8395"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paulo Tibiriçá",
+          "personId": "9262",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9262"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12520",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12520&mode=",
+      "nominees": [
+        {
+          "name": "Ragnar Granit",
+          "personId": "3606",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3606"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Sulze",
+          "personId": "8891",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8891"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12563",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12563&mode=",
+      "nominees": [
+        {
+          "name": "Yas Kuno",
+          "personId": "5094",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5094"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Hotta",
+          "personId": "4319",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4319"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12607",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12607&mode=",
+      "nominees": [
+        {
+          "name": "Yas Kuno",
+          "personId": "5094",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5094"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "B Koinuma",
+          "personId": "4965",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4965"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12650",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12650&mode=",
+      "nominees": [
+        {
+          "name": "Robert Debré",
+          "personId": "2323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2323"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hanna Hirszfeld",
+          "personId": "4214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4214"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12689",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12689&mode=",
+      "nominees": [
+        {
+          "name": "Donald van Slyke",
+          "personId": "9549",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9549"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Daniel Nicholson",
+          "personId": "6677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6677"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12731",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12731&mode=",
+      "nominees": [
+        {
+          "name": "George Papanicolaou",
+          "personId": "6979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6979"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N Michaelides",
+          "personId": "6255",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6255"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12768",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12768&mode=",
+      "nominees": [
+        {
+          "name": "Daniel Bovet",
+          "personId": "1251",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1251"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Domenico Marotta",
+          "personId": "5924",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5924"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12804",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12804&mode=",
+      "nominees": [
+        {
+          "name": "Hans Selye",
+          "personId": "8395",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8395"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carlos Martínez Durán",
+          "personId": "5953",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5953"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12849",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12849&mode=",
+      "nominees": [
+        {
+          "name": "Ugo Cerletti",
+          "personId": "1691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1691"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ugo Ponzo",
+          "personId": "7344",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7344"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12884",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12884&mode=",
+      "nominees": [
+        {
+          "name": "Yas Kuno",
+          "personId": "5094",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5094"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Ogasawara",
+          "personId": "6831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6831"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12921",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12921&mode=",
+      "nominees": [
+        {
+          "name": "Yas Kuno",
+          "personId": "5094",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5094"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "K Kano",
+          "personId": "4704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4704"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12958",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12958&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Vincent",
+          "personId": "9658",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9658"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12998",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12998&mode=",
+      "nominees": [
+        {
+          "name": "George Shambaugh, Jr",
+          "personId": "8470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8470"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Zöllner",
+          "personId": "10448",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10448"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "12995",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=12995&mode=",
+      "nominees": [
+        {
+          "name": "Gunnar Holmgren",
+          "personId": "4278",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4278"
+        },
+        {
+          "name": "Maurice Sourdille",
+          "personId": "8677",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8677"
+        },
+        {
+          "name": "Julius Lempert",
+          "personId": "5370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5370"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Zöllner",
+          "personId": "10448",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10448"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13031",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13031&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Fumeau",
+          "personId": "3270",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3270"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13064",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13064&mode=",
+      "nominees": [
+        {
+          "name": "George Papanicolaou",
+          "personId": "6979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6979"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Charamis",
+          "personId": "1723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1723"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13097",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13097&mode=",
+      "nominees": [
+        {
+          "name": "Rudolph Peters",
+          "personId": "7160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7160"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Gilding",
+          "personId": "3442",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3442"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13130",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13130&mode=",
+      "nominees": [
+        {
+          "name": "Charles Herbert Best",
+          "personId": "968",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=968"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Weekers",
+          "personId": "10035",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10035"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13161",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13161&mode=",
+      "nominees": [
+        {
+          "name": "Alan Hodgkin",
+          "personId": "4233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edgar Adrian (Lord)",
+          "personId": "325",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=325"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13198",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13198&mode=",
+      "nominees": [
+        {
+          "name": "Frederick Sanger",
+          "personId": "8092",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8092"
+        },
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        },
+        {
+          "name": "Robert Corey",
+          "personId": "1951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1951"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Tileston Edsall",
+          "personId": "2693",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2693"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13232",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13232&mode=",
+      "nominees": [
+        {
+          "name": "George Wells Beadle",
+          "personId": "782",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=782"
+        },
+        {
+          "name": "Edward Lawrie Tatum",
+          "personId": "9015",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9015"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mansfield Clark",
+          "personId": "1820",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1820"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13262",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13262&mode=",
+      "nominees": [
+        {
+          "name": "Ugo Cerletti",
+          "personId": "1691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1691"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giuseppe Amantea",
+          "personId": "400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=400"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13300",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13300&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "F Drouet de la Thibauderie",
+          "personId": "2546",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2546"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13331",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13331&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "D Bodroux",
+          "personId": "1107",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1107"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13364",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13364&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Rolland",
+          "personId": "7829",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7829"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13395",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13395&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Mallet",
+          "personId": "5845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13422",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13422&mode=",
+      "nominees": [
+        {
+          "name": "Axel Hugo Theodor Theorell",
+          "personId": "9207",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9207"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Rossi-Fanelli",
+          "personId": "7899",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7899"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13450",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13450&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vittorio Puntoni",
+          "personId": "7480",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7480"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13478",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13478&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Václav Vejdovský",
+          "personId": "9583",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9583"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13503",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13503&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Foucault",
+          "personId": "3134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3134"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13533",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13533&mode=",
+      "nominees": [
+        {
+          "name": "Theodosius Dobzhansky",
+          "personId": "2457",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2457"
+        },
+        {
+          "name": "Alfred Kühn",
+          "personId": "5104",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5104"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Felix Mainx",
+          "personId": "5821",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5821"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13557",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13557&mode=",
+      "nominees": [
+        {
+          "name": "John Eccles",
+          "personId": "2671",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2671"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Hoffmann",
+          "personId": "4252",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4252"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13582",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13582&mode=",
+      "nominees": [
+        {
+          "name": "James Reilly",
+          "personId": "7634",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7634"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pierre Kissel",
+          "personId": "4867",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4867"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13611",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13611&mode=",
+      "nominees": [
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Elísio Milheiro",
+          "personId": "6280",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6280"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13637",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13637&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Weber",
+          "personId": "10022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10022"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13635",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13635&mode=",
+      "nominees": [
+        {
+          "name": "Cécile Vogt",
+          "personId": "9688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9688"
+        },
+        {
+          "name": "Oskar Vogt",
+          "personId": "9692",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9692"
+        },
+        {
+          "name": "Max Hartmann",
+          "personId": "3921",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3921"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Weber",
+          "personId": "10022",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10022"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13660",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13660&mode=",
+      "nominees": [
+        {
+          "name": "Seizo Katsunuma",
+          "personId": "4732",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4732"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Naka Kikkawa",
+          "personId": "4833",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4833"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13681",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13681&mode=",
+      "nominees": [
+        {
+          "name": "Helen Taussig",
+          "personId": "9017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9017"
+        },
+        {
+          "name": "Alfred Blalock",
+          "personId": "1061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1061"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Walker",
+          "personId": "9943",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9943"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13705",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13705&mode=",
+      "nominees": [
+        {
+          "name": "Gregory Shwartzman",
+          "personId": "8509",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8509"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Ecker",
+          "personId": "2674",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2674"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13728",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13728&mode=",
+      "nominees": [
+        {
+          "name": "Hans Selye",
+          "personId": "8395",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8395"
+        },
+        {
+          "name": "J Green",
+          "personId": "3624",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3624"
+        },
+        {
+          "name": "G Harris",
+          "personId": "3906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C-E Räihä",
+          "personId": "8000",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8000"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13755",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13755&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Lawrence Kennaway",
+          "personId": "4791",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4791"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Orr",
+          "personId": "6888",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6888"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13773",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13773&mode=",
+      "nominees": [
+        {
+          "name": "Charles Harington",
+          "personId": "3895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3895"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Squire",
+          "personId": "8710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13790",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13790&mode=",
+      "nominees": [
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hermann Dold",
+          "personId": "2487",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2487"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13804",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13804&mode=",
+      "nominees": [
+        {
+          "name": "Ugo Cerletti",
+          "personId": "1691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1691"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Milani",
+          "personId": "6276",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6276"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13822",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13822&mode=",
+      "nominees": [
+        {
+          "name": "Edouard Grasset",
+          "personId": "3614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3614"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Watt",
+          "personId": "10008",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10008"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13842",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13842&mode=",
+      "nominees": [
+        {
+          "name": "Cécile Vogt",
+          "personId": "9688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9688"
+        },
+        {
+          "name": "Oskar Vogt",
+          "personId": "9692",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9692"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Th. Naegeli",
+          "personId": "6589",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6589"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13859",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13859&mode=",
+      "nominees": [
+        {
+          "name": "Hans Selye",
+          "personId": "8395",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8395"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paulo Moreira",
+          "personId": "6411",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6411"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13872",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13872&mode=",
+      "nominees": [
+        {
+          "name": "Philip Levine",
+          "personId": "5431",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5431"
+        },
+        {
+          "name": "Alexander Wiener",
+          "personId": "10171",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10171"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nicholson Eastman",
+          "personId": "2657",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2657"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13890",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13890&mode=",
+      "nominees": [
+        {
+          "name": "Werner Forssmann",
+          "personId": "3125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3125"
+        },
+        {
+          "name": "André Frédéric Cournand",
+          "personId": "2002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2002"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Murphy",
+          "personId": "6529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6529"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13906",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13906&mode=",
+      "nominees": [
+        {
+          "name": "Wilder Penfield",
+          "personId": "7096",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7096"
+        },
+        {
+          "name": "Herbert Jasper",
+          "personId": "4562",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4562"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jorge Bernales",
+          "personId": "930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=930"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13921",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13921&mode=",
+      "nominees": [
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Melville Arnott",
+          "personId": "501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=501"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13938",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13938&mode=",
+      "nominees": [
+        {
+          "name": "Antonio de Sousa Pereira",
+          "personId": "7106",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7106"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antonio de Almeida Garrett",
+          "personId": "2178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2178"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13949",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13949&mode=",
+      "nominees": [
+        {
+          "name": "Paul Hoffmann",
+          "personId": "4252",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4252"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Hess",
+          "personId": "4129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4129"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13965",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13965&mode=",
+      "nominees": [
+        {
+          "name": "Arthur Stoll",
+          "personId": "8815",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8815"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Hermann Müller",
+          "personId": "6558",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6558"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13978",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13978&mode=",
+      "nominees": [
+        {
+          "name": "Edward Rickes",
+          "personId": "7723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7723"
+        },
+        {
+          "name": "Ernest Lester Smith",
+          "personId": "17761",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17761"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Wolf",
+          "personId": "10286",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10286"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "13991",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=13991&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cesare Gerin",
+          "personId": "3396",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3396"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14000",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14000&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Lawrence Kennaway",
+          "personId": "4791",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4791"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "FA Stammers",
+          "personId": "8725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8725"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14017",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14017&mode=",
+      "nominees": [
+        {
+          "name": "Rudolph Peters",
+          "personId": "7160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7160"
+        },
+        {
+          "name": "Hans Adolf Krebs",
+          "personId": "5042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Baird Hastings",
+          "personId": "3939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3939"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14032",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14032&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Dalldorf",
+          "personId": "2116",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2116"
+        },
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Keller",
+          "personId": "4775",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4775"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14043",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14043&mode=",
+      "nominees": [
+        {
+          "name": "Gaston Ramon",
+          "personId": "7545",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7545"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "G Louyot",
+          "personId": "5658",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5658"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14057",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14057&mode=",
+      "nominees": [
+        {
+          "name": "George Papanicolaou",
+          "personId": "6979",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6979"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H de Watteville",
+          "personId": "2312",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2312"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14068",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14068&mode=",
+      "nominees": [
+        {
+          "name": "Charles Herbert Best",
+          "personId": "968",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=968"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Hallett Dale",
+          "personId": "2111",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2111"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14079",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14079&mode=",
+      "nominees": [
+        {
+          "name": "Cécile Vogt",
+          "personId": "9688",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9688"
+        },
+        {
+          "name": "Oskar Vogt",
+          "personId": "9692",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9692"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antonio C.de Abreu Freire Egas Moniz",
+          "personId": "6371",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6371"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14090",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14090&mode=",
+      "nominees": [
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Langendorff",
+          "personId": "5219",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5219"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14099",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14099&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Haddow",
+          "personId": "3766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3766"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giorgio Todesco",
+          "personId": "9291",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9291"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14111",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14111&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Butenandt",
+          "personId": "1487",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1487"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14120",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14120&mode=",
+      "nominees": [
+        {
+          "name": "James Reilly",
+          "personId": "7634",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7634"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R le Blaye",
+          "personId": "5298",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5298"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14131",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14131&mode=",
+      "nominees": [
+        {
+          "name": "Ugo Cerletti",
+          "personId": "1691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1691"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lodovico Tommasi",
+          "personId": "9306",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9306"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14142",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14142&mode=",
+      "nominees": [
+        {
+          "name": "Robert Bensley",
+          "personId": "881",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=881"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Normand Hoerr",
+          "personId": "4237",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4237"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14153",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14153&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Girolami",
+          "personId": "3470",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3470"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14160",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14160&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Letterer",
+          "personId": "5410",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5410"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14165",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14165&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Bickenbach",
+          "personId": "994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=994"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14170",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14170&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Gottron",
+          "personId": "3572",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3572"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14175",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14175&mode=",
+      "nominees": [
+        {
+          "name": "Charles Herbert Best",
+          "personId": "968",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=968"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Loewi",
+          "personId": "5583",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5583"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14181",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14181&mode=",
+      "nominees": [
+        {
+          "name": "Werner Forssmann",
+          "personId": "3125",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3125"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Heilmeyer",
+          "personId": "4010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4010"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14180",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14180&mode=",
+      "nominees": [
+        {
+          "name": "Edward Rickes",
+          "personId": "7723",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7723"
+        },
+        {
+          "name": "Ernest Lester Smith",
+          "personId": "17761",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=17761"
+        },
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Heilmeyer",
+          "personId": "4010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4010"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14186",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14186&mode=",
+      "nominees": [
+        {
+          "name": "David Keilin",
+          "personId": "4768",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4768"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "S Zuckerman",
+          "personId": "10430",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10430"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14190",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14190&mode=",
+      "nominees": [
+        {
+          "name": "Rudolph Peters",
+          "personId": "7160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7160"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Thomson",
+          "personId": "9240",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9240"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14196",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14196&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans-Hermann Rebel",
+          "personId": "7596",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7596"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14200",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14200&mode=",
+      "nominees": [
+        {
+          "name": "Hans Selye",
+          "personId": "8395",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8395"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Guerra Blessmann",
+          "personId": "3702",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3702"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14204",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14204&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Bennhold",
+          "personId": "873",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=873"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14208",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14208&mode=",
+      "nominees": [
+        {
+          "name": "Paul Delmat-Marsalet",
+          "personId": "2358",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2358"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Michon",
+          "personId": "6267",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6267"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14212",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14212&mode=",
+      "nominees": [
+        {
+          "name": "Wilder Penfield",
+          "personId": "7096",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7096"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Vara Lopez",
+          "personId": "9564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9564"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14216",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14216&mode=",
+      "nominees": [
+        {
+          "name": "David Keilin",
+          "personId": "4768",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4768"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "CF Smout",
+          "personId": "8624",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8624"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14219",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14219&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antonio de Sousa Pereira",
+          "personId": "2299",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2299"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14222",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14222&mode=",
+      "nominees": [
+        {
+          "name": "Paul Hoffmann",
+          "personId": "4252",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4252"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "P Riechert",
+          "personId": "7726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7726"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14224",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14224&mode=",
+      "nominees": [
+        {
+          "name": "Aldo Castellani",
+          "personId": "1653",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1653"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mariano Messini",
+          "personId": "6212",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6212"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14229",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14229&mode=",
+      "nominees": [
+        {
+          "name": "Gerhard Domagk",
+          "personId": "2494",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2494"
+        },
+        {
+          "name": "Alfred Blalock",
+          "personId": "1061",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1061"
+        },
+        {
+          "name": "Helen Taussig",
+          "personId": "9017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9017"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Bredt",
+          "personId": "1315",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1315"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    },
+    {
+      "nominationId": "14232",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=14232&mode=",
+      "nominees": [
+        {
+          "name": "Walter Kikuth",
+          "personId": "4834",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4834"
+        },
+        {
+          "name": "Fritz Mietzsch",
+          "personId": "6271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6271"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walther Jacobj",
+          "personId": "4517",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4517"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:58:57+00:00",
+  "httpStatus": 200,
+  "category": "medicine",
+  "year": 1953,
+  "economicsProbe": false
+}

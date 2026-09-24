@@ -1,0 +1,580 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905",
+  "statedCount": 28,
+  "parsedCount": 28,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "350",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=350&mode=",
+      "nominees": [
+        {
+          "name": "Lev Nikolaevich (Leo) Tolstoy",
+          "personId": "9303",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9303"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Gustaf Estlander",
+          "personId": "2841",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2841"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "337",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=337&mode=",
+      "nominees": [
+        {
+          "name": "Lev Nikolaevich (Leo) Tolstoy",
+          "personId": "9303",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9303"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andreas Aubert",
+          "personId": "554",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=554"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "317",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=317&mode=",
+      "nominees": [
+        {
+          "name": "Lev Nikolaevich (Leo) Tolstoy",
+          "personId": "9303",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9303"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marcellin Berhelot",
+          "personId": "922",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=922"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "283",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=283&mode=",
+      "nominees": [
+        {
+          "name": "Lev Nikolaevich (Leo) Tolstoy",
+          "personId": "9303",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9303"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludovic Halévy",
+          "personId": "3798",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3798"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "209",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=209&mode=",
+      "nominees": [
+        {
+          "name": "Lev Nikolaevich (Leo) Tolstoy",
+          "personId": "9303",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9303"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugène Melchoir de Vogüé",
+          "personId": "9695",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9695"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "653",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=653&mode=",
+      "nominees": [
+        {
+          "name": "Eliza Orzeszkowa",
+          "personId": "6898",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6898"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jan Baudouin de Courtenay",
+          "personId": "752",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=752"
+        },
+        {
+          "name": "Leonhard Masing",
+          "personId": "5975",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5975"
+        },
+        {
+          "name": "Alexander Brückner",
+          "personId": "1412",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1412"
+        },
+        {
+          "name": "Jan Los",
+          "personId": "5643",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5643"
+        },
+        {
+          "name": "Jooseppi Mikkola",
+          "personId": "6273",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6273"
+        },
+        {
+          "name": "Joseph Kallenbach",
+          "personId": "4693",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4693"
+        },
+        {
+          "name": "Antoni Kalina",
+          "personId": "4690",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4690"
+        },
+        {
+          "name": "Leo Szepielewicz",
+          "personId": "8956",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8956"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1181",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1181&mode=",
+      "nominees": [
+        {
+          "name": "Selma Lagerlöf",
+          "personId": "5152",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5152"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Wulff",
+          "personId": "10326",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10326"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1159",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1159&mode=",
+      "nominees": [
+        {
+          "name": "Selma Lagerlöf",
+          "personId": "5152",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5152"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Valfrid Vasenius",
+          "personId": "9567",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9567"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1125",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1125&mode=",
+      "nominees": [
+        {
+          "name": "Selma Lagerlöf",
+          "personId": "5152",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5152"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Noreen",
+          "personId": "6757",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6757"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1047",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1047&mode=",
+      "nominees": [
+        {
+          "name": "Selma Lagerlöf",
+          "personId": "5152",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5152"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anton Bang",
+          "personId": "676",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=676"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1505",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1505&mode=",
+      "nominees": [
+        {
+          "name": "Giosuè Carducci",
+          "personId": "1595",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1595"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Vising",
+          "personId": "9675",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9675"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1433",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1433&mode=",
+      "nominees": [
+        {
+          "name": "Giosuè Carducci",
+          "personId": "1595",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1595"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Bildt",
+          "personId": "1009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1009"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1941",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1941&mode=",
+      "nominees": [
+        {
+          "name": "Albert Sorel",
+          "personId": "8665",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8665"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gabriel Hanotaux",
+          "personId": "3861",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3861"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1921",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1921&mode=",
+      "nominees": [
+        {
+          "name": "Albert Sorel",
+          "personId": "8665",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8665"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "René Bazin",
+          "personId": "781",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=781"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1885",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1885&mode=",
+      "nominees": [
+        {
+          "name": "Albert Sorel",
+          "personId": "8665",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8665"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Vandal",
+          "personId": "9554",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9554"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "1807",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1807&mode=",
+      "nominees": [
+        {
+          "name": "Albert Sorel",
+          "personId": "8665",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8665"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frédéric Masson",
+          "personId": "8357",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8357"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "2138",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2138&mode=",
+      "nominees": [
+        {
+          "name": "Lewis Morris",
+          "personId": "6444",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6444"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Colles",
+          "personId": "1885",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1885"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "2472",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2472&mode=",
+      "nominees": [
+        {
+          "name": "John Morley",
+          "personId": "6440",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6440"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Lord Avebury",
+          "personId": "5612",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5612"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "2806",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2806&mode=",
+      "nominees": [
+        {
+          "name": "Rudyard Kipling",
+          "personId": "4859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4859"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Loftie",
+          "personId": "5585",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5585"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "3147",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3147&mode=",
+      "nominees": [
+        {
+          "name": "Algernon Charles Swinburne",
+          "personId": "8936",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8936"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frank Beddard",
+          "personId": "803",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=803"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "3469",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3469&mode=",
+      "nominees": [
+        {
+          "name": "Marcelino Menéndez y Pelayo",
+          "personId": "6179",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6179"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "24 members of the Royal Spanish Academy (Real Academia Española)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "3829",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3829&mode=",
+      "nominees": [
+        {
+          "name": "Georg Morris Cohen Brandes",
+          "personId": "1283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1283"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Troels Troels-Lund",
+          "personId": "9357",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9357"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "4301",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4301&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav (Emil) Vrchlicky´ (Frida)",
+          "personId": "9908",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9908"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Board of the Academy of Science and Arts",
+          "personId": "1096",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1096"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "4266",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4266&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav (Emil) Vrchlicky´ (Frida)",
+          "personId": "9908",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9908"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frantisek Pastrnek",
+          "personId": "7018",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7018"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "4197",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4197&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav (Emil) Vrchlicky´ (Frida)",
+          "personId": "9908",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9908"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arnost Kraus",
+          "personId": "5031",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5031"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "4493",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4493&mode=",
+      "nominees": [
+        {
+          "name": "Demitrios Bernardakis",
+          "personId": "935",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=935"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Athanasios Bernardakis",
+          "personId": "934",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=934"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "4830",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4830&mode=",
+      "nominees": [
+        {
+          "name": "Henryk Sienkiewicz",
+          "personId": "8523",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8523"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Hildebrand",
+          "personId": "4167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4167"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    },
+    {
+      "nominationId": "5146",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5146&mode=",
+      "nominees": [
+        {
+          "name": "Godfrey Sweven",
+          "personId": "8930",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8930"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Brown",
+          "personId": "1380",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1380"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1905"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:16+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1905,
+  "economicsProbe": false
+}

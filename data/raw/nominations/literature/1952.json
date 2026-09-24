@@ -1,0 +1,1096 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952",
+  "statedCount": 57,
+  "parsedCount": 57,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "16386",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16386&mode=",
+      "nominees": [
+        {
+          "name": "Sarvepalli Radhakrishnan",
+          "personId": "7525",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7525"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The PEN",
+          "personId": "12030",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12030"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17626",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17626&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Royal Academy of Sciences, belles-lettres and fine Arts",
+          "personId": "12143",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12143"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17625",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17625&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "José Maria Peman",
+          "personId": "12032",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12032"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17624",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17624&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerardo Diego",
+          "personId": "12031",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12031"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17623",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17623&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacinto Benavente",
+          "personId": "845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16388",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16388&mode=",
+      "nominees": [
+        {
+          "name": "Enrique González Martínez",
+          "personId": "3540",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3540"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Mexican Academy of Language (Academia Mexicana)",
+          "personId": "12144",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12144"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17630",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17630&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "100 institutions and individuals",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17629",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17629&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Academie Argentina de Letras",
+          "personId": "12145",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12145"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17628",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17628&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Chilean Academy of Language (Academia Chilena de la Lengua)",
+          "personId": "12140",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12140"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17627",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17627&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Royal Spanish Academy",
+          "personId": "8682",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8682"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16390",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16390&mode=",
+      "nominees": [
+        {
+          "name": "Mark Aldanov (Landau)",
+          "personId": "356",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=356"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17632",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17632&mode=",
+      "nominees": [
+        {
+          "name": "François Mauriac",
+          "personId": "6005",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6005"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oscar Wieselgren",
+          "personId": "10176",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10176"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17631",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17631&mode=",
+      "nominees": [
+        {
+          "name": "François Mauriac",
+          "personId": "6005",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6005"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Wilhelm Ludvig Bernadotte (Prins Wilhelm)",
+          "personId": "12011",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12011"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16392",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16392&mode=",
+      "nominees": [
+        {
+          "name": "Manuel Gálvez",
+          "personId": "3316",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3316"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Argentina Association of Writers (Asociation de Escritores Argentinos)",
+          "personId": "12147",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12147"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16393",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16393&mode=",
+      "nominees": [
+        {
+          "name": "John Dover Wilson",
+          "personId": "12034",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12034"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Sisson",
+          "personId": "12035",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12035"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16394",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16394&mode=",
+      "nominees": [
+        {
+          "name": "Juan Ramón Jiménez",
+          "personId": "12036",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12036"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cecil Bowra",
+          "personId": "1259",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1259"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16395",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16395&mode=",
+      "nominees": [
+        {
+          "name": "Georges André Malraux",
+          "personId": "5850",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5850"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean-Marie Carré",
+          "personId": "1619",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1619"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16396",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16396&mode=",
+      "nominees": [
+        {
+          "name": "Edward Morgan Forster",
+          "personId": "3128",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3128"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The PEN",
+          "personId": "12030",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12030"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16397",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16397&mode=",
+      "nominees": [
+        {
+          "name": "José-Maria Ferreira de Castro",
+          "personId": "12028",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12028"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "João de Barros",
+          "personId": "12038",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12038"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16398",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16398&mode=",
+      "nominees": [
+        {
+          "name": "Henriette Roland Holst",
+          "personId": "12039",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12039"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "PEN-Centrum",
+          "personId": "12148",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12148"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16399",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16399&mode=",
+      "nominees": [
+        {
+          "name": "Jakobus Bloem",
+          "personId": "1083",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1083"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "PEN-Centrum",
+          "personId": "12148",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12148"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16400",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16400&mode=",
+      "nominees": [
+        {
+          "name": "Simon Vestdijk",
+          "personId": "9633",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9633"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "PEN-Centrum",
+          "personId": "12148",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12148"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17634",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17634&mode=",
+      "nominees": [
+        {
+          "name": "Zalman Schneur",
+          "personId": "8220",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8220"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Naftali Tur-Sinai",
+          "personId": "12040",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12040"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17633",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17633&mode=",
+      "nominees": [
+        {
+          "name": "Zalman Schneur",
+          "personId": "8220",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8220"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph Klausner",
+          "personId": "4882",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4882"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17637",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17637&mode=",
+      "nominees": [
+        {
+          "name": "Winston Leonard Spencer Churchill",
+          "personId": "1797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1797"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Asta Kihlbom",
+          "personId": "12041",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12041"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17636",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17636&mode=",
+      "nominees": [
+        {
+          "name": "Winston Leonard Spencer Churchill",
+          "personId": "1797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1797"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Birger Nerman",
+          "personId": "6648",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6648"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17635",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17635&mode=",
+      "nominees": [
+        {
+          "name": "Winston Leonard Spencer Churchill",
+          "personId": "1797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1797"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustaf Hellström",
+          "personId": "4034",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4034"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16403",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16403&mode=",
+      "nominees": [
+        {
+          "name": "Nikos Kazantzakis",
+          "personId": "4747",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4747"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Norwegian Authors Union",
+          "personId": "12138",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12138"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16404",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16404&mode=",
+      "nominees": [
+        {
+          "name": "Salvador de Madariaga y Rojo",
+          "personId": "12042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigurd Erixon",
+          "personId": "2820",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2820"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16405",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16405&mode=",
+      "nominees": [
+        {
+          "name": "Taha Hussein",
+          "personId": "4387",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4387"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Vilhelm Zetterstéen",
+          "personId": "12043",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12043"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17639",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17639&mode=",
+      "nominees": [
+        {
+          "name": "Charles Plisnier",
+          "personId": "12044",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12044"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Belgian Association of writing (Association des écrivains Belges)",
+          "personId": "12150",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12150"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17638",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17638&mode=",
+      "nominees": [
+        {
+          "name": "Charles Plisnier",
+          "personId": "12044",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12044"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The Royal Academy of Language and Literature",
+          "personId": "12149",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12149"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16407",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16407&mode=",
+      "nominees": [
+        {
+          "name": "Albert Camus",
+          "personId": "1572",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1572"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hjalmar Gullberg",
+          "personId": "3716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16408",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16408&mode=",
+      "nominees": [
+        {
+          "name": "Henry Graham Greene",
+          "personId": "3628",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3628"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hjalmar Gullberg",
+          "personId": "3716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17641",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17641&mode=",
+      "nominees": [
+        {
+          "name": "Benedetto Croce",
+          "personId": "2027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2027"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The National Academy of Lincei (Accademia Nazionale dei Lincei)",
+          "personId": "12151",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12151"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17640",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17640&mode=",
+      "nominees": [
+        {
+          "name": "Benedetto Croce",
+          "personId": "2027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2027"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Martinson",
+          "personId": "5958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5958"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16410",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16410&mode=",
+      "nominees": [
+        {
+          "name": "Walter de la Mare",
+          "personId": "12045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12045"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Martinson",
+          "personId": "5958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5958"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16411",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16411&mode=",
+      "nominees": [
+        {
+          "name": "Robert Frost",
+          "personId": "3248",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3248"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edwin Harrison Cady",
+          "personId": "12046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12046"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16412",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16412&mode=",
+      "nominees": [
+        {
+          "name": "Carl Sandburg",
+          "personId": "8080",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8080"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Axel Boëthius",
+          "personId": "12047",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12047"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16413",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16413&mode=",
+      "nominees": [
+        {
+          "name": "Mika Toimi Waltari",
+          "personId": "9962",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9962"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Aarne Anttila",
+          "personId": "457",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=457"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17643",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17643&mode=",
+      "nominees": [
+        {
+          "name": "Jules Romains",
+          "personId": "7836",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7836"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice Gravier",
+          "personId": "12054",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12054"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17642",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17642&mode=",
+      "nominees": [
+        {
+          "name": "Jules Romains",
+          "personId": "7836",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7836"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Jolivet",
+          "personId": "4617",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4617"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17646",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17646&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Einar Sveinsson",
+          "personId": "8916",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8916"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17645",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17645&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jón Helgason",
+          "personId": "4027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4027"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17644",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17644&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigurdur Nordal",
+          "personId": "6749",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6749"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16416",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16416&mode=",
+      "nominees": [
+        {
+          "name": "Tarjei Vesaas",
+          "personId": "9629",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9629"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Olav Midttun",
+          "personId": "6269",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6269"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16417",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16417&mode=",
+      "nominees": [
+        {
+          "name": "Werner Bergengruen",
+          "personId": "13601",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13601"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Neumann",
+          "personId": "12050",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12050"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16418",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16418&mode=",
+      "nominees": [
+        {
+          "name": "Julien Benda",
+          "personId": "12051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12051"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Sörensen",
+          "personId": "12052",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12052"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16419",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16419&mode=",
+      "nominees": [
+        {
+          "name": "Jean Schlumberger",
+          "personId": "8194",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8194"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The International House of the PEN Club",
+          "personId": "12152",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12152"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16420",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16420&mode=",
+      "nominees": [
+        {
+          "name": "Jean Giono",
+          "personId": "3460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3460"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Society of Men of Letters of France (Société de Gens de lettres de France)",
+          "personId": "12153",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12153"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16421",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16421&mode=",
+      "nominees": [
+        {
+          "name": "Paul Vialar",
+          "personId": "12053",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12053"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Society of Men of Letters of France (Société de Gens de lettres de France)",
+          "personId": "12153",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12153"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17648",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17648&mode=",
+      "nominees": [
+        {
+          "name": "Louis Artus",
+          "personId": "12055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "André Maurois",
+          "personId": "12057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12057"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17647",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17647&mode=",
+      "nominees": [
+        {
+          "name": "Louis Artus",
+          "personId": "12055",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12055"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Louis Madelin",
+          "personId": "12056",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12056"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17650",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17650&mode=",
+      "nominees": [
+        {
+          "name": "Van Wyck Brooks",
+          "personId": "12058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Manship",
+          "personId": "12059",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12059"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "17649",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17649&mode=",
+      "nominees": [
+        {
+          "name": "Van Wyck Brooks",
+          "personId": "12058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pearl Buck",
+          "personId": "1432",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1432"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16424",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16424&mode=",
+      "nominees": [
+        {
+          "name": "Albert Schweitzer",
+          "personId": "8288",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8288"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nils Ahnlund",
+          "personId": "341",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=341"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    },
+    {
+      "nominationId": "16425",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16425&mode=",
+      "nominees": [
+        {
+          "name": "Hans Carossa",
+          "personId": "1615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Borcherdt",
+          "personId": "12060",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12060"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1952"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:53+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1952,
+  "economicsProbe": false
+}

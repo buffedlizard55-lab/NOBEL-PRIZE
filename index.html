@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nobel Prize Record</title>
+  <meta name="description" content="Independent archive of Nobel Prize laureates, official motivations, and nomination-archive links. Not affiliated with Nobel Prize Outreach.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='3' fill='%231c1914'/%3E%3Cpath d='M8 8h16v2H8zm0 5h16v1.5H8zm0 4h11v1.5H8z' fill='%23f3eee4'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,620;1,6..72,480&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="mast">
+    <div class="mast-inner">
+      <div class="brand">
+        <p class="eyebrow">Independent archive · not endorsed by Nobel Prize Outreach</p>
+        <h1>Nobel Prize Record</h1>
+        <p class="lede" id="lede">Official laureates, the published reason for each prize, and links to check every line.</p>
+      </div>
+      <form class="search" role="search" id="search-form">
+        <label for="q">Search names, motivations, years</label>
+        <input id="q" name="q" type="search" placeholder="Search the record" autocomplete="off">
+      </form>
+    </div>
+    <nav class="views" aria-label="Sections">
+      <a href="#browse" data-view="browse">Prizes</a>
+      <a href="#laureates" data-view="laureates">Laureates</a>
+      <a href="#analysis" data-view="analysis">By subject</a>
+      <a href="#flags" data-view="flags">Flags</a>
+      <a href="#method" data-view="method">How this was checked</a>
+    </nav>
+  </header>
+  <main id="main">
+    <p class="loading" id="boot">Loading the catalog…</p>
+    <noscript>
+      <p>JavaScript is required to search this archive. The review files are still available:</p>
+      <ul>
+        <li><a href="data/prizes.csv">prizes.csv</a></li>
+        <li><a href="data/laureates.csv">laureates.csv</a></li>
+        <li><a href="data/nominations.csv">nominations.csv</a></li>
+        <li><a href="data/FLAGS.md">FLAGS.md</a></li>
+      </ul>
+    </noscript>
+  </main>
+  <dialog id="detail">
+    <div id="detail-body"></div>
+  </dialog>
+  <script src="app.js"></script>
+</body>
+</html>

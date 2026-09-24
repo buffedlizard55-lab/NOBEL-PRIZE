@@ -1,0 +1,979 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931",
+  "statedCount": 49,
+  "parsedCount": 49,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "211",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=211&mode=",
+      "nominees": [
+        {
+          "name": "Kostis Palamas",
+          "personId": "6955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "10 members of the Academy in Athens",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "174",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=174&mode=",
+      "nominees": [
+        {
+          "name": "Kostis Palamas",
+          "personId": "6955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6955"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Simos Menardos",
+          "personId": "6167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6167"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "627",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=627&mode=",
+      "nominees": [
+        {
+          "name": "Paul Valéry",
+          "personId": "9496",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9496"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Denis Saurat",
+          "personId": "8116",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8116"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "1015",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1015&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Pérez de Ayala",
+          "personId": "7113",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7113"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "1407",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1407&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        },
+        {
+          "name": "Nathanael (Dietrich Johann) Jünger (Rump)",
+          "personId": "4666",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4666"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Wulff",
+          "personId": "10326",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10326"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "1963",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1963&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "49 members of The Nobel Prize Committee of the Society of Authors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "1953",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1953&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacinto Benavente",
+          "personId": "845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "1943",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1943&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Baudrillart",
+          "personId": "753",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=753"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "1925",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1925&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hugo Obermaier",
+          "personId": "13214",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13214"
+        },
+        {
+          "name": "Luis Redonet",
+          "personId": "12211",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12211"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "1891",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1891&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Antonio Rubio y Lluch",
+          "personId": "7950",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7950"
+        },
+        {
+          "name": "Jeromenico Rodriguez Maria",
+          "personId": "11244",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11244"
+        },
+        {
+          "name": "Ricardo León",
+          "personId": "5388",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5388"
+        },
+        {
+          "name": "Leopoldo Garag",
+          "personId": "11245",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11245"
+        },
+        {
+          "name": "Carlos María Cortezo",
+          "personId": "1972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1972"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "1814",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1814&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cipriano Muños y Manzano",
+          "personId": "6513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6513"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "2161",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2161&mode=",
+      "nominees": [
+        {
+          "name": "Laura Mestre",
+          "personId": "6213",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6213"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Miguel Dihigo",
+          "personId": "2438",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2438"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "2498",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2498&mode=",
+      "nominees": [
+        {
+          "name": "Édouard Estaunié",
+          "personId": "2840",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2840"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erik Staaff",
+          "personId": "8714",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8714"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "2830",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2830&mode=",
+      "nominees": [
+        {
+          "name": "Paul Ernst",
+          "personId": "2829",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2829"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "6 professors of the University in Zurich 14 professors from Germany, Bohemia and Switzerland",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3314",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3314&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "49 members of The Nobel Prize Committee of the Society of Authors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3313",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3313&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "52 representatives",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3312",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3312&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "7 members of Faculté de Philosophie et Lettres, Brussels;",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3308",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3308&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "14 members of the Portuguese Academy of Science",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3302",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3302&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "6 members of Real Academia de Bellas Artes de Toledo",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3292",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3292&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "21 members of the Royal Academy of History",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3266",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3266&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Santiago Ramon y Cajàl",
+          "personId": "7547",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7547"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3198",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3198&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "27 members of the Royal Spanish Academy (Real Academia Española )",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3592",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3592&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johannes Brøndum-Nielsen",
+          "personId": "1418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1418"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3524",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3524&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anton Brögger",
+          "personId": "1415",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1415"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3492",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3492&mode=",
+      "nominees": [
+        {
+          "name": "Johannes Jensen",
+          "personId": "4582",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4582"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frederik Poulsen",
+          "personId": "7370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7370"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "3852",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3852&mode=",
+      "nominees": [
+        {
+          "name": "Francis Jammes",
+          "personId": "4540",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4540"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Österling",
+          "personId": "10460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10460"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "4171",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4171&mode=",
+      "nominees": [
+        {
+          "name": "Erik Axel Karlfeldt",
+          "personId": "4716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4716"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lars Olof Jonathan (Nathan) Söderblom",
+          "personId": "8967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8967"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "4515",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4515&mode=",
+      "nominees": [
+        {
+          "name": "Bertel Gripenberg",
+          "personId": "3655",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3655"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rolf Lagerborg",
+          "personId": "5148",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5148"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "4852",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4852&mode=",
+      "nominees": [
+        {
+          "name": "Bertel Gripenberg",
+          "personId": "3655",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3655"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johannes Sundwall",
+          "personId": "8903",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8903"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "5170",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5170&mode=",
+      "nominees": [
+        {
+          "name": "Anton Wildgans",
+          "personId": "10191",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10191"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Axel Romdahl",
+          "personId": "7839",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7839"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "5604",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5604&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nikolaj Kullmann",
+          "personId": "5089",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5089"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "5593",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5593&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernard Pares",
+          "personId": "6984",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6984"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "5575",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5575&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexander Kaun",
+          "personId": "4740",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4740"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "5514",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5514&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vladimir Frantsev",
+          "personId": "3185",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3185"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "5488",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5488&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Olaf Broch",
+          "personId": "1356",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1356"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "5825",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5825&mode=",
+      "nominees": [
+        {
+          "name": "Dmitry Merezhkovsky",
+          "personId": "6190",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6190"
+        },
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigurd Agrell",
+          "personId": "335",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=335"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "6116",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6116&mode=",
+      "nominees": [
+        {
+          "name": "Martin Andersen Nexø",
+          "personId": "425",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=425"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Döblin",
+          "personId": "2637",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2637"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "6457",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6457&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Hesse",
+          "personId": "4133",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4133"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thomas Mann",
+          "personId": "5871",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5871"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "6779",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6779&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Sjmeljov",
+          "personId": "8566",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8566"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thomas Mann",
+          "personId": "5871",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5871"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "7082",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7082&mode=",
+      "nominees": [
+        {
+          "name": "Frans Sillanpää",
+          "personId": "8537",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8537"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rafael Waldemar Erich",
+          "personId": "2816",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2816"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "7349",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7349&mode=",
+      "nominees": [
+        {
+          "name": "Ivana Brlic-Mazuranic",
+          "personId": "1353",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1353"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gabriel Manojlovic",
+          "personId": "5874",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5874"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "7590",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7590&mode=",
+      "nominees": [
+        {
+          "name": "Rudolf Kassner",
+          "personId": "4726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4726"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "19 persons",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "7821",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7821&mode=",
+      "nominees": [
+        {
+          "name": "Olaf Bull",
+          "personId": "1441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jens Thiis",
+          "personId": "9219",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9219"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "8108",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8108&mode=",
+      "nominees": [
+        {
+          "name": "Georg Bonne",
+          "personId": "1155",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1155"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Heldmann",
+          "personId": "4026",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4026"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "8337",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8337&mode=",
+      "nominees": [
+        {
+          "name": "Ole Rølvaag",
+          "personId": "8011",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8011"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lawrence Larson",
+          "personId": "5243",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5243"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "8573",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8573&mode=",
+      "nominees": [
+        {
+          "name": "Stefan George",
+          "personId": "3388",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3388"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andreas Hofgaard Winsnes",
+          "personId": "10250",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10250"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "8852",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8852&mode=",
+      "nominees": [
+        {
+          "name": "Erich Maria Remarque",
+          "personId": "7649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7649"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tor Hedberg",
+          "personId": "3977",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3977"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "9035",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9035&mode=",
+      "nominees": [
+        {
+          "name": "John Galsworthy",
+          "personId": "3315",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3315"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martin Lamm",
+          "personId": "5184",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5184"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    },
+    {
+      "nominationId": "9190",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9190&mode=",
+      "nominees": [
+        {
+          "name": "Olav Duun",
+          "personId": "2625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2625"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Helga Eng",
+          "personId": "2793",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2793"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1931"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:36+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1931,
+  "economicsProbe": false
+}

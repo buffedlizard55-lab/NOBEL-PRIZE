@@ -1,0 +1,751 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912",
+  "statedCount": 37,
+  "parsedCount": 37,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "155",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=155&mode=",
+      "nominees": [
+        {
+          "name": "Rafael Altamira y Crevea",
+          "personId": "390",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=390"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fermín Canella y Secades",
+          "personId": "1578",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1578"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "731",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=731&mode=",
+      "nominees": [
+        {
+          "name": "Henry James",
+          "personId": "4537",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4537"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Barrett Wendell",
+          "personId": "10077",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10077"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "657",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=657&mode=",
+      "nominees": [
+        {
+          "name": "Henry James",
+          "personId": "4537",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4537"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Two members of the American Academy of Arts and Letters",
+          "personId": "9412",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9412"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "1161",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1161&mode=",
+      "nominees": [
+        {
+          "name": "Jean-Henry Fabre",
+          "personId": "2885",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2885"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice Maeterlinck",
+          "personId": "5801",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5801"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "1128",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1128&mode=",
+      "nominees": [
+        {
+          "name": "Jean-Henry Fabre",
+          "personId": "2885",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2885"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frederi (Frédéric) Mistral",
+          "personId": "6320",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6320"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "1050",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1050&mode=",
+      "nominees": [
+        {
+          "name": "Jean-Henry Fabre",
+          "personId": "2885",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2885"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Richepin",
+          "personId": "7712",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7712"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "1389",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1389&mode=",
+      "nominees": [
+        {
+          "name": "George Bernard Shaw",
+          "personId": "8479",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8479"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kristian Birch-Reichenwald Aars",
+          "personId": "1032",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1032"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "1759",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1759&mode=",
+      "nominees": [
+        {
+          "name": "Georgios Souris",
+          "personId": "8678",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8678"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georgios Chatzidakis",
+          "personId": "1743",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1743"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "2144",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2144&mode=",
+      "nominees": [
+        {
+          "name": "Émile Verhaeren",
+          "personId": "9605",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9605"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Two professors at the university in Brussels",
+          "personId": "9413",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9413"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "2479",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2479&mode=",
+      "nominees": [
+        {
+          "name": "William Chapman",
+          "personId": "1720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1720"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adrien-Bruno Roy",
+          "personId": "7939",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7939"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "2811",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2811&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav (Emil) Vrchlicky´ (Frida)",
+          "personId": "9908",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9908"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "11 members of Czech Academy of the Emperor François-Joseph I",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "3152",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3152&mode=",
+      "nominees": [
+        {
+          "name": "Anatole (Jacques) France (Thibault)",
+          "personId": "3157",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3157"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Hervieu",
+          "personId": "4111",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4111"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "3475",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3475&mode=",
+      "nominees": [
+        {
+          "name": "Pierre (Louis M) Loti (Viaud)",
+          "personId": "5648",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5648"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Thureau Dangin",
+          "personId": "9258",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9258"
+        },
+        {
+          "name": "Gabriel Hanotaux",
+          "personId": "3861",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3861"
+        },
+        {
+          "name": "C de Freycinet",
+          "personId": "11146",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11146"
+        },
+        {
+          "name": "René Bazin",
+          "personId": "781",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=781"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "3835",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3835&mode=",
+      "nominees": [
+        {
+          "name": "Salvador Rueda",
+          "personId": "7956",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7956"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "10 professors at the Cardenal Cisneros Institute",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "4268",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4268&mode=",
+      "nominees": [
+        {
+          "name": "Angel Guimerà y Jorge",
+          "personId": "3713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3713"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "6 members of the Institute of Catalan Studies (Institut d´estudis catalans)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "4200",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4200&mode=",
+      "nominees": [
+        {
+          "name": "Angel Guimerà y Jorge",
+          "personId": "3713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3713"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "13 members of Royal Academy of Fine Letters (Real Academia de Buenas Letras)",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "4499",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4499&mode=",
+      "nominees": [
+        {
+          "name": "Karl Gjellerup",
+          "personId": "3474",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3474"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "5 members of the Royal Danish Academy of Sciences and Letters",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "4835",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4835&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "70 members of the Royal Society of Literature",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "5152",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5152&mode=",
+      "nominees": [
+        {
+          "name": "James Frazer",
+          "personId": "3188",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3188"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Macmillan",
+          "personId": "5784",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5784"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "5470",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5470&mode=",
+      "nominees": [
+        {
+          "name": "Henri Bergson",
+          "personId": "917",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=917"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andrew Lang",
+          "personId": "5208",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5208"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "5809",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5809&mode=",
+      "nominees": [
+        {
+          "name": "Salvatore Farina",
+          "personId": "2910",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2910"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "3 members of Lombardy Institute, Academy of Sciences and Letters",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "6100",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6100&mode=",
+      "nominees": [
+        {
+          "name": "Gerhart Hauptmann",
+          "personId": "3947",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3947"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erich Schmidt",
+          "personId": "8201",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8201"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "6544",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6544&mode=",
+      "nominees": [
+        {
+          "name": "Benito Pérez Galdós",
+          "personId": "7114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "More than 700 members of various literary societies in Spain",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "6483",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6483&mode=",
+      "nominees": [
+        {
+          "name": "Benito Pérez Galdós",
+          "personId": "7114",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7114"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacinto Picón",
+          "personId": "11231",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11231"
+        },
+        {
+          "name": "José Echegaray y Eizaguirre",
+          "personId": "2673",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2673"
+        },
+        {
+          "name": "Eugenio Sellés y Angel",
+          "personId": "11232",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11232"
+        },
+        {
+          "name": "José Rodriguez Carracido",
+          "personId": "11233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11233"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "6766",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6766&mode=",
+      "nominees": [
+        {
+          "name": "Juhani Aho (Brofeldt)",
+          "personId": "342",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=342"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Ruuth",
+          "personId": "7988",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7988"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "7070",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7070&mode=",
+      "nominees": [
+        {
+          "name": "Karl Schönherr",
+          "personId": "8310",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8310"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Warburg",
+          "personId": "9980",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9980"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "7339",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7339&mode=",
+      "nominees": [
+        {
+          "name": "Carl Spitteler",
+          "personId": "8702",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8702"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Professors in Bern and Zurich",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "7581",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7581&mode=",
+      "nominees": [
+        {
+          "name": "Harald Höffding",
+          "personId": "4425",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4425"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "12 members of the Royal Danish Academy of Sciences and Letters",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "7892",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7892&mode=",
+      "nominees": [
+        {
+          "name": "Ernst von der Recke",
+          "personId": "7602",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7602"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Thor Lange",
+          "personId": "5218",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5218"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "7842",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7842&mode=",
+      "nominees": [
+        {
+          "name": "Ernst von der Recke",
+          "personId": "7602",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7602"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ewert Wrangel",
+          "personId": "10312",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10312"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "8102",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8102&mode=",
+      "nominees": [
+        {
+          "name": "Hans Kinck",
+          "personId": "4849",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4849"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gerhard von der Lippe Gran",
+          "personId": "3599",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3599"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "8332",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8332&mode=",
+      "nominees": [
+        {
+          "name": "Penco Slavejkov",
+          "personId": "8591",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8591"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Jensen",
+          "personId": "4581",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4581"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "8567",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8567&mode=",
+      "nominees": [
+        {
+          "name": "Verner von Heidenstam",
+          "personId": "4000",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4000"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Wulff",
+          "personId": "10326",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10326"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "8846",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8846&mode=",
+      "nominees": [
+        {
+          "name": "Sven Hedin",
+          "personId": "3982",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3982"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Wulff",
+          "personId": "10326",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10326"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "9030",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9030&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Lavisse",
+          "personId": "5285",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5285"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Hildebrand",
+          "personId": "4167",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4167"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "9188",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9188&mode=",
+      "nominees": [
+        {
+          "name": "Carl Spitteler",
+          "personId": "8702",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8702"
+        },
+        {
+          "name": "Adolf Frey",
+          "personId": "3222",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3222"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Oechsli",
+          "personId": "6824",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6824"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    },
+    {
+      "nominationId": "9366",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9366&mode=",
+      "nominees": [
+        {
+          "name": "Francesco d´Ovidio",
+          "personId": "2652",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2652"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernesto Monaci",
+          "personId": "6362",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6362"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1912"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:22+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1912,
+  "economicsProbe": false
+}

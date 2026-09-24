@@ -1,0 +1,85 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1941",
+  "statedCount": 3,
+  "parsedCount": 3,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "257",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=257&mode=",
+      "nominees": [
+        {
+          "name": "Count Richard Nicolas Coudenhove-Kalergi",
+          "personId": "1991",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1991"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kaarel Robert Pusta",
+          "personId": "7488",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7488"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1941"
+    },
+    {
+      "nominationId": "710",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=710&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Clark Hoover",
+          "personId": "4300",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4300"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edgar Eugene Robinson",
+          "personId": "7778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7778"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1941"
+    },
+    {
+      "nominationId": "1101",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1101&mode=",
+      "nominees": [
+        {
+          "name": "Cordell Hull",
+          "personId": "4368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Michael Doyle",
+          "personId": "2530",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2530"
+        },
+        {
+          "name": "Green Heywood Hackworth",
+          "personId": "3764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3764"
+        },
+        {
+          "name": "Manley Ottmer Hudson",
+          "personId": "4346",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4346"
+        },
+        {
+          "name": "Henry Stimson",
+          "personId": "11351",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11351"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1941"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:51+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1941,
+  "economicsProbe": false
+}

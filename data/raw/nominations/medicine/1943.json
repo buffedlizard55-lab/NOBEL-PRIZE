@@ -1,0 +1,620 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943",
+  "statedCount": 28,
+  "parsedCount": 28,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "205",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=205&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Erlanger",
+          "personId": "2823",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2823"
+        },
+        {
+          "name": "Herbert Gasser",
+          "personId": "3351",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3351"
+        },
+        {
+          "name": "Bernardo Alberto Houssay",
+          "personId": "4324",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4324"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Cannon",
+          "personId": "1584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "138",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=138&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Barcroft",
+          "personId": "698",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=698"
+        },
+        {
+          "name": "Stephen Ranson",
+          "personId": "7560",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7560"
+        },
+        {
+          "name": "Harry Goldblatt",
+          "personId": "3508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3508"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Cannon",
+          "personId": "1584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "594",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=594&mode=",
+      "nominees": [
+        {
+          "name": "Lionel E. Whitby",
+          "personId": "10135",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10135"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Parry",
+          "personId": "7003",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7003"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "982",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=982&mode=",
+      "nominees": [
+        {
+          "name": "Harry Goldblatt",
+          "personId": "3508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3508"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "N Goormaghtigh",
+          "personId": "3550",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3550"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "1371",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1371&mode=",
+      "nominees": [
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        },
+        {
+          "name": "James Sumner",
+          "personId": "8895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8895"
+        },
+        {
+          "name": "Wendell Stanley",
+          "personId": "8731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8731"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Whipple",
+          "personId": "10134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10134"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "1743",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1743&mode=",
+      "nominees": [
+        {
+          "name": "Elmer McCollum",
+          "personId": "6048",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6048"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Krantz Jr",
+          "personId": "5027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5027"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "2124",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2124&mode=",
+      "nominees": [
+        {
+          "name": "Louis Lapicque",
+          "personId": "5234",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5234"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Vandevelde",
+          "personId": "9556",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9556"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "2458",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2458&mode=",
+      "nominees": [
+        {
+          "name": "Bernardo Alberto Houssay",
+          "personId": "4324",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4324"
+        },
+        {
+          "name": "Herbert Gasser",
+          "personId": "3351",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3351"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andrés Bianchi",
+          "personId": "988",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=988"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "2793",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2793&mode=",
+      "nominees": [
+        {
+          "name": "Harry Goldblatt",
+          "personId": "3508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3508"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Howard Karsner",
+          "personId": "4720",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4720"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "3132",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3132&mode=",
+      "nominees": [
+        {
+          "name": "Walter Hess",
+          "personId": "4129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4129"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Bürgi",
+          "personId": "1508",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1508"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "3455",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3455&mode=",
+      "nominees": [
+        {
+          "name": "Wendell Stanley",
+          "personId": "8731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8731"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gr Popa",
+          "personId": "7348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7348"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "3817",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3817&mode=",
+      "nominees": [
+        {
+          "name": "Nicola Pende",
+          "personId": "7095",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7095"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Luigi Maggiore",
+          "personId": "5808",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5808"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "4136",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4136&mode=",
+      "nominees": [
+        {
+          "name": "Bernardo Alberto Houssay",
+          "personId": "4324",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4324"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cieza Rodriguez",
+          "personId": "7801",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7801"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "4479",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4479&mode=",
+      "nominees": [
+        {
+          "name": "Robert Doerr",
+          "personId": "2468",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2468"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Wegelin",
+          "personId": "10038",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10038"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "4817",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4817&mode=",
+      "nominees": [
+        {
+          "name": "Bernardo Alberto Houssay",
+          "personId": "4324",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4324"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Herbert Best",
+          "personId": "968",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=968"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "5133",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5133&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Cosacescu",
+          "personId": "1975",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1975"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "5451",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5451&mode=",
+      "nominees": [
+        {
+          "name": "Hendrik Dam",
+          "personId": "2119",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2119"
+        },
+        {
+          "name": "Walter Hess",
+          "personId": "4129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4129"
+        },
+        {
+          "name": "Bernardo Alberto Houssay",
+          "personId": "4324",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4324"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Corneille Heymans",
+          "personId": "4149",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4149"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "5791",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5791&mode=",
+      "nominees": [
+        {
+          "name": "René Leriche",
+          "personId": "5400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "I Bâlteanu",
+          "personId": "666",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=666"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "6082",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6082&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolph Peters",
+          "personId": "7160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7160"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "6427",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6427&mode=",
+      "nominees": [
+        {
+          "name": "Bernardo Alberto Houssay",
+          "personId": "4324",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4324"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Bouckaert",
+          "personId": "1220",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1220"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "6747",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6747&mode=",
+      "nominees": [
+        {
+          "name": "Ugo Cerletti",
+          "personId": "1691",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1691"
+        },
+        {
+          "name": "Ladislas de Meduna",
+          "personId": "2267",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2267"
+        },
+        {
+          "name": "Manfred Sakel",
+          "personId": "8051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8051"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jakob Klaesi",
+          "personId": "4877",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4877"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "7053",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7053&mode=",
+      "nominees": [
+        {
+          "name": "Samuel Mast",
+          "personId": "5986",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5986"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eduard Uhlenhuth",
+          "personId": "9430",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9430"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "7322",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7322&mode=",
+      "nominees": [
+        {
+          "name": "Conrad Elvehjem",
+          "personId": "2777",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2777"
+        },
+        {
+          "name": "Vincent du Vigneaud",
+          "personId": "2555",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2555"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Snyder",
+          "personId": "8634",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8634"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "7565",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7565&mode=",
+      "nominees": [
+        {
+          "name": "Elmer McCollum",
+          "personId": "6048",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6048"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lowell Reed",
+          "personId": "7612",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7612"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "7800",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7800&mode=",
+      "nominees": [
+        {
+          "name": "Wendell Stanley",
+          "personId": "8731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8731"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Roche",
+          "personId": "7790",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7790"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "8089",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8089&mode=",
+      "nominees": [
+        {
+          "name": "Guiseppi Pagano",
+          "personId": "6946",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6946"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nicola Leotta",
+          "personId": "5393",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5393"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "8322",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8322&mode=",
+      "nominees": [
+        {
+          "name": "Harvey Billig",
+          "personId": "1012",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1012"
+        },
+        {
+          "name": "A van Harreveld",
+          "personId": "9536",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9536"
+        },
+        {
+          "name": "Cornelis Wiersma",
+          "personId": "10174",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10174"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harlan Shoemaker",
+          "personId": "8501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8501"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    },
+    {
+      "nominationId": "8556",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8556&mode=",
+      "nominees": [
+        {
+          "name": "Hendrik Dam",
+          "personId": "2119",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2119"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frans Daels",
+          "personId": "2099",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2099"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:58:48+00:00",
+  "httpStatus": 200,
+  "category": "medicine",
+  "year": 1943,
+  "economicsProbe": false
+}

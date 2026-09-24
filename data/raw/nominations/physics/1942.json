@@ -1,0 +1,408 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942",
+  "statedCount": 20,
+  "parsedCount": 20,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "39",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=39&mode=",
+      "nominees": [
+        {
+          "name": "Edward Appleton",
+          "personId": "469",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=469"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Lawrence Bragg",
+          "personId": "11051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11051"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "492",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=492&mode=",
+      "nominees": [
+        {
+          "name": "Edward Appleton",
+          "personId": "469",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=469"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Owen Richardson",
+          "personId": "7710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "1117",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1117&mode=",
+      "nominees": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vagn Ekman",
+          "personId": "2744",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2744"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "1038",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1038&mode=",
+      "nominees": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Benedicks",
+          "personId": "854",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=854"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "1269",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1269&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Darwin",
+          "personId": "2142",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2142"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "1645",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1645&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward da Costa Andrade",
+          "personId": "2091",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2091"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "2022",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2022&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Cannon",
+          "personId": "1584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "2360",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2360&mode=",
+      "nominees": [
+        {
+          "name": "Wander de Haas",
+          "personId": "2230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2230"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "2694",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2694&mode=",
+      "nominees": [
+        {
+          "name": "Wander de Haas",
+          "personId": "2230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2230"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Willem Keesom",
+          "personId": "4758",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4758"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "3030",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3030&mode=",
+      "nominees": [
+        {
+          "name": "Wander de Haas",
+          "personId": "2230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2230"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pieter Zeeman",
+          "personId": "10386",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10386"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "3354",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3354&mode=",
+      "nominees": [
+        {
+          "name": "George de Hevesy",
+          "personId": "2235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2235"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Ortvay",
+          "personId": "6896",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6896"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "3716",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3716&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernest Barker",
+          "personId": "709",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=709"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "4035",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4035&mode=",
+      "nominees": [
+        {
+          "name": "Isidor Rabi",
+          "personId": "7513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7513"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "4379",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4379&mode=",
+      "nominees": [
+        {
+          "name": "Isidor Rabi",
+          "personId": "7513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7513"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Enrico Fermi",
+          "personId": "2955",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2955"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "4719",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4719&mode=",
+      "nominees": [
+        {
+          "name": "Isidor Rabi",
+          "personId": "7513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7513"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alois Kovarik",
+          "personId": "5010",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5010"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "5249",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5249&mode=",
+      "nominees": [
+        {
+          "name": "Robert Wood",
+          "personId": "10300",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10300"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "M Wetzli",
+          "personId": "10122",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10122"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "5190",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5190&mode=",
+      "nominees": [
+        {
+          "name": "Robert Wood",
+          "personId": "10300",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10300"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "August Hagenbach",
+          "personId": "3779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3779"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "5354",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5354&mode=",
+      "nominees": [
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bunsaku Arakatsu",
+          "personId": "472",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=472"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "5692",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5692&mode=",
+      "nominees": [
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    },
+    {
+      "nominationId": "5988",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5988&mode=",
+      "nominees": [
+        {
+          "name": "John Townsend",
+          "personId": "9325",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9325"
+        },
+        {
+          "name": "Wander de Haas",
+          "personId": "2230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2230"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Perrin",
+          "personId": "7136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7136"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1942"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:33+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1942,
+  "economicsProbe": false
+}

@@ -1,0 +1,428 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945",
+  "statedCount": 20,
+  "parsedCount": 20,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "42",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=42&mode=",
+      "nominees": [
+        {
+          "name": "Vilhelm Bjerknes",
+          "personId": "1046",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1046"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Vagn Ekman",
+          "personId": "2744",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2744"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "495",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=495&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "887",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=887&mode=",
+      "nominees": [
+        {
+          "name": "Patrick Maynard Stuart Blackett (Baron Blackett)",
+          "personId": "1057",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1057"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Nolan",
+          "personId": "6741",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6741"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "1272",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1272&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Roebuck",
+          "personId": "7803",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7803"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "1648",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1648&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harlow Shapley",
+          "personId": "8473",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8473"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "2025",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2025&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gudmund Borelius",
+          "personId": "1179",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1179"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "2363",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2363&mode=",
+      "nominees": [
+        {
+          "name": "Donald William Kerst",
+          "personId": "4806",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4806"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leonard Ingersoll",
+          "personId": "4456",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4456"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "2697",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2697&mode=",
+      "nominees": [
+        {
+          "name": "Bernard Lyot",
+          "personId": "5725",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5725"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Aimé Cotton",
+          "personId": "1989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1989"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "3033",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3033&mode=",
+      "nominees": [
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "3357",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3357&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Einstein",
+          "personId": "2728",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2728"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "3718",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3718&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Hasbrouck Van Vleck",
+          "personId": "9551",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9551"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "4038",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4038&mode=",
+      "nominees": [
+        {
+          "name": "Isidor Rabi",
+          "personId": "7513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7513"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gregory Breit",
+          "personId": "1318",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1318"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "4382",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4382&mode=",
+      "nominees": [
+        {
+          "name": "Geoffrey Ingram Taylor",
+          "personId": "9019",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9019"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nevill Francis Mott",
+          "personId": "6467",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6467"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "4721",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4721&mode=",
+      "nominees": [
+        {
+          "name": "Hideki Yukawa",
+          "personId": "10359",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10359"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice de Broglie",
+          "personId": "2198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2198"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "5035",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5035&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Seth Neddermeyer",
+          "personId": "6623",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6623"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "5355",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5355&mode=",
+      "nominees": [
+        {
+          "name": "John Douglas Cockcroft",
+          "personId": "1855",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1855"
+        },
+        {
+          "name": "Ernest Thomas Sinton Walton",
+          "personId": "9967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9967"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Poole",
+          "personId": "7346",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7346"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "5694",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5694&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        },
+        {
+          "name": "Fritz Strassmann",
+          "personId": "8826",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8826"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cyrias Ouellet",
+          "personId": "6922",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6922"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "5989",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5989&mode=",
+      "nominees": [
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        },
+        {
+          "name": "Otto Robert Frisch",
+          "personId": "3236",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3236"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oskar Benjamin Klein",
+          "personId": "4889",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4889"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "6539",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6539&mode=",
+      "nominees": [
+        {
+          "name": "Willem Keesom",
+          "personId": "4758",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4758"
+        },
+        {
+          "name": "Wander de Haas",
+          "personId": "2230",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2230"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hendrik Kramers",
+          "personId": "5024",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5024"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    },
+    {
+      "nominationId": "6476",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6476&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        },
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        },
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hendrik Kramers",
+          "personId": "5024",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5024"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1945"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:35+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1945,
+  "economicsProbe": false
+}

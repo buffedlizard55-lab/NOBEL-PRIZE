@@ -1,0 +1,792 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945",
+  "statedCount": 47,
+  "parsedCount": 36,
+  "countMatchesStated": false,
+  "nominations": [
+    {
+      "nominationId": "4138",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4138&mode=",
+      "nominees": [
+        {
+          "name": "Walter Cannon",
+          "personId": "1584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1584"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Earl Bond",
+          "personId": "1139",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1139"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "4481",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4481&mode=",
+      "nominees": [
+        {
+          "name": "Walter Hess",
+          "personId": "4129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4129"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Nicod",
+          "personId": "6679",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6679"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "4977",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4977&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Tytler",
+          "personId": "9420",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9420"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "4966",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4966&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ralph Picken",
+          "personId": "7228",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7228"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "4940",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4940&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Reginald Heathcote",
+          "personId": "3971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3971"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "4878",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4878&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Duguid",
+          "personId": "2579",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2579"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "5135",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5135&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Whipple",
+          "personId": "10134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10134"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "5453",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5453&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Lockhart",
+          "personId": "5559",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5559"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "5793",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5793&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Cannon",
+          "personId": "1584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1584"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "6084",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6084&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stuart Mudd",
+          "personId": "6494",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6494"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "6429",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6429&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Th Madsen",
+          "personId": "5798",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5798"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "6749",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6749&mode=",
+      "nominees": [
+        {
+          "name": "Walter Cannon",
+          "personId": "1584",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1584"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Otto Loewi",
+          "personId": "5583",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5583"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "7055",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7055&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "7324",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7324&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        },
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Bradley",
+          "personId": "1272",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1272"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "7567",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7567&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexander Randall",
+          "personId": "7554",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7554"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "7891",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7891&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Schmidt",
+          "personId": "8199",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8199"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "7841",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7841&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        },
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Schmidt",
+          "personId": "8199",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8199"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "8090",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8090&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Stokes",
+          "personId": "8813",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8813"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "8323",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8323&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward Krumbhaar",
+          "personId": "5067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5067"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "8557",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8557&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Minot",
+          "personId": "6307",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6307"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "8837",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8837&mode=",
+      "nominees": [
+        {
+          "name": "Jan Boeke",
+          "personId": "1110",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1110"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Landau",
+          "personId": "5195",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5195"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "9020",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9020&mode=",
+      "nominees": [
+        {
+          "name": "Walter Hess",
+          "personId": "4129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4129"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Fleisch",
+          "personId": "3054",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3054"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "9178",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9178&mode=",
+      "nominees": [
+        {
+          "name": "Walter Hess",
+          "personId": "4129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4129"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "L Michaud",
+          "personId": "6259",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6259"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "9356",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9356&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Joseph Muller",
+          "personId": "6501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6501"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Folke Henschen",
+          "personId": "4066",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4066"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "9537",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9537&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Elmer",
+          "personId": "2768",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2768"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "9669",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9669&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        },
+        {
+          "name": "Homer Smith",
+          "personId": "8612",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8612"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "H Bazett",
+          "personId": "779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=779"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "9828",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9828&mode=",
+      "nominees": [
+        {
+          "name": "Walter Hess",
+          "personId": "4129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4129"
+        },
+        {
+          "name": "David Keilin",
+          "personId": "4768",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4768"
+        },
+        {
+          "name": "Axel Hugo Theodor Theorell",
+          "personId": "9207",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9207"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Vannotti",
+          "personId": "9558",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9558"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "10000",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10000&mode=",
+      "nominees": [
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Elis Berven",
+          "personId": "956",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=956"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "9977",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9977&mode=",
+      "nominees": [
+        {
+          "name": "Torbjörn Caspersson",
+          "personId": "1647",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1647"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Einar Hammarsten",
+          "personId": "3847",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3847"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "10089",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10089&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Hallett Dale",
+          "personId": "2111",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2111"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "10232",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10232&mode=",
+      "nominees": [
+        {
+          "name": "Walter Hess",
+          "personId": "4129",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4129"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Corneille Heymans",
+          "personId": "4149",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4149"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "10218",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10218&mode=",
+      "nominees": [
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Corneille Heymans",
+          "personId": "4149",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4149"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "10324",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10324&mode=",
+      "nominees": [
+        {
+          "name": "Paul Kouchakoff",
+          "personId": "5003",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5003"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ch Perret",
+          "personId": "7131",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7131"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "10446",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10446&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        },
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Isaac Starr",
+          "personId": "8741",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8741"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "10432",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10432&mode=",
+      "nominees": [
+        {
+          "name": "Alfred Richards",
+          "personId": "7704",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7704"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Isaac Starr",
+          "personId": "8741",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8741"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    },
+    {
+      "nominationId": "10524",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10524&mode=",
+      "nominees": [
+        {
+          "name": "Ernst Chain",
+          "personId": "1706",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1706"
+        },
+        {
+          "name": "Alexander Fleming",
+          "personId": "3058",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3058"
+        },
+        {
+          "name": "Howard Florey",
+          "personId": "3070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3070"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Göran Liljestrand",
+          "personId": "5486",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5486"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:58:50+00:00",
+  "httpStatus": 200,
+  "category": "medicine",
+  "year": 1945,
+  "economicsProbe": false
+}

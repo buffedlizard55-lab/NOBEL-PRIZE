@@ -1,0 +1,757 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923",
+  "statedCount": 36,
+  "parsedCount": 36,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "166",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=166&mode=",
+      "nominees": [
+        {
+          "name": "William Yeats",
+          "personId": "10345",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10345"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Nobel Committee",
+          "personId": "6724",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6724"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "661",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=661&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Türck",
+          "personId": "9418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9418"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Unger",
+          "personId": "9446",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9446"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "619",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=619&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Türck",
+          "personId": "9418",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9418"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wolfgang Golther",
+          "personId": "3529",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3529"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1207",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1207&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lars Olof Jonathan (Nathan) Söderblom",
+          "personId": "8967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8967"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1201",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1201&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A number of members of the Academy of Rio de Janeiro",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1193",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1193&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Pirenne",
+          "personId": "7271",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7271"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1182",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1182&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Bourget",
+          "personId": "1235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1235"
+        },
+        {
+          "name": "Albert Auguste Gabriel Hanotaux",
+          "personId": "3860",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3860"
+        },
+        {
+          "name": "Anatole (Jacques) France (Thibault)",
+          "personId": "3157",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3157"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1162",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1162&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Four professors in history",
+          "personId": "3139",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3139"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1131",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1131&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward Cheyney",
+          "personId": "1763",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1763"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1053",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1053&mode=",
+      "nominees": [
+        {
+          "name": "Guglielmo Ferrero",
+          "personId": "2964",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2964"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gaetano Mosca",
+          "personId": "6452",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6452"
+        },
+        {
+          "name": "Antonio de Viti de Marco (Viti de Larco)",
+          "personId": "11235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11235"
+        },
+        {
+          "name": "Gaetano Salvemini",
+          "personId": "11236",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11236"
+        },
+        {
+          "name": "Niccolò Rodolico",
+          "personId": "11237",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11237"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1509",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1509&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Uno Lindelöf",
+          "personId": "5500",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5500"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1439",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1439&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Romain Rolland",
+          "personId": "7831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7831"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1399",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1399&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Hardy",
+          "personId": "3892",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3892"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Zachrisson",
+          "personId": "10364",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10364"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1890",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1890&mode=",
+      "nominees": [
+        {
+          "name": "Paul Ernst",
+          "personId": "2829",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2829"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Soergel",
+          "personId": "11238",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11238"
+        },
+        {
+          "name": "Hans Vaihinger",
+          "personId": "9486",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9486"
+        },
+        {
+          "name": "Eduard Schwartz",
+          "personId": "11239",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11239"
+        },
+        {
+          "name": "S Dehio",
+          "personId": "11240",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11240"
+        },
+        {
+          "name": "Frickenhaus",
+          "personId": "11241",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11241"
+        },
+        {
+          "name": "Ulrich von Wilamowitz-Moellendorf",
+          "personId": "9889",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9889"
+        },
+        {
+          "name": "Peter Behrens",
+          "personId": "11243",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11243"
+        },
+        {
+          "name": "Henrik Pontoppidan",
+          "personId": "7341",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7341"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1812",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1812&mode=",
+      "nominees": [
+        {
+          "name": "Paul Ernst",
+          "personId": "2829",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2829"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Faesi",
+          "personId": "2893",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2893"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "1769",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1769&mode=",
+      "nominees": [
+        {
+          "name": "Paul Ernst",
+          "personId": "2829",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2829"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Ermatinger",
+          "personId": "2827",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2827"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "2153",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2153&mode=",
+      "nominees": [
+        {
+          "name": "Arno Holz",
+          "personId": "4289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4289"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugen Wolff",
+          "personId": "10289",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10289"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "2490",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2490&mode=",
+      "nominees": [
+        {
+          "name": "Stefan Zeromski",
+          "personId": "10399",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10399"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Academy of Science in Krakow",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "2958",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2958&mode=",
+      "nominees": [
+        {
+          "name": "Elisabeth Förster-Nietzsche",
+          "personId": "3286",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3286"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Vaihinger",
+          "personId": "9486",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9486"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "2935",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2935&mode=",
+      "nominees": [
+        {
+          "name": "Elisabeth Förster-Nietzsche",
+          "personId": "3286",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3286"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kurt Breysig",
+          "personId": "1326",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1326"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "2862",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2862&mode=",
+      "nominees": [
+        {
+          "name": "Elisabeth Förster-Nietzsche",
+          "personId": "3286",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3286"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Bertram",
+          "personId": "951",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=951"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "2822",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2822&mode=",
+      "nominees": [
+        {
+          "name": "Elisabeth Förster-Nietzsche",
+          "personId": "3286",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3286"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Goetz",
+          "personId": "3501",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3501"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "3160",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3160&mode=",
+      "nominees": [
+        {
+          "name": "Grazia Deledda (Madesani)",
+          "personId": "2348",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2348"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Bildt",
+          "personId": "1009",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1009"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "3484",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3484&mode=",
+      "nominees": [
+        {
+          "name": "Dora Melegari",
+          "personId": "6101",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6101"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Luigi Luzzatti",
+          "personId": "5716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "3886",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3886&mode=",
+      "nominees": [
+        {
+          "name": "Matilde Serao",
+          "personId": "8411",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8411"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giuseppe de Lorenzo",
+          "personId": "5640",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5640"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "3844",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3844&mode=",
+      "nominees": [
+        {
+          "name": "Matilde Serao",
+          "personId": "8411",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8411"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francesco Torraca",
+          "personId": "9316",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9316"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "4163",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4163&mode=",
+      "nominees": [
+        {
+          "name": "Maksim Gorky",
+          "personId": "3557",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3557"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Romain Rolland",
+          "personId": "7831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7831"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "4507",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4507&mode=",
+      "nominees": [
+        {
+          "name": "Ivan Alexeievitch Bounine",
+          "personId": "1449",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1449"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Romain Rolland",
+          "personId": "7831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7831"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "4844",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4844&mode=",
+      "nominees": [
+        {
+          "name": "Konstantin Balmont",
+          "personId": "662",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=662"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Romain Rolland",
+          "personId": "7831",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7831"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "5162",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5162&mode=",
+      "nominees": [
+        {
+          "name": "Ludwig von Pastor",
+          "personId": "7017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7017"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oluf Kolsrud",
+          "personId": "4974",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4974"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "5480",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5480&mode=",
+      "nominees": [
+        {
+          "name": "Roberto Bracco",
+          "personId": "1267",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1267"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Haakon Schetelig",
+          "personId": "8162",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8162"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "5817",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5817&mode=",
+      "nominees": [
+        {
+          "name": "Einar Hjörleifsson Kvaran",
+          "personId": "5102",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5102"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Valtyr Gudmundsson",
+          "personId": "3696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3696"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "6108",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6108&mode=",
+      "nominees": [
+        {
+          "name": "Angel Guimerà y Jorge",
+          "personId": "3713",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3713"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Wulff",
+          "personId": "10326",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10326"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "6450",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6450&mode=",
+      "nominees": [
+        {
+          "name": "William Inge",
+          "personId": "4451",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4451"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lars Olof Jonathan (Nathan) Söderblom",
+          "personId": "8967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8967"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "6806",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6806&mode=",
+      "nominees": [
+        {
+          "name": "Bertel Gripenberg",
+          "personId": "3655",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3655"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Wulff",
+          "personId": "10326",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10326"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    },
+    {
+      "nominationId": "6772",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6772&mode=",
+      "nominees": [
+        {
+          "name": "Bertel Gripenberg",
+          "personId": "3655",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3655"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lars Olof Jonathan (Nathan) Söderblom",
+          "personId": "8967",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8967"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:30+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1923,
+  "economicsProbe": false
+}

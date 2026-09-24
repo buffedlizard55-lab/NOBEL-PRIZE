@@ -1,0 +1,622 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946",
+  "statedCount": 31,
+  "parsedCount": 31,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "394",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=394&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "16 Finnish Professors of Law/ Members of the Finnish parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "390",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=390&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lucas Middleton",
+          "personId": "6268",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6268"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "386",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=386&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Agnus MacInnis",
+          "personId": "5769",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5769"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "382",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=382&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Judah Leon Magnes",
+          "personId": "5809",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5809"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "377",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=377&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lucy Noel-Buxton",
+          "personId": "6737",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6737"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "372",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=372&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W.J.M. van Eysinga",
+          "personId": "9532",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9532"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "367",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=367&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Stephens",
+          "personId": "8775",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8775"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "362",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=362&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Rudolf Schümperli",
+          "personId": "8299",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8299"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "356",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=356&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stanley Knowles",
+          "personId": "4927",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4927"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "347",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=347&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Herman Randall",
+          "personId": "7555",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7555"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "331",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=331&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cyril Dimpleton",
+          "personId": "2440",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2440"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "310",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=310&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cairine Wilson",
+          "personId": "10213",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10213"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "259",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=259&mode=",
+      "nominees": [
+        {
+          "name": "Emily Greene Balch",
+          "personId": "651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=651"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Florence Paton",
+          "personId": "7025",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7025"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "712",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=712&mode=",
+      "nominees": [
+        {
+          "name": "Louis Gustave Jean Marie de Brouckère",
+          "personId": "2202",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2202"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "13 Belgian professors of Law (Jurisprudence), History etc.",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "1176",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1176&mode=",
+      "nominees": [
+        {
+          "name": "Count Richard Nicolas Coudenhove-Kalergi",
+          "personId": "1991",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1991"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fernando de Los Rios",
+          "personId": "2257",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2257"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "1151",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1151&mode=",
+      "nominees": [
+        {
+          "name": "Count Richard Nicolas Coudenhove-Kalergi",
+          "personId": "1991",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1991"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Waldo Riva",
+          "personId": "7756",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7756"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "1103",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1103&mode=",
+      "nominees": [
+        {
+          "name": "Count Richard Nicolas Coudenhove-Kalergi",
+          "personId": "1991",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1991"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arnold Zurcher",
+          "personId": "10437",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10437"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "1488",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1488&mode=",
+      "nominees": [
+        {
+          "name": "Henri Hemont",
+          "personId": "4039",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4039"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alexandre Varenne",
+          "personId": "9565",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9565"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "1864",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1864&mode=",
+      "nominees": [
+        {
+          "name": "Herbert Clark Hoover",
+          "personId": "4300",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4300"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Cordell Hull",
+          "personId": "4368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4368"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2319",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2319&mode=",
+      "nominees": [
+        {
+          "name": "Alexandra Mikhaylovna Kollontay",
+          "personId": "4972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "7 members of the Finnish government",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2315",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2315&mode=",
+      "nominees": [
+        {
+          "name": "Alexandra Mikhaylovna Kollontay",
+          "personId": "4972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "23 members of the Norwegian parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2308",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2308&mode=",
+      "nominees": [
+        {
+          "name": "Alexandra Mikhaylovna Kollontay",
+          "personId": "4972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "21 Finnish professors, members of parliament and government",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2299",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2299&mode=",
+      "nominees": [
+        {
+          "name": "Alexandra Mikhaylovna Kollontay",
+          "personId": "4972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harald Åkerberg",
+          "personId": "10452",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10452"
+        },
+        {
+          "name": "A Berg",
+          "personId": "11370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11370"
+        },
+        {
+          "name": "K Westmann",
+          "personId": "11371",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11371"
+        },
+        {
+          "name": "Ture Nerman",
+          "personId": "11372",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11372"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2283",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2283&mode=",
+      "nominees": [
+        {
+          "name": "Alexandra Mikhaylovna Kollontay",
+          "personId": "4972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kerstin Hesselgren",
+          "personId": "4134",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4134"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2244",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2244&mode=",
+      "nominees": [
+        {
+          "name": "Alexandra Mikhaylovna Kollontay",
+          "personId": "4972",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4972"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "17 members of the Swedish parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2622",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2622&mode=",
+      "nominees": [
+        {
+          "name": "John Raleigh Mott",
+          "personId": "6466",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6466"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Members of the Danish parliament and government",
+          "personId": "6136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6136"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2579",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2579&mode=",
+      "nominees": [
+        {
+          "name": "John Raleigh Mott",
+          "personId": "6466",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6466"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "12 members of the Norwegian parliament",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "2913",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2913&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Williams",
+          "personId": "10204",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10204"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Lord Broadbridge",
+          "personId": "5614",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5614"
+        },
+        {
+          "name": "Charles George Ammon (Lord Ammon)",
+          "personId": "11369",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11369"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "3245",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3245&mode=",
+      "nominees": [
+        {
+          "name": "The Permanent International Peace Bureau",
+          "personId": "9173",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9173"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Louis Favre",
+          "personId": "2929",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2929"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "3570",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3570&mode=",
+      "nominees": [
+        {
+          "name": "Union des Associations pour la Société des Nations",
+          "personId": "9448",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9448"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Rolin",
+          "personId": "7824",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7824"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    },
+    {
+      "nominationId": "3933",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3933&mode=",
+      "nominees": [
+        {
+          "name": "Union Belge pour la Société des Nations",
+          "personId": "9447",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9447"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Rolin",
+          "personId": "7824",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7824"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:54+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1946,
+  "economicsProbe": false
+}

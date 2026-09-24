@@ -1,0 +1,405 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945",
+  "statedCount": 18,
+  "parsedCount": 18,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "258",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=258&mode=",
+      "nominees": [
+        {
+          "name": "Edvard Benes",
+          "personId": "862",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=862"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "711",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=711&mode=",
+      "nominees": [
+        {
+          "name": "Winston Leonard Spencer Churchill",
+          "personId": "1797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1797"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "1102",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1102&mode=",
+      "nominees": [
+        {
+          "name": "Anthony Eden",
+          "personId": "2682",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2682"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "1534",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1534&mode=",
+      "nominees": [
+        {
+          "name": "Cordell Hull",
+          "personId": "4368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4368"
+        },
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philip Noel-Baker",
+          "personId": "6735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6735"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "1487",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1487&mode=",
+      "nominees": [
+        {
+          "name": "Cordell Hull",
+          "personId": "4368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "1863",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1863&mode=",
+      "nominees": [
+        {
+          "name": "Maksim Maksimovitch Litvinov",
+          "personId": "5540",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5540"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "2243",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2243&mode=",
+      "nominees": [
+        {
+          "name": "Franklin Delano Roosevelt",
+          "personId": "7856",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7856"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "2578",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2578&mode=",
+      "nominees": [
+        {
+          "name": "Jan Christian Smuts",
+          "personId": "8625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8625"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "2912",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2912&mode=",
+      "nominees": [
+        {
+          "name": "Joseph Vissarionovitch Stalin",
+          "personId": "8722",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8722"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Halvdan Koht",
+          "personId": "4963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3310",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3310&mode=",
+      "nominees": [
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        },
+        {
+          "name": "The Norwegian Committee of the Red Cross",
+          "personId": "9164",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9164"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martin Tranmæl (Tranmal)",
+          "personId": "9329",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9329"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3306",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3306&mode=",
+      "nominees": [
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        },
+        {
+          "name": "Cordell Hull",
+          "personId": "4368",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4368"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Philip Noel-Baker",
+          "personId": "6735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6735"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3299",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3299&mode=",
+      "nominees": [
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        },
+        {
+          "name": "The Swedish Committee of the Red Cross",
+          "personId": "9186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9186"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dag Hjalmar Agne Carl Hammarskjöld",
+          "personId": "3843",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3843"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3285",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3285&mode=",
+      "nominees": [
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        },
+        {
+          "name": "The Swedish Committee of the Red Cross",
+          "personId": "9186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9186"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Birger Ekeberg",
+          "personId": "2736",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2736"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3244",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3244&mode=",
+      "nominees": [
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        },
+        {
+          "name": "The Norwegian Committee of the Red Cross",
+          "personId": "9164",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9164"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frede Castberg",
+          "personId": "1651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1651"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3607",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3607&mode=",
+      "nominees": [
+        {
+          "name": "The Norwegian Committee of the Red Cross",
+          "personId": "9164",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9164"
+        },
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Martin Tranmæl (Tranmal)",
+          "personId": "9329",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9329"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3569",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3569&mode=",
+      "nominees": [
+        {
+          "name": "The Norwegian Committee of the Red Cross",
+          "personId": "9164",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9164"
+        },
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frede Castberg",
+          "personId": "1651",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1651"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3966",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3966&mode=",
+      "nominees": [
+        {
+          "name": "The Swedish Committee of the Red Cross",
+          "personId": "9186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9186"
+        },
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dag Hjalmar Agne Carl Hammarskjöld",
+          "personId": "3843",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3843"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    },
+    {
+      "nominationId": "3932",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3932&mode=",
+      "nominees": [
+        {
+          "name": "The Swedish Committee of the Red Cross",
+          "personId": "9186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9186"
+        },
+        {
+          "name": "The International Committee of the Red Cross",
+          "personId": "9141",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9141"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Birger Ekeberg",
+          "personId": "2736",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2736"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1945"
+    }
+  ],
+  "retrievedAt": "2026-09-24T01:00:53+00:00",
+  "httpStatus": 200,
+  "category": "peace",
+  "year": 1945,
+  "economicsProbe": false
+}

@@ -1,0 +1,693 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954",
+  "statedCount": 35,
+  "parsedCount": 35,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "16451",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16451&mode=",
+      "nominees": [
+        {
+          "name": "Franz Hellens",
+          "personId": "4029",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4029"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Carner-Noulet",
+          "personId": "12070",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12070"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16452",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16452&mode=",
+      "nominees": [
+        {
+          "name": "Mark Aldanov (Landau)",
+          "personId": "356",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=356"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Samson Soloveitchik",
+          "personId": "12071",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12071"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17668",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17668&mode=",
+      "nominees": [
+        {
+          "name": "Ricardo Rojas",
+          "personId": "12072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A number of learned societies and individuals",
+          "personId": "12158",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12158"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17667",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17667&mode=",
+      "nominees": [
+        {
+          "name": "Ricardo Rojas",
+          "personId": "12072",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12072"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16454",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16454&mode=",
+      "nominees": [
+        {
+          "name": "Ramón Menéndez Pidal",
+          "personId": "6178",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6178"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gunnar Tilander",
+          "personId": "9270",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9270"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16455",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16455&mode=",
+      "nominees": [
+        {
+          "name": "Gustave Vanzype",
+          "personId": "12073",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12073"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustave Charlier",
+          "personId": "1726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1726"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17675",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17675&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jón Helgason",
+          "personId": "4027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4027"
+        },
+        {
+          "name": "Sigurdur Nordal",
+          "personId": "6749",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6749"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17673",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17673&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Kemp Malone",
+          "personId": "12077",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12077"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17672",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17672&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Steingrimúr Thorsteinsson",
+          "personId": "12066",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12066"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17671",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17671&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Kuhn",
+          "personId": "12075",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12075"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17670",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17670&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E.O. Turville-Petre",
+          "personId": "12074",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12074"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17669",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17669&mode=",
+      "nominees": [
+        {
+          "name": "Halldór Kiljan Laxness",
+          "personId": "5292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5292"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Wilhelm Ludvig Bernadotte (Prins Wilhelm)",
+          "personId": "12011",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12011"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16457",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16457&mode=",
+      "nominees": [
+        {
+          "name": "Tarjei Vesaas",
+          "personId": "9629",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9629"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigmund Skard",
+          "personId": "12027",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12027"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16458",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16458&mode=",
+      "nominees": [
+        {
+          "name": "Concha Espina de la Serna",
+          "personId": "2838",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacinto Benavente",
+          "personId": "845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16459",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16459&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Hemingway",
+          "personId": "4037",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4037"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leo von Hibler",
+          "personId": "12078",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12078"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16460",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16460&mode=",
+      "nominees": [
+        {
+          "name": "Riccardo Bacchelli",
+          "personId": "600",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=600"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "The National Academy of Lincei (Accademia Nazionale dei Lincei)",
+          "personId": "12151",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12151"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16461",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16461&mode=",
+      "nominees": [
+        {
+          "name": "Henriette Charasson",
+          "personId": "1724",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1724"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pierre Moreau",
+          "personId": "6409",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6409"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16462",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16462&mode=",
+      "nominees": [
+        {
+          "name": "Max Mell",
+          "personId": "12065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12065"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Academy of Sciences (Academie der Wissenschaften)",
+          "personId": "12154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12154"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16463",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16463&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Seifert",
+          "personId": "12079",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12079"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Prazák",
+          "personId": "12080",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12080"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16464",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16464&mode=",
+      "nominees": [
+        {
+          "name": "Georges Vouyouklatis",
+          "personId": "12081",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12081"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Writers Association of the Hellenes",
+          "personId": "12159",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12159"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16465",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16465&mode=",
+      "nominees": [
+        {
+          "name": "Georges André Malraux",
+          "personId": "5850",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5850"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georges Blin",
+          "personId": "12082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12082"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17677",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17677&mode=",
+      "nominees": [
+        {
+          "name": "Edward Morgan Forster",
+          "personId": "3128",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3128"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Ronald Reuel Tolkien",
+          "personId": "12084",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12084"
+        },
+        {
+          "name": "David Cecil (Lord)",
+          "personId": "12083",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12083"
+        },
+        {
+          "name": "F Wilson",
+          "personId": "13683",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=13683"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16467",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16467&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Heiberg",
+          "personId": "3992",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3992"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17679",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17679&mode=",
+      "nominees": [
+        {
+          "name": "Gottfried Benn",
+          "personId": "12067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12067"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Alker",
+          "personId": "12086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12086"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17678",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17678&mode=",
+      "nominees": [
+        {
+          "name": "Gottfried Benn",
+          "personId": "12067",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12067"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Malmberg",
+          "personId": "12085",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12085"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16469",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16469&mode=",
+      "nominees": [
+        {
+          "name": "Rudolf Kassner",
+          "personId": "4726",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4726"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Alker",
+          "personId": "12086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12086"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16470",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16470&mode=",
+      "nominees": [
+        {
+          "name": "Carl Jung",
+          "personId": "4661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4661"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Alker",
+          "personId": "12086",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12086"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16471",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16471&mode=",
+      "nominees": [
+        {
+          "name": "Juan Ramón Jiménez",
+          "personId": "12036",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12036"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Martinson",
+          "personId": "5958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5958"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17681",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17681&mode=",
+      "nominees": [
+        {
+          "name": "Albert Camus",
+          "personId": "1572",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1572"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harry Martinson",
+          "personId": "5958",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5958"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "17680",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=17680&mode=",
+      "nominees": [
+        {
+          "name": "Albert Camus",
+          "personId": "1572",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1572"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Birger Ekeberg",
+          "personId": "2736",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2736"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16473",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16473&mode=",
+      "nominees": [
+        {
+          "name": "Robert Frost",
+          "personId": "3248",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3248"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Selander",
+          "personId": "12088",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12088"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16474",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16474&mode=",
+      "nominees": [
+        {
+          "name": "Nikos Kazantzakis",
+          "personId": "4747",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4747"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Olsson",
+          "personId": "6859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6859"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16475",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16475&mode=",
+      "nominees": [
+        {
+          "name": "Herman Teirlinck",
+          "personId": "9033",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9033"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Flemish Academy for Language and Literature",
+          "personId": "12160",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12160"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16476",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16476&mode=",
+      "nominees": [
+        {
+          "name": "Julien Benda",
+          "personId": "12051",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12051"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Holger Sten",
+          "personId": "8770",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8770"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    },
+    {
+      "nominationId": "16477",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16477&mode=",
+      "nominees": [
+        {
+          "name": "Martin Buber",
+          "personId": "1421",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1421"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Strich",
+          "personId": "8370",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8370"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1954"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:54+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1954,
+  "economicsProbe": false
+}

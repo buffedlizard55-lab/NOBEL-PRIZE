@@ -1,0 +1,731 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926",
+  "statedCount": 37,
+  "parsedCount": 37,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "73",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=73&mode=",
+      "nominees": [
+        {
+          "name": "John Abel",
+          "personId": "287",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=287"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Walcott",
+          "personId": "9936",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9936"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "526",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=526&mode=",
+      "nominees": [
+        {
+          "name": "Angelo Angeli",
+          "personId": "446",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=446"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Livio Cambi",
+          "personId": "1552",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1552"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "917",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=917&mode=",
+      "nominees": [
+        {
+          "name": "Carl Bosch",
+          "personId": "1198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1198"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hermann Ost",
+          "personId": "6909",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6909"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "1304",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1304&mode=",
+      "nominees": [
+        {
+          "name": "Hans von Euler-Chelpin",
+          "personId": "9751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9751"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ossian Aschan",
+          "personId": "521",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=521"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "1680",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1680&mode=",
+      "nominees": [
+        {
+          "name": "Hans von Euler-Chelpin",
+          "personId": "9751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9751"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Planck",
+          "personId": "7283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7283"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "2057",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2057&mode=",
+      "nominees": [
+        {
+          "name": "Hans von Euler-Chelpin",
+          "personId": "9751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9751"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Richard Willstätter",
+          "personId": "10210",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10210"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "2395",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2395&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Foerster",
+          "personId": "3082",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3082"
+        },
+        {
+          "name": "Heinrich Otto Wieland",
+          "personId": "10166",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10166"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Plate",
+          "personId": "7285",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7285"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "2729",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2729&mode=",
+      "nominees": [
+        {
+          "name": "Casimir Funk",
+          "personId": "3272",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3272"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigurd Orla-Jensen",
+          "personId": "6882",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6882"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "3065",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3065&mode=",
+      "nominees": [
+        {
+          "name": "Piero Ginori-Conti",
+          "personId": "3457",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3457"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Sabatier",
+          "personId": "8017",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8017"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "3389",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3389&mode=",
+      "nominees": [
+        {
+          "name": "Henry Le Châtelier",
+          "personId": "5302",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5302"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eyvind Bödtker",
+          "personId": "1513",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1513"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "3750",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3750&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Campbell",
+          "personId": "1568",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1568"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "4069",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4069&mode=",
+      "nominees": [
+        {
+          "name": "Giuseppe Oddo",
+          "personId": "6821",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6821"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bernardo Oddo",
+          "personId": "6819",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6819"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "4413",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4413&mode=",
+      "nominees": [
+        {
+          "name": "Paul Pascal",
+          "personId": "7007",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7007"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Le Châtelier",
+          "personId": "5302",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5302"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "4752",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4752&mode=",
+      "nominees": [
+        {
+          "name": "Jean Perrin",
+          "personId": "7136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7136"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Appell",
+          "personId": "465",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=465"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "5066",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5066&mode=",
+      "nominees": [
+        {
+          "name": "Jean Perrin",
+          "personId": "7136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7136"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Painlevé",
+          "personId": "6950",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6950"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "5386",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5386&mode=",
+      "nominees": [
+        {
+          "name": "Gustav Tammann",
+          "personId": "8998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8998"
+        },
+        {
+          "name": "Jean Perrin",
+          "personId": "7136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7136"
+        },
+        {
+          "name": "Theodor Svedberg",
+          "personId": "8915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8915"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walther Nernst",
+          "personId": "6650",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6650"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "5724",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5724&mode=",
+      "nominees": [
+        {
+          "name": "Amé Pictet",
+          "personId": "7233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fritz Fichter",
+          "personId": "2980",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2980"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "6018",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6018&mode=",
+      "nominees": [
+        {
+          "name": "Amé Pictet",
+          "personId": "7233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Ruggli",
+          "personId": "7965",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7965"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "6361",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6361&mode=",
+      "nominees": [
+        {
+          "name": "Amé Pictet",
+          "personId": "7233",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7233"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Rupe",
+          "personId": "7975",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7975"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "6687",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6687&mode=",
+      "nominees": [
+        {
+          "name": "Gustav Tammann",
+          "personId": "8998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8998"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Biltz",
+          "personId": "1019",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1019"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "6992",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6992&mode=",
+      "nominees": [
+        {
+          "name": "Gustav Tammann",
+          "personId": "8998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8998"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hermann Braune",
+          "personId": "1303",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1303"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "7261",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7261&mode=",
+      "nominees": [
+        {
+          "name": "Gustav Tammann",
+          "personId": "8998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8998"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Seubert",
+          "personId": "8423",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8423"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "7504",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7504&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Bohuslav Brauner",
+          "personId": "1304",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1304"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "7739",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7739&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georges Dupont",
+          "personId": "2605",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2605"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "8028",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8028&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Victor Grignard",
+          "personId": "3649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3649"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "8261",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8261&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jacques Hadamard",
+          "personId": "3765",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3765"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "8495",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8495&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "8778",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8778&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frantisek Plzák",
+          "personId": "7302",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7302"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "8962",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8962&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "A Richard",
+          "personId": "7699",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7699"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "9121",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9121&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jan Sterba-Böhm",
+          "personId": "8777",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8777"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "9299",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9299&mode=",
+      "nominees": [
+        {
+          "name": "Georges Urbain",
+          "personId": "9458",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9458"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Viktorin Vojtech",
+          "personId": "9700",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9700"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "9481",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9481&mode=",
+      "nominees": [
+        {
+          "name": "Heinrich Otto Wieland",
+          "personId": "10166",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10166"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Lecher",
+          "personId": "5325",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5325"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "9616",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9616&mode=",
+      "nominees": [
+        {
+          "name": "Heinrich Otto Wieland",
+          "personId": "10166",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10166"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Schwarz",
+          "personId": "8282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8282"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "9773",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9773&mode=",
+      "nominees": [
+        {
+          "name": "Adolf Windaus",
+          "personId": "10241",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10241"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Otto Wieland",
+          "personId": "10166",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10166"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "9907",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9907&mode=",
+      "nominees": [
+        {
+          "name": "Richard Zsigmondy",
+          "personId": "10428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georg Meyer",
+          "personId": "6231",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6231"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "10036",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10036&mode=",
+      "nominees": [
+        {
+          "name": "Richard Zsigmondy",
+          "personId": "10428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Viktor Rothmund",
+          "personId": "7913",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7913"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    },
+    {
+      "nominationId": "10152",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10152&mode=",
+      "nominees": [
+        {
+          "name": "Richard Zsigmondy",
+          "personId": "10428",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10428"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Theodor Svedberg",
+          "personId": "8915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8915"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:20+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1926,
+  "economicsProbe": false
+}

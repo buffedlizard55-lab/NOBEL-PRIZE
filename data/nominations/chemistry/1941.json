@@ -1,0 +1,500 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941",
+  "statedCount": 23,
+  "parsedCount": 23,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "88",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=88&mode=",
+      "nominees": [
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arne Westgren",
+          "personId": "10109",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10109"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "541",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=541&mode=",
+      "nominees": [
+        {
+          "name": "Vladimir Ipatieff",
+          "personId": "4482",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4482"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georges Dupont",
+          "personId": "2605",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2605"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "931",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=931&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Kögl",
+          "personId": "5118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5118"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Julius Wagner-Jauregg",
+          "personId": "9927",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9927"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "1319",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1319&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Owen Richardson",
+          "personId": "7710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "16076",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16076&mode=",
+      "nominees": [
+        {
+          "name": "Paul Niggli",
+          "personId": "6696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6696"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Werder",
+          "personId": "11818",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11818"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "16075",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16075&mode=",
+      "nominees": [
+        {
+          "name": "Paul Niggli",
+          "personId": "6696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6696"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "R Signer",
+          "personId": "11817",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11817"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "16074",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16074&mode=",
+      "nominees": [
+        {
+          "name": "Paul Niggli",
+          "personId": "6696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6696"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Flatt",
+          "personId": "3048",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3048"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "1694",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1694&mode=",
+      "nominees": [
+        {
+          "name": "Paul Niggli",
+          "personId": "6696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6696"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Feitknecht",
+          "personId": "2944",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2944"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "2072",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2072&mode=",
+      "nominees": [
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harlow Shapley",
+          "personId": "8473",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8473"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "2596",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2596&mode=",
+      "nominees": [
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Andrew Hunter",
+          "personId": "4377",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4377"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "2524",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2524&mode=",
+      "nominees": [
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hermann Fischer",
+          "personId": "3029",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3029"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "2743",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2743&mode=",
+      "nominees": [
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Albert Imre Szent-Györgyi",
+          "personId": "14649",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=14649"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "3080",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3080&mode=",
+      "nominees": [
+        {
+          "name": "Albert Portevin",
+          "personId": "7361",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7361"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Georges Léon Chaudron",
+          "personId": "1746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1746"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "3403",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3403&mode=",
+      "nominees": [
+        {
+          "name": "Hermann Staudinger",
+          "personId": "8746",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8746"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Costin Nenitzescu",
+          "personId": "6646",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6646"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "3764",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3764&mode=",
+      "nominees": [
+        {
+          "name": "Donald van Slyke",
+          "personId": "9549",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9549"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Clara Benson",
+          "personId": "883",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=883"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "4084",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4084&mode=",
+      "nominees": [
+        {
+          "name": "Artturi Virtanen",
+          "personId": "9668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9668"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans von Euler-Chelpin",
+          "personId": "9751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9751"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "4428",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4428&mode=",
+      "nominees": [
+        {
+          "name": "Artturi Virtanen",
+          "personId": "9668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9668"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Niilo Toivonen",
+          "personId": "9296",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9296"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "4767",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4767&mode=",
+      "nominees": [
+        {
+          "name": "George de Hevesy",
+          "personId": "2235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2235"
+        },
+        {
+          "name": "Rudolf Schoenheimer",
+          "personId": "8227",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8227"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Harold Clayton Urey",
+          "personId": "9461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9461"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "5081",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5081&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        },
+        {
+          "name": "Fritz Kögl",
+          "personId": "5118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5118"
+        },
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leopold Ruzicka",
+          "personId": "7994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7994"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "5401",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5401&mode=",
+      "nominees": [
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        },
+        {
+          "name": "James Sumner",
+          "personId": "8895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8895"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Tileston Edsall",
+          "personId": "2693",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2693"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "5739",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5739&mode=",
+      "nominees": [
+        {
+          "name": "James Sumner",
+          "personId": "8895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8895"
+        },
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        },
+        {
+          "name": "Moses Kunitz",
+          "personId": "5093",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5093"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edwin Cohn",
+          "personId": "1872",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1872"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "6032",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6032&mode=",
+      "nominees": [
+        {
+          "name": "James Sumner",
+          "personId": "8895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8895"
+        },
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        },
+        {
+          "name": "Moses Kunitz",
+          "personId": "5093",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5093"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ronald Ferry",
+          "personId": "2971",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2971"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    },
+    {
+      "nominationId": "6375",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6375&mode=",
+      "nominees": [
+        {
+          "name": "Wendell Stanley",
+          "personId": "8731",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8731"
+        },
+        {
+          "name": "Otto Hahn",
+          "personId": "3787",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3787"
+        },
+        {
+          "name": "Lise Meitner",
+          "personId": "6097",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6097"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frans Jaeger",
+          "personId": "4533",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4533"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1941"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:32+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1941,
+  "economicsProbe": false
+}

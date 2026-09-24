@@ -1,0 +1,1259 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934",
+  "statedCount": 54,
+  "parsedCount": 54,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "33",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=33&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Robert Millikan",
+          "personId": "6292",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6292"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "485",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=485&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giulio Dalla Noce",
+          "personId": "2115",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2115"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "880",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=880&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Quirino Majorana",
+          "personId": "5829",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5829"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "1261",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1261&mode=",
+      "nominees": [
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        },
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Giorgio Todesco",
+          "personId": "9291",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9291"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "1920",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1920&mode=",
+      "nominees": [
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        },
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        },
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustav Jäger",
+          "personId": "4668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4668"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "1877",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1877&mode=",
+      "nominees": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        },
+        {
+          "name": "Walter Gerlach",
+          "personId": "3398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3398"
+        },
+        {
+          "name": "Frédéric Joliot",
+          "personId": "4613",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4613"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustav Jäger",
+          "personId": "4668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4668"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "1798",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1798&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustav Jäger",
+          "personId": "4668",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4668"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2288",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2288&mode=",
+      "nominees": [
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        },
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        },
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stefan Meyer",
+          "personId": "6243",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6243"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2258",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2258&mode=",
+      "nominees": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        },
+        {
+          "name": "Walter Gerlach",
+          "personId": "3398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3398"
+        },
+        {
+          "name": "Frédéric Joliot",
+          "personId": "4613",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4613"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stefan Meyer",
+          "personId": "6243",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6243"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2184",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2184&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stefan Meyer",
+          "personId": "6243",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6243"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2625",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2625&mode=",
+      "nominees": [
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        },
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        },
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Egon von Schweidler",
+          "personId": "9859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9859"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2593",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2593&mode=",
+      "nominees": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        },
+        {
+          "name": "Walter Gerlach",
+          "personId": "3398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3398"
+        },
+        {
+          "name": "Frédéric Joliot",
+          "personId": "4613",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4613"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Egon von Schweidler",
+          "personId": "9859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9859"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2521",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2521&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Egon von Schweidler",
+          "personId": "9859",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9859"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2953",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2953&mode=",
+      "nominees": [
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        },
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        },
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Thirring",
+          "personId": "9221",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9221"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2926",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2926&mode=",
+      "nominees": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        },
+        {
+          "name": "Walter Gerlach",
+          "personId": "3398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3398"
+        },
+        {
+          "name": "Frédéric Joliot",
+          "personId": "4613",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4613"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Thirring",
+          "personId": "9221",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9221"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "2852",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2852&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        },
+        {
+          "name": "Carl Anderson",
+          "personId": "427",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=427"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Thirring",
+          "personId": "9221",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9221"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "3288",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3288&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dirk Coster",
+          "personId": "1980",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1980"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "3256",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3256&mode=",
+      "nominees": [
+        {
+          "name": "Walter Gerlach",
+          "personId": "3398",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3398"
+        },
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dirk Coster",
+          "personId": "1980",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1980"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "3188",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3188&mode=",
+      "nominees": [
+        {
+          "name": "Wolfgang Pauli",
+          "personId": "7042",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7042"
+        },
+        {
+          "name": "Max Born",
+          "personId": "1186",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1186"
+        },
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dirk Coster",
+          "personId": "1980",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1980"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "3582",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3582&mode=",
+      "nominees": [
+        {
+          "name": "Aimé Cotton",
+          "personId": "1989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1989"
+        },
+        {
+          "name": "Pierre Weiss",
+          "personId": "10065",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10065"
+        },
+        {
+          "name": "Paul Langevin",
+          "personId": "5223",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5223"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Perrin",
+          "personId": "7136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7136"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "3514",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3514&mode=",
+      "nominees": [
+        {
+          "name": "Walther Bothe",
+          "personId": "1209",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1209"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jean Perrin",
+          "personId": "7136",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7136"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "3709",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3709&mode=",
+      "nominees": [
+        {
+          "name": "Ira Bowen",
+          "personId": "1255",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1255"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Fowler",
+          "personId": "3145",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3145"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "4028",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4028&mode=",
+      "nominees": [
+        {
+          "name": "Ferdinand Brickwedde",
+          "personId": "1331",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1331"
+        },
+        {
+          "name": "George Murphy",
+          "personId": "6524",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6524"
+        },
+        {
+          "name": "Harold Clayton Urey",
+          "personId": "9461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9461"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frank Horton",
+          "personId": "4314",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4314"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "4372",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4372&mode=",
+      "nominees": [
+        {
+          "name": "Percy Bridgman",
+          "personId": "1336",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1336"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Herman Farwell",
+          "personId": "2916",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2916"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "4712",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4712&mode=",
+      "nominees": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Lees",
+          "personId": "5339",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5339"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "5026",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5026&mode=",
+      "nominees": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        },
+        {
+          "name": "Frédéric Joliot",
+          "personId": "4613",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4613"
+        },
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Reinhold Fürth",
+          "personId": "3282",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3282"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "5347",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5347&mode=",
+      "nominees": [
+        {
+          "name": "James Chadwick",
+          "personId": "1697",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1697"
+        },
+        {
+          "name": "Frédéric Joliot",
+          "personId": "4613",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4613"
+        },
+        {
+          "name": "Irène Joliot-Curie",
+          "personId": "4615",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4615"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hantaro Nagaoka",
+          "personId": "6592",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6592"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "5687",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5687&mode=",
+      "nominees": [
+        {
+          "name": "Aimé Cotton",
+          "personId": "1989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1989"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henri Buisson",
+          "personId": "1438",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1438"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "5981",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5981&mode=",
+      "nominees": [
+        {
+          "name": "Aimé Cotton",
+          "personId": "1989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1989"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Guillaume",
+          "personId": "3710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "6327",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6327&mode=",
+      "nominees": [
+        {
+          "name": "Aimé Cotton",
+          "personId": "1989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1989"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Charles Guye",
+          "personId": "3735",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3735"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "6656",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6656&mode=",
+      "nominees": [
+        {
+          "name": "Aimé Cotton",
+          "personId": "1989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1989"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Václav Posejpal",
+          "personId": "7364",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7364"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "6962",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6962&mode=",
+      "nominees": [
+        {
+          "name": "Aimé Cotton",
+          "personId": "1989",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1989"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pierre Sève",
+          "personId": "8424",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8424"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "7231",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7231&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Edward Appleton",
+          "personId": "469",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=469"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "7476",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7476&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Owen Richardson",
+          "personId": "7710",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7710"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "7714",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7714&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Prince Louis-Victor de Broglie",
+          "personId": "2200",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2200"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "8003",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8003&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Maurice de Broglie",
+          "personId": "2198",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2198"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "8239",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8239&mode=",
+      "nominees": [
+        {
+          "name": "Clinton Davisson",
+          "personId": "2170",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2170"
+        },
+        {
+          "name": "Lester Halbert Germer",
+          "personId": "3400",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3400"
+        },
+        {
+          "name": "George Paget Thomson",
+          "personId": "9242",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9242"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Erwin Schrödinger",
+          "personId": "8240",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8240"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "8472",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8472&mode=",
+      "nominees": [
+        {
+          "name": "Arthur Eddington",
+          "personId": "2680",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2680"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Joseph Petavel",
+          "personId": "7150",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7150"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "8756",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8756&mode=",
+      "nominees": [
+        {
+          "name": "Gustaf Elmen",
+          "personId": "2767",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2767"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Henry Osborn",
+          "personId": "6901",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6901"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "8943",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8943&mode=",
+      "nominees": [
+        {
+          "name": "John Fleming",
+          "personId": "3060",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3060"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "W Clinton",
+          "personId": "1848",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1848"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "9106",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9106&mode=",
+      "nominees": [
+        {
+          "name": "George Hale",
+          "personId": "3795",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3795"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Flinders Petrie",
+          "personId": "3066",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3066"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "9284",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9284&mode=",
+      "nominees": [
+        {
+          "name": "Arnold Sommerfeld",
+          "personId": "8661",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8661"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ludwig Plate",
+          "personId": "7285",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7285"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "9468",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9468&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Raymond Birge",
+          "personId": "1037",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1037"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "9604",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9604&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Niels Bohr",
+          "personId": "1118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1118"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "9762",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9762&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "William Campbell",
+          "personId": "1568",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1568"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "9898",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=9898&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Adolf Deissmann",
+          "personId": "2331",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2331"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "10028",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10028&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oskar Benjamin Klein",
+          "personId": "4889",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4889"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "10144",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10144&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max von Laue",
+          "personId": "9807",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9807"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "10262",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10262&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leonard Loeb",
+          "personId": "5573",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5573"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "10363",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10363&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Max Planck",
+          "personId": "7283",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7283"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "10471",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10471&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Peter Pringsheim",
+          "personId": "7424",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7424"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "10555",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10555&mode=",
+      "nominees": [
+        {
+          "name": "Otto Stern",
+          "personId": "8779",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8779"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Chandrasekhara Raman",
+          "personId": "7540",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7540"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "10642",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10642&mode=",
+      "nominees": [
+        {
+          "name": "Carl Störmer",
+          "personId": "8873",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8873"
+        },
+        {
+          "name": "Lars Vegard",
+          "personId": "9579",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9579"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alfred Kalähne",
+          "personId": "4696",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4696"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    },
+    {
+      "nominationId": "10721",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=10721&mode=",
+      "nominees": [
+        {
+          "name": "Giancarlo Vallauri",
+          "personId": "9503",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9503"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Guglielmo Marconi",
+          "personId": "5901",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5901"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1934"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:56:27+00:00",
+  "httpStatus": 200,
+  "category": "physics",
+  "year": 1934,
+  "economicsProbe": false
+}

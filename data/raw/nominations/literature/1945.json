@@ -1,0 +1,455 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945",
+  "statedCount": 23,
+  "parsedCount": 23,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "188",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=188&mode=",
+      "nominees": [
+        {
+          "name": "Charles-Ferdinand Ramuz",
+          "personId": "7553",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7553"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Marcel Raymond",
+          "personId": "7588",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7588"
+        },
+        {
+          "name": "Professors",
+          "personId": null,
+          "url": null
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "641",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=641&mode=",
+      "nominees": [
+        {
+          "name": "Elisabet Bagriana",
+          "personId": "625",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=625"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Stefan Mladenov",
+          "personId": "6341",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6341"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "1029",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1029&mode=",
+      "nominees": [
+        {
+          "name": "Maria Madalena de Martel Patrício",
+          "personId": "5938",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5938"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "António Baião",
+          "personId": "627",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=627"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "1421",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1421&mode=",
+      "nominees": [
+        {
+          "name": "Jules Romains",
+          "personId": "7836",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7836"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Holger Sten",
+          "personId": "8770",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8770"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "1896",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1896&mode=",
+      "nominees": [
+        {
+          "name": "Franz Werfel",
+          "personId": "10083",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10083"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ragnar Josephson",
+          "personId": "12687",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=12687"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "1822",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1822&mode=",
+      "nominees": [
+        {
+          "name": "Franz Werfel",
+          "personId": "10083",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10083"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Landquist",
+          "personId": "5202",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5202"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "1790",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1790&mode=",
+      "nominees": [
+        {
+          "name": "Franz Werfel",
+          "personId": "10083",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10083"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Arthur Berendsohn",
+          "personId": "890",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=890"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "2175",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2175&mode=",
+      "nominees": [
+        {
+          "name": "Edmund Blunden",
+          "personId": "1092",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1092"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Heinrich Donner",
+          "personId": "2511",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2511"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "2605",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2605&mode=",
+      "nominees": [
+        {
+          "name": "Paul Valéry",
+          "personId": "9496",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9496"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Österling",
+          "personId": "10460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10460"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "2536",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2536&mode=",
+      "nominees": [
+        {
+          "name": "Paul Valéry",
+          "personId": "9496",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9496"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigfrid Siwertz",
+          "personId": "8564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8564"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "2512",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2512&mode=",
+      "nominees": [
+        {
+          "name": "Paul Valéry",
+          "personId": "9496",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9496"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Fredrik Böök",
+          "personId": "1518",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1518"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "2844",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2844&mode=",
+      "nominees": [
+        {
+          "name": "Johan Falkberget",
+          "personId": "2906",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2906"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Eugenia Kielland",
+          "personId": "4830",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4830"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "3181",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3181&mode=",
+      "nominees": [
+        {
+          "name": "Gabriela (Lucile) Mistral (Godoy y Alcayaga)",
+          "personId": "6323",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6323"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Elin Wägner",
+          "personId": "10337",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10337"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "3506",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3506&mode=",
+      "nominees": [
+        {
+          "name": "Marie Under",
+          "personId": "9443",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9443"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ants Oras",
+          "personId": "6875",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6875"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "3866",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3866&mode=",
+      "nominees": [
+        {
+          "name": "Arvid Mörne",
+          "personId": "6575",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6575"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustav Suits",
+          "personId": "8887",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8887"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "4185",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4185&mode=",
+      "nominees": [
+        {
+          "name": "Nikolaj Berdyayev",
+          "personId": "888",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=888"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Alf Nyman",
+          "personId": "6799",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6799"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "4529",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4529&mode=",
+      "nominees": [
+        {
+          "name": "Georgios Theotokas",
+          "personId": "9209",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9209"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Sigfrid Siwertz",
+          "personId": "8564",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8564"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "4866",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4866&mode=",
+      "nominees": [
+        {
+          "name": "Georges Duhamel",
+          "personId": "2581",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2581"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Knut Hjalmar Leonard Hammarskjöld",
+          "personId": "3845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "5199",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5199&mode=",
+      "nominees": [
+        {
+          "name": "Johan Huizinga",
+          "personId": "4364",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4364"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Willem Jan Mari van Eysinga",
+          "personId": "2876",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2876"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "5184",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5184&mode=",
+      "nominees": [
+        {
+          "name": "Johan Huizinga",
+          "personId": "4364",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4364"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Knut Hjalmar Leonard Hammarskjöld",
+          "personId": "3845",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3845"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "5500",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5500&mode=",
+      "nominees": [
+        {
+          "name": "Thomas Eliot",
+          "personId": "2757",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2757"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Anders Österling",
+          "personId": "10460",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10460"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "5837",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5837&mode=",
+      "nominees": [
+        {
+          "name": "Edward Morgan Forster",
+          "personId": "3128",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3128"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Greta Hedin",
+          "personId": "3980",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3980"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    },
+    {
+      "nominationId": "6128",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6128&mode=",
+      "nominees": [
+        {
+          "name": "John Steinbeck",
+          "personId": "8766",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8766"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Gustaf Munthe",
+          "personId": "6518",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6518"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:59:47+00:00",
+  "httpStatus": 200,
+  "category": "literature",
+  "year": 1945,
+  "economicsProbe": false
+}

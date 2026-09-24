@@ -1,0 +1,679 @@
+{
+  "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940",
+  "statedCount": 34,
+  "parsedCount": 34,
+  "countMatchesStated": true,
+  "nominations": [
+    {
+      "nominationId": "87",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=87&mode=",
+      "nominees": [
+        {
+          "name": "Victor Goldschmidt",
+          "personId": "3520",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3520"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Odd Hassel",
+          "personId": "3933",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3933"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "540",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=540&mode=",
+      "nominees": [
+        {
+          "name": "Moses Gomberg",
+          "personId": "3531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3531"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Roger Adams",
+          "personId": "305",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=305"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "930",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=930&mode=",
+      "nominees": [
+        {
+          "name": "Moses Gomberg",
+          "personId": "3531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3531"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Arthur Buswell",
+          "personId": "1484",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1484"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "1318",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1318&mode=",
+      "nominees": [
+        {
+          "name": "Moses Gomberg",
+          "personId": "3531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3531"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Reynold Fuson",
+          "personId": "3277",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3277"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "1693",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=1693&mode=",
+      "nominees": [
+        {
+          "name": "Moses Gomberg",
+          "personId": "3531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3531"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "B Hopkins",
+          "personId": "4301",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4301"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "2071",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2071&mode=",
+      "nominees": [
+        {
+          "name": "Moses Gomberg",
+          "personId": "3531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3531"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Donald Keyes",
+          "personId": "4815",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4815"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "2408",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2408&mode=",
+      "nominees": [
+        {
+          "name": "Moses Gomberg",
+          "personId": "3531",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3531"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Carl Marvel",
+          "personId": "5963",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5963"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "2742",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=2742&mode=",
+      "nominees": [
+        {
+          "name": "George de Hevesy",
+          "personId": "2235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2235"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Francis Aston",
+          "personId": "546",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=546"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "3079",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3079&mode=",
+      "nominees": [
+        {
+          "name": "George de Hevesy",
+          "personId": "2235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2235"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Wilhelm Palmaer",
+          "personId": "6960",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6960"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "3402",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3402&mode=",
+      "nominees": [
+        {
+          "name": "George de Hevesy",
+          "personId": "2235",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2235"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Theodor Svedberg",
+          "personId": "8915",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8915"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "3949",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3949&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Oldrich Tomicek",
+          "personId": "9305",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9305"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "3877",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=3877&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Frantisek Plzák",
+          "personId": "7302",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7302"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "16029",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16029&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Emil Votocek",
+          "personId": "9905",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9905"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "16028",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16028&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "E Svagr",
+          "personId": "10722",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10722"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "16027",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16027&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "J Milbauer",
+          "personId": "10716",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10716"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "16026",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16026&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "V Krepelka",
+          "personId": "11797",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11797"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "16025",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=16025&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "C Krauz",
+          "personId": "11796",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=11796"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "4083",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4083&mode=",
+      "nominees": [
+        {
+          "name": "Jaroslav Heyrovský",
+          "personId": "4154",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4154"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Jaroslav Chloupek",
+          "personId": "1778",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1778"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "4427",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4427&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Kögl",
+          "personId": "5118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5118"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans von Euler-Chelpin",
+          "personId": "9751",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9751"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "4766",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=4766&mode=",
+      "nominees": [
+        {
+          "name": "Gilbert Lewis",
+          "personId": "5441",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5441"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Christopher Kelk Ingold",
+          "personId": "4461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4461"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "5080",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5080&mode=",
+      "nominees": [
+        {
+          "name": "John Northrop",
+          "personId": "6764",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6764"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "James Sumner",
+          "personId": "8895",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8895"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "5400",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5400&mode=",
+      "nominees": [
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "John Kirkwood",
+          "personId": "4861",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4861"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "5738",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=5738&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Walter Norman Haworth",
+          "personId": "3957",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3957"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "6031",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6031&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Paul Karrer",
+          "personId": "4719",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4719"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "6374",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6374&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Tadeus Reichstein",
+          "personId": "7631",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7631"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "6699",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=6699&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Ernst Waser",
+          "personId": "9998",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9998"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "7003",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7003&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Johan Wibaut",
+          "personId": "10144",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10144"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "7274",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7274&mode=",
+      "nominees": [
+        {
+          "name": "Arthur Stoll",
+          "personId": "8815",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=8815"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans Fierz-David",
+          "personId": "2988",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2988"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "7517",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7517&mode=",
+      "nominees": [
+        {
+          "name": "Fritz Weigert",
+          "personId": "10050",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10050"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Hans von Halban",
+          "personId": "9775",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9775"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "7752",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=7752&mode=",
+      "nominees": [
+        {
+          "name": "Robley Cook Williams",
+          "personId": "10207",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=10207"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Dwight Carpenter",
+          "personId": "1616",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=1616"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "8041",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8041&mode=",
+      "nominees": [
+        {
+          "name": "Christopher Kelk Ingold",
+          "personId": "4461",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=4461"
+        },
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "George Finch",
+          "personId": "3002",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3002"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "8274",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8274&mode=",
+      "nominees": [
+        {
+          "name": "Linus Carl Pauling",
+          "personId": "7045",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7045"
+        },
+        {
+          "name": "Max Bergmann",
+          "personId": "911",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=911"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Karl Landsteiner",
+          "personId": "5205",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5205"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "8508",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8508&mode=",
+      "nominees": [
+        {
+          "name": "Robert Robinson",
+          "personId": "7783",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7783"
+        },
+        {
+          "name": "Fritz Kögl",
+          "personId": "5118",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=5118"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Leopold Ruzicka",
+          "personId": "7994",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7994"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    },
+    {
+      "nominationId": "8791",
+      "showUrl": "https://www.nobelprize.org/nomination/archive/show.php?id=8791&mode=",
+      "nominees": [
+        {
+          "name": "Ernest Fourneau",
+          "personId": "3143",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=3143"
+        },
+        {
+          "name": "Jacques Tréfouël",
+          "personId": "9338",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=9338"
+        }
+      ],
+      "nominators": [
+        {
+          "name": "Pauline Ramart-Lucas",
+          "personId": "7541",
+          "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=7541"
+        }
+      ],
+      "sourceUrl": "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1940"
+    }
+  ],
+  "retrievedAt": "2026-09-24T00:57:31+00:00",
+  "httpStatus": 200,
+  "category": "chemistry",
+  "year": 1940,
+  "economicsProbe": false
+}

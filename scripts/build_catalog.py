@@ -24,6 +24,7 @@ from nobel_lib import (  # noqa: E402
     CATEGORIES,
     DEVELOPER_URL,
     FACTS_URL,
+    OFFICIAL_FACTS,
     PHYSICS_LIST_URL,
     SOURCED_NOTES,
     STATUTES_URL,
@@ -169,12 +170,86 @@ def flag(flags, code, severity, message, **extra):
     return item
 
 
+def stored_nomination_totals(raw_dir: Path):
+    """Sum the downloaded list pages. Economics is a probe, not an archive window.
+
+    `stated` is the sum of each page's own stated count. `stored` is the number
+    of Show-link rows actually parsed and kept. Both are copied from downloaded
+    files; nothing is estimated.
+    """
+    totals = {}
+    for category in CATEGORIES:
+        if category == "economics":
+            continue
+        folder = raw_dir / "nominations" / category
+        stated = stored = years = 0
+        if folder.exists():
+            for path in sorted(folder.glob("*.json")):
+                try:
+                    int(path.stem)
+                except ValueError:
+                    continue
+                parsed = load_json(path)
+                if not parsed or parsed.get("error"):
+                    continue
+                years += 1
+                stated += parsed.get("statedCount") or 0
+                stored += parsed.get("parsedCount") or 0
+        totals[category] = {"years": years, "stated": stated, "stored": stored}
+    return totals
+
+
+def flag_total_disagreements(flags, totals):
+    """Compare stored totals with the official homepage table. Derived only from
+    downloaded files and the table copied from the archive homepage."""
+    for category, item in totals.items():
+        if item["years"] == 0:
+            continue
+        official = ARCHIVE_STATED_TOTALS.get(category, {}).get("nominations")
+        if official is None:
+            continue
+        window = ARCHIVE_STATED_TOTALS.get(category, {})
+        window_text = f"{window.get('from')}–{window.get('through')}"
+        if item["stated"] == official and item["stored"] == official:
+            continue
+        parts = [
+            f"The official archive homepage table says {official} {category} nominations for {window_text}."
+        ]
+        if item["stated"] != official:
+            parts.append(
+                f"The downloaded year pages state {item['stated']} in total."
+            )
+        if item["stored"] != official:
+            parts.append(
+                f"The downloaded pages contain {item['stored']} Show-link rows, and only those rows are stored here."
+            )
+        if category == "medicine" and item["stored"] == official and item["stated"] != official:
+            parts.append(
+                "The stored rows equal the official total. The higher stated sum comes from the 45 medicine "
+                "pages that state more nominations than they contain Show links; those extra names are not in the HTML."
+            )
+        if category == "peace" and item["stated"] == item["stored"] and item["stored"] < official:
+            parts.append(
+                f"Every downloaded peace year page's stated count equals its rows, but the sum is {official - item['stored']} "
+                "short of the homepage total. This archive does not know which year page the homepage total counts beyond."
+            )
+        parts.append("Both numbers are kept. Nothing was added to close the gap.")
+        flag(
+            flags,
+            "stored_nomination_total_differs_from_homepage_table",
+            "review",
+            " ".join(parts),
+            sources=[ARCHIVE_HOME, f"https://www.nobelprize.org/nomination/archive/list.php"],
+        )
+
+
 def build(raw_dir: Path, out_dir: Path):
     v1_prizes = v1_prize_index(load_json(raw_dir / "v1_prize.json"))
     v2_prizes = v2_prize_index(load_json(raw_dir / "v2_prizes.json"))
     v1_people = index_v1_laureates(load_json(raw_dir / "v1_laureate.json"))
     v2_people = index_v2_laureates(load_json(raw_dir / "v2_laureates.json"))
     fetch_manifest = load_json(raw_dir / "fetch_manifest.json") or {}
+    nomination_totals = stored_nomination_totals(raw_dir)
 
     nominees_by_category = {}
     for category_id in CATEGORIES:
@@ -746,6 +821,8 @@ def build(raw_dir: Path, out_dir: Path):
             sources=[ARCHIVE_HOME, ARCHIVE_SEARCH],
         )
 
+    flag_total_disagreements(flags, nomination_totals)
+
     for index, item in enumerate(flags, start=1):
         item["id"] = f"f{index:04d}"
 
@@ -797,9 +874,11 @@ def build(raw_dir: Path, out_dir: Path):
                 "flags": len(flags),
             },
             "archiveTotals": ARCHIVE_STATED_TOTALS,
+            "storedNominationTotals": nomination_totals,
             "officialFactsCrossCheck": {
                 "source": FACTS_URL,
                 "retrieved": "2026-09-24",
+                "expected": OFFICIAL_FACTS,
             },
         },
         "categories": [

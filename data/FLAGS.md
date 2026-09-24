@@ -2,7 +2,7 @@
 
 These notes were generated from the downloaded official files and from disagreements between official pages. They are not corrections.
 
-Total flags: 704
+Total flags: 706
 
 ## f0001 · info · nominations_sealed
 
@@ -6099,4 +6099,22 @@ On 2026-09-24 the nomination archive homepage table totalled 23141 nominations, 
 
 - https://www.nobelprize.org/nomination/archive/
 - https://www.nobelprize.org/nomination/archive/search.php
+
+## f0705 · review · stored_nomination_total_differs_from_homepage_table
+
+Where: archive
+
+The official archive homepage table says 5110 medicine nominations for 1901–1953. The downloaded year pages state 5950 in total. The stored rows equal the official total. The higher stated sum comes from the 45 medicine pages that state more nominations than they contain Show links; those extra names are not in the HTML. Both numbers are kept. Nothing was added to close the gap.
+
+- https://www.nobelprize.org/nomination/archive/
+- https://www.nobelprize.org/nomination/archive/list.php
+
+## f0706 · review · stored_nomination_total_differs_from_homepage_table
+
+Where: archive
+
+The official archive homepage table says 5230 peace nominations for 1901–1975. The downloaded year pages state 5229 in total. The downloaded pages contain 5229 Show-link rows, and only those rows are stored here. Every downloaded peace year page's stated count equals its rows, but the sum is 1 short of the homepage total. This archive does not know which year page the homepage total counts beyond. Both numbers are kept. Nothing was added to close the gap.
+
+- https://www.nobelprize.org/nomination/archive/
+- https://www.nobelprize.org/nomination/archive/list.php
 

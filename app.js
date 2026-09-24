@@ -54,9 +54,8 @@
     return state.catalog.laureates.find((person) => person.id === id);
   }
 
-  function flagsFor(prize) {
-    const codes = new Set(prize.flagCodes || []);
-    return state.catalog.flags.filter((flag) => flag.prizeKey === prize.key || codes.has(flag.code) && flag.prizeKey === prize.key);
+  function maxYear() {
+    return (state.catalog && state.catalog.meta.latestAwardYearInSources) || 2025;
   }
 
   function parseHash() {
@@ -118,8 +117,13 @@
     return `<span class="badge ${severity}">${esc(code)}</span>`;
   }
 
+  function safeHref(href) {
+    const text = String(href || "");
+    return /^https?:\/\//i.test(text) || text.startsWith("#") || text.startsWith("data/");
+  }
+
   function link(href, label) {
-    if (!href) return "";
+    if (!href || !safeHref(href)) return "";
     return `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`;
   }
 
@@ -140,8 +144,8 @@
         </div>
         <h2>Year</h2>
         <div class="years">
-          <label>From <input id="from" type="number" min="1901" max="2025" value="${state.from}"></label>
-          <label>To <input id="to" type="number" min="1901" max="2025" value="${state.to}"></label>
+          <label>From <input id="from" type="number" min="1901" max="${maxYear()}" value="${state.from}"></label>
+          <label>To <input id="to" type="number" min="1901" max="${maxYear()}" value="${state.to}"></label>
         </div>
         <h2>Award</h2>
         <div class="chip-list">
@@ -192,7 +196,8 @@
     const start = state.page * PAGE;
     const slice = prizes.slice(start, start + PAGE);
     const counts = state.catalog.meta.counts;
-    let year = null;
+    // Keep year headings correct when a year group spans two pages.
+    let year = start > 0 ? prizes[start - 1].year : null;
     const cards = slice.map((prize) => {
       const heading = prize.year !== year ? `<h2 class="group-year">${prize.year}</h2>` : "";
       year = prize.year;
@@ -286,6 +291,43 @@
       const cells = categories.map((category) => `<td>${decades[decade][category.id] || 0}</td>`).join("");
       return `<tr><td>${decade}s</td>${cells}</tr>`;
     }).join("");
+    const factsCheck = state.catalog.meta.officialFactsCrossCheck || {};
+    const expected = factsCheck.expected || {};
+    const expectedByCategory = expected.by_category || {};
+    const factsRows = categories.map((category) => {
+      const prizesInCatalog = state.catalog.prizes.filter((prize) => prize.category === category.id && prize.awarded).length;
+      const slotsInCatalog = state.catalog.prizes
+        .filter((prize) => prize.category === category.id && prize.awarded)
+        .reduce((sum, prize) => sum + prize.laureates.length, 0);
+      const officialCat = expectedByCategory[category.id] || {};
+      const prizesMatch = officialCat.prizes === prizesInCatalog;
+      const slotsMatch = officialCat.slots === slotsInCatalog;
+      return `<tr>
+        <td>${esc(category.label)}</td>
+        <td>${prizesInCatalog}</td>
+        <td>${officialCat.prizes == null ? "—" : officialCat.prizes}${prizesMatch ? "" : " ⚠"}</td>
+        <td>${slotsInCatalog}</td>
+        <td>${officialCat.slots == null ? "—" : officialCat.slots}${slotsMatch ? "" : " ⚠"}</td>
+      </tr>`;
+    }).join("");
+    const archiveTotals = state.catalog.meta.archiveTotals || {};
+    const storedTotals = state.catalog.meta.storedNominationTotals || {};
+    const totalRows = categories
+      .filter((category) => storedTotals[category.id])
+      .map((category) => {
+        const official = (archiveTotals[category.id] || {}).nominations;
+        const item = storedTotals[category.id];
+        const windowText = `${(archiveTotals[category.id] || {}).from}–${(archiveTotals[category.id] || {}).through}`;
+        return `<tr>
+          <td>${esc(category.label)}</td>
+          <td>${windowText}</td>
+          <td>${official == null ? "—" : official}</td>
+          <td>${item.stated}</td>
+          <td>${item.stored}</td>
+          <td>${item.stored === official ? "Equal" : `Differs by ${Math.abs((official || 0) - item.stored)} — flagged`}</td>
+        </tr>`;
+      }).join("");
+    const storedGrand = Object.values(storedTotals).reduce((acc, item) => acc + item.stored, 0);
     main.innerHTML = `
       <section class="method">
         <h2>By subject</h2>
@@ -300,6 +342,21 @@
           <thead><tr><th>Decade</th>${categories.map((category) => `<th>${esc(category.label)}</th>`).join("")}</tr></thead>
           <tbody>${decadeRows}</tbody>
         </table>
+        <h3>Cross-check against the official facts page</h3>
+        <p>The counts this archive computed, next to the numbers on the <a href="${esc(factsCheck.source || state.catalog.meta.factsUrl)}">Nobel Prize facts page</a> retrieved ${esc(factsCheck.retrieved || "2026-09-24")}. A ⚠ means the two numbers disagree and the row is flagged. They agree in this build.</p>
+        <table>
+          <thead><tr><th>Subject</th><th>Catalog: awarded prizes</th><th>Facts page: prizes</th><th>Catalog: laureate slots</th><th>Facts page: laureates</th></tr></thead>
+          <tbody>${factsRows}</tbody>
+        </table>
+        <h3>Nomination archive: stored rows vs official totals</h3>
+        <p>“Page-stated” is the sum of each downloaded year page's own count. “Stored rows” is the number of Show-link rows the pages actually contained; only those rows are in this archive. The official table total is from the <a href="${esc(archiveTotals.source || state.catalog.meta.archiveHome)}">archive homepage</a>.</p>
+        <table>
+          <thead><tr><th>Subject</th><th>Published window</th><th>Official table total</th><th>Page-stated total</th><th>Stored rows</th><th>Check</th></tr></thead>
+          <tbody>${totalRows}
+            <tr><td>All subjects</td><td>—</td><td>${archiveTotals.table_total == null ? "—" : archiveTotals.table_total}</td><td>—</td><td>${storedGrand}</td><td>${storedGrand === archiveTotals.table_total ? "Equal" : `Differs by ${Math.abs((archiveTotals.table_total || 0) - storedGrand)} — flagged`}</td></tr>
+          </tbody>
+        </table>
+        <p>Economic sciences has no nomination rows: the public archive has no economics category, and the 1969 probe page returned 0. The advanced search page separately states a total of ${archiveTotals.search_page_total == null ? "—" : archiveTotals.search_page_total} nominations. Both official totals are kept; they disagree.</p>
       </section>`;
     main.querySelectorAll("[data-jump]").forEach((anchor) => {
       anchor.addEventListener("click", (event) => {
@@ -359,6 +416,7 @@
         <h3>Who else was considered</h3>
         <p>Other candidates are included only when a nomination-archive list page was downloaded and parsed. If the list was not stored, the prize still links to the official list. Sealed years, medicine years after 1953, and economic sciences are labeled as gaps. A zero on the economics probe page is not treated as “nobody was nominated.”</p>
         <p>The archive homepage table totalled ${meta.archiveTotals.table_total} nominations. The advanced search page said ${meta.archiveTotals.search_page_total}. Those official totals disagree and are both kept. <a href="${esc(meta.archiveHome)}">Homepage</a> · <a href="${esc(meta.archiveTotals.search_page)}">Search page</a>.</p>
+        <p>This build stores ${Object.values(meta.storedNominationTotals || {}).reduce((sum, item) => sum + item.stored, 0)} nomination rows from the downloaded list pages. Subject-by-subject comparisons against the official table totals, with every difference flagged, are on the <a href="#analysis">By subject</a> page.</p>
         <h3>Official sources</h3>
         <ul>
           ${(meta.sources || []).map((source) => `<li><a href="${esc(source)}">${esc(source)}</a></li>`).join("")}
@@ -540,8 +598,21 @@
     if (flags) flags.addEventListener("click", () => { state.flagsOnly = !state.flagsOnly; state.page = 0; render(); });
     const from = document.getElementById("from");
     const to = document.getElementById("to");
-    if (from) from.addEventListener("change", () => { state.from = Number(from.value) || 1901; state.page = 0; render(); });
-    if (to) to.addEventListener("change", () => { state.to = Number(to.value) || 2025; state.page = 0; render(); });
+    const clampYear = (raw, fallback) => {
+      const value = Math.round(Number(raw));
+      if (!Number.isFinite(value)) return fallback;
+      return Math.min(Math.max(value, 1901), maxYear());
+    };
+    if (from) from.addEventListener("change", () => {
+      state.from = Math.min(clampYear(from.value, 1901), state.to);
+      state.page = 0;
+      render();
+    });
+    if (to) to.addEventListener("change", () => {
+      state.to = Math.max(clampYear(to.value, maxYear()), state.from);
+      state.page = 0;
+      render();
+    });
     const prev = document.getElementById("prev");
     const next = document.getElementById("next");
     if (prev) prev.addEventListener("click", () => { state.page = Math.max(0, state.page - 1); render(); });

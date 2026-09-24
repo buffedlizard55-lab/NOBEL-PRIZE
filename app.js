@@ -94,7 +94,7 @@
       if (prize.year < state.from || prize.year > state.to) return false;
       if (state.awarded === "awarded" && !prize.awarded) return false;
       if (state.awarded === "unawarded" && prize.awarded) return false;
-      if (state.flagsOnly && !(prize.flagCodes || []).length) return false;
+      if (state.flagsOnly && !state.catalog.flags.some((flag) => flag.prizeKey === prize.key && flag.severity === "review")) return false;
       return matchesQuery(prize);
     });
   }
@@ -151,18 +151,27 @@
       </aside>`;
   }
 
+  function prizeQuote(prize) {
+    const motivations = prize.laureates.map((row) => row.motivation).filter(Boolean);
+    const unique = Array.from(new Set(motivations));
+    if (unique.length === 1) return `<p class="quote">“${esc(unique[0])}”</p>`;
+    if (unique.length > 1) {
+      return prize.laureates.map((row) => `<p><strong>${esc(row.displayName || "Laureate")}.</strong> ${row.motivation ? `<span class="quote">“${esc(row.motivation)}”</span>` : "No motivation text in the downloaded record."}</p>`).join("");
+    }
+    return prize.overallMotivation ? `<p class="quote">${esc(prize.overallMotivation)}</p>` : "";
+  }
+
   function prizeCard(prize) {
     const names = prize.laureates.map((row) => row.displayName).filter(Boolean).join(", ") || "No laureate";
-    const motivation = prize.laureates[0] && prize.laureates[0].motivation;
-    const flags = (prize.flagCodes || []).slice(0, 3).map((code) => badge(code)).join(" ");
+    const reviews = state.catalog.flags.filter((flag) => flag.prizeKey === prize.key && flag.severity === "review").length;
     return `
       <article class="card">
         <p class="kicker">${esc(prize.categoryFullName)}${prize.inAlfredNobelsWill ? "" : " · not in Alfred Nobel’s will"}</p>
         <div class="card-top">
           <h3 class="names">${esc(names)}</h3>
-          <div>${flags}</div>
+          <div>${reviews ? `<span class="badge review">${reviews} to review</span>` : ""}</div>
         </div>
-        ${motivation ? `<p class="quote">“${esc(motivation)}”</p>` : prize.overallMotivation ? `<p class="quote">${esc(prize.overallMotivation)}</p>` : ""}
+        ${prizeQuote(prize)}
         <div class="meta-row">
           <span>${prize.awarded ? "Awarded" : "Not awarded"}</span>
           ${prize.dateAwarded ? `<span>Date awarded ${esc(prize.dateAwarded)}</span>` : ""}
@@ -509,6 +518,13 @@
     main.querySelectorAll("[data-category]").forEach((button) => {
       button.addEventListener("click", () => {
         state.category = button.dataset.category;
+        state.page = 0;
+        render();
+      });
+    });
+    main.querySelectorAll("[data-severity]").forEach((button) => {
+      button.addEventListener("click", () => {
+        state.flagSeverity = button.dataset.severity;
         state.page = 0;
         render();
       });

@@ -246,21 +246,22 @@
     "id": "f0022"
   },
   {
-    "code": "nominations_sealed",
-    "severity": "info",
-    "message": "Nominations are not published until 50 years have elapsed, and the archive homepage's current tables stop at 1975 (medicine at 1953). Names of other candidates are not known to this archive.",
-    "prizeKey": "physics-2022",
-    "sources": [
-      "https://www.nobelprize.org/nomination/archive/",
-      "https://www.nobelprize.org/nomination/archive/manual.php"
-    ],
+    "code": "api_trailing_whitespace_in_name",
+    "severity": "review",
+    "message": "The official API name for laureate 1031 contains leading or trailing whitespace. The display name is stripped for reading. The exact downloaded values are kept in this flag and were not rewritten.",
+    "prizeKey": "chemistry-2023",
+    "laureateId": "1031",
+    "raw": {
+      "knownName/orgName": "Aleksey Yekimov ",
+      "fullName": "Aleksey Yekimov "
+    },
     "id": "f0023"
   },
   {
     "code": "nominations_sealed",
     "severity": "info",
     "message": "Nominations are not published until 50 years have elapsed, and the archive homepage's current tables stop at 1975 (medicine at 1953). Names of other candidates are not known to this archive.",
-    "prizeKey": "peace-2022",
+    "prizeKey": "physics-2022",
     "sources": [
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
@@ -271,12 +272,35 @@
     "code": "nominations_sealed",
     "severity": "info",
     "message": "Nominations are not published until 50 years have elapsed, and the archive homepage's current tables stop at 1975 (medicine at 1953). Names of other candidates are not known to this archive.",
-    "prizeKey": "medicine-2022",
+    "prizeKey": "peace-2022",
     "sources": [
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
     "id": "f0025"
+  },
+  {
+    "code": "api_trailing_whitespace_in_name",
+    "severity": "review",
+    "message": "The official API name for laureate 1018 contains leading or trailing whitespace. The display name is stripped for reading. The exact downloaded values are kept in this flag and were not rewritten.",
+    "prizeKey": "peace-2022",
+    "laureateId": "1018",
+    "raw": {
+      "fullName": "Ales Bialiatski ",
+      "v1 name": "Ales Bialiatski "
+    },
+    "id": "f0026"
+  },
+  {
+    "code": "nominations_sealed",
+    "severity": "info",
+    "message": "Nominations are not published until 50 years have elapsed, and the archive homepage's current tables stop at 1975 (medicine at 1953). Names of other candidates are not known to this archive.",
+    "prizeKey": "medicine-2022",
+    "sources": [
+      "https://www.nobelprize.org/nomination/archive/",
+      "https://www.nobelprize.org/nomination/archive/manual.php"
+    ],
+    "id": "f0027"
   },
   {
     "code": "nominations_sealed",
@@ -287,7 +311,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0026"
+    "id": "f0028"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -298,7 +322,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0027"
+    "id": "f0029"
   },
   {
     "code": "nominations_sealed",
@@ -309,7 +333,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0028"
+    "id": "f0030"
   },
   {
     "code": "v1_v2_name_differs",
@@ -321,7 +345,7 @@
       "https://api.nobelprize.org/2/laureate/743",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0029"
+    "id": "f0031"
   },
   {
     "code": "nominations_sealed",
@@ -332,7 +356,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0030"
+    "id": "f0032"
   },
   {
     "code": "nominations_sealed",
@@ -343,7 +367,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0031"
+    "id": "f0033"
   },
   {
     "code": "nominations_sealed",
@@ -354,7 +378,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0032"
+    "id": "f0034"
   },
   {
     "code": "nominations_sealed",
@@ -365,7 +389,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0033"
+    "id": "f0035"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -376,7 +400,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0034"
+    "id": "f0036"
   },
   {
     "code": "v1_v2_name_differs",
@@ -388,7 +412,7 @@
       "https://api.nobelprize.org/2/laureate/1008",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0035"
+    "id": "f0037"
   },
   {
     "code": "v1_v2_name_differs",
@@ -400,7 +424,7 @@
       "https://api.nobelprize.org/2/laureate/1009",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0036"
+    "id": "f0038"
   },
   {
     "code": "nominations_sealed",
@@ -411,7 +435,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0037"
+    "id": "f0039"
   },
   {
     "code": "v1_v2_name_differs",
@@ -423,7 +447,7 @@
       "https://api.nobelprize.org/2/laureate/1003",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0038"
+    "id": "f0040"
   },
   {
     "code": "nominations_sealed",
@@ -434,7 +458,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0039"
+    "id": "f0041"
   },
   {
     "code": "nominations_sealed",
@@ -445,7 +469,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0040"
+    "id": "f0042"
   },
   {
     "code": "nominations_sealed",
@@ -456,7 +480,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0041"
+    "id": "f0043"
   },
   {
     "code": "v1_v2_name_differs",
@@ -468,7 +492,7 @@
       "https://api.nobelprize.org/2/laureate/985",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0042"
+    "id": "f0044"
   },
   {
     "code": "v1_v2_name_differs",
@@ -480,7 +504,7 @@
       "https://api.nobelprize.org/2/laureate/987",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0043"
+    "id": "f0045"
   },
   {
     "code": "nominations_sealed",
@@ -491,7 +515,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0044"
+    "id": "f0046"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -502,7 +526,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0045"
+    "id": "f0047"
   },
   {
     "code": "v1_v2_name_differs",
@@ -514,7 +538,7 @@
       "https://api.nobelprize.org/2/laureate/995",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0046"
+    "id": "f0048"
   },
   {
     "code": "v1_v2_name_differs",
@@ -526,7 +550,7 @@
       "https://api.nobelprize.org/2/laureate/996",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0047"
+    "id": "f0049"
   },
   {
     "code": "nominations_sealed",
@@ -537,7 +561,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0048"
+    "id": "f0050"
   },
   {
     "code": "nominations_sealed",
@@ -548,7 +572,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0049"
+    "id": "f0051"
   },
   {
     "code": "nominations_sealed",
@@ -559,7 +583,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0050"
+    "id": "f0052"
   },
   {
     "code": "nominations_sealed",
@@ -570,7 +594,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0051"
+    "id": "f0053"
   },
   {
     "code": "v1_v2_name_differs",
@@ -582,7 +606,7 @@
       "https://api.nobelprize.org/2/laureate/970",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0052"
+    "id": "f0054"
   },
   {
     "code": "v1_v2_name_differs",
@@ -594,7 +618,7 @@
       "https://api.nobelprize.org/2/laureate/971",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0053"
+    "id": "f0055"
   },
   {
     "code": "v1_v2_name_differs",
@@ -606,7 +630,7 @@
       "https://api.nobelprize.org/2/laureate/972",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0054"
+    "id": "f0056"
   },
   {
     "code": "nominations_sealed",
@@ -617,7 +641,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0055"
+    "id": "f0057"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -628,7 +652,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0056"
+    "id": "f0058"
   },
   {
     "code": "nominations_sealed",
@@ -639,7 +663,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0057"
+    "id": "f0059"
   },
   {
     "code": "v1_v2_name_differs",
@@ -651,7 +675,7 @@
       "https://api.nobelprize.org/2/laureate/976",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0058"
+    "id": "f0060"
   },
   {
     "code": "nominations_sealed",
@@ -662,7 +686,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0059"
+    "id": "f0061"
   },
   {
     "code": "nominations_sealed",
@@ -673,7 +697,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0060"
+    "id": "f0062"
   },
   {
     "code": "nominations_sealed",
@@ -684,7 +708,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0061"
+    "id": "f0063"
   },
   {
     "code": "nominations_sealed",
@@ -695,7 +719,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0062"
+    "id": "f0064"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -706,7 +730,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0063"
+    "id": "f0065"
   },
   {
     "code": "nominations_sealed",
@@ -717,7 +741,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0064"
+    "id": "f0066"
   },
   {
     "code": "nominations_sealed",
@@ -728,7 +752,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0065"
+    "id": "f0067"
   },
   {
     "code": "nominations_sealed",
@@ -739,7 +763,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0066"
+    "id": "f0068"
   },
   {
     "code": "nominations_sealed",
@@ -750,7 +774,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0067"
+    "id": "f0069"
   },
   {
     "code": "nominations_sealed",
@@ -761,7 +785,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0068"
+    "id": "f0070"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -772,7 +796,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0069"
+    "id": "f0071"
   },
   {
     "code": "nominations_sealed",
@@ -783,7 +807,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0070"
+    "id": "f0072"
   },
   {
     "code": "nominations_sealed",
@@ -794,7 +818,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0071"
+    "id": "f0073"
   },
   {
     "code": "nominations_sealed",
@@ -805,7 +829,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0072"
+    "id": "f0074"
   },
   {
     "code": "nominations_sealed",
@@ -816,7 +840,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0073"
+    "id": "f0075"
   },
   {
     "code": "nominations_sealed",
@@ -827,7 +851,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0074"
+    "id": "f0076"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -838,7 +862,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0075"
+    "id": "f0077"
   },
   {
     "code": "nominations_sealed",
@@ -849,7 +873,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0076"
+    "id": "f0078"
   },
   {
     "code": "nominations_sealed",
@@ -860,7 +884,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0077"
+    "id": "f0079"
   },
   {
     "code": "nominations_sealed",
@@ -871,7 +895,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0078"
+    "id": "f0080"
   },
   {
     "code": "nominations_sealed",
@@ -882,7 +906,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0079"
+    "id": "f0081"
   },
   {
     "code": "v1_v2_name_differs",
@@ -894,7 +918,7 @@
       "https://api.nobelprize.org/2/laureate/918",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0080"
+    "id": "f0082"
   },
   {
     "code": "nominations_sealed",
@@ -905,7 +929,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0081"
+    "id": "f0083"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -916,7 +940,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0082"
+    "id": "f0084"
   },
   {
     "code": "nominations_sealed",
@@ -927,7 +951,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0083"
+    "id": "f0085"
   },
   {
     "code": "nominations_sealed",
@@ -938,7 +962,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0084"
+    "id": "f0086"
   },
   {
     "code": "nominations_sealed",
@@ -949,7 +973,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0085"
+    "id": "f0087"
   },
   {
     "code": "nominations_sealed",
@@ -960,7 +984,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0086"
+    "id": "f0088"
   },
   {
     "code": "nominations_sealed",
@@ -971,7 +995,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0087"
+    "id": "f0089"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -982,7 +1006,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0088"
+    "id": "f0090"
   },
   {
     "code": "nominations_sealed",
@@ -993,7 +1017,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0089"
+    "id": "f0091"
   },
   {
     "code": "nominations_sealed",
@@ -1004,7 +1028,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0090"
+    "id": "f0092"
   },
   {
     "code": "nominations_sealed",
@@ -1015,7 +1039,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0091"
+    "id": "f0093"
   },
   {
     "code": "nominations_sealed",
@@ -1026,7 +1050,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0092"
+    "id": "f0094"
   },
   {
     "code": "nominations_sealed",
@@ -1037,7 +1061,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0093"
+    "id": "f0095"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1048,7 +1072,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0094"
+    "id": "f0096"
   },
   {
     "code": "nominations_sealed",
@@ -1059,7 +1083,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0095"
+    "id": "f0097"
   },
   {
     "code": "nominations_sealed",
@@ -1070,7 +1094,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0096"
+    "id": "f0098"
   },
   {
     "code": "nominations_sealed",
@@ -1081,7 +1105,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0097"
+    "id": "f0099"
   },
   {
     "code": "nominations_sealed",
@@ -1092,7 +1116,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0098"
+    "id": "f0100"
   },
   {
     "code": "nominations_sealed",
@@ -1103,7 +1127,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0099"
+    "id": "f0101"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1114,7 +1138,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0100"
+    "id": "f0102"
   },
   {
     "code": "nominations_sealed",
@@ -1125,7 +1149,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0101"
+    "id": "f0103"
   },
   {
     "code": "nominations_sealed",
@@ -1136,7 +1160,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0102"
+    "id": "f0104"
   },
   {
     "code": "nominations_sealed",
@@ -1147,7 +1171,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0103"
+    "id": "f0105"
   },
   {
     "code": "nominations_sealed",
@@ -1158,7 +1182,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0104"
+    "id": "f0106"
   },
   {
     "code": "death_date_before_award_date",
@@ -1171,7 +1195,7 @@
       "https://www.nobelprize.org/about/statutes-of-the-nobel-foundation/",
       "https://www.nobelprize.org/prizes/medicine/2011/steinman/facts/"
     ],
-    "id": "f0105"
+    "id": "f0107"
   },
   {
     "code": "nominations_sealed",
@@ -1182,7 +1206,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0106"
+    "id": "f0108"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1193,7 +1217,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0107"
+    "id": "f0109"
   },
   {
     "code": "nominations_sealed",
@@ -1204,7 +1228,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0108"
+    "id": "f0110"
   },
   {
     "code": "nominations_sealed",
@@ -1215,7 +1239,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0109"
+    "id": "f0111"
   },
   {
     "code": "nominations_sealed",
@@ -1226,7 +1250,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0110"
+    "id": "f0112"
   },
   {
     "code": "v1_v2_name_differs",
@@ -1238,7 +1262,7 @@
       "https://api.nobelprize.org/2/laureate/855",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0111"
+    "id": "f0113"
   },
   {
     "code": "nominations_sealed",
@@ -1249,7 +1273,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0112"
+    "id": "f0114"
   },
   {
     "code": "nominations_sealed",
@@ -1260,7 +1284,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0113"
+    "id": "f0115"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1271,7 +1295,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0114"
+    "id": "f0116"
   },
   {
     "code": "nominations_sealed",
@@ -1282,7 +1306,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0115"
+    "id": "f0117"
   },
   {
     "code": "nominations_sealed",
@@ -1293,7 +1317,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0116"
+    "id": "f0118"
   },
   {
     "code": "nominations_sealed",
@@ -1304,7 +1328,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0117"
+    "id": "f0119"
   },
   {
     "code": "v1_v2_name_differs",
@@ -1316,7 +1340,7 @@
       "https://api.nobelprize.org/2/laureate/845",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0118"
+    "id": "f0120"
   },
   {
     "code": "nominations_sealed",
@@ -1327,7 +1351,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0119"
+    "id": "f0121"
   },
   {
     "code": "nominations_sealed",
@@ -1338,7 +1362,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0120"
+    "id": "f0122"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1349,7 +1373,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0121"
+    "id": "f0123"
   },
   {
     "code": "nominations_sealed",
@@ -1360,7 +1384,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0122"
+    "id": "f0124"
   },
   {
     "code": "nominations_sealed",
@@ -1371,7 +1395,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0123"
+    "id": "f0125"
   },
   {
     "code": "nominations_sealed",
@@ -1382,7 +1406,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0124"
+    "id": "f0126"
   },
   {
     "code": "nominations_sealed",
@@ -1393,7 +1417,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0125"
+    "id": "f0127"
   },
   {
     "code": "nominations_sealed",
@@ -1404,7 +1428,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0126"
+    "id": "f0128"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1415,7 +1439,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0127"
+    "id": "f0129"
   },
   {
     "code": "nominations_sealed",
@@ -1426,7 +1450,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0128"
+    "id": "f0130"
   },
   {
     "code": "nominations_sealed",
@@ -1437,7 +1461,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0129"
+    "id": "f0131"
   },
   {
     "code": "nominations_sealed",
@@ -1448,7 +1472,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0130"
+    "id": "f0132"
   },
   {
     "code": "nominations_sealed",
@@ -1459,7 +1483,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0131"
+    "id": "f0133"
   },
   {
     "code": "nominations_sealed",
@@ -1470,7 +1494,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0132"
+    "id": "f0134"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1481,7 +1505,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0133"
+    "id": "f0135"
   },
   {
     "code": "nominations_sealed",
@@ -1492,7 +1516,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0134"
+    "id": "f0136"
   },
   {
     "code": "nominations_sealed",
@@ -1503,7 +1527,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0135"
+    "id": "f0137"
   },
   {
     "code": "nominations_sealed",
@@ -1514,7 +1538,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0136"
+    "id": "f0138"
   },
   {
     "code": "nominations_sealed",
@@ -1525,7 +1549,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0137"
+    "id": "f0139"
   },
   {
     "code": "nominations_sealed",
@@ -1536,7 +1560,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0138"
+    "id": "f0140"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1547,7 +1571,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0139"
+    "id": "f0141"
   },
   {
     "code": "nominations_sealed",
@@ -1558,7 +1582,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0140"
+    "id": "f0142"
   },
   {
     "code": "nominations_sealed",
@@ -1569,7 +1593,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0141"
+    "id": "f0143"
   },
   {
     "code": "nominations_sealed",
@@ -1580,7 +1604,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0142"
+    "id": "f0144"
   },
   {
     "code": "nominations_sealed",
@@ -1591,7 +1615,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0143"
+    "id": "f0145"
   },
   {
     "code": "affiliation_not_published",
@@ -1602,7 +1626,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/790"
     ],
-    "id": "f0144"
+    "id": "f0146"
   },
   {
     "code": "nominations_sealed",
@@ -1613,7 +1637,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0145"
+    "id": "f0147"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1624,7 +1648,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0146"
+    "id": "f0148"
   },
   {
     "code": "nominations_sealed",
@@ -1635,7 +1659,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0147"
+    "id": "f0149"
   },
   {
     "code": "nominations_sealed",
@@ -1646,7 +1670,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0148"
+    "id": "f0150"
   },
   {
     "code": "nominations_sealed",
@@ -1657,7 +1681,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0149"
+    "id": "f0151"
   },
   {
     "code": "nominations_sealed",
@@ -1668,7 +1692,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0150"
+    "id": "f0152"
   },
   {
     "code": "nominations_sealed",
@@ -1679,7 +1703,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0151"
+    "id": "f0153"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1690,7 +1714,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0152"
+    "id": "f0154"
   },
   {
     "code": "nominations_sealed",
@@ -1701,7 +1725,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0153"
+    "id": "f0155"
   },
   {
     "code": "nominations_sealed",
@@ -1712,7 +1736,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0154"
+    "id": "f0156"
   },
   {
     "code": "nominations_sealed",
@@ -1723,7 +1747,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0155"
+    "id": "f0157"
   },
   {
     "code": "nominations_sealed",
@@ -1734,7 +1758,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0156"
+    "id": "f0158"
   },
   {
     "code": "nominations_sealed",
@@ -1745,7 +1769,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0157"
+    "id": "f0159"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1756,7 +1780,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0158"
+    "id": "f0160"
   },
   {
     "code": "nominations_sealed",
@@ -1767,7 +1791,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0159"
+    "id": "f0161"
   },
   {
     "code": "nominations_sealed",
@@ -1778,7 +1802,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0160"
+    "id": "f0162"
   },
   {
     "code": "nominations_sealed",
@@ -1789,7 +1813,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0161"
+    "id": "f0163"
   },
   {
     "code": "nominations_sealed",
@@ -1800,7 +1824,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0162"
+    "id": "f0164"
   },
   {
     "code": "nominations_sealed",
@@ -1811,7 +1835,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0163"
+    "id": "f0165"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1822,7 +1846,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0164"
+    "id": "f0166"
   },
   {
     "code": "nominations_sealed",
@@ -1833,7 +1857,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0165"
+    "id": "f0167"
   },
   {
     "code": "nominations_sealed",
@@ -1844,7 +1868,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0166"
+    "id": "f0168"
   },
   {
     "code": "nominations_sealed",
@@ -1855,7 +1879,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0167"
+    "id": "f0169"
   },
   {
     "code": "nominations_sealed",
@@ -1866,7 +1890,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0168"
+    "id": "f0170"
   },
   {
     "code": "nominations_sealed",
@@ -1877,7 +1901,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0169"
+    "id": "f0171"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1888,7 +1912,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0170"
+    "id": "f0172"
   },
   {
     "code": "nominations_sealed",
@@ -1899,7 +1923,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0171"
+    "id": "f0173"
   },
   {
     "code": "affiliation_not_published",
@@ -1910,7 +1934,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/741"
     ],
-    "id": "f0172"
+    "id": "f0174"
   },
   {
     "code": "v1_v2_name_differs",
@@ -1922,7 +1946,7 @@
       "https://api.nobelprize.org/2/laureate/743",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0173"
+    "id": "f0175"
   },
   {
     "code": "nominations_sealed",
@@ -1933,7 +1957,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0174"
+    "id": "f0176"
   },
   {
     "code": "nominations_sealed",
@@ -1944,7 +1968,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0175"
+    "id": "f0177"
   },
   {
     "code": "nominations_sealed",
@@ -1955,7 +1979,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0176"
+    "id": "f0178"
   },
   {
     "code": "nominations_sealed",
@@ -1966,7 +1990,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0177"
+    "id": "f0179"
   },
   {
     "code": "v1_v2_name_differs",
@@ -1978,7 +2002,7 @@
       "https://api.nobelprize.org/2/laureate/734",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0178"
+    "id": "f0180"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -1989,7 +2013,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0179"
+    "id": "f0181"
   },
   {
     "code": "nominations_sealed",
@@ -2000,7 +2024,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0180"
+    "id": "f0182"
   },
   {
     "code": "nominations_sealed",
@@ -2011,7 +2035,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0181"
+    "id": "f0183"
   },
   {
     "code": "affiliation_not_published",
@@ -2022,7 +2046,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/159"
     ],
-    "id": "f0182"
+    "id": "f0184"
   },
   {
     "code": "nominations_sealed",
@@ -2033,7 +2057,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0183"
+    "id": "f0185"
   },
   {
     "code": "nominations_sealed",
@@ -2044,7 +2068,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0184"
+    "id": "f0186"
   },
   {
     "code": "nominations_sealed",
@@ -2055,7 +2079,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0185"
+    "id": "f0187"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2066,7 +2090,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0186"
+    "id": "f0188"
   },
   {
     "code": "nominations_sealed",
@@ -2077,7 +2101,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0187"
+    "id": "f0189"
   },
   {
     "code": "nominations_sealed",
@@ -2088,7 +2112,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0188"
+    "id": "f0190"
   },
   {
     "code": "nominations_sealed",
@@ -2099,7 +2123,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0189"
+    "id": "f0191"
   },
   {
     "code": "nominations_sealed",
@@ -2110,7 +2134,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0190"
+    "id": "f0192"
   },
   {
     "code": "nominations_sealed",
@@ -2121,7 +2145,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0191"
+    "id": "f0193"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2132,7 +2156,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0192"
+    "id": "f0194"
   },
   {
     "code": "nominations_sealed",
@@ -2143,7 +2167,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0193"
+    "id": "f0195"
   },
   {
     "code": "nominations_sealed",
@@ -2154,7 +2178,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0194"
+    "id": "f0196"
   },
   {
     "code": "nominations_sealed",
@@ -2165,7 +2189,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0195"
+    "id": "f0197"
   },
   {
     "code": "nominations_sealed",
@@ -2176,7 +2200,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0196"
+    "id": "f0198"
   },
   {
     "code": "nominations_sealed",
@@ -2187,7 +2211,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0197"
+    "id": "f0199"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2198,7 +2222,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0198"
+    "id": "f0200"
   },
   {
     "code": "nominations_sealed",
@@ -2209,7 +2233,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0199"
+    "id": "f0201"
   },
   {
     "code": "nominations_sealed",
@@ -2220,7 +2244,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0200"
+    "id": "f0202"
   },
   {
     "code": "nominations_sealed",
@@ -2231,7 +2255,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0201"
+    "id": "f0203"
   },
   {
     "code": "nominations_sealed",
@@ -2242,7 +2266,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0202"
+    "id": "f0204"
   },
   {
     "code": "nominations_sealed",
@@ -2253,7 +2277,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0203"
+    "id": "f0205"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2264,7 +2288,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0204"
+    "id": "f0206"
   },
   {
     "code": "nominations_sealed",
@@ -2275,7 +2299,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0205"
+    "id": "f0207"
   },
   {
     "code": "nominations_sealed",
@@ -2286,7 +2310,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0206"
+    "id": "f0208"
   },
   {
     "code": "nominations_sealed",
@@ -2297,7 +2321,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0207"
+    "id": "f0209"
   },
   {
     "code": "nominations_sealed",
@@ -2308,7 +2332,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0208"
+    "id": "f0210"
   },
   {
     "code": "nominations_sealed",
@@ -2319,7 +2343,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0209"
+    "id": "f0211"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2330,7 +2354,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0210"
+    "id": "f0212"
   },
   {
     "code": "nominations_sealed",
@@ -2341,7 +2365,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0211"
+    "id": "f0213"
   },
   {
     "code": "nominations_sealed",
@@ -2352,7 +2376,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0212"
+    "id": "f0214"
   },
   {
     "code": "nominations_sealed",
@@ -2363,7 +2387,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0213"
+    "id": "f0215"
   },
   {
     "code": "nominations_sealed",
@@ -2374,7 +2398,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0214"
+    "id": "f0216"
   },
   {
     "code": "nominations_sealed",
@@ -2385,7 +2409,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0215"
+    "id": "f0217"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2396,7 +2420,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0216"
+    "id": "f0218"
   },
   {
     "code": "nominations_sealed",
@@ -2407,7 +2431,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0217"
+    "id": "f0219"
   },
   {
     "code": "nominations_sealed",
@@ -2418,7 +2442,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0218"
+    "id": "f0220"
   },
   {
     "code": "nominations_sealed",
@@ -2429,7 +2453,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0219"
+    "id": "f0221"
   },
   {
     "code": "nominations_sealed",
@@ -2440,7 +2464,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0220"
+    "id": "f0222"
   },
   {
     "code": "nominations_sealed",
@@ -2451,7 +2475,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0221"
+    "id": "f0223"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2462,7 +2486,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0222"
+    "id": "f0224"
   },
   {
     "code": "nominations_sealed",
@@ -2473,7 +2497,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0223"
+    "id": "f0225"
   },
   {
     "code": "affiliation_not_published",
@@ -2484,7 +2508,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/278"
     ],
-    "id": "f0224"
+    "id": "f0226"
   },
   {
     "code": "nominations_sealed",
@@ -2495,7 +2519,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0225"
+    "id": "f0227"
   },
   {
     "code": "nominations_sealed",
@@ -2506,7 +2530,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0226"
+    "id": "f0228"
   },
   {
     "code": "nominations_sealed",
@@ -2517,7 +2541,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0227"
+    "id": "f0229"
   },
   {
     "code": "nominations_sealed",
@@ -2528,7 +2552,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0228"
+    "id": "f0230"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2539,7 +2563,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0229"
+    "id": "f0231"
   },
   {
     "code": "nominations_sealed",
@@ -2550,7 +2574,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0230"
+    "id": "f0232"
   },
   {
     "code": "nominations_sealed",
@@ -2561,7 +2585,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0231"
+    "id": "f0233"
   },
   {
     "code": "nominations_sealed",
@@ -2572,7 +2596,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0232"
+    "id": "f0234"
   },
   {
     "code": "nominations_sealed",
@@ -2583,7 +2607,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0233"
+    "id": "f0235"
   },
   {
     "code": "nominations_sealed",
@@ -2594,7 +2618,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0234"
+    "id": "f0236"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2605,7 +2629,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0235"
+    "id": "f0237"
   },
   {
     "code": "nominations_sealed",
@@ -2616,7 +2640,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0236"
+    "id": "f0238"
   },
   {
     "code": "nominations_sealed",
@@ -2627,7 +2651,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0237"
+    "id": "f0239"
   },
   {
     "code": "nominations_sealed",
@@ -2638,7 +2662,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0238"
+    "id": "f0240"
   },
   {
     "code": "nominations_sealed",
@@ -2649,7 +2673,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0239"
+    "id": "f0241"
   },
   {
     "code": "nominations_sealed",
@@ -2660,7 +2684,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0240"
+    "id": "f0242"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2671,7 +2695,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0241"
+    "id": "f0243"
   },
   {
     "code": "nominations_sealed",
@@ -2682,7 +2706,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0242"
+    "id": "f0244"
   },
   {
     "code": "nominations_sealed",
@@ -2693,7 +2717,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0243"
+    "id": "f0245"
   },
   {
     "code": "nominations_sealed",
@@ -2704,7 +2728,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0244"
+    "id": "f0246"
   },
   {
     "code": "v1_v2_name_differs",
@@ -2716,7 +2740,7 @@
       "https://api.nobelprize.org/2/laureate/551",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0245"
+    "id": "f0247"
   },
   {
     "code": "nominations_sealed",
@@ -2727,7 +2751,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0246"
+    "id": "f0248"
   },
   {
     "code": "nominations_sealed",
@@ -2738,7 +2762,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0247"
+    "id": "f0249"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2749,7 +2773,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0248"
+    "id": "f0250"
   },
   {
     "code": "nominations_sealed",
@@ -2760,7 +2784,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0249"
+    "id": "f0251"
   },
   {
     "code": "nominations_sealed",
@@ -2771,7 +2795,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0250"
+    "id": "f0252"
   },
   {
     "code": "nominations_sealed",
@@ -2782,7 +2806,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0251"
+    "id": "f0253"
   },
   {
     "code": "nominations_sealed",
@@ -2793,7 +2817,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0252"
+    "id": "f0254"
   },
   {
     "code": "nominations_sealed",
@@ -2804,7 +2828,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0253"
+    "id": "f0255"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2815,7 +2839,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0254"
+    "id": "f0256"
   },
   {
     "code": "nominations_sealed",
@@ -2826,7 +2850,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0255"
+    "id": "f0257"
   },
   {
     "code": "nominations_sealed",
@@ -2837,7 +2861,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0256"
+    "id": "f0258"
   },
   {
     "code": "nominations_sealed",
@@ -2848,7 +2872,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0257"
+    "id": "f0259"
   },
   {
     "code": "nominations_sealed",
@@ -2859,7 +2883,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0258"
+    "id": "f0260"
   },
   {
     "code": "nominations_sealed",
@@ -2870,7 +2894,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0259"
+    "id": "f0261"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2881,7 +2905,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0260"
+    "id": "f0262"
   },
   {
     "code": "nominations_sealed",
@@ -2892,7 +2916,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0261"
+    "id": "f0263"
   },
   {
     "code": "nominations_sealed",
@@ -2903,7 +2927,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0262"
+    "id": "f0264"
   },
   {
     "code": "nominations_sealed",
@@ -2914,7 +2938,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0263"
+    "id": "f0265"
   },
   {
     "code": "nominations_sealed",
@@ -2925,7 +2949,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0264"
+    "id": "f0266"
   },
   {
     "code": "nominations_sealed",
@@ -2936,7 +2960,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0265"
+    "id": "f0267"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -2947,7 +2971,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0266"
+    "id": "f0268"
   },
   {
     "code": "nominations_sealed",
@@ -2958,7 +2982,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0267"
+    "id": "f0269"
   },
   {
     "code": "nominations_sealed",
@@ -2969,7 +2993,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0268"
+    "id": "f0270"
   },
   {
     "code": "nominations_sealed",
@@ -2980,7 +3004,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0269"
+    "id": "f0271"
   },
   {
     "code": "nominations_sealed",
@@ -2991,7 +3015,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0270"
+    "id": "f0272"
   },
   {
     "code": "nominations_sealed",
@@ -3002,7 +3026,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0271"
+    "id": "f0273"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3013,7 +3037,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0272"
+    "id": "f0274"
   },
   {
     "code": "nominations_sealed",
@@ -3024,7 +3048,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0273"
+    "id": "f0275"
   },
   {
     "code": "nominations_sealed",
@@ -3035,7 +3059,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0274"
+    "id": "f0276"
   },
   {
     "code": "nominations_sealed",
@@ -3046,7 +3070,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0275"
+    "id": "f0277"
   },
   {
     "code": "nominations_sealed",
@@ -3057,7 +3081,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0276"
+    "id": "f0278"
   },
   {
     "code": "nominations_sealed",
@@ -3068,7 +3092,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0277"
+    "id": "f0279"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3079,7 +3103,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0278"
+    "id": "f0280"
   },
   {
     "code": "nominations_sealed",
@@ -3090,7 +3114,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0279"
+    "id": "f0281"
   },
   {
     "code": "nominations_sealed",
@@ -3101,7 +3125,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0280"
+    "id": "f0282"
   },
   {
     "code": "nominations_sealed",
@@ -3112,7 +3136,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0281"
+    "id": "f0283"
   },
   {
     "code": "nominations_sealed",
@@ -3123,7 +3147,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0282"
+    "id": "f0284"
   },
   {
     "code": "nominations_sealed",
@@ -3134,7 +3158,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0283"
+    "id": "f0285"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3145,7 +3169,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0284"
+    "id": "f0286"
   },
   {
     "code": "nominations_sealed",
@@ -3156,7 +3180,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0285"
+    "id": "f0287"
   },
   {
     "code": "nominations_sealed",
@@ -3167,7 +3191,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0286"
+    "id": "f0288"
   },
   {
     "code": "nominations_sealed",
@@ -3178,7 +3202,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0287"
+    "id": "f0289"
   },
   {
     "code": "nominations_sealed",
@@ -3189,7 +3213,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0288"
+    "id": "f0290"
   },
   {
     "code": "nominations_sealed",
@@ -3200,7 +3224,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0289"
+    "id": "f0291"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3211,7 +3235,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0290"
+    "id": "f0292"
   },
   {
     "code": "nominations_sealed",
@@ -3222,7 +3246,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0291"
+    "id": "f0293"
   },
   {
     "code": "nominations_sealed",
@@ -3233,7 +3257,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0292"
+    "id": "f0294"
   },
   {
     "code": "nominations_sealed",
@@ -3244,7 +3268,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0293"
+    "id": "f0295"
   },
   {
     "code": "nominations_sealed",
@@ -3255,7 +3279,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0294"
+    "id": "f0296"
   },
   {
     "code": "nominations_sealed",
@@ -3266,7 +3290,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0295"
+    "id": "f0297"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3277,7 +3301,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0296"
+    "id": "f0298"
   },
   {
     "code": "nominations_sealed",
@@ -3288,7 +3312,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0297"
+    "id": "f0299"
   },
   {
     "code": "nominations_sealed",
@@ -3299,7 +3323,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0298"
+    "id": "f0300"
   },
   {
     "code": "nominations_sealed",
@@ -3310,7 +3334,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0299"
+    "id": "f0301"
   },
   {
     "code": "nominations_sealed",
@@ -3321,7 +3345,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0300"
+    "id": "f0302"
   },
   {
     "code": "nominations_sealed",
@@ -3332,7 +3356,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0301"
+    "id": "f0303"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3343,7 +3367,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0302"
+    "id": "f0304"
   },
   {
     "code": "nominations_sealed",
@@ -3354,7 +3378,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0303"
+    "id": "f0305"
   },
   {
     "code": "nominations_sealed",
@@ -3365,7 +3389,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0304"
+    "id": "f0306"
   },
   {
     "code": "nominations_sealed",
@@ -3376,7 +3400,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0305"
+    "id": "f0307"
   },
   {
     "code": "v1_v2_name_differs",
@@ -3388,7 +3412,7 @@
       "https://api.nobelprize.org/2/laureate/540",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0306"
+    "id": "f0308"
   },
   {
     "code": "nominations_sealed",
@@ -3399,7 +3423,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0307"
+    "id": "f0309"
   },
   {
     "code": "nominations_sealed",
@@ -3410,7 +3434,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0308"
+    "id": "f0310"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3421,7 +3445,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0309"
+    "id": "f0311"
   },
   {
     "code": "nominations_sealed",
@@ -3432,7 +3456,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0310"
+    "id": "f0312"
   },
   {
     "code": "nominations_sealed",
@@ -3443,7 +3467,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0311"
+    "id": "f0313"
   },
   {
     "code": "nominations_sealed",
@@ -3454,7 +3478,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0312"
+    "id": "f0314"
   },
   {
     "code": "nominations_sealed",
@@ -3465,7 +3489,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0313"
+    "id": "f0315"
   },
   {
     "code": "nominations_sealed",
@@ -3476,7 +3500,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0314"
+    "id": "f0316"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3487,7 +3511,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0315"
+    "id": "f0317"
   },
   {
     "code": "nominations_sealed",
@@ -3498,7 +3522,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0316"
+    "id": "f0318"
   },
   {
     "code": "nominations_sealed",
@@ -3509,7 +3533,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0317"
+    "id": "f0319"
   },
   {
     "code": "nominations_sealed",
@@ -3520,7 +3544,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0318"
+    "id": "f0320"
   },
   {
     "code": "nominations_sealed",
@@ -3531,7 +3555,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0319"
+    "id": "f0321"
   },
   {
     "code": "nominations_sealed",
@@ -3542,7 +3566,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0320"
+    "id": "f0322"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3553,7 +3577,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0321"
+    "id": "f0323"
   },
   {
     "code": "nominations_sealed",
@@ -3564,7 +3588,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0322"
+    "id": "f0324"
   },
   {
     "code": "nominations_sealed",
@@ -3575,7 +3599,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0323"
+    "id": "f0325"
   },
   {
     "code": "nominations_sealed",
@@ -3586,7 +3610,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0324"
+    "id": "f0326"
   },
   {
     "code": "nominations_sealed",
@@ -3597,7 +3621,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0325"
+    "id": "f0327"
   },
   {
     "code": "nominations_sealed",
@@ -3608,7 +3632,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0326"
+    "id": "f0328"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3619,7 +3643,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0327"
+    "id": "f0329"
   },
   {
     "code": "nominations_sealed",
@@ -3630,7 +3654,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0328"
+    "id": "f0330"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3641,7 +3665,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1975"
     ],
-    "id": "f0329"
+    "id": "f0331"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3652,7 +3676,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1975"
     ],
-    "id": "f0330"
+    "id": "f0332"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -3663,7 +3687,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1975",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0331"
+    "id": "f0333"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -3673,7 +3697,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0332"
+    "id": "f0334"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3684,7 +3708,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0333"
+    "id": "f0335"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3695,7 +3719,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1975"
     ],
-    "id": "f0334"
+    "id": "f0336"
   },
   {
     "code": "nomination_list_near_spelling",
@@ -3706,7 +3730,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1974"
     ],
-    "id": "f0335"
+    "id": "f0337"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -3717,7 +3741,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1974",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0336"
+    "id": "f0338"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -3727,7 +3751,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0337"
+    "id": "f0339"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3738,7 +3762,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0338"
+    "id": "f0340"
   },
   {
     "code": "affiliation_not_published",
@@ -3749,7 +3773,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/684"
     ],
-    "id": "f0339"
+    "id": "f0341"
   },
   {
     "code": "affiliation_not_published",
@@ -3760,7 +3784,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/685"
     ],
-    "id": "f0340"
+    "id": "f0342"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3771,7 +3795,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1974"
     ],
-    "id": "f0341"
+    "id": "f0343"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -3783,7 +3807,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1973",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0342"
+    "id": "f0344"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -3795,7 +3819,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1973",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0343"
+    "id": "f0345"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -3807,7 +3831,19 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1973",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0344"
+    "id": "f0346"
+  },
+  {
+    "code": "api_trailing_whitespace_in_name",
+    "severity": "review",
+    "message": "The official API name for laureate 531 contains leading or trailing whitespace. The display name is stripped for reading. The exact downloaded values are kept in this flag and were not rewritten.",
+    "prizeKey": "peace-1973",
+    "laureateId": "531",
+    "raw": {
+      "knownName/orgName": "Le Duc Tho ",
+      "fullName": "Le Duc Tho "
+    },
+    "id": "f0347"
   },
   {
     "code": "prize_status_not_received",
@@ -3818,7 +3854,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/531"
     ],
-    "id": "f0345"
+    "id": "f0348"
   },
   {
     "code": "official_decline_wording_differs_across_pages",
@@ -3830,7 +3866,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/prizes/peace/1973/tho/facts/"
     ],
-    "id": "f0346"
+    "id": "f0349"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3841,7 +3877,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1973"
     ],
-    "id": "f0347"
+    "id": "f0350"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -3852,7 +3888,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1973",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0348"
+    "id": "f0351"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -3862,7 +3898,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0349"
+    "id": "f0352"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3873,7 +3909,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0350"
+    "id": "f0353"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3884,7 +3920,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1972"
     ],
-    "id": "f0351"
+    "id": "f0354"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3895,7 +3931,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1972"
     ],
-    "id": "f0352"
+    "id": "f0355"
   },
   {
     "code": "prize_not_awarded",
@@ -3906,7 +3942,7 @@
       "https://www.nobelprize.org/prizes/peace/1972/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1972"
     ],
-    "id": "f0353"
+    "id": "f0356"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -3917,7 +3953,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1972",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0354"
+    "id": "f0357"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -3927,7 +3963,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0355"
+    "id": "f0358"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3938,7 +3974,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0356"
+    "id": "f0359"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3949,7 +3985,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1972"
     ],
-    "id": "f0357"
+    "id": "f0360"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -3960,7 +3996,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1972"
     ],
-    "id": "f0358"
+    "id": "f0361"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -3971,7 +4007,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1971",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0359"
+    "id": "f0362"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -3981,7 +4017,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0360"
+    "id": "f0363"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -3992,7 +4028,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0361"
+    "id": "f0364"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4003,7 +4039,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1970"
     ],
-    "id": "f0362"
+    "id": "f0365"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4014,7 +4050,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1970",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0363"
+    "id": "f0366"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4024,7 +4060,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0364"
+    "id": "f0367"
   },
   {
     "code": "nomination_list_near_spelling",
@@ -4035,7 +4071,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1970"
     ],
-    "id": "f0365"
+    "id": "f0368"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -4046,7 +4082,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0366"
+    "id": "f0369"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4057,7 +4093,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1970"
     ],
-    "id": "f0367"
+    "id": "f0370"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4068,7 +4104,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1969"
     ],
-    "id": "f0368"
+    "id": "f0371"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4079,7 +4115,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1969",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0369"
+    "id": "f0372"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4089,7 +4125,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0370"
+    "id": "f0373"
   },
   {
     "code": "not_in_alfred_nobels_will",
@@ -4100,7 +4136,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/"
     ],
-    "id": "f0371"
+    "id": "f0374"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4111,7 +4147,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1969"
     ],
-    "id": "f0372"
+    "id": "f0375"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4122,7 +4158,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1968"
     ],
-    "id": "f0373"
+    "id": "f0376"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4133,7 +4169,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1968",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0374"
+    "id": "f0377"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4143,7 +4179,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0375"
+    "id": "f0378"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4154,7 +4190,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1967"
     ],
-    "id": "f0376"
+    "id": "f0379"
   },
   {
     "code": "prize_not_awarded",
@@ -4165,7 +4201,7 @@
       "https://www.nobelprize.org/prizes/peace/1967/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1967"
     ],
-    "id": "f0377"
+    "id": "f0380"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4176,7 +4212,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1967",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0378"
+    "id": "f0381"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4186,7 +4222,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0379"
+    "id": "f0382"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4197,7 +4233,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1967"
     ],
-    "id": "f0380"
+    "id": "f0383"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4208,7 +4244,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1967"
     ],
-    "id": "f0381"
+    "id": "f0384"
   },
   {
     "code": "prize_not_awarded",
@@ -4219,7 +4255,7 @@
       "https://www.nobelprize.org/prizes/peace/1966/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1966"
     ],
-    "id": "f0382"
+    "id": "f0385"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4230,7 +4266,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1966",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0383"
+    "id": "f0386"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4240,7 +4276,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0384"
+    "id": "f0387"
   },
   {
     "code": "nomination_list_near_spelling",
@@ -4251,7 +4287,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1966"
     ],
-    "id": "f0385"
+    "id": "f0388"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4262,7 +4298,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1966"
     ],
-    "id": "f0386"
+    "id": "f0389"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4273,7 +4309,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1965"
     ],
-    "id": "f0387"
+    "id": "f0390"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -4285,7 +4321,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1965",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0388"
+    "id": "f0391"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4296,7 +4332,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1965",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0389"
+    "id": "f0392"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4306,7 +4342,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0390"
+    "id": "f0393"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4317,7 +4353,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1965"
     ],
-    "id": "f0391"
+    "id": "f0394"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4328,7 +4364,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1964"
     ],
-    "id": "f0392"
+    "id": "f0395"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4339,7 +4375,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1964"
     ],
-    "id": "f0393"
+    "id": "f0396"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -4350,7 +4386,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1964"
     ],
-    "id": "f0394"
+    "id": "f0397"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4361,7 +4397,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1964"
     ],
-    "id": "f0395"
+    "id": "f0398"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4372,7 +4408,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1964",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0396"
+    "id": "f0399"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4382,7 +4418,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0397"
+    "id": "f0400"
   },
   {
     "code": "prize_status_not_received",
@@ -4393,7 +4429,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/637"
     ],
-    "id": "f0398"
+    "id": "f0401"
   },
   {
     "code": "official_declined_wording",
@@ -4405,7 +4441,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/prizes/literature/1964/sartre/facts/"
     ],
-    "id": "f0399"
+    "id": "f0402"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4416,7 +4452,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1963"
     ],
-    "id": "f0400"
+    "id": "f0403"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4427,7 +4463,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1963"
     ],
-    "id": "f0401"
+    "id": "f0404"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4438,7 +4474,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1963"
     ],
-    "id": "f0402"
+    "id": "f0405"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -4450,7 +4486,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1963",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0403"
+    "id": "f0406"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4461,7 +4497,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1963",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0404"
+    "id": "f0407"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4471,7 +4507,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0405"
+    "id": "f0408"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -4483,7 +4519,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1963",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0406"
+    "id": "f0409"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4494,7 +4530,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1962"
     ],
-    "id": "f0407"
+    "id": "f0410"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4505,7 +4541,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1962"
     ],
-    "id": "f0408"
+    "id": "f0411"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4516,7 +4552,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1962",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0409"
+    "id": "f0412"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4526,7 +4562,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0410"
+    "id": "f0413"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4537,7 +4573,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1962"
     ],
-    "id": "f0411"
+    "id": "f0414"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4548,7 +4584,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1962"
     ],
-    "id": "f0412"
+    "id": "f0415"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4559,7 +4595,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1961"
     ],
-    "id": "f0413"
+    "id": "f0416"
   },
   {
     "code": "death_date_before_award_date",
@@ -4572,7 +4608,7 @@
       "https://www.nobelprize.org/about/statutes-of-the-nobel-foundation/",
       "https://www.nobelprize.org/prizes/peace/1961/hammarskjold/facts/"
     ],
-    "id": "f0414"
+    "id": "f0417"
   },
   {
     "code": "posthumous_facts_page",
@@ -4583,7 +4619,7 @@
     "sources": [
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0415"
+    "id": "f0418"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4594,7 +4630,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1961"
     ],
-    "id": "f0416"
+    "id": "f0419"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4605,7 +4641,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1961",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0417"
+    "id": "f0420"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4615,7 +4651,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0418"
+    "id": "f0421"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4626,7 +4662,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1961"
     ],
-    "id": "f0419"
+    "id": "f0422"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4637,7 +4673,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1960"
     ],
-    "id": "f0420"
+    "id": "f0423"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -4649,7 +4685,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1960",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0421"
+    "id": "f0424"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4660,7 +4696,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1960",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0422"
+    "id": "f0425"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4670,7 +4706,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0423"
+    "id": "f0426"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4681,7 +4717,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1960"
     ],
-    "id": "f0424"
+    "id": "f0427"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4692,7 +4728,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1959"
     ],
-    "id": "f0425"
+    "id": "f0428"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4703,7 +4739,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1959",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0426"
+    "id": "f0429"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4713,7 +4749,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0427"
+    "id": "f0430"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4724,7 +4760,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1959"
     ],
-    "id": "f0428"
+    "id": "f0431"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -4735,7 +4771,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1958"
     ],
-    "id": "f0429"
+    "id": "f0432"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -4747,7 +4783,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1958",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0430"
+    "id": "f0433"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4758,7 +4794,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1958"
     ],
-    "id": "f0431"
+    "id": "f0434"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -4770,7 +4806,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1958",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0432"
+    "id": "f0435"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4781,7 +4817,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1958",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0433"
+    "id": "f0436"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4791,7 +4827,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0434"
+    "id": "f0437"
   },
   {
     "code": "prize_status_not_received",
@@ -4802,7 +4838,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/629"
     ],
-    "id": "f0435"
+    "id": "f0438"
   },
   {
     "code": "facts_page_decline_vs_api_status",
@@ -4814,7 +4850,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://api.nobelprize.org/2/laureate/629"
     ],
-    "id": "f0436"
+    "id": "f0439"
   },
   {
     "code": "facts_page_and_api_status_differ",
@@ -4827,7 +4863,7 @@
       "https://api.nobelprize.org/2/laureate/629",
       "https://api.nobelprize.org/2/laureate/629"
     ],
-    "id": "f0437"
+    "id": "f0440"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -4838,7 +4874,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1957"
     ],
-    "id": "f0438"
+    "id": "f0441"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4849,7 +4885,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1957",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0439"
+    "id": "f0442"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4859,7 +4895,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0440"
+    "id": "f0443"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -4871,7 +4907,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1957",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0441"
+    "id": "f0444"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4882,7 +4918,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1956"
     ],
-    "id": "f0442"
+    "id": "f0445"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4893,7 +4929,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1956"
     ],
-    "id": "f0443"
+    "id": "f0446"
   },
   {
     "code": "prize_not_awarded",
@@ -4904,7 +4940,7 @@
       "https://www.nobelprize.org/prizes/peace/1956/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1956"
     ],
-    "id": "f0444"
+    "id": "f0447"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4915,7 +4951,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1956",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0445"
+    "id": "f0448"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4925,7 +4961,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0446"
+    "id": "f0449"
   },
   {
     "code": "nomination_list_near_spelling",
@@ -4936,7 +4972,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1956"
     ],
-    "id": "f0447"
+    "id": "f0450"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -4948,7 +4984,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1956",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0448"
+    "id": "f0451"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -4959,7 +4995,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1955"
     ],
-    "id": "f0449"
+    "id": "f0452"
   },
   {
     "code": "prize_not_awarded",
@@ -4970,7 +5006,7 @@
       "https://www.nobelprize.org/prizes/peace/1955/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1955"
     ],
-    "id": "f0450"
+    "id": "f0453"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -4981,7 +5017,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1955",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0451"
+    "id": "f0454"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -4991,7 +5027,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0452"
+    "id": "f0455"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5002,7 +5038,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1955"
     ],
-    "id": "f0453"
+    "id": "f0456"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -5014,7 +5050,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1954",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0454"
+    "id": "f0457"
   },
   {
     "code": "medicine_page_returned_zero",
@@ -5025,7 +5061,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1954",
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0455"
+    "id": "f0458"
   },
   {
     "code": "medicine_nominations_not_released",
@@ -5035,7 +5071,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/"
     ],
-    "id": "f0456"
+    "id": "f0459"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5046,7 +5082,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1954"
     ],
-    "id": "f0457"
+    "id": "f0460"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5057,7 +5093,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1953"
     ],
-    "id": "f0458"
+    "id": "f0461"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5068,7 +5104,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
     ],
-    "id": "f0459"
+    "id": "f0462"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5079,7 +5115,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1953"
     ],
-    "id": "f0460"
+    "id": "f0463"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5090,7 +5126,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1953"
     ],
-    "id": "f0461"
+    "id": "f0464"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5101,7 +5137,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1952"
     ],
-    "id": "f0462"
+    "id": "f0465"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5112,7 +5148,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1952"
     ],
-    "id": "f0463"
+    "id": "f0466"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5123,7 +5159,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1952"
     ],
-    "id": "f0464"
+    "id": "f0467"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5134,7 +5170,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1952"
     ],
-    "id": "f0465"
+    "id": "f0468"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5145,7 +5181,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1951"
     ],
-    "id": "f0466"
+    "id": "f0469"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5156,7 +5192,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1951"
     ],
-    "id": "f0467"
+    "id": "f0470"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5167,7 +5203,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1951"
     ],
-    "id": "f0468"
+    "id": "f0471"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5178,7 +5214,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1951"
     ],
-    "id": "f0469"
+    "id": "f0472"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5189,7 +5225,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1951"
     ],
-    "id": "f0470"
+    "id": "f0473"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5200,7 +5236,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1950"
     ],
-    "id": "f0471"
+    "id": "f0474"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5211,7 +5247,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1950"
     ],
-    "id": "f0472"
+    "id": "f0475"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5222,7 +5258,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1950"
     ],
-    "id": "f0473"
+    "id": "f0476"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5233,7 +5269,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1950"
     ],
-    "id": "f0474"
+    "id": "f0477"
   },
   {
     "code": "v1_v2_name_differs",
@@ -5245,7 +5281,7 @@
       "https://api.nobelprize.org/2/laureate/510",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0475"
+    "id": "f0478"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -5257,7 +5293,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1949",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0476"
+    "id": "f0479"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5268,7 +5304,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1949"
     ],
-    "id": "f0477"
+    "id": "f0480"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -5280,7 +5316,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1949",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0478"
+    "id": "f0481"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5291,7 +5327,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1949"
     ],
-    "id": "f0479"
+    "id": "f0482"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5302,7 +5338,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1948"
     ],
-    "id": "f0480"
+    "id": "f0483"
   },
   {
     "code": "prize_not_awarded",
@@ -5313,7 +5349,7 @@
       "https://www.nobelprize.org/prizes/peace/1948/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1948"
     ],
-    "id": "f0481"
+    "id": "f0484"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5324,7 +5360,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1948"
     ],
-    "id": "f0482"
+    "id": "f0485"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5335,7 +5371,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1948"
     ],
-    "id": "f0483"
+    "id": "f0486"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5346,7 +5382,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1947"
     ],
-    "id": "f0484"
+    "id": "f0487"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -5358,7 +5394,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1947",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0485"
+    "id": "f0488"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -5370,7 +5406,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1947",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0486"
+    "id": "f0489"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5381,7 +5417,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1947"
     ],
-    "id": "f0487"
+    "id": "f0490"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -5392,7 +5428,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1947"
     ],
-    "id": "f0488"
+    "id": "f0491"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5403,7 +5439,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1946"
     ],
-    "id": "f0489"
+    "id": "f0492"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5414,7 +5450,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1946"
     ],
-    "id": "f0490"
+    "id": "f0493"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5424,7 +5460,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1946"
     ],
-    "id": "f0491"
+    "id": "f0494"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5435,7 +5471,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1946"
     ],
-    "id": "f0492"
+    "id": "f0495"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5446,7 +5482,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
     ],
-    "id": "f0493"
+    "id": "f0496"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5457,7 +5493,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
     ],
-    "id": "f0494"
+    "id": "f0497"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5468,7 +5504,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1946"
     ],
-    "id": "f0495"
+    "id": "f0498"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5478,7 +5514,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
     ],
-    "id": "f0496"
+    "id": "f0499"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -5489,7 +5525,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
     ],
-    "id": "f0497"
+    "id": "f0500"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5500,7 +5536,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
     ],
-    "id": "f0498"
+    "id": "f0501"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -5511,7 +5547,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1945"
     ],
-    "id": "f0499"
+    "id": "f0502"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5522,7 +5558,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1945"
     ],
-    "id": "f0500"
+    "id": "f0503"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -5533,7 +5569,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1944"
     ],
-    "id": "f0501"
+    "id": "f0504"
   },
   {
     "code": "official_list_says_zero_nominations",
@@ -5543,7 +5579,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1944"
     ],
-    "id": "f0502"
+    "id": "f0505"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5553,7 +5589,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1944"
     ],
-    "id": "f0503"
+    "id": "f0506"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5564,7 +5600,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1944"
     ],
-    "id": "f0504"
+    "id": "f0507"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5575,7 +5611,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1944"
     ],
-    "id": "f0505"
+    "id": "f0508"
   },
   {
     "code": "prize_not_awarded",
@@ -5586,7 +5622,7 @@
       "https://www.nobelprize.org/prizes/peace/1943/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1943"
     ],
-    "id": "f0506"
+    "id": "f0509"
   },
   {
     "code": "official_list_says_zero_nominations",
@@ -5596,7 +5632,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1943"
     ],
-    "id": "f0507"
+    "id": "f0510"
   },
   {
     "code": "nomination_list_near_spelling",
@@ -5607,7 +5643,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943"
     ],
-    "id": "f0508"
+    "id": "f0511"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -5619,7 +5655,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1943",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0509"
+    "id": "f0512"
   },
   {
     "code": "prize_not_awarded",
@@ -5630,7 +5666,7 @@
       "https://www.nobelprize.org/prizes/literature/1943/summary/",
       "https://api.nobelprize.org/2/nobelPrize/lit/1943"
     ],
-    "id": "f0510"
+    "id": "f0513"
   },
   {
     "code": "prize_not_awarded",
@@ -5641,7 +5677,7 @@
       "https://www.nobelprize.org/prizes/physics/1942/summary/",
       "https://api.nobelprize.org/2/nobelPrize/phy/1942"
     ],
-    "id": "f0511"
+    "id": "f0514"
   },
   {
     "code": "prize_not_awarded",
@@ -5652,7 +5688,7 @@
       "https://www.nobelprize.org/prizes/peace/1942/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1942"
     ],
-    "id": "f0512"
+    "id": "f0515"
   },
   {
     "code": "official_list_says_zero_nominations",
@@ -5662,7 +5698,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1942"
     ],
-    "id": "f0513"
+    "id": "f0516"
   },
   {
     "code": "prize_not_awarded",
@@ -5673,7 +5709,7 @@
       "https://www.nobelprize.org/prizes/medicine/1942/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1942"
     ],
-    "id": "f0514"
+    "id": "f0517"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5683,7 +5719,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1942"
     ],
-    "id": "f0515"
+    "id": "f0518"
   },
   {
     "code": "prize_not_awarded",
@@ -5694,7 +5730,7 @@
       "https://www.nobelprize.org/prizes/literature/1942/summary/",
       "https://api.nobelprize.org/2/nobelPrize/lit/1942"
     ],
-    "id": "f0516"
+    "id": "f0519"
   },
   {
     "code": "prize_not_awarded",
@@ -5705,7 +5741,7 @@
       "https://www.nobelprize.org/prizes/chemistry/1942/summary/",
       "https://api.nobelprize.org/2/nobelPrize/che/1942"
     ],
-    "id": "f0517"
+    "id": "f0520"
   },
   {
     "code": "prize_not_awarded",
@@ -5716,7 +5752,7 @@
       "https://www.nobelprize.org/prizes/physics/1941/summary/",
       "https://api.nobelprize.org/2/nobelPrize/phy/1941"
     ],
-    "id": "f0518"
+    "id": "f0521"
   },
   {
     "code": "prize_not_awarded",
@@ -5727,7 +5763,7 @@
       "https://www.nobelprize.org/prizes/peace/1941/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1941"
     ],
-    "id": "f0519"
+    "id": "f0522"
   },
   {
     "code": "prize_not_awarded",
@@ -5738,7 +5774,7 @@
       "https://www.nobelprize.org/prizes/medicine/1941/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1941"
     ],
-    "id": "f0520"
+    "id": "f0523"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5748,7 +5784,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1941"
     ],
-    "id": "f0521"
+    "id": "f0524"
   },
   {
     "code": "prize_not_awarded",
@@ -5759,7 +5795,7 @@
       "https://www.nobelprize.org/prizes/literature/1941/summary/",
       "https://api.nobelprize.org/2/nobelPrize/lit/1941"
     ],
-    "id": "f0522"
+    "id": "f0525"
   },
   {
     "code": "prize_not_awarded",
@@ -5770,7 +5806,7 @@
       "https://www.nobelprize.org/prizes/chemistry/1941/summary/",
       "https://api.nobelprize.org/2/nobelPrize/che/1941"
     ],
-    "id": "f0523"
+    "id": "f0526"
   },
   {
     "code": "prize_not_awarded",
@@ -5781,7 +5817,7 @@
       "https://www.nobelprize.org/prizes/physics/1940/summary/",
       "https://api.nobelprize.org/2/nobelPrize/phy/1940"
     ],
-    "id": "f0524"
+    "id": "f0527"
   },
   {
     "code": "prize_not_awarded",
@@ -5792,7 +5828,7 @@
       "https://www.nobelprize.org/prizes/peace/1940/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1940"
     ],
-    "id": "f0525"
+    "id": "f0528"
   },
   {
     "code": "official_list_says_zero_nominations",
@@ -5802,7 +5838,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1940"
     ],
-    "id": "f0526"
+    "id": "f0529"
   },
   {
     "code": "prize_not_awarded",
@@ -5813,7 +5849,7 @@
       "https://www.nobelprize.org/prizes/medicine/1940/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1940"
     ],
-    "id": "f0527"
+    "id": "f0530"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5823,7 +5859,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1940"
     ],
-    "id": "f0528"
+    "id": "f0531"
   },
   {
     "code": "prize_not_awarded",
@@ -5834,7 +5870,7 @@
       "https://www.nobelprize.org/prizes/literature/1940/summary/",
       "https://api.nobelprize.org/2/nobelPrize/lit/1940"
     ],
-    "id": "f0529"
+    "id": "f0532"
   },
   {
     "code": "prize_not_awarded",
@@ -5845,7 +5881,7 @@
       "https://www.nobelprize.org/prizes/chemistry/1940/summary/",
       "https://api.nobelprize.org/2/nobelPrize/che/1940"
     ],
-    "id": "f0530"
+    "id": "f0533"
   },
   {
     "code": "prize_not_awarded",
@@ -5856,7 +5892,7 @@
       "https://www.nobelprize.org/prizes/peace/1939/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1939"
     ],
-    "id": "f0531"
+    "id": "f0534"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5866,7 +5902,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1939"
     ],
-    "id": "f0532"
+    "id": "f0535"
   },
   {
     "code": "forced_to_decline_facts_page",
@@ -5878,7 +5914,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/nobel_prizes/medicine/laureates/1939/index.html"
     ],
-    "id": "f0533"
+    "id": "f0536"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -5889,7 +5925,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1939"
     ],
-    "id": "f0534"
+    "id": "f0537"
   },
   {
     "code": "forced_to_decline_facts_page",
@@ -5901,7 +5937,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/nobel_prizes/chemistry/laureates/1939/index.html"
     ],
-    "id": "f0535"
+    "id": "f0538"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5912,7 +5948,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1938"
     ],
-    "id": "f0536"
+    "id": "f0539"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5922,7 +5958,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1938"
     ],
-    "id": "f0537"
+    "id": "f0540"
   },
   {
     "code": "forced_to_decline_facts_page",
@@ -5934,7 +5970,7 @@
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/",
       "https://www.nobelprize.org/nobel_prizes/chemistry/laureates/1938/index.html"
     ],
-    "id": "f0538"
+    "id": "f0541"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -5946,7 +5982,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1938",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0539"
+    "id": "f0542"
   },
   {
     "code": "v1_v2_name_differs",
@@ -5958,7 +5994,7 @@
       "https://api.nobelprize.org/2/laureate/502",
       "https://api.nobelprize.org/v1/laureate.json"
     ],
-    "id": "f0540"
+    "id": "f0543"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5969,7 +6005,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1937"
     ],
-    "id": "f0541"
+    "id": "f0544"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -5979,7 +6015,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1937"
     ],
-    "id": "f0542"
+    "id": "f0545"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -5990,7 +6026,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1937"
     ],
-    "id": "f0543"
+    "id": "f0546"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6001,7 +6037,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1937"
     ],
-    "id": "f0544"
+    "id": "f0547"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6012,7 +6048,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
     ],
-    "id": "f0545"
+    "id": "f0548"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6023,7 +6059,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1936"
     ],
-    "id": "f0546"
+    "id": "f0549"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6033,7 +6069,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1936"
     ],
-    "id": "f0547"
+    "id": "f0550"
   },
   {
     "code": "nomination_list_near_spelling",
@@ -6044,7 +6080,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1936"
     ],
-    "id": "f0548"
+    "id": "f0551"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6056,7 +6092,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1936",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0549"
+    "id": "f0552"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6066,7 +6102,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1935"
     ],
-    "id": "f0550"
+    "id": "f0553"
   },
   {
     "code": "prize_not_awarded",
@@ -6077,7 +6113,7 @@
       "https://www.nobelprize.org/prizes/literature/1935/summary/",
       "https://api.nobelprize.org/2/nobelPrize/lit/1935"
     ],
-    "id": "f0551"
+    "id": "f0554"
   },
   {
     "code": "prize_not_awarded",
@@ -6088,7 +6124,7 @@
       "https://www.nobelprize.org/prizes/physics/1934/summary/",
       "https://api.nobelprize.org/2/nobelPrize/phy/1934"
     ],
-    "id": "f0552"
+    "id": "f0555"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6098,7 +6134,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1934"
     ],
-    "id": "f0553"
+    "id": "f0556"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6109,7 +6145,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1934"
     ],
-    "id": "f0554"
+    "id": "f0557"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6120,7 +6156,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1934"
     ],
-    "id": "f0555"
+    "id": "f0558"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6131,7 +6167,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1934"
     ],
-    "id": "f0556"
+    "id": "f0559"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6142,7 +6178,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1934"
     ],
-    "id": "f0557"
+    "id": "f0560"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6153,7 +6189,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1933"
     ],
-    "id": "f0558"
+    "id": "f0561"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6165,7 +6201,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1933",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0559"
+    "id": "f0562"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6175,7 +6211,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1933"
     ],
-    "id": "f0560"
+    "id": "f0563"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6186,7 +6222,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1933"
     ],
-    "id": "f0561"
+    "id": "f0564"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6198,7 +6234,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1933",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0562"
+    "id": "f0565"
   },
   {
     "code": "prize_not_awarded",
@@ -6209,7 +6245,7 @@
       "https://www.nobelprize.org/prizes/chemistry/1933/summary/",
       "https://api.nobelprize.org/2/nobelPrize/che/1933"
     ],
-    "id": "f0563"
+    "id": "f0566"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6220,7 +6256,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1932"
     ],
-    "id": "f0564"
+    "id": "f0567"
   },
   {
     "code": "prize_not_awarded",
@@ -6231,7 +6267,7 @@
       "https://www.nobelprize.org/prizes/peace/1932/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1932"
     ],
-    "id": "f0565"
+    "id": "f0568"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6241,7 +6277,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1932"
     ],
-    "id": "f0566"
+    "id": "f0569"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -6252,7 +6288,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1932"
     ],
-    "id": "f0567"
+    "id": "f0570"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6263,7 +6299,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1932"
     ],
-    "id": "f0568"
+    "id": "f0571"
   },
   {
     "code": "prize_not_awarded",
@@ -6274,7 +6310,7 @@
       "https://www.nobelprize.org/prizes/physics/1931/summary/",
       "https://api.nobelprize.org/2/nobelPrize/phy/1931"
     ],
-    "id": "f0569"
+    "id": "f0572"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6284,7 +6320,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1931"
     ],
-    "id": "f0570"
+    "id": "f0573"
   },
   {
     "code": "death_date_before_award_date",
@@ -6297,7 +6333,7 @@
       "https://www.nobelprize.org/about/statutes-of-the-nobel-foundation/",
       "https://www.nobelprize.org/prizes/literature/1931/karlfeldt/facts/"
     ],
-    "id": "f0571"
+    "id": "f0574"
   },
   {
     "code": "posthumous_facts_page",
@@ -6308,7 +6344,7 @@
     "sources": [
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0572"
+    "id": "f0575"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -6319,7 +6355,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1930"
     ],
-    "id": "f0573"
+    "id": "f0576"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6331,7 +6367,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1930",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0574"
+    "id": "f0577"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6341,7 +6377,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1930"
     ],
-    "id": "f0575"
+    "id": "f0578"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6352,7 +6388,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1929"
     ],
-    "id": "f0576"
+    "id": "f0579"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6363,7 +6399,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1929"
     ],
-    "id": "f0577"
+    "id": "f0580"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6373,7 +6409,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1929"
     ],
-    "id": "f0578"
+    "id": "f0581"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -6384,7 +6420,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1929"
     ],
-    "id": "f0579"
+    "id": "f0582"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -6395,7 +6431,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1928"
     ],
-    "id": "f0580"
+    "id": "f0583"
   },
   {
     "code": "prize_not_awarded",
@@ -6406,7 +6442,7 @@
       "https://www.nobelprize.org/prizes/peace/1928/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1928"
     ],
-    "id": "f0581"
+    "id": "f0584"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6416,7 +6452,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1928"
     ],
-    "id": "f0582"
+    "id": "f0585"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6427,7 +6463,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1927"
     ],
-    "id": "f0583"
+    "id": "f0586"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6438,7 +6474,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1927"
     ],
-    "id": "f0584"
+    "id": "f0587"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6449,7 +6485,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1927"
     ],
-    "id": "f0585"
+    "id": "f0588"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6459,7 +6495,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1927"
     ],
-    "id": "f0586"
+    "id": "f0589"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6471,7 +6507,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1927",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0587"
+    "id": "f0590"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6482,7 +6518,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1927"
     ],
-    "id": "f0588"
+    "id": "f0591"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -6493,7 +6529,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1926"
     ],
-    "id": "f0589"
+    "id": "f0592"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6504,7 +6540,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1926"
     ],
-    "id": "f0590"
+    "id": "f0593"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6514,7 +6550,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1926"
     ],
-    "id": "f0591"
+    "id": "f0594"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6526,7 +6562,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1926",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0592"
+    "id": "f0595"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6537,7 +6573,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1926"
     ],
-    "id": "f0593"
+    "id": "f0596"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6549,7 +6585,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1925",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0594"
+    "id": "f0597"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6561,7 +6597,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1925",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0595"
+    "id": "f0598"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6573,7 +6609,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1925",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0596"
+    "id": "f0599"
   },
   {
     "code": "prize_not_awarded",
@@ -6584,7 +6620,7 @@
       "https://www.nobelprize.org/prizes/medicine/1925/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1925"
     ],
-    "id": "f0597"
+    "id": "f0600"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6594,7 +6630,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1925"
     ],
-    "id": "f0598"
+    "id": "f0601"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6606,7 +6642,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1925",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0599"
+    "id": "f0602"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6618,7 +6654,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1924",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0600"
+    "id": "f0603"
   },
   {
     "code": "prize_not_awarded",
@@ -6629,7 +6665,7 @@
       "https://www.nobelprize.org/prizes/peace/1924/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1924"
     ],
-    "id": "f0601"
+    "id": "f0604"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6639,7 +6675,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1924"
     ],
-    "id": "f0602"
+    "id": "f0605"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6651,7 +6687,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1924",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0603"
+    "id": "f0606"
   },
   {
     "code": "prize_not_awarded",
@@ -6662,7 +6698,7 @@
       "https://www.nobelprize.org/prizes/chemistry/1924/summary/",
       "https://api.nobelprize.org/2/nobelPrize/che/1924"
     ],
-    "id": "f0604"
+    "id": "f0607"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6673,7 +6709,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1923"
     ],
-    "id": "f0605"
+    "id": "f0608"
   },
   {
     "code": "prize_not_awarded",
@@ -6684,7 +6720,7 @@
       "https://www.nobelprize.org/prizes/peace/1923/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1923"
     ],
-    "id": "f0606"
+    "id": "f0609"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6694,7 +6730,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1923"
     ],
-    "id": "f0607"
+    "id": "f0610"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6705,7 +6741,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1923"
     ],
-    "id": "f0608"
+    "id": "f0611"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6716,7 +6752,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1923"
     ],
-    "id": "f0609"
+    "id": "f0612"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -6727,7 +6763,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1923"
     ],
-    "id": "f0610"
+    "id": "f0613"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6737,7 +6773,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922"
     ],
-    "id": "f0611"
+    "id": "f0614"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6749,7 +6785,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0612"
+    "id": "f0615"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6761,7 +6797,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1922",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0613"
+    "id": "f0616"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6772,7 +6808,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1922"
     ],
-    "id": "f0614"
+    "id": "f0617"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6783,7 +6819,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
     ],
-    "id": "f0615"
+    "id": "f0618"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6794,7 +6830,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1921"
     ],
-    "id": "f0616"
+    "id": "f0619"
   },
   {
     "code": "prize_not_awarded",
@@ -6805,7 +6841,7 @@
       "https://www.nobelprize.org/prizes/medicine/1921/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1921"
     ],
-    "id": "f0617"
+    "id": "f0620"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6815,7 +6851,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1921"
     ],
-    "id": "f0618"
+    "id": "f0621"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6826,7 +6862,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1921"
     ],
-    "id": "f0619"
+    "id": "f0622"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6838,7 +6874,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1921",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0620"
+    "id": "f0623"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -6849,7 +6885,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1920"
     ],
-    "id": "f0621"
+    "id": "f0624"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6860,7 +6896,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1920"
     ],
-    "id": "f0622"
+    "id": "f0625"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6870,7 +6906,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1920"
     ],
-    "id": "f0623"
+    "id": "f0626"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6881,7 +6917,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1919"
     ],
-    "id": "f0624"
+    "id": "f0627"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6891,7 +6927,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1919"
     ],
-    "id": "f0625"
+    "id": "f0628"
   },
   {
     "code": "prize_not_awarded",
@@ -6902,7 +6938,7 @@
       "https://www.nobelprize.org/prizes/chemistry/1919/summary/",
       "https://api.nobelprize.org/2/nobelPrize/che/1919"
     ],
-    "id": "f0626"
+    "id": "f0629"
   },
   {
     "code": "prize_not_awarded",
@@ -6913,7 +6949,7 @@
       "https://www.nobelprize.org/prizes/peace/1918/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1918"
     ],
-    "id": "f0627"
+    "id": "f0630"
   },
   {
     "code": "prize_not_awarded",
@@ -6924,7 +6960,7 @@
       "https://www.nobelprize.org/prizes/medicine/1918/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1918"
     ],
-    "id": "f0628"
+    "id": "f0631"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6934,7 +6970,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1918"
     ],
-    "id": "f0629"
+    "id": "f0632"
   },
   {
     "code": "prize_not_awarded",
@@ -6945,7 +6981,7 @@
       "https://www.nobelprize.org/prizes/literature/1918/summary/",
       "https://api.nobelprize.org/2/nobelPrize/lit/1918"
     ],
-    "id": "f0630"
+    "id": "f0633"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -6957,7 +6993,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1917",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0631"
+    "id": "f0634"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -6968,7 +7004,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1917"
     ],
-    "id": "f0632"
+    "id": "f0635"
   },
   {
     "code": "prize_not_awarded",
@@ -6979,7 +7015,7 @@
       "https://www.nobelprize.org/prizes/medicine/1917/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1917"
     ],
-    "id": "f0633"
+    "id": "f0636"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -6989,7 +7025,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1917"
     ],
-    "id": "f0634"
+    "id": "f0637"
   },
   {
     "code": "prize_not_awarded",
@@ -7000,7 +7036,7 @@
       "https://www.nobelprize.org/prizes/chemistry/1917/summary/",
       "https://api.nobelprize.org/2/nobelPrize/che/1917"
     ],
-    "id": "f0635"
+    "id": "f0638"
   },
   {
     "code": "prize_not_awarded",
@@ -7011,7 +7047,7 @@
       "https://www.nobelprize.org/prizes/physics/1916/summary/",
       "https://api.nobelprize.org/2/nobelPrize/phy/1916"
     ],
-    "id": "f0636"
+    "id": "f0639"
   },
   {
     "code": "prize_not_awarded",
@@ -7022,7 +7058,7 @@
       "https://www.nobelprize.org/prizes/peace/1916/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1916"
     ],
-    "id": "f0637"
+    "id": "f0640"
   },
   {
     "code": "prize_not_awarded",
@@ -7033,7 +7069,7 @@
       "https://www.nobelprize.org/prizes/medicine/1916/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1916"
     ],
-    "id": "f0638"
+    "id": "f0641"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7043,7 +7079,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1916"
     ],
-    "id": "f0639"
+    "id": "f0642"
   },
   {
     "code": "prize_not_awarded",
@@ -7054,7 +7090,7 @@
       "https://www.nobelprize.org/prizes/chemistry/1916/summary/",
       "https://api.nobelprize.org/2/nobelPrize/che/1916"
     ],
-    "id": "f0640"
+    "id": "f0643"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7065,7 +7101,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1915"
     ],
-    "id": "f0641"
+    "id": "f0644"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7076,7 +7112,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1915"
     ],
-    "id": "f0642"
+    "id": "f0645"
   },
   {
     "code": "prize_not_awarded",
@@ -7087,7 +7123,7 @@
       "https://www.nobelprize.org/prizes/peace/1915/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1915"
     ],
-    "id": "f0643"
+    "id": "f0646"
   },
   {
     "code": "prize_not_awarded",
@@ -7098,7 +7134,7 @@
       "https://www.nobelprize.org/prizes/medicine/1915/summary/",
       "https://api.nobelprize.org/2/nobelPrize/med/1915"
     ],
-    "id": "f0644"
+    "id": "f0647"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7108,7 +7144,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1915"
     ],
-    "id": "f0645"
+    "id": "f0648"
   },
   {
     "code": "prize_not_awarded",
@@ -7119,7 +7155,7 @@
       "https://www.nobelprize.org/prizes/peace/1914/summary/",
       "https://api.nobelprize.org/2/nobelPrize/pea/1914"
     ],
-    "id": "f0646"
+    "id": "f0649"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7129,7 +7165,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1914"
     ],
-    "id": "f0647"
+    "id": "f0650"
   },
   {
     "code": "prize_not_awarded",
@@ -7140,7 +7176,7 @@
       "https://www.nobelprize.org/prizes/literature/1914/summary/",
       "https://api.nobelprize.org/2/nobelPrize/lit/1914"
     ],
-    "id": "f0648"
+    "id": "f0651"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7151,7 +7187,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1914"
     ],
-    "id": "f0649"
+    "id": "f0652"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7162,7 +7198,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1913"
     ],
-    "id": "f0650"
+    "id": "f0653"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7172,7 +7208,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1913"
     ],
-    "id": "f0651"
+    "id": "f0654"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7183,7 +7219,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1913"
     ],
-    "id": "f0652"
+    "id": "f0655"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -7195,7 +7231,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1912",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0653"
+    "id": "f0656"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -7207,7 +7243,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1912",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0654"
+    "id": "f0657"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7217,7 +7253,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1912"
     ],
-    "id": "f0655"
+    "id": "f0658"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7228,7 +7264,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
     ],
-    "id": "f0656"
+    "id": "f0659"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7239,7 +7275,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1911"
     ],
-    "id": "f0657"
+    "id": "f0660"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7249,7 +7285,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1911"
     ],
-    "id": "f0658"
+    "id": "f0661"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -7260,7 +7296,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1910"
     ],
-    "id": "f0659"
+    "id": "f0662"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7271,7 +7307,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1910"
     ],
-    "id": "f0660"
+    "id": "f0663"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7281,7 +7317,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1910"
     ],
-    "id": "f0661"
+    "id": "f0664"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7292,7 +7328,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1909"
     ],
-    "id": "f0662"
+    "id": "f0665"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7303,7 +7339,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1909"
     ],
-    "id": "f0663"
+    "id": "f0666"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7313,7 +7349,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1909"
     ],
-    "id": "f0664"
+    "id": "f0667"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -7325,7 +7361,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1909",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0665"
+    "id": "f0668"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7335,7 +7371,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1908"
     ],
-    "id": "f0666"
+    "id": "f0669"
   },
   {
     "code": "laureate_name_not_on_nomination_list",
@@ -7347,7 +7383,7 @@
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1908",
       "https://www.nobelprize.org/nomination/archive/manual.php"
     ],
-    "id": "f0667"
+    "id": "f0670"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7358,7 +7394,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1908"
     ],
-    "id": "f0668"
+    "id": "f0671"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7369,7 +7405,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1907"
     ],
-    "id": "f0669"
+    "id": "f0672"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7379,7 +7415,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1907"
     ],
-    "id": "f0670"
+    "id": "f0673"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7390,7 +7426,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1906"
     ],
-    "id": "f0671"
+    "id": "f0674"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7400,7 +7436,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1906"
     ],
-    "id": "f0672"
+    "id": "f0675"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7411,7 +7447,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1906"
     ],
-    "id": "f0673"
+    "id": "f0676"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7422,7 +7458,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1905"
     ],
-    "id": "f0674"
+    "id": "f0677"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7433,7 +7469,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1905"
     ],
-    "id": "f0675"
+    "id": "f0678"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7443,7 +7479,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1905"
     ],
-    "id": "f0676"
+    "id": "f0679"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7454,7 +7490,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1904"
     ],
-    "id": "f0677"
+    "id": "f0680"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7465,7 +7501,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1904"
     ],
-    "id": "f0678"
+    "id": "f0681"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7475,7 +7511,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1904"
     ],
-    "id": "f0679"
+    "id": "f0682"
   },
   {
     "code": "nomination_list_near_spelling",
@@ -7486,7 +7522,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1904"
     ],
-    "id": "f0680"
+    "id": "f0683"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -7497,7 +7533,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1904"
     ],
-    "id": "f0681"
+    "id": "f0684"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -7508,7 +7544,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1904"
     ],
-    "id": "f0682"
+    "id": "f0685"
   },
   {
     "code": "affiliation_not_published",
@@ -7519,7 +7555,7 @@
     "sources": [
       "https://api.nobelprize.org/2/laureate/6"
     ],
-    "id": "f0683"
+    "id": "f0686"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7530,7 +7566,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1903"
     ],
-    "id": "f0684"
+    "id": "f0687"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7540,7 +7576,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1903"
     ],
-    "id": "f0685"
+    "id": "f0688"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -7551,7 +7587,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1903"
     ],
-    "id": "f0686"
+    "id": "f0689"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7562,7 +7598,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1903"
     ],
-    "id": "f0687"
+    "id": "f0690"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7573,7 +7609,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1902"
     ],
-    "id": "f0688"
+    "id": "f0691"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7584,7 +7620,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1902"
     ],
-    "id": "f0689"
+    "id": "f0692"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7594,7 +7630,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1902"
     ],
-    "id": "f0690"
+    "id": "f0693"
   },
   {
     "code": "laureate_only_possible_nominee_name_match",
@@ -7605,7 +7641,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1901"
     ],
-    "id": "f0691"
+    "id": "f0694"
   },
   {
     "code": "physics_1901_grenville_clark_id_discontinuity",
@@ -7616,7 +7652,7 @@
       "https://www.nobelprize.org/nomination/archive/show.php?id=19478",
       "https://www.nobelprize.org/nomination/archive/list.php?prize=1&year=1901"
     ],
-    "id": "f0692"
+    "id": "f0695"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7627,7 +7663,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=5&year=1901"
     ],
-    "id": "f0693"
+    "id": "f0696"
   },
   {
     "code": "nomination_parse_count_mismatch",
@@ -7637,7 +7673,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=3&year=1901"
     ],
-    "id": "f0694"
+    "id": "f0697"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7648,7 +7684,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=4&year=1901"
     ],
-    "id": "f0695"
+    "id": "f0698"
   },
   {
     "code": "nomination_list_spelling_differs",
@@ -7659,7 +7695,7 @@
     "sources": [
       "https://www.nobelprize.org/nomination/archive/list.php?prize=2&year=1901"
     ],
-    "id": "f0696"
+    "id": "f0699"
   },
   {
     "code": "multiple_prizes",
@@ -7670,7 +7706,7 @@
       "https://api.nobelprize.org/2/laureate/743",
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0697"
+    "id": "f0700"
   },
   {
     "code": "multiple_prizes",
@@ -7681,7 +7717,7 @@
       "https://api.nobelprize.org/2/laureate/515",
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0698"
+    "id": "f0701"
   },
   {
     "code": "multiple_prizes",
@@ -7692,7 +7728,7 @@
       "https://api.nobelprize.org/2/laureate/222",
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0699"
+    "id": "f0702"
   },
   {
     "code": "multiple_prizes",
@@ -7703,7 +7739,7 @@
       "https://api.nobelprize.org/2/laureate/66",
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0700"
+    "id": "f0703"
   },
   {
     "code": "multiple_prizes",
@@ -7714,7 +7750,7 @@
       "https://api.nobelprize.org/2/laureate/482",
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0701"
+    "id": "f0704"
   },
   {
     "code": "multiple_prizes",
@@ -7725,7 +7761,7 @@
       "https://api.nobelprize.org/2/laureate/217",
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0702"
+    "id": "f0705"
   },
   {
     "code": "multiple_prizes",
@@ -7736,7 +7772,7 @@
       "https://api.nobelprize.org/2/laureate/6",
       "https://www.nobelprize.org/prizes/facts/nobel-prize-facts/"
     ],
-    "id": "f0703"
+    "id": "f0706"
   },
   {
     "code": "nomination_archive_totals_disagree",
@@ -7746,7 +7782,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/search.php"
     ],
-    "id": "f0704"
+    "id": "f0707"
   },
   {
     "code": "stored_nomination_total_differs_from_homepage_table",
@@ -7756,7 +7792,7 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/list.php"
     ],
-    "id": "f0705"
+    "id": "f0708"
   },
   {
     "code": "stored_nomination_total_differs_from_homepage_table",
@@ -7766,6 +7802,6 @@
       "https://www.nobelprize.org/nomination/archive/",
       "https://www.nobelprize.org/nomination/archive/list.php"
     ],
-    "id": "f0706"
+    "id": "f0709"
   }
 ]

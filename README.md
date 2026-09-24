@@ -50,6 +50,14 @@ python -m unittest scripts/test_parser.py
 
 Retrieved 2026-09-24 from the official API and nomination archive. Re-checked against the live official pages on 2026-09-24 (second session): the archive homepage table, the facts page, the v1 prize API, and the physics 1903 list page all still match the stored files.
 
+Third session (also 2026-09-24), re-verified against the live web, independent of the earlier downloads:
+
+- The live Nobel Prize facts page still matches every stored cross-check figure: 633 awarded prizes; 1,026 laureate slots (990 individuals + 28 organisations); 49 not-awarded occasions, year by year; 68 prizes to women; and the per-subject prize and laureate table.
+- The live physics list page still states 119 prizes / 230 laureate slots and that the 2026 physics prize had not been awarded (announcement 6 October 2026, 11:45 CEST at the earliest) — identical to the site banner.
+- The live API records for physics 2025, peace 1973, literature 1958 (Pasternak, prizeStatus `restricted`) match the stored rows field for field, including portions and motivations.
+- The live Physics 1901 nomination list page matches the stored `data/nominations/physics/1901.json` row for row: 30 stated, 30 stored, same nomination IDs (including the Grenville Clark row at show.php?id=19478, flagged f0695).
+- A build bug found and fixed in this session: the API ships a few names with stray whitespace (for example “Le Duc Tho ”). The displayed name was always cleaned correctly, but the flag meant to record the exact downloaded value could never fire. Fixed in `scripts/build_catalog.py`; the catalog now carries `api_trailing_whitespace_in_name` flags (f0023, f0026, f0347) with the raw values, 709 flags in total. Unit tests added.
+
 - 682 prize records: 633 awarded and 49 not awarded. That matches the facts page.
 - 1,018 laureate records and 1,026 award slots. That matches the facts page.
 - 68 prize awards recorded as female, and 28 organisation records. That matches the facts page.
@@ -61,7 +69,7 @@ Retrieved 2026-09-24 from the official API and nomination archive. Re-checked ag
 ## Known limits — next session
 
 1. **Nomination detail pages are not bulk-copied.** List pages are stored: nominee, nominator, and the official Show link. Each `show.php` motivation is linked, not copied. A full crawl would be large and would burden the service. Next step: small delayed batches, or a bulk export from the awarding institutions.
-2. **Official nomination totals disagree.** On 2026-09-24 the archive homepage table said 23,141 nominations and the advanced search page said 23,983. Both numbers are kept. Do not average them. This archive stores 23,140 rows: every peace year page's stated count equals its rows, but the peace sum (5,229) is one short of the homepage table (5,230), and no downloaded page contains that one extra row. The gap is flagged (f0706), not filled.
+2. **Official nomination totals disagree.** On 2026-09-24 the archive homepage table said 23,141 nominations and the advanced search page said 23,983. Both numbers are kept. Do not average them. This archive stores 23,140 rows: every peace year page's stated count equals its rows, but the peace sum (5,229) is one short of the homepage table (5,230), and no downloaded page contains that one extra row. The gap is flagged (f0709), not filled.
 3. **Medicine list pages disagree with their own counts.** For 45 medicine years, mostly 1901–1946, the page says more nominations than it contains Show links. Every linked row is stored. The missing rows are not in the HTML and were not invented. Saved copies of those pages are in `data/raw/nomination_html/`.
 4. **Medicine nominations stop at 1953** on the archive homepage. The 1954–1975 list pages returned 0. That zero is flagged. It is not a complete candidate list.
 5. **Economic sciences nominations are not in the public archive.** `list.php?prize=6&year=1969` returned 0, and the search form has no economics category. That zero is not evidence that nobody was nominated.

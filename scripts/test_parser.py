@@ -17,6 +17,7 @@ from nobel_lib import (  # noqa: E402
     name_match_level,
     parse_nomination_list,
     portion_from_share,
+    raw_multilingual,
 )
 
 
@@ -197,6 +198,85 @@ class StoredTotalsTests(unittest.TestCase):
         }
         flag_total_disagreements(flags, totals)
         self.assertEqual(flags, [])
+
+
+class WhitespaceNameTests(unittest.TestCase):
+    """The API ships some names with stray whitespace. The display strips it;
+    the flag and rawName must keep exactly what was downloaded."""
+
+    def _catalog_with(self, known_name_value):
+        with tempfile.TemporaryDirectory() as tmp:
+            raw = Path(tmp) / "raw"
+            out = Path(tmp) / "out"
+            raw.mkdir()
+            (raw / "v2_prizes.json").write_text(
+                json.dumps(
+                    {
+                        "items": [
+                            {
+                                "awardYear": "1901",
+                                "category": {"en": "Physics"},
+                                "dateAwarded": "1901-11-12",
+                                "prizeAmount": 150782,
+                                "prizeAmountAdjusted": 10833458,
+                                "laureates": [{"id": "1", "portion": "1", "sortOrder": "1"}],
+                            }
+                        ]
+                    }
+                ),
+                encoding="utf-8",
+            )
+            (raw / "v2_laureates.json").write_text(
+                json.dumps(
+                    {
+                        "items": [
+                            {
+                                "id": "1",
+                                "knownName": {"en": known_name_value},
+                                "fullName": {"en": known_name_value},
+                                "gender": "male",
+                                "nobelPrizes": [
+                                    {
+                                        "awardYear": "1901",
+                                        "category": {"en": "Physics"},
+                                        "prizeStatus": "received",
+                                        "portion": "1",
+                                        "motivation": {"en": "for the discovered rays"},
+                                    }
+                                ],
+                            }
+                        ]
+                    }
+                ),
+                encoding="utf-8",
+            )
+            return build(raw, out)
+
+    def test_whitespace_name_is_flagged_and_kept(self):
+        catalog = self._catalog_with("Wilhelm Röntgen ")
+        physics = next(prize for prize in catalog["prizes"] if prize["key"] == "physics-1901")
+        row = physics["laureates"][0]
+        self.assertEqual(row["displayName"], "Wilhelm Röntgen")
+        self.assertEqual(row["rawName"], "Wilhelm Röntgen ")
+        codes = {flag["code"] for flag in catalog["flags"]}
+        self.assertIn("api_trailing_whitespace_in_name", codes)
+        whitespace_flag = next(flag for flag in catalog["flags"] if flag["code"] == "api_trailing_whitespace_in_name")
+        self.assertEqual(whitespace_flag["raw"]["knownName/orgName"], "Wilhelm Röntgen ")
+        self.assertEqual(whitespace_flag["raw"]["fullName"], "Wilhelm Röntgen ")
+
+    def test_clean_name_is_not_flagged(self):
+        catalog = self._catalog_with("Wilhelm Conrad Röntgen")
+        codes = {flag["code"] for flag in catalog["flags"]}
+        self.assertNotIn("api_trailing_whitespace_in_name", codes)
+        physics = next(prize for prize in catalog["prizes"] if prize["key"] == "physics-1901")
+        self.assertEqual(physics["laureates"][0]["rawName"], "Wilhelm Conrad Röntgen")
+
+    def test_raw_multilingual_preserves_whitespace(self):
+        self.assertEqual(raw_multilingual({"en": "Le Duc Tho "}), "Le Duc Tho ")
+        self.assertEqual(raw_multilingual({"en": "  x  ", "se": "ok"}), "  x  ")
+        self.assertEqual(raw_multilingual({"en": "   ", "se": "ok "}), "ok ")
+        self.assertIsNone(raw_multilingual({"en": "   "}))
+        self.assertIsNone(raw_multilingual(None))
 
 
 if __name__ == "__main__":

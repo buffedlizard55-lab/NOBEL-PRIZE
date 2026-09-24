@@ -43,6 +43,7 @@ from nobel_lib import (  # noqa: E402
     portion_from_share,
     portion_value,
     prize_api_url,
+    raw_multilingual,
     summary_url,
     texts_equivalent,
 )
@@ -432,17 +433,30 @@ def build(raw_dir: Path, out_dir: Path):
             known = en(v2_person.get("knownName")) or en(source_row.get("knownName")) or en(v2_person.get("orgName")) or en(source_row.get("orgName"))
             full = en(v2_person.get("fullName")) or en(source_row.get("fullName"))
             v1_name = v1_laureate_name(v1_person) or (v1_laureate_name(v1_match) if v1_match else None)
+            # The same name fields, exactly as downloaded, whitespace intact.
+            raw_known = raw_multilingual(v2_person.get("knownName")) or raw_multilingual(source_row.get("knownName")) or raw_multilingual(v2_person.get("orgName")) or raw_multilingual(source_row.get("orgName"))
+            raw_full = raw_multilingual(v2_person.get("fullName")) or raw_multilingual(source_row.get("fullName"))
+            raw_v1_source = v1_person if isinstance(v1_person, dict) and (v1_person.get("firstname") or v1_person.get("surname")) else (v1_match if isinstance(v1_match, dict) else {})
+            raw_v1 = " ".join(
+                part for part in (raw_v1_source.get("firstname"), raw_v1_source.get("surname"))
+                if isinstance(part, str) and part.strip()
+            ) or None
             raw_name = known or full or v1_name
+            raw_kept = raw_known or raw_full or raw_v1 or raw_name
             display = clean_ws(raw_name)
-            if raw_name and raw_name != raw_name.strip():
+            whitespace_offenders = {}
+            for label, value in (("knownName/orgName", raw_known), ("fullName", raw_full), ("v1 name", raw_v1)):
+                if isinstance(value, str) and value != value.strip():
+                    whitespace_offenders[label] = value
+            if whitespace_offenders:
                 flag(
                     prize_flags,
                     "api_trailing_whitespace_in_name",
                     "review",
-                    f"The official API name for laureate {laureate_id} contains leading or trailing whitespace. Display name is stripped; the raw value is kept.",
+                    f"The official API name for laureate {laureate_id} contains leading or trailing whitespace. The display name is stripped for reading. The exact downloaded values are kept in this flag and were not rewritten.",
                     prizeKey=key,
                     laureateId=laureate_id,
-                    raw=raw_name,
+                    raw=whitespace_offenders,
                 )
             if known and v1_name and fold(known) != fold(v1_name):
                 flag(
@@ -566,7 +580,7 @@ def build(raw_dir: Path, out_dir: Path):
             row = {
                 "id": laureate_id,
                 "displayName": display,
-                "rawName": raw_name,
+                "rawName": raw_kept,
                 "fullName": full,
                 "v1Name": v1_name,
                 "portion": portion,

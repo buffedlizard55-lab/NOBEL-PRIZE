@@ -306,6 +306,22 @@ def en(value):
     return None
 
 
+def raw_multilingual(value):
+    """A downloaded string exactly as stored, with whitespace intact.
+
+    Prefers en, then se, then no, mirroring en(). Returns None when no
+    non-blank candidate exists.
+    """
+    if isinstance(value, str):
+        return value or None
+    if isinstance(value, dict):
+        for key in ("en", "se", "no"):
+            item = value.get(key)
+            if isinstance(item, str) and item.strip():
+                return item
+    return None
+
+
 def clean_ws(value):
     if value is None:
         return None
